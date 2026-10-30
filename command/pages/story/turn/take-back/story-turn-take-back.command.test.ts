@@ -74,6 +74,13 @@ test("a take-back leaves the game's reviewer and recorder seats on call, discard
   expect(into.notices).toEqual([`${MASTER}: ${said}`, `${BUILDER}: ${said}`, `${WRITER}: ${said}`])
 })
 
+test("a one-seat story's take-back tells its game master seat alone", async () => {
+  const into = seen()
+  await takenBy(reachOver(turnAt(), into, { oneSeat: true }), into)
+  const said = `The turn \`${AT}\` was taken back; the story's latest turn is \`${BEFORE_AT}\`.`
+  expect(into.notices).toEqual([`${MASTER}: ${said}`])
+})
+
 test("a take-back puts the turn's action in its story's action draft, and sends nothing", async () => {
   const into = seen()
   const drafts: string[] = []

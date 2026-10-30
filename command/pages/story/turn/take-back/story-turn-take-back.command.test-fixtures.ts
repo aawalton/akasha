@@ -60,6 +60,7 @@ type Story = {
   readonly drafts?: string[]
   readonly draftRefused?: string
   readonly purse?: number
+  readonly oneSeat?: boolean
 }
 
 const SCORED = { relationshipPoints: 12 }
@@ -86,7 +87,7 @@ export function reachOver(turn: Turn, into: Seen, story: Story = {}): TakingBack
       return true
     },
     seatOf: () => null,
-    storyOf: () => ({ title: "The Saga", master: MASTER }),
+    storyOf: () => ({ title: "The Saga", master: MASTER, oneSeat: story.oneSeat === true }),
     fold: (_root, naming) => {
       into.folded.push(naming)
       return []

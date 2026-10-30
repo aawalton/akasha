@@ -51,6 +51,10 @@ export const storyTurnTakeBack = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A one-seat story's take-back tells its game master seat alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "That notice names the story's latest turn once the turn is taken back.",
     },
     {
@@ -85,5 +89,5 @@ export const storyTurnTakeBack = {
     { argument: "argument/empty-draft" },
   ],
   createdAt: "2026-09-28T12:08:43.118Z",
-  updatedAt: "2026-10-28T15:49:22.166Z",
+  updatedAt: "2026-10-30T12:20:26.921Z",
 } as const satisfies Command

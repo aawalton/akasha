@@ -95,7 +95,8 @@ async function noticesOf(
   turn: Turn,
   after: Told
 ): Promise<undefined> {
-  const master = reach.storyOf(root, game)?.master ?? null
+  const story = reach.storyOf(root, game)
+  const master = story?.master ?? null
   if (master === null) {
     after.faults.push(
       `\`${game}\` names no game master seat, so no seat was told the turn was ${TAKEN_BACK}`
@@ -104,7 +105,7 @@ async function noticesOf(
   }
   const left = latestOf(reach.turnsOf(root, game).filter((one) => one.slug !== turn.slug))
   const notice = takeBackNoticeOf(turn.at, left?.at ?? null)
-  for (const to of noticedOf(master, game)) {
+  for (const to of noticedOf(master, game, story?.oneSeat === true)) {
     const why = await reach.notify(to, notice)
     if (why === null) after.report.push(`told\t${to}`)
     else after.faults.push(`\`${to}\` was not told the turn was ${TAKEN_BACK}: ${why}`)
