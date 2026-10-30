@@ -4,7 +4,7 @@ export const unheardPlaylist = {
   id: "01a17ef9-9635-7f1e-8818-d26fb3e2137f",
   type: "page-type/service-workstation",
   slug: "unheard-playlist",
-  definition: "the service keeping the unheard playlist up to date every day",
+  definition: "the service that renews the unheard playlist on each day",
   enabled: true,
   needsSecrets: true,
   systemd: {
@@ -25,5 +25,5 @@ export const unheardPlaylist = {
     },
   ],
   createdAt: "2026-10-27T20:07:28.563Z",
-  updatedAt: "2026-10-27T20:07:28.563Z",
+  updatedAt: "2026-10-30T16:29:37.847Z",
 } as const satisfies ServiceWorkstation
