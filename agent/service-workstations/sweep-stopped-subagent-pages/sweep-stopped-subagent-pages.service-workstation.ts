@@ -4,7 +4,7 @@ export const sweepStoppedSubagentPages = {
   id: "01a0d8f4-aa3d-72bb-b19c-0205b4dffd80",
   type: "page-type/service-workstation",
   slug: "sweep-stopped-subagent-pages",
-  definition: "the service taking away every subagent page stopped from the agents panel",
+  definition: "the service that removes the page of every subagent that is stopped",
   enabled: true,
   systemd: {
     schedule: "minutely",
@@ -73,5 +73,5 @@ export const sweepStoppedSubagentPages = {
     },
   ],
   createdAt: "2026-09-25T14:25:08.157Z",
-  updatedAt: "2026-09-25T14:25:18.000Z",
+  updatedAt: "2026-10-30T14:36:39.863Z",
 } as const satisfies ServiceWorkstation
