@@ -4,7 +4,7 @@ export const overdueRolling = {
   id: "01a0795a-2cb4-7d47-b7d6-2b120f641fd4",
   type: "page-type/module",
   slug: "overdue-rolling",
-  definition: "an overdue task moved onto the day now open",
+  definition: "how code moves an unfinished to-do from a day before today to today",
   code: "ts",
   test: "ts",
   decisions: [
@@ -47,5 +47,5 @@ export const overdueRolling = {
     },
   ],
   createdAt: "2026-09-07T00:52:27.956Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:33:45.422Z",
 } as const satisfies Module
