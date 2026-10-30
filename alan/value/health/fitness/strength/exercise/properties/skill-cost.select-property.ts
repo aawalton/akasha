@@ -5,9 +5,9 @@ export const skillCost = {
   type: "page-type/select-property",
   slug: "skill-cost",
   propertySlug: "skill-cost",
-  definition: "how much attention the movement takes to perform safely",
+  definition: "how much attention Alan needs to perform a strength exercise without injury",
   values: ["high", "low", "moderate"],
   types: "ts",
   createdAt: "2026-09-03T04:19:22.688Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:53:04.831Z",
 } as const satisfies SelectProperty
