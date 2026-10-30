@@ -5,10 +5,10 @@ export const reliabilityNotes = {
   type: "page-type/text-property",
   slug: "reliability-notes",
   propertySlug: "reliability-notes",
-  definition: "how the make's cars hold up",
+  definition: "the reliability of the cars a car make sells",
   maxLength: 2000,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:55:06.622Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:33:01.427Z",
 } as const satisfies TextProperty
