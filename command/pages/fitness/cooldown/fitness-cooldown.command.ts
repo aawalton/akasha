@@ -35,11 +35,12 @@ export const fitnessCooldown = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Alan's gym is the one `--gym` names, else the one today's latest set names.",
+      statement:
+        "Alan's gym is the one `--gym` names, else the one today's latest exercise set names.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Alan is at home where neither `--gym` nor a set today names a gym.",
+      statement: "Alan is at home where neither `--gym` nor an exercise set today names a gym.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -48,6 +49,6 @@ export const fitnessCooldown = {
   ],
   name: "cooldown",
   arguments: [{ argument: "argument/gym" }, { argument: "argument/json" }],
-  updatedAt: "2026-10-08T15:35:11.471Z",
+  updatedAt: "2026-10-30T17:25:07.896Z",
   createdAt: "2026-09-19T17:30:51.386Z",
 } as const satisfies Command
