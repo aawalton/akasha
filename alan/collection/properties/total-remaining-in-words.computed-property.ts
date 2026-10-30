@@ -5,10 +5,10 @@ export const totalRemainingInWords = {
   type: "page-type/computed-property",
   slug: "total-remaining-in-words",
   propertySlug: "total-remaining-in-words",
-  definition: "how much of the collection and everything it holds is left",
+  definition: "the remaining length of a collection and its parts in words",
   holds: "number",
   code: "ts",
   types: "ts",
   createdAt: "2026-09-05T15:31:05.702Z",
-  updatedAt: "2026-09-22T13:54:40.000Z",
+  updatedAt: "2026-10-30T15:05:10.145Z",
 } as const satisfies ComputedProperty
