@@ -4,7 +4,7 @@ export const pageDetailLoading = {
   id: "01a0655e-d39b-7b16-9974-8d43261a1726",
   type: "page-type/module",
   slug: "page-detail-loading",
-  definition: "what a page's detail route loads before it is drawn",
+  definition: "what code reads before alanwalton.com shows a page",
   code: "ts",
   test: "ts",
   decisions: [
@@ -57,5 +57,5 @@ export const pageDetailLoading = {
     },
   ],
   createdAt: "2026-09-03T03:45:08.507Z",
-  updatedAt: "2026-10-24T20:33:51.977Z",
+  updatedAt: "2026-10-30T17:00:22.072Z",
 } as const satisfies Module
