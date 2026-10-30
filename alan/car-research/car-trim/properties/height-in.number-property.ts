@@ -5,9 +5,9 @@ export const heightIn = {
   type: "page-type/number-property",
   slug: "height-in",
   propertySlug: "height-in",
-  definition: "how tall the car is, in inches",
+  definition: "the height of a car in inches",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:41:39.657Z",
-  updatedAt: "2026-09-21T18:42:37.000Z",
+  updatedAt: "2026-10-30T14:50:48.547Z",
 } as const satisfies NumberProperty
