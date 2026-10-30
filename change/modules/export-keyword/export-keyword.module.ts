@@ -4,7 +4,7 @@ export const exportKeyword = {
   id: "01a09b78-e712-7e62-a475-527e244c7146",
   type: "page-type/module",
   slug: "export-keyword",
-  definition: "the `export` keyword in a body, and the names each one declares",
+  definition: "how code finds the names that other files can import from a code file",
   code: "ts",
   test: "ts",
   decisions: [
@@ -38,5 +38,5 @@ export const exportKeyword = {
     },
   ],
   createdAt: "2026-09-13T15:53:07.090Z",
-  updatedAt: "2026-09-25T16:24:29.000Z",
+  updatedAt: "2026-10-30T17:41:52.717Z",
 } as const satisfies Module
