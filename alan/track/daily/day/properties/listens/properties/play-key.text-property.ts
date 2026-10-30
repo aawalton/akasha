@@ -5,7 +5,7 @@ export const playKey = {
   type: "page-type/text-property",
   slug: "play-key",
   propertySlug: "play-key",
-  definition: "the text telling a listen apart from every other listen",
+  definition: "the id of a time Alan hears a track",
   maxLength: 100,
   nameFormat: null,
   decisions: [
@@ -16,5 +16,5 @@ export const playKey = {
   ],
   types: "ts",
   createdAt: "2026-09-02T13:12:49.935Z",
-  updatedAt: "2026-09-22T13:46:41.000Z",
+  updatedAt: "2026-10-30T16:39:54.218Z",
 } as const satisfies TextProperty
