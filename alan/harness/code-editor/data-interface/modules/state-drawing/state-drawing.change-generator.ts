@@ -4,7 +4,7 @@ export const stateDrawing = {
   id: "01a0a682-3acc-7b55-b488-e7b96ed58cac",
   type: "page-type/change-generator",
   slug: "state-drawing",
-  definition: "the pictures a landing carries, drawn from the change rather than from the disk",
+  definition: "how code adds the files with what the editor shows to a change",
   code: "ts",
   runsAfter: [
     "change-generator/change-runner-addressing",
@@ -76,5 +76,5 @@ export const stateDrawing = {
     },
   ],
   createdAt: "2026-09-15T19:19:07.724Z",
-  updatedAt: "2026-09-26T17:41:29.000Z",
+  updatedAt: "2026-10-30T15:38:14.305Z",
 } as const satisfies ChangeGenerator
