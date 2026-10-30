@@ -4,7 +4,7 @@ export const dayReading = {
   id: "01a072fc-7da2-7b59-939d-ab395d803995",
   type: "page-type/module",
   slug: "day-reading",
-  definition: "one of Alan's days, read off that day's akasha page",
+  definition: "how code reads the values of a day page",
   code: "ts",
   decisions: [
     {
@@ -32,5 +32,5 @@ export const dayReading = {
     },
   ],
   createdAt: "2026-09-05T19:12:24.994Z",
-  updatedAt: "2026-09-22T13:45:29.000Z",
+  updatedAt: "2026-10-30T16:47:33.391Z",
 } as const satisfies Module
