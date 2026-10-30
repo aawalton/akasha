@@ -5,9 +5,9 @@ export const cargoBehindRow2Cuft = {
   type: "page-type/number-property",
   slug: "cargo-behind-row2-cuft",
   propertySlug: "cargo-behind-row2-cuft",
-  definition: "how much cargo fits behind the second row of seats, in cubic feet",
+  definition: "how much cargo fits behind the second row of a car trim in cubic feet",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:40:56.307Z",
-  updatedAt: "2026-09-21T18:42:37.000Z",
+  updatedAt: "2026-10-30T14:55:58.359Z",
 } as const satisfies NumberProperty
