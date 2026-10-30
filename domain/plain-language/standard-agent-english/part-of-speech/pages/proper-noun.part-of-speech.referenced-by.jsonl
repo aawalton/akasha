@@ -22,6 +22,7 @@
 {"propertySlug":"part-of-speech","path":"code/prettier/prettier.domain.ts","id":"01a15535-3c64-78ca-b2b1-6159f5348131"}
 {"propertySlug":"part-of-speech","path":"code/typescript/typescript.domain.ts","id":"01a0d8e8-b79a-7e44-8f8d-6f5c8f8590d5"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/standard-agent-english.domain.ts","id":"01a07c58-7d63-7618-8189-1ea8ae48a1cb"}
+{"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/amazon.common-language-term.ts","id":"01a18d72-df97-795e-9085-83a99e8e2bde"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/android-auto.common-language-term.ts","id":"01a18d51-1f08-7c8e-8cdc-2378e7e2cd0c"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/asia.common-language-term.ts","id":"01a0d48b-634a-760b-8c19-190e58e5f3e5"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/carplay.common-language-term.ts","id":"01a18d51-9bfd-7dc1-84f4-b4603a957746"}
