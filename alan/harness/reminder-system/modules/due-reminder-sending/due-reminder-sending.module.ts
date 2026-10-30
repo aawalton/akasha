@@ -4,7 +4,7 @@ export const dueReminderSending = {
   id: "01a0686a-7a57-78a3-96ed-968543d56042",
   type: "page-type/module",
   slug: "due-reminder-sending",
-  definition: "each reminder whose schedule has come due turned into a message",
+  definition: "how code writes a message for each reminder when its time comes",
   code: "ts",
   decisions: [
     {
@@ -74,5 +74,5 @@ export const dueReminderSending = {
     },
   ],
   createdAt: "2026-09-03T17:56:43.735Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:05:42.934Z",
 } as const satisfies Module
