@@ -7,7 +7,7 @@ export const removeFolder = {
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/folder",
   changeTargetSubtype: "change-target-subtype/folder",
-  definition: "a folder and every file under it taken away",
+  definition: "a change that removes a folder and every file under that folder",
   code: "ts",
   test: "ts",
   decisions: [
@@ -28,5 +28,5 @@ export const removeFolder = {
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
   createdAt: "2026-09-08T19:32:22.374Z",
-  updatedAt: "2026-09-22T10:07:38.000Z",
+  updatedAt: "2026-10-30T16:57:11.386Z",
 } as const satisfies ChangeAgent
