@@ -5,8 +5,8 @@ export const rated = {
   type: "page-type/boolean-property",
   slug: "rated",
   propertySlug: "rated",
-  definition: "whether a game counted toward a rating",
+  definition: "whether a game changes each player's rating",
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-15T15:59:02.000Z",
+  updatedAt: "2026-10-30T15:07:26.047Z",
 } as const satisfies BooleanProperty
