@@ -5,9 +5,9 @@ export const connectionActivityMaturity = {
   type: "page-type/number-property",
   slug: "connection-activity-maturity",
   propertySlug: "connection-activity-maturity",
-  definition: "how grown-up the other person is",
+  definition: "how mature the other person is",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:37:29.998Z",
-  updatedAt: "2026-09-25T13:01:00.000Z",
+  updatedAt: "2026-10-30T16:31:00.069Z",
 } as const satisfies NumberProperty
