@@ -5,8 +5,8 @@ export const reviewedAt = {
   type: "page-type/instant-property",
   slug: "reviewed-at",
   propertySlug: "reviewed-at",
-  definition: "when a review was stepped through",
+  definition: "when an agent goes through a game with Alan",
   types: "ts",
   createdAt: "2026-09-03T17:44:27.723Z",
-  updatedAt: "2026-09-15T17:15:46.000Z",
+  updatedAt: "2026-10-30T15:13:41.361Z",
 } as const satisfies InstantProperty
