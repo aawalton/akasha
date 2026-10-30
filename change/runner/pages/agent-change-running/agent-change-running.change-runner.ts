@@ -4,7 +4,7 @@ export const agentChangeRunning = {
   id: "01a077c9-cb05-7a92-a69e-7d25da444d7e",
   type: "page-type/change-runner",
   slug: "agent-change-running",
-  definition: "the runner holding an agent change to the arguments that change takes",
+  definition: "the change runner that runs a change agent for an agent",
   code: "ts",
   test: "ts",
   addressed: "ts",
@@ -36,5 +36,5 @@ export const agentChangeRunning = {
     },
   ],
   createdAt: "2026-09-06T17:35:08.549Z",
-  updatedAt: "2026-10-21T11:13:37.603Z",
+  updatedAt: "2026-10-30T17:39:54.187Z",
 } as const satisfies ChangeRunner
