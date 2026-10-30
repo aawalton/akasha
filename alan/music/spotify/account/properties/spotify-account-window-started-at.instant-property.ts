@@ -5,7 +5,7 @@ export const spotifyAccountWindowStartedAt = {
   type: "page-type/instant-property",
   slug: "spotify-account-window-started-at",
   propertySlug: "window-started-at",
-  definition: "when the window the calls are counted over opened",
+  definition: "the instant the span of time that calls are counted over starts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -14,5 +14,5 @@ export const spotifyAccountWindowStartedAt = {
   ],
   types: "ts",
   createdAt: "2026-09-18T23:30:45.056Z",
-  updatedAt: "2026-09-18T23:34:28.000Z",
+  updatedAt: "2026-10-30T16:31:44.641Z",
 } as const satisfies InstantProperty
