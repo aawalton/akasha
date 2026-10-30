@@ -5,10 +5,10 @@ export const locationCategory = {
   type: "page-type/text-property",
   slug: "location-category",
   propertySlug: "location-category",
-  definition: "what kind of place it is",
+  definition: "the place's kind",
   maxLength: 20,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:25:23.451Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:15:49.797Z",
 } as const satisfies TextProperty
