@@ -4,8 +4,7 @@ export const emailRulePlanning = {
   id: "01a0a13e-68ba-75e1-9530-f6b30bf6b3c0",
   type: "page-type/module",
   slug: "email-rule-planning",
-  definition:
-    "the routing rules a zone is short of, worked out from the addresses the personas declare",
+  definition: "the email routing rules the email addresses of the personas need",
   code: "ts",
   test: "ts",
   decisions: [
@@ -68,5 +67,5 @@ export const emailRulePlanning = {
     },
   ],
   createdAt: "2026-09-14T18:46:56.954Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:53:42.069Z",
 } as const satisfies Module
