@@ -4,7 +4,7 @@ export const catalogueSyncing = {
   id: "01a0686a-7a57-7999-b904-b23c1ed07377",
   type: "page-type/module",
   slug: "catalogue-syncing",
-  definition: "the Great Courses catalogue read and a page filed for each course not already held",
+  definition: "how code runs the sync of The Great Courses",
   code: "ts",
   decisions: [
     {
@@ -48,5 +48,5 @@ export const catalogueSyncing = {
     },
   ],
   createdAt: "2026-09-03T17:56:43.735Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:16:05.168Z",
 } as const satisfies Module
