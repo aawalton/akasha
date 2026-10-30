@@ -4,7 +4,7 @@ export const pageClaiming = {
   id: "01a078bd-ae49-7881-bdf5-084ad0327dbe",
   type: "page-type/module",
   slug: "page-claiming",
-  definition: "the files a page claims, read through the world a change reads",
+  definition: "how code finds the files a page has with the edits of a change in place",
   code: "ts",
   test: "ts",
   decisions: [
@@ -61,5 +61,5 @@ export const pageClaiming = {
     },
   ],
   createdAt: "2026-09-06T22:01:31.977Z",
-  updatedAt: "2026-09-26T18:11:02.000Z",
+  updatedAt: "2026-10-30T17:18:11.086Z",
 } as const satisfies Module
