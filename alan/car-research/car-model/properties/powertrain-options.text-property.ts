@@ -5,10 +5,10 @@ export const powertrainOptions = {
   type: "page-type/text-property",
   slug: "powertrain-options",
   propertySlug: "powertrain-options",
-  definition: "the kinds of powertrain sold with the model",
+  definition: "the kinds of powertrain a car model can have",
   maxLength: 20,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:50:05.893Z",
-  updatedAt: "2026-09-22T13:50:37.000Z",
+  updatedAt: "2026-10-30T14:50:05.814Z",
 } as const satisfies TextProperty
