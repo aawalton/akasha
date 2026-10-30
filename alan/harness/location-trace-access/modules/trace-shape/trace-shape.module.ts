@@ -4,7 +4,7 @@ export const traceShape = {
   id: "01a05bc7-9129-700b-ba7b-804847cebb2b",
   type: "page-type/module",
   slug: "trace-shape",
-  definition: "what a recorded place carries",
+  definition: "what Alan's phone sends about each place Alan goes",
   code: "ts",
   decisions: [
     {
@@ -22,5 +22,5 @@ export const traceShape = {
     },
   ],
   createdAt: "2026-09-01T07:03:20.617Z",
-  updatedAt: "2026-09-22T00:47:01.000Z",
+  updatedAt: "2026-10-30T15:41:28.252Z",
 } as const satisfies Module
