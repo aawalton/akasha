@@ -4,7 +4,7 @@ export const sweepWindowPages = {
   id: "01a0a166-9b55-7e8f-89b6-fccdbd5cda2d",
   type: "page-type/service-workstation",
   slug: "sweep-window-pages",
-  definition: "the service taking away the page of every editor window that is no longer open",
+  definition: "the service that removes the page of each code editor window that has no process",
   enabled: true,
   needsSecrets: false,
   systemd: {
@@ -59,5 +59,5 @@ export const sweepWindowPages = {
     },
   ],
   createdAt: "2026-09-14T19:30:51.349Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-30T15:30:18.855Z",
 } as const satisfies ServiceWorkstation
