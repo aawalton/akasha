@@ -5,8 +5,8 @@ export const killSwitchPresent = {
   type: "page-type/boolean-property",
   slug: "kill-switch-present",
   propertySlug: "kill-switch-present",
-  definition: "whether something outside the driver can stop this trim",
+  definition: "whether someone besides the owner can disable a car trim",
   types: "ts",
   createdAt: "2026-09-21T18:37:32.177Z",
-  updatedAt: "2026-09-21T18:38:27.000Z",
+  updatedAt: "2026-10-30T14:56:32.459Z",
 } as const satisfies BooleanProperty
