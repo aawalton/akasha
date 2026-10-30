@@ -5,7 +5,7 @@ export const estimatedCalories = {
   type: "page-type/number-property",
   slug: "estimated-calories",
   propertySlug: "estimated-calories",
-  definition: "the calories a thing eaten was reckoned to hold",
+  definition: "an estimate of the calories in something Alan has eaten",
   max: null,
   decisions: [
     {
@@ -15,5 +15,5 @@ export const estimatedCalories = {
   ],
   types: "ts",
   createdAt: "2026-09-03T05:00:04.619Z",
-  updatedAt: "2026-09-22T10:06:01.000Z",
+  updatedAt: "2026-10-30T16:46:31.530Z",
 } as const satisfies NumberProperty
