@@ -5,10 +5,10 @@ export const sideViewCameraNotes = {
   type: "page-type/text-property",
   slug: "side-view-camera-notes",
   propertySlug: "side-view-camera-notes",
-  definition: "what a trim's side-view cameras do and do not do",
+  definition: "what the side cameras of a car trim can do",
   maxLength: 1000,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-21T18:39:23.908Z",
-  updatedAt: "2026-09-21T18:40:16.000Z",
+  updatedAt: "2026-10-30T15:01:04.430Z",
 } as const satisfies TextProperty
