@@ -4,7 +4,7 @@ export const alanAppShell = {
   id: "01a0655d-dab8-7853-9f9b-b95d2c8ee8a0",
   type: "page-type/module",
   slug: "alan-app-shell",
-  definition: "the signed-in page frame of Alan's site",
+  definition: "the menu the pages of alanwalton.com show",
   code: "tsx",
   decisions: [
     {
@@ -52,5 +52,5 @@ export const alanAppShell = {
     },
   ],
   createdAt: "2026-09-03T03:44:04.792Z",
-  updatedAt: "2026-10-27T19:55:32.457Z",
+  updatedAt: "2026-10-30T16:56:22.743Z",
 } as const satisfies Module
