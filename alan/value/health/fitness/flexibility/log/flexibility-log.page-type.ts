@@ -35,7 +35,7 @@ export const flexibilityLog = {
   decisions: [
     {
       decisionKind: "decision-kind/absence",
-      statement: "A reading names no session the reading was taken in.",
+      statement: "A measurement names no workout the measurement was taken in.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -50,5 +50,5 @@ export const flexibilityLog = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T03:37:55.177Z",
-  updatedAt: "2026-10-30T16:49:41.260Z",
+  updatedAt: "2026-10-30T17:14:53.660Z",
 } as const satisfies PageType
