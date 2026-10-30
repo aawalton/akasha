@@ -4,7 +4,8 @@ export const smilingjennyConnection = {
   id: "01a1358f-67b0-7398-b48f-98b8246948bd",
   type: "page-type/readout-widget",
   slug: "smilingjenny-connection",
-  definition: "the tile on Jenny's phone showing how much of Alan's day was at ease with her",
+  definition:
+    "the readout widget on Jenny's phone that shows how much of Alan's day was spent with Jenny",
   app: "ios-app/smilingjenny",
   component: "ios-component/smilingjenny-connection-widget",
   kind: "ConnectionWidget",
@@ -16,5 +17,5 @@ export const smilingjennyConnection = {
   groups: ["readout-group/connection"],
   place: 5,
   createdAt: "2026-10-13T13:59:13.071Z",
-  updatedAt: "2026-10-13T13:59:13.071Z",
+  updatedAt: "2026-10-30T16:00:30.561Z",
 } as const satisfies ReadoutWidget
