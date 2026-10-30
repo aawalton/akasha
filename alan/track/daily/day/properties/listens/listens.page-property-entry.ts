@@ -5,7 +5,7 @@ export const listens = {
   type: "page-type/page-property-entry",
   slug: "listens",
   propertySlug: "listens",
-  definition: "every play Alan finished on a day, one to a line",
+  definition: "every time Alan hears a track on Spotify on a day",
   parts: [
     "boolean-property/first-listen",
     "number-property/minutes",
@@ -38,5 +38,5 @@ export const listens = {
   ],
   types: "ts",
   createdAt: "2026-09-02T13:12:49.935Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:38:26.033Z",
 } as const satisfies PagePropertyEntry
