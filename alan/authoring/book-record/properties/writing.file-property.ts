@@ -5,7 +5,7 @@ export const writing = {
   type: "page-type/file-property",
   slug: "writing",
   propertySlug: "writing",
-  definition: "the markdown a page carries, however long the markdown runs",
+  definition: "the text a page keeps in a file",
   extensions: ["md"],
   decisions: [
     {
@@ -19,5 +19,5 @@ export const writing = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:18:53.341Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:54:31.116Z",
 } as const satisfies FileProperty
