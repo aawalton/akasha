@@ -6,6 +6,10 @@ export const icon = {
   slug: "icon",
   propertySlug: "icon",
   definition: "the picture a page is known by at a glance",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "icon" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "icons" },
+  ],
   maxLength: 200,
   nameFormat: null,
   decisions: [
@@ -28,5 +32,5 @@ export const icon = {
   ],
   types: "ts",
   createdAt: "2026-09-02T01:12:12.932Z",
-  updatedAt: "2026-09-24T19:52:49.000Z",
+  updatedAt: "2026-10-30T16:10:55.249Z",
 } as const satisfies TextProperty
