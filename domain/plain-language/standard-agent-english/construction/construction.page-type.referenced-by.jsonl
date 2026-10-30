@@ -48,6 +48,7 @@
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/pages/possessive-proper-noun.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/pages/preposition-phrase-with-a-conjunction.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/pages/preposition-with-a-noun-phrase.construction.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/pages/preposition-with-a-proper-noun-and-a-preposition-phrase.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/pages/proper-noun-alone.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/pages/proper-noun-with-a-noun-run.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/pages/reflexive-pronoun-alone.construction.ts","typed":true,"deferred":false}
