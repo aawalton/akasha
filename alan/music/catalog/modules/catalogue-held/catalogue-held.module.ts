@@ -4,7 +4,7 @@ export const catalogueHeld = {
   id: "01a09c06-fd09-7448-ae50-64aed341cbb5",
   type: "page-type/module",
   slug: "catalogue-held",
-  definition: "the artists and songs already filed, read by what musicbrainz calls each",
+  definition: "how code finds the page Alan keeps for an artist or a song MusicBrainz names",
   code: "ts",
   test: "ts",
   decisions: [
@@ -59,5 +59,5 @@ export const catalogueHeld = {
     },
   ],
   createdAt: "2026-09-13T18:28:18.825Z",
-  updatedAt: "2026-09-19T18:01:30.000Z",
+  updatedAt: "2026-10-30T16:19:23.911Z",
 } as const satisfies Module
