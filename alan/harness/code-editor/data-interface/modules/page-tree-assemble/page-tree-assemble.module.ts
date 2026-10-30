@@ -4,8 +4,7 @@ export const pageTreeAssemble = {
   id: "01a064f6-a793-7d40-b075-7d7a7f1f133a",
   type: "page-type/module",
   slug: "page-tree-assemble",
-  definition:
-    "the tree of page types made from the rows naming each page type and the types above it",
+  definition: "how code arranges each page type under every page type above that page type",
   code: "ts",
   test: "ts",
   decisions: [
@@ -74,5 +73,5 @@ export const pageTreeAssemble = {
     },
   ],
   createdAt: "2026-09-03T01:51:21.491Z",
-  updatedAt: "2026-09-24T16:33:21.000Z",
+  updatedAt: "2026-10-30T15:32:40.719Z",
 } as const satisfies Module
