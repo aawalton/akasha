@@ -5,9 +5,9 @@ export const changeMode = {
   type: "page-type/relation-property",
   slug: "change-mode",
   propertySlug: "change-mode",
-  definition: "the change mode a change is",
+  definition: "the change mode of a change",
   targetPageType: "page-type/change-mode",
   types: "ts",
   createdAt: "2026-09-07T13:52:41.910Z",
-  updatedAt: "2026-09-15T16:30:55.000Z",
+  updatedAt: "2026-10-30T17:43:20.102Z",
 } as const satisfies RelationProperty
