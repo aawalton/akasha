@@ -5,6 +5,10 @@ export const typeLiteral = {
   type: "page-type/module",
   slug: "type-literal",
   definition: "the object type a named type alias in a TypeScript file holds",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "type literal" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "type literals" },
+  ],
   code: "ts",
   test: "ts",
   decisions: [
@@ -34,5 +38,5 @@ export const typeLiteral = {
     },
   ],
   createdAt: "2026-09-13T15:48:36.369Z",
-  updatedAt: "2026-10-30T16:06:06.690Z",
+  updatedAt: "2026-10-30T17:41:40.576Z",
 } as const satisfies Module
