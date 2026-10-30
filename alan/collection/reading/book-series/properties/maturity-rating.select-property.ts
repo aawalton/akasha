@@ -5,7 +5,7 @@ export const maturityRating = {
   type: "page-type/select-property",
   slug: "maturity-rating",
   propertySlug: "maturity-rating",
-  definition: "how grown-up the provider says a series is",
+  definition: "how mature a series is to the company that sells the series",
   values: ["PG", "PG-13", "R"],
   decisions: [
     {
@@ -19,5 +19,5 @@ export const maturityRating = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:47:44.171Z",
-  updatedAt: "2026-09-25T13:02:31.000Z",
+  updatedAt: "2026-10-30T16:33:59.199Z",
 } as const satisfies SelectProperty
