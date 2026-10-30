@@ -5,9 +5,9 @@ export const sentFrom = {
   type: "page-type/relation-property",
   slug: "sent-from",
   propertySlug: "from",
-  definition: "the persona sending something",
+  definition: "the persona that sends a reminder",
   targetPageType: "page-type/persona",
   types: "ts",
   createdAt: "2026-09-01T23:16:51.649Z",
-  updatedAt: "2026-09-22T13:58:57.000Z",
+  updatedAt: "2026-10-30T16:07:26.081Z",
 } as const satisfies RelationProperty
