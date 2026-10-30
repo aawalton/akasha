@@ -5,9 +5,9 @@ export const identityStatementStatus = {
   type: "page-type/select-property",
   slug: "identity-statement-status",
   propertySlug: "identity-statement-status",
-  definition: "how far along this statement is",
+  definition: "how far Alan is with an identity statement",
   values: ["planned", "in-progress", "current", "deprecated"],
   types: "ts",
   createdAt: "2026-09-03T04:32:47.519Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:45:26.403Z",
 } as const satisfies SelectProperty
