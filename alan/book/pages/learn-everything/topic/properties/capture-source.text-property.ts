@@ -5,10 +5,10 @@ export const captureSource = {
   type: "page-type/text-property",
   slug: "capture-source",
   propertySlug: "capture-source",
-  definition: "the transcript holding a topic's score",
+  definition: "the transcript the mastery level of a learn everything topic is read from",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:55:52.026Z",
-  updatedAt: "2026-09-22T13:59:16.000Z",
+  updatedAt: "2026-10-30T15:00:22.888Z",
 } as const satisfies TextProperty
