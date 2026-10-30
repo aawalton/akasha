@@ -5,7 +5,7 @@ export const readoutColor = {
   type: "page-type/relation-property",
   slug: "readout-color",
   propertySlug: "color",
-  definition: "a reading's fixed color",
+  definition: "the color a readout has at every number",
   targetPageType: "page-type/color",
   decisions: [
     {
@@ -19,5 +19,5 @@ export const readoutColor = {
   ],
   types: "ts",
   createdAt: "2026-09-22T22:11:37.202Z",
-  updatedAt: "2026-09-22T22:12:17.000Z",
+  updatedAt: "2026-10-30T16:10:54.116Z",
 } as const satisfies RelationProperty
