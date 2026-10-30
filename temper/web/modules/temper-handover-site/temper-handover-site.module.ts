@@ -4,7 +4,7 @@ export const temperHandoverSite = {
   id: "01a0bb8f-a5d0-75ce-a592-e0fdb309ce8c",
   type: "page-type/module",
   slug: "temper-handover-site",
-  definition: "what Temper is called in a handover, where Temper answers, and Temper's signing key",
+  definition: "how the Temper site takes part in a handover",
   code: "ts",
   decisions: [
     {
@@ -33,5 +33,5 @@ export const temperHandoverSite = {
     },
   ],
   createdAt: "2026-09-19T21:25:48.624Z",
-  updatedAt: "2026-09-22T14:04:34.000Z",
+  updatedAt: "2026-10-30T16:02:22.571Z",
 } as const satisfies Module
