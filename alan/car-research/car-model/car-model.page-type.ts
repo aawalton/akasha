@@ -4,7 +4,7 @@ export const carModel = {
   id: "01a0659a-4bc5-745f-bbb3-18171fb52343",
   type: "page-type/page-type",
   slug: "car-model",
-  definition: "a nameplate a make builds",
+  definition: "a kind of car a company sells under its own name",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "car model" },
     { partOfSpeech: "part-of-speech/noun", spelling: "car models" },
@@ -42,5 +42,5 @@ export const carModel = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:50:05.893Z",
-  updatedAt: "2026-10-30T14:38:05.599Z",
+  updatedAt: "2026-10-30T14:39:33.799Z",
 } as const satisfies PageType
