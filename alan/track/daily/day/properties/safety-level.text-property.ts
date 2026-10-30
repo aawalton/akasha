@@ -19,10 +19,10 @@ export const safetyLevel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A safety level carries forward from the prior stretch of time.",
+      statement: "A safety level carries forward from the prior tracked session.",
     },
   ],
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-10-30T16:38:05.637Z",
+  updatedAt: "2026-10-30T17:47:23.608Z",
 } as const satisfies TextProperty
