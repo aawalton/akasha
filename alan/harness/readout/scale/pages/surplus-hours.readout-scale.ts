@@ -4,7 +4,7 @@ export const surplusHours = {
   id: "01a05fc3-145a-7dca-83d9-5316786fa83c",
   type: "page-type/readout-scale",
   slug: "surplus-hours",
-  definition: "how much of a night a day has left, counted in hours",
+  definition: "the remaining hours of a night after a day",
   blackAt: -12,
   redAt: -8,
   yellowAt: -4,
@@ -27,5 +27,5 @@ export const surplusHours = {
     },
   ],
   createdAt: "2026-09-02T01:36:55.386Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:09:46.313Z",
 } as const satisfies ReadoutScale
