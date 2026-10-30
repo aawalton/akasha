@@ -4,8 +4,7 @@ export const valueSpelling = {
   id: "01a09c7f-02d4-712d-999d-c1305ea06fcf",
   type: "page-type/module",
   slug: "value-spelling",
-  definition:
-    "the literal a page body spells for a value handed in as text under the kind its property holds",
+  definition: "how code writes a value from text by the kind of value a page property holds",
   code: "ts",
   test: "ts",
   decisions: [
@@ -39,5 +38,5 @@ export const valueSpelling = {
     },
   ],
   createdAt: "2026-09-13T20:39:24.628Z",
-  updatedAt: "2026-09-22T10:09:40.000Z",
+  updatedAt: "2026-10-30T17:37:21.799Z",
 } as const satisfies Module
