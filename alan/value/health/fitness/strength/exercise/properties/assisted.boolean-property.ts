@@ -6,7 +6,7 @@ export const assisted = {
   slug: "assisted",
   propertySlug: "assisted",
   definition:
-    "whether the weight a set of the movement states is assistance taken off the lifter's bodyweight",
+    "whether the weight of a set of a strength exercise is subtracted from the weight of Alan's body",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -20,5 +20,5 @@ export const assisted = {
   ],
   types: "ts",
   createdAt: "2026-10-09T11:59:53.497Z",
-  updatedAt: "2026-10-09T11:59:53.497Z",
+  updatedAt: "2026-10-30T16:55:06.399Z",
 } as const satisfies BooleanProperty
