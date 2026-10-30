@@ -5,10 +5,10 @@ export const exclusionReason = {
   type: "page-type/text-property",
   slug: "exclusion-reason",
   propertySlug: "exclusion-reason",
-  definition: "why this fell off the list of what Alan would buy",
+  definition: "the reason Alan removes a car from his short list",
   maxLength: 2000,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:48:02.249Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:17:46.020Z",
 } as const satisfies TextProperty
