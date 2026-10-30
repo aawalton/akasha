@@ -4,9 +4,9 @@ export const generalPurpose = {
   id: "01a06861-f664-72f6-990b-9e3e67ca9b90",
   type: "page-type/subagent-kind",
   slug: "general-purpose",
-  definition: "a subagent for work of no particular shape",
+  definition: "a subagent for any work",
   dispatchedAs: "general-purpose",
   subagentPrompt: "md",
   createdAt: "2026-09-03T17:47:25.668Z",
-  updatedAt: "2026-09-15T17:44:01.000Z",
+  updatedAt: "2026-10-30T14:49:42.517Z",
 } as const satisfies SubagentKind
