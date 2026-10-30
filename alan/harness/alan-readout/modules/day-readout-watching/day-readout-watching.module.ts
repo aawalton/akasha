@@ -60,12 +60,11 @@ export const dayReadoutWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The reading each readout takes is the one the reading module its page names takes.",
+      statement: "The number each readout takes is the one the module its page names takes.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A readout naming no reading module this watch knows is not watched.",
+      statement: "A readout naming no module this watch knows is not watched.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -73,7 +72,7 @@ export const dayReadoutWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The sites a reading is carried to are the ones its readout's page names.",
+      statement: "The websites a number is carried to are the ones its readout's page names.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -94,7 +93,7 @@ export const dayReadoutWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A renewal takes every reading again, whether or not the opened day rolled.",
+      statement: "A renewal takes every number again, whether or not the opened day rolled.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -106,7 +105,7 @@ export const dayReadoutWatching = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "No timer takes these readings, this watch being the only taker of them.",
+      statement: "No timer takes these numbers, this watch being the only taker of them.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -114,7 +113,7 @@ export const dayReadoutWatching = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here works out a reading.",
+      statement: "Nothing here works out a number.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -146,13 +145,13 @@ export const dayReadoutWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A take on the beat that finds the value before it writes no reading.",
+      statement: "A take on the beat that finds the number taken before it writes no number.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "No reading here is shown or withheld for how old that reading is.",
+      statement: "No number here is shown or withheld for how old that number is.",
     },
   ],
   createdAt: "2026-09-10T16:06:18.655Z",
-  updatedAt: "2026-10-30T16:56:04.415Z",
+  updatedAt: "2026-10-30T17:07:11.243Z",
 } as const satisfies Module
