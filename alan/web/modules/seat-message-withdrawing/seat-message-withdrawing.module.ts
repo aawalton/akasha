@@ -4,7 +4,7 @@ export const seatMessageWithdrawing = {
   id: "01a17038-e2bb-75e8-98af-64de0f417a2f",
   type: "page-type/module",
   slug: "seat-message-withdrawing",
-  definition: "a message a person takes back before the seat it was sent to has taken it",
+  definition: "how code removes a message that waits for its seat",
   code: "ts",
   test: "ts",
   decisions: [
@@ -36,5 +36,5 @@ export const seatMessageWithdrawing = {
     },
   ],
   createdAt: "2026-10-24T23:22:18.683Z",
-  updatedAt: "2026-10-24T23:22:18.683Z",
+  updatedAt: "2026-10-30T17:02:54.342Z",
 } as const satisfies Module
