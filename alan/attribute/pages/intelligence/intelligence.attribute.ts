@@ -4,7 +4,7 @@ export const intelligence = {
   id: "01a06841-a185-7471-8155-9b91e3f40e35",
   type: "page-type/attribute",
   slug: "intelligence",
-  definition: "what Alan has built by learning about the world",
+  definition: "the capacity Alan has from what Alan learns about the world",
   pointUnit: "four learn-everything topics updated",
   code: "ts",
   test: "ts",
@@ -27,5 +27,5 @@ export const intelligence = {
     },
   ],
   createdAt: "2026-09-03T17:12:06.789Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:45:37.457Z",
 } as const satisfies Attribute
