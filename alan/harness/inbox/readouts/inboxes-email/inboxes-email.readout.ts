@@ -17,25 +17,25 @@ export const inboxesEmail = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is the count the day's own page has.",
+      statement: "The number this readout shows is the count the day's own page has.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is how near the inbox came to empty rather than where the inbox is.",
+      statement: "The number is how near the inbox came to empty rather than where the inbox is.",
     },
 
     {
       decisionKind: "decision-kind/departure",
-      statement: "No day written down is no reading rather than a count of zero.",
+      statement: "No day written down is no number rather than a count of zero.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day with no count is no reading rather than a count of zero.",
+      statement: "A day with no count is no number rather than a count of zero.",
     },
 
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here caches a reading or decides when a reading is taken.",
+      statement: "Nothing here caches a number or decides when a number is taken.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -44,5 +44,5 @@ export const inboxesEmail = {
   ],
   carriedTo: ["router-app/alan-web"],
   createdAt: "2026-09-02T12:55:53.429Z",
-  updatedAt: "2026-10-30T15:38:26.786Z",
+  updatedAt: "2026-10-30T17:20:37.793Z",
 } as const satisfies Readout
