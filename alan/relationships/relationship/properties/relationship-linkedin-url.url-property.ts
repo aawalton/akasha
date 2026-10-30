@@ -5,9 +5,9 @@ export const relationshipLinkedinUrl = {
   type: "page-type/url-property",
   slug: "relationship-linkedin-url",
   propertySlug: "relationship-linkedin-url",
-  definition: "this person's LinkedIn page",
+  definition: "the link to this person on LinkedIn",
   maxLength: 100,
   types: "ts",
   createdAt: "2026-09-03T04:44:04.194Z",
-  updatedAt: "2026-09-25T13:01:00.000Z",
+  updatedAt: "2026-10-30T16:33:39.326Z",
 } as const satisfies UrlProperty
