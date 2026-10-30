@@ -4,7 +4,7 @@ export const supervisorDeferredRestartProbe = {
   id: "01a0683e-3dbe-701d-8d02-1a1db2476e25",
   type: "page-type/module",
   slug: "supervisor-deferred-restart-probe",
-  definition: "an idle reading bounded by its own tick",
+  definition: "how code reads before a timer ends whether an agent is working",
   code: "ts",
   test: "ts",
   decisions: [
@@ -18,5 +18,5 @@ export const supervisorDeferredRestartProbe = {
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-09-24T15:55:20.000Z",
+  updatedAt: "2026-10-30T14:42:42.311Z",
 } as const satisfies Module
