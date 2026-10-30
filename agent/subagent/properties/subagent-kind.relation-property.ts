@@ -5,9 +5,9 @@ export const subagentKind = {
   type: "page-type/relation-property",
   slug: "subagent-kind",
   propertySlug: "subagent-kind",
-  definition: "the kind a subagent was dispatched as",
+  definition: "the kind of a subagent",
   targetPageType: "page-type/subagent-kind",
   types: "ts",
   createdAt: "2026-09-04T17:39:32.655Z",
-  updatedAt: "2026-09-15T16:30:55.000Z",
+  updatedAt: "2026-10-30T14:35:22.691Z",
 } as const satisfies RelationProperty
