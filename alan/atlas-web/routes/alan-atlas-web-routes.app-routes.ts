@@ -4,7 +4,7 @@ export const alanAtlasWebRoutes = {
   id: "01a08be5-61c3-741a-823e-0a08582a9f40",
   type: "page-type/app-routes",
   slug: "alan-atlas-web-routes",
-  definition: "the routes Alan's map site serves",
+  definition: "the routes of Alan's location website",
   appLayout: "tsx",
   parts: [
     "route/atlas-api-errors",
@@ -33,5 +33,5 @@ export const alanAtlasWebRoutes = {
     "route/atlas-no-such-page",
   ],
   createdAt: "2026-09-10T15:17:40.931Z",
-  updatedAt: "2026-09-27T15:38:05.000Z",
+  updatedAt: "2026-10-30T14:39:29.818Z",
 } as const satisfies AppRoutes
