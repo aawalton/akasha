@@ -5,10 +5,10 @@ export const warrantyBasic = {
   type: "page-type/text-property",
   slug: "warranty-basic",
   propertySlug: "warranty-basic",
-  definition: "the warranty the company that makes the car gives on the whole car",
+  definition: "the warranty a car make gives on a whole car trim",
   maxLength: 500,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-21T18:39:45.535Z",
-  updatedAt: "2026-10-30T15:03:04.182Z",
+  updatedAt: "2026-10-30T15:50:11.677Z",
 } as const satisfies TextProperty
