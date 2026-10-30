@@ -4,7 +4,7 @@ export const pageTypeRestating = {
   id: "01a09c71-f017-713f-a7a3-8d4e8c6f13e8",
   type: "page-type/module",
   slug: "page-type-restating",
-  definition: "the page type a body states, restated with the type that body satisfies",
+  definition: "how code changes the page type of a page in its body",
   code: "ts",
   test: "ts",
   decisions: [
@@ -75,5 +75,5 @@ export const pageTypeRestating = {
     },
   ],
   createdAt: "2026-09-13T20:25:07.863Z",
-  updatedAt: "2026-09-24T17:19:49.000Z",
+  updatedAt: "2026-10-30T17:23:15.425Z",
 } as const satisfies Module
