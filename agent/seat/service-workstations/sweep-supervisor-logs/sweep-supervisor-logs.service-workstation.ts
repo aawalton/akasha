@@ -4,7 +4,7 @@ export const sweepSupervisorLogs = {
   id: "01a033a4-98c1-7167-9e3e-387829512ba6",
   type: "page-type/service-workstation",
   slug: "sweep-supervisor-logs",
-  definition: "the service removing the log directory of every supervisor whose seat is gone",
+  definition: "the service that removes the log folder of every supervisor with no seat",
   enabled: true,
   systemd: {
     schedule: "daily",
@@ -13,5 +13,5 @@ export const sweepSupervisorLogs = {
   },
   told: false,
   createdAt: "2026-08-24T12:00:20.161Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-30T14:43:50.995Z",
 } as const satisfies ServiceWorkstation
