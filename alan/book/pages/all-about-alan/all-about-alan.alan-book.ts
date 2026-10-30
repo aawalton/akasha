@@ -4,7 +4,7 @@ export const allAboutAlan = {
   id: "01a0659d-311d-7000-a17a-6d9d0793818c",
   type: "page-type/alan-book",
   slug: "all-about-alan",
-  definition: "the notes on who Alan is",
+  definition: "the notes Alan keeps about himself",
   parts: [
     "page-type/all-about-alan-experiment",
     "page-type/all-about-alan-model",
@@ -59,5 +59,5 @@ export const allAboutAlan = {
     },
   ],
   createdAt: "2026-09-03T04:53:15.677Z",
-  updatedAt: "2026-09-21T21:45:52.000Z",
+  updatedAt: "2026-10-30T14:55:42.582Z",
 } as const satisfies AlanBook
