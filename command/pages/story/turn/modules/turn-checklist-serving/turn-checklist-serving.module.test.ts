@@ -90,6 +90,21 @@ test("a turn at game-master is told as its game master is, crossings and the pla
   expect(said).toContain("--turn story-turn-played/saga-00-004 --beats-file <path>")
 })
 
+const HELD = "world/lore/sealed.lore.secrets.jsonl"
+
+const HELD_SAID = `These lore pages are the world builder's, and yours to read as well:\n- \`${HELD}\``
+
+test("the lore and beats items name the world builder's lore, and no later item does", () => {
+  const holding = (status: string): string => {
+    const serving = servingOf([pagedOf("saga-00-004", 4, status)])
+    const reach = { ...serving.reach, heldLore: () => [HELD] }
+    return checklistServed("/nowhere", "saga", CALLED, { ...serving, reach })
+  }
+  expect(holding("world-builder")).toContain(HELD_SAID)
+  expect(holding("game-master")).toContain(HELD_SAID)
+  expect(holding("beats")).not.toContain(HELD)
+})
+
 test("a story whose every turn is at player has the seat end its turn, and marks no step", () => {
   const marked: Marked[] = []
   const said = checklistServed(

@@ -24,6 +24,11 @@ export const turnChecklistServing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The lore and beats items name the world builder's lore as a one-seat notice at their step does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A role page an item names is found in the index by the role's slug.",
     },
     {
@@ -32,5 +37,5 @@ export const turnChecklistServing = {
     },
   ],
   createdAt: "2026-10-30T12:58:02.685Z",
-  updatedAt: "2026-10-30T18:19:08.419Z",
+  updatedAt: "2026-10-30T19:46:21.894Z",
 } as const satisfies Module

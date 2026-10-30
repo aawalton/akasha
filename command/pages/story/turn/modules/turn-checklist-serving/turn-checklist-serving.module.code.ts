@@ -34,6 +34,7 @@ import {
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { changeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { NO_BEATS } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+import { heldLoreSaid } from "akasha/story/lore-disclosure/modules/lore-rereading/lore-rereading.module.code.ts"
 import { flowsOn } from "akasha/story/world/stories/played/turns/modules/turn-beating/turn-beating.module.code.ts"
 import {
   BEATS,
@@ -74,7 +75,13 @@ const BEFORE_BEATS: readonly TurnStep[] = [WORLD_BUILDER, GAME_MASTER]
 
 type Reaching = Pick<
   Reach,
-  "storyOf" | "reviewersIn" | "recordersIn" | "loreGathered" | "writtenOn" | "changedLore"
+  | "storyOf"
+  | "reviewersIn"
+  | "recordersIn"
+  | "loreGathered"
+  | "writtenOn"
+  | "changedLore"
+  | "heldLore"
 >
 
 export type Serving = {
@@ -154,8 +161,10 @@ export function checklistServed(
     const changed = master === null ? [] : reach.changedLore(root, master)
     const said = noticeOf(turn.at, step, changed, TURN, repairs)
     if (step === WRITER) return lore.length === 0 ? said : `${said}\n\n${loreLine(lore)}`
-    if (step !== GAME_MASTER) return said
-    return `${said}${crossedSaid(serving.crossedOf(root, game, turn))}${intentLine(story?.intent)}`
+    if (step !== WORLD_BUILDER && step !== GAME_MASTER) return said
+    const withHeld = `${said}${heldLoreSaid(reach.heldLore?.(root, turn.at) ?? [])}`
+    if (step === WORLD_BUILDER) return withHeld
+    return `${withHeld}${crossedSaid(serving.crossedOf(root, game, turn))}${intentLine(story?.intent)}`
   }
   const checking: Checking = {
     prompting: {
