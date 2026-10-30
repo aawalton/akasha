@@ -4,7 +4,7 @@ export const claudeUsage = {
   id: "01a063bd-a526-78fb-9e89-7128b2bdd640",
   type: "page-type/readout-group",
   slug: "claude-usage",
-  definition: "how much of the weekly Claude allowance is spent and when more arrives",
+  definition: "the readouts on the usage windows of the model accounts",
   servedBy: ["route/claude-usage"],
   parts: [
     "readout/five-hour-back",
@@ -28,5 +28,5 @@ export const claudeUsage = {
     },
   ],
   createdAt: "2026-09-02T20:09:28.102Z",
-  updatedAt: "2026-09-25T16:48:43.000Z",
+  updatedAt: "2026-10-30T15:55:30.901Z",
 } as const satisfies ReadoutGroup
