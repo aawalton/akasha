@@ -4,7 +4,7 @@ export const supervisorInteractiveBoot = {
   id: "01a06871-3115-7005-8779-160298d3aa4e",
   type: "page-type/module",
   slug: "supervisor-interactive-boot",
-  definition: "the once-per-run setup of a seat's account, agent id, gateway and monitors",
+  definition: "how a supervisor prepares to start a seat's agent",
   code: "ts",
   decisions: [
     {
@@ -49,5 +49,5 @@ export const supervisorInteractiveBoot = {
     },
   ],
   createdAt: "2026-09-03T18:04:03.733Z",
-  updatedAt: "2026-09-24T16:29:57.000Z",
+  updatedAt: "2026-10-30T14:48:53.406Z",
 } as const satisfies Module
