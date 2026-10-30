@@ -5,6 +5,10 @@ export const changeTargetSubtype = {
   type: "page-type/page-type",
   slug: "change-target-subtype",
   definition: "a narrower sort of thing under a change",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "change target subtype" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "change target subtypes" },
+  ],
   parts: [
     "change-target-subtype/file",
     "change-target-subtype/file-code",
@@ -60,5 +64,5 @@ export const changeTargetSubtype = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-07T15:16:26.020Z",
-  updatedAt: "2026-09-25T13:51:50.000Z",
+  updatedAt: "2026-10-30T17:43:55.590Z",
 } as const satisfies PageType

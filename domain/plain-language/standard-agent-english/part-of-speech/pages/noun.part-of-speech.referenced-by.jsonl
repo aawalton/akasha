@@ -177,6 +177,7 @@
 {"propertySlug":"part-of-speech","path":"change/mode/change-mode.page-type.ts","id":"01a07c24-30e1-7802-88da-aa05d0b289dd"}
 {"propertySlug":"part-of-speech","path":"change/modules/type-literal/type-literal.module.ts","id":"01a09b74-c591-7172-9691-ea824ccdda55"}
 {"propertySlug":"part-of-speech","path":"change/runner/change-runner.page-type.ts","id":"01a077c2-3a15-7c14-8900-ecb0624ff450"}
+{"propertySlug":"part-of-speech","path":"change/target/subtype/change-target-subtype.page-type.ts","id":"01a07c71-2924-76f9-b37f-a239b7b97045"}
 {"propertySlug":"part-of-speech","path":"change/target/type/change-target-type.page-type.ts","id":"01a07c73-47c8-7571-af7f-96259b306e66"}
 {"propertySlug":"part-of-speech","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}
 {"propertySlug":"part-of-speech","path":"check/refusal/refusal.page-type.ts","id":"01a0699d-4000-7a11-9c02-3f61b0d24e77"}
