@@ -5,9 +5,9 @@ export const connectionActivityModelBasis = {
   type: "page-type/select-property",
   slug: "connection-activity-model-basis",
   propertySlug: "connection-activity-model-basis",
-  definition: "the ratings' calibration",
+  definition: "the version of the ratings of an activity",
   values: ["n32-l6-w05"],
   types: "ts",
   createdAt: "2026-09-03T04:37:29.998Z",
-  updatedAt: "2026-09-25T13:01:00.000Z",
+  updatedAt: "2026-10-30T16:25:04.230Z",
 } as const satisfies SelectProperty
