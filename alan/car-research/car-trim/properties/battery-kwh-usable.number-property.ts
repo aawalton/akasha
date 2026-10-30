@@ -5,9 +5,9 @@ export const batteryKwhUsable = {
   type: "page-type/number-property",
   slug: "battery-kwh-usable",
   propertySlug: "battery-kwh-usable",
-  definition: "how much of the traction battery's energy the car uses, in kilowatt hours",
+  definition: "the kilowatt hours a car trim can use from its main battery",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:40:47.202Z",
-  updatedAt: "2026-09-21T18:42:37.000Z",
+  updatedAt: "2026-10-30T14:50:12.198Z",
 } as const satisfies NumberProperty
