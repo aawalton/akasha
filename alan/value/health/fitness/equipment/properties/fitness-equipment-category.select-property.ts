@@ -5,9 +5,9 @@ export const fitnessEquipmentCategory = {
   type: "page-type/select-property",
   slug: "fitness-equipment-category",
   propertySlug: "category",
-  definition: "the sort of kit a piece is",
+  definition: "the kind of a piece of fitness equipment",
   values: ["dumbbells", "kettlebells", "bench", "band", "vest", "cardio-machine", "other"],
   types: "ts",
   createdAt: "2026-09-03T17:51:17.317Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:47:28.425Z",
 } as const satisfies SelectProperty
