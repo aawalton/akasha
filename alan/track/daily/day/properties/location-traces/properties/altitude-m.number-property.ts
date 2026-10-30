@@ -5,9 +5,9 @@ export const altitudeM = {
   type: "page-type/number-property",
   slug: "altitude-m",
   propertySlug: "altitude-m",
-  definition: "how far above sea level the trace was taken, in metres",
+  definition: "the height above sea level in metres a device reports",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T21:38:23.027Z",
-  updatedAt: "2026-09-21T19:18:52.000Z",
+  updatedAt: "2026-10-30T16:45:31.191Z",
 } as const satisfies NumberProperty
