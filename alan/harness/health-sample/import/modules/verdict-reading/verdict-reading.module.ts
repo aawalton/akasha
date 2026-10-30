@@ -4,7 +4,7 @@ export const verdictReading = {
   id: "01a05c14-b119-7000-9120-df7558499051",
   type: "page-type/module",
   slug: "verdict-reading",
-  definition: "how something is, with what was covered and what was found",
+  definition: "the shape of a summary of what code finds about a thing",
   code: "ts",
   decisions: [
     {
@@ -22,5 +22,5 @@ export const verdictReading = {
     },
   ],
   createdAt: "2026-09-01T08:27:35.065Z",
-  updatedAt: "2026-09-24T23:05:06.000Z",
+  updatedAt: "2026-10-30T15:38:33.980Z",
 } as const satisfies Module
