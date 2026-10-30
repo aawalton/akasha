@@ -77,6 +77,7 @@
 {"propertySlug":"part-of-speech","path":"alan/harness/cost/cost.domain.ts","id":"01a08b96-f6dd-7d5f-b99c-f87675def793"}
 {"propertySlug":"part-of-speech","path":"alan/harness/health-sample/health-sample.domain.ts","id":"01a0d5a9-e047-7079-abab-428460d8b74b"}
 {"propertySlug":"part-of-speech","path":"alan/harness/inbox/inbox.domain.ts","id":"01a06230-b156-7347-be47-6f5960ced389"}
+{"propertySlug":"part-of-speech","path":"alan/harness/monarch/merchant/monarch-merchant.page-type.ts","id":"01a0680c-3c00-700b-a937-4d1f6c8b310c"}
 {"propertySlug":"part-of-speech","path":"alan/harness/money/money.domain.ts","id":"01a0675b-16f3-7280-8bde-5f9dbd22d675"}
 {"propertySlug":"part-of-speech","path":"alan/harness/notification/notification.domain.ts","id":"01a0d586-60b9-709d-905d-7fe8014abf0c"}
 {"propertySlug":"part-of-speech","path":"alan/harness/plant/plant.domain.ts","id":"01a06221-d65f-739e-9acb-74d67bbe92da"}

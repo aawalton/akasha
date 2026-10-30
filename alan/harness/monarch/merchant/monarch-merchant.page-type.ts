@@ -5,6 +5,10 @@ export const monarchMerchant = {
   type: "page-type/page-type",
   slug: "monarch-merchant",
   definition: "who or what a transaction was with, read out of the words it carries",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "Monarch merchant" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "Monarch merchants" },
+  ],
   extends: ["page-type/page"],
   parts: ["text-property/merchant-patterns"],
   properties: [
@@ -46,5 +50,5 @@ export const monarchMerchant = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:13:47.392Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:25:13.349Z",
 } as const satisfies PageType
