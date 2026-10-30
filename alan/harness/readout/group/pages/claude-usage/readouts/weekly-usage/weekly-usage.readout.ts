@@ -14,7 +14,7 @@ export const weeklyUsage = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is the mean across every account the pool has.",
+      statement: "The number is the mean across every account the pool has.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -22,7 +22,7 @@ export const weeklyUsage = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No account with a percent is no reading rather than a mean of zero.",
+      statement: "No account with a percent is no number rather than a mean of zero.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -36,9 +36,9 @@ export const weeklyUsage = {
 
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here caches a reading or decides when a reading is taken.",
+      statement: "Nothing here caches a number or decides when a number is taken.",
     },
   ],
   createdAt: "2026-09-02T20:09:28.102Z",
-  updatedAt: "2026-10-30T15:58:01.286Z",
+  updatedAt: "2026-10-30T17:19:26.092Z",
 } as const satisfies Readout
