@@ -5,7 +5,7 @@ export const buildCommand = {
   type: "page-type/text-property",
   slug: "build-command",
   propertySlug: "build-command",
-  definition: "the command run in a web app's source folder to make its build",
+  definition: "the command run in the folder holding a web app's code to make its build",
   maxLength: 200,
   nameFormat: null,
   decisions: [
@@ -21,5 +21,5 @@ export const buildCommand = {
   ],
   types: "ts",
   createdAt: "2026-09-01T04:07:55.830Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-30T16:08:21.093Z",
 } as const satisfies TextProperty
