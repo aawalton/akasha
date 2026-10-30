@@ -4,7 +4,7 @@ export const importRepointing = {
   id: "01a09b9b-449c-7564-9db1-2276ced91221",
   type: "page-type/module",
   slug: "import-repointing",
-  definition: "a body rewritten so the paths it names follow the files that moved",
+  definition: "how code replaces the old paths of moved files with their new paths in a file",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -211,5 +211,5 @@ export const importRepointing = {
     },
   ],
   createdAt: "2026-09-13T16:30:39.260Z",
-  updatedAt: "2026-09-25T15:35:51.000Z",
+  updatedAt: "2026-10-30T17:43:39.240Z",
 } as const satisfies Module
