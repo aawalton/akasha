@@ -5,7 +5,7 @@ export const status = {
   type: "page-type/select-property",
   slug: "status",
   propertySlug: "status",
-  definition: "how far a person has got with a collection",
+  definition: "the kind of progress a person has with a collection",
   values: [
     "not-started",
     "in-progress",
@@ -27,5 +27,5 @@ export const status = {
   ],
   types: "ts",
   createdAt: "2026-09-02T20:44:59.872Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:13:18.190Z",
 } as const satisfies SelectProperty
