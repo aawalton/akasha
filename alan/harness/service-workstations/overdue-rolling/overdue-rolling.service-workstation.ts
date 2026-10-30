@@ -4,7 +4,7 @@ export const overdueRolling = {
   id: "01a07959-e7b3-7474-b7d6-6b2d76b1b642",
   type: "page-type/service-workstation",
   slug: "overdue-rolling",
-  definition: "the service moving every overdue to-do onto the day that has just opened",
+  definition: "the service that moves each unfinished to-do of a day before today to today",
   enabled: true,
   systemd: {
     schedule: "*-*-* 04:05:00",
@@ -26,5 +26,5 @@ export const overdueRolling = {
     },
   ],
   createdAt: "2026-09-07T00:52:10.291Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-30T16:10:35.396Z",
 } as const satisfies ServiceWorkstation
