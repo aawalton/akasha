@@ -4,7 +4,7 @@ export const alanWebApiSmsOptIn = {
   id: "01a08836-b1d8-7284-9c85-85d40203b334",
   type: "page-type/route",
   slug: "alan-web-api-sms-opt-in",
-  definition: "the written consent a visitor gives to be texted",
+  definition: "the written consent a person gives for text messages",
   code: "ts",
   test: "ts",
   urlPath: "api/sms/opt-in",
@@ -43,5 +43,5 @@ export const alanWebApiSmsOptIn = {
     },
   ],
   createdAt: "2026-09-09T22:08:00.984Z",
-  updatedAt: "2026-09-27T12:13:50.000Z",
+  updatedAt: "2026-10-30T17:03:06.351Z",
 } as const satisfies Route
