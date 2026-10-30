@@ -5,9 +5,9 @@ export const disabilityWeightHigh = {
   type: "page-type/number-property",
   slug: "disability-weight-high",
   propertySlug: "disability-weight-high",
-  definition: "the high end of the Global Burden of Disease study's range for a disability weight",
+  definition: "the highest estimate of a disability weight in the Global Burden of Disease study",
   max: 1,
   types: "ts",
   createdAt: "2026-10-28T19:19:08.653Z",
-  updatedAt: "2026-10-28T19:19:08.653Z",
+  updatedAt: "2026-10-30T16:17:01.137Z",
 } as const satisfies NumberProperty
