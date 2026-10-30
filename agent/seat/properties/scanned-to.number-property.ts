@@ -5,9 +5,9 @@ export const scannedTo = {
   type: "page-type/number-property",
   slug: "scanned-to",
   propertySlug: "scanned-to",
-  definition: "the byte of a transcript a reading was taken to",
+  definition: "the last byte of a seat's transcript that code reads",
   max: null,
   types: "ts",
   createdAt: "2026-09-04T12:47:06.411Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T14:54:30.878Z",
 } as const satisfies NumberProperty
