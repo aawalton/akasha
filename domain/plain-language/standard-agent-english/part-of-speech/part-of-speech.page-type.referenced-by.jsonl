@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/degree-adverb.part-of-speech.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/determiner.part-of-speech.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/free-relative-pronoun.part-of-speech.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/have-verb.part-of-speech.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/infinitive-marker.part-of-speech.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/manner-adverb.part-of-speech.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/modal.part-of-speech.ts","typed":true,"deferred":false}

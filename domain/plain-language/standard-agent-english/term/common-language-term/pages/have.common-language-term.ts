@@ -8,7 +8,9 @@ export const have = {
   spellings: [
     { partOfSpeech: "part-of-speech/verb", spelling: "have" },
     { partOfSpeech: "part-of-speech/verb", spelling: "has" },
+    { partOfSpeech: "part-of-speech/have-verb", spelling: "have" },
+    { partOfSpeech: "part-of-speech/have-verb", spelling: "has" },
   ],
   createdAt: "2026-09-22T00:22:14.502Z",
-  updatedAt: "2026-09-25T15:41:48.000Z",
+  updatedAt: "2026-10-30T15:31:53.748Z",
 } as const satisfies CommonLanguageTerm

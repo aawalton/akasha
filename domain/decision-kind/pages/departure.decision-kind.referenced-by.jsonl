@@ -2928,6 +2928,7 @@
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/construction/pages/be-verb-with-a-past-participle.construction.ts","id":"01a0c9a2-f76d-71dc-bf94-7139fa224b3b"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/construction/pages/be-verb-with-a-present-participle.construction.ts","id":"01a0ca12-af3e-7c2a-8691-f11ab7829d6d"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/construction/pages/free-relative-pronoun-with-a-clause.construction.ts","id":"01a0c68f-6d81-7ca8-948f-a44ea461c351"}
+{"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/construction/pages/have-verb-with-a-past-participle-and-a-noun-phrase.construction.ts","id":"01a18d70-5d17-7537-aea2-d76a10448e19"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-clause.construction.ts","id":"01a0c67a-50ad-7181-9d2e-827c9c7d8f18"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-past-participle-and-a-preposition-phrase.construction.ts","id":"01a0c96f-bee9-7f1f-8d2c-d4d536dcb41c"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-past-participle.construction.ts","id":"01a0c96f-a254-7982-aacd-b072d43b1006"}
@@ -2954,6 +2955,7 @@
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/degree-adverb.part-of-speech.ts","id":"01a0d5ce-a903-71e5-a015-28ac1c18d8ad"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/determiner.part-of-speech.ts","id":"01a0c582-f267-748c-986a-58d52a3bbf3b"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/free-relative-pronoun.part-of-speech.ts","id":"01a0c68c-8245-7617-b010-6cf185341ce2"}
+{"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/have-verb.part-of-speech.ts","id":"01a18d70-5d18-7a3b-a423-8f96129ed01f"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/infinitive-marker.part-of-speech.ts","id":"01a0d57c-f7ff-765a-bd96-6a5fc51221c6"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/modal.part-of-speech.ts","id":"01a0ca71-0b5c-7c0d-8205-66ae4b6ed2ee"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/past-participle.part-of-speech.ts","id":"01a0c950-0d9f-709d-9ac9-47260104de8d"}
