@@ -5,6 +5,7 @@ export const archiveOfWorldsWeb = {
   type: "page-type/router-app",
   slug: "archive-of-worlds-web",
   definition: "the routes archiveofworlds.app serves to a browser",
+  spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "archiveofworlds.app" }],
   tunnelRoutes: [
     {
       name: "archive-of-worlds",
@@ -40,5 +41,5 @@ export const archiveOfWorldsWeb = {
     },
   ],
   createdAt: "2026-09-03T04:23:43.671Z",
-  updatedAt: "2026-09-25T16:39:38.000Z",
+  updatedAt: "2026-10-30T16:00:23.985Z",
 } as const satisfies RouterApp
