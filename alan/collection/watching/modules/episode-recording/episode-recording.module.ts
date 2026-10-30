@@ -4,7 +4,7 @@ export const episodeRecording = {
   id: "01a18818-57d5-7862-b487-74339026644c",
   type: "page-type/module",
   slug: "episode-recording",
-  definition: "the pages a finished episode or film is recorded on",
+  definition: "how code changes the pages of an episode or a movie Alan watches",
   code: "ts",
   test: "ts",
   decisions: [
@@ -39,5 +39,5 @@ export const episodeRecording = {
     },
   ],
   createdAt: "2026-10-29T14:37:39.156Z",
-  updatedAt: "2026-10-29T14:37:39.156Z",
+  updatedAt: "2026-10-30T15:22:18.347Z",
 } as const satisfies Module
