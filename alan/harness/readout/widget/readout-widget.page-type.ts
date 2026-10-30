@@ -72,7 +72,7 @@ export const readoutWidget = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A widget draws groups rather than readings.",
+      statement: "A widget shows groups rather than single readouts.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -165,5 +165,5 @@ export const readoutWidget = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T21:07:57.190Z",
-  updatedAt: "2026-10-30T16:03:48.145Z",
+  updatedAt: "2026-10-30T17:23:45.121Z",
 } as const satisfies PageType
