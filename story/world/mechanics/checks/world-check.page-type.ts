@@ -6,6 +6,10 @@ export const worldCheck = {
   slug: "world-check",
   definition: "a rule settling a declared action",
   pluralSlug: "checks",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "world check" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "world checks" },
+  ],
   extends: ["page-type/world-mechanic", "page-type/domain"],
   parts: [
     "module-property-group/settling",
@@ -90,5 +94,5 @@ export const worldCheck = {
   schema: "jsonl",
   loadedExport: ["settled", "added", "next"],
   createdAt: "2026-09-26T14:17:37.836Z",
-  updatedAt: "2026-10-30T13:47:19.494Z",
+  updatedAt: "2026-10-30T15:03:32.748Z",
 } as const satisfies PageType
