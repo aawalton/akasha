@@ -4,7 +4,7 @@ export const scripturePassage = {
   id: "01a0658d-fe50-7005-97df-2bbcb319b080",
   type: "page-type/page-type",
   slug: "scripture-passage",
-  definition: "a chapter of scripture Alan reads",
+  definition: "a passage of scripture Alan reads",
   extends: ["page-type/collection"],
   parts: ["file-property/passage-text", "select-property/scripture-translation"],
   properties: [
@@ -48,5 +48,5 @@ export const scripturePassage = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:36:39.632Z",
-  updatedAt: "2026-09-25T13:02:31.000Z",
+  updatedAt: "2026-10-30T15:10:06.625Z",
 } as const satisfies PageType
