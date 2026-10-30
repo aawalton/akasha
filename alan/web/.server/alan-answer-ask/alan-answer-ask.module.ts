@@ -4,7 +4,7 @@ export const alanAnswerAsk = {
   id: "01a0c6b7-6ab7-7d01-bf95-32d6769afbe8",
   type: "page-type/module",
   slug: "alan-answer-ask",
-  definition: "a question asked in Alan's browser carried to the page store and answered back",
+  definition: "how alanwalton.com responds to a question a browser asks about pages",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -55,5 +55,5 @@ export const alanAnswerAsk = {
     },
   ],
   createdAt: "2026-09-22T01:25:04.311Z",
-  updatedAt: "2026-10-24T20:20:06.131Z",
+  updatedAt: "2026-10-30T16:55:04.408Z",
 } as const satisfies Module
