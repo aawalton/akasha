@@ -5,9 +5,9 @@ export const release = {
   type: "page-type/relation-property",
   slug: "release",
   propertySlug: "release",
-  definition: "the release carrying a track",
+  definition: "the release that carries a track",
   targetPageType: "page-type/release",
   types: "ts",
   createdAt: "2026-09-21T18:13:54.157Z",
-  updatedAt: "2026-09-21T18:15:14.000Z",
+  updatedAt: "2026-10-30T16:09:44.671Z",
 } as const satisfies RelationProperty
