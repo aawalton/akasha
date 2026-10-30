@@ -5,7 +5,7 @@ export const reminderSchedule = {
   type: "page-type/text-property",
   slug: "reminder-schedule",
   propertySlug: "schedule",
-  definition: "the times a reminder is sent at, written as systemd states a calendar",
+  definition: "the schedule of a reminder in the calendar language of systemd",
   maxLength: 100,
   nameFormat: null,
   decisions: [
@@ -20,5 +20,5 @@ export const reminderSchedule = {
   ],
   types: "ts",
   createdAt: "2026-09-01T23:16:51.649Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:06:50.034Z",
 } as const satisfies TextProperty
