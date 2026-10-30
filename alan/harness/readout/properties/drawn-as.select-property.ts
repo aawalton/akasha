@@ -14,10 +14,10 @@ export const drawnAs = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading drawn as a number is drawn without a rung behind the figure.",
+      statement: "A readout shown as a number is shown without a rung behind the figure.",
     },
   ],
   types: "ts",
   createdAt: "2026-09-02T20:09:28.102Z",
-  updatedAt: "2026-10-30T16:11:09.219Z",
+  updatedAt: "2026-10-30T17:22:07.940Z",
 } as const satisfies SelectProperty
