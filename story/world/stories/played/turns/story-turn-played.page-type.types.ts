@@ -10,6 +10,7 @@ import type { Turn } from "akasha/story/turn/turn.page-type.types.ts"
 import type { Characters } from "akasha/story/world/characters/properties/characters.multi-relation-property.types.ts"
 import type { Roleplayed } from "akasha/story/world/stories/played/properties/roleplayed.boolean-property.types.ts"
 import type { CoverAfter } from "akasha/story/world/stories/played/turns/properties/cover-after.text-property.types.ts"
+import type { MemoryOwed } from "akasha/story/world/stories/played/turns/properties/memory-owed.boolean-property.types.ts"
 import type { Outcomes } from "akasha/story/world/stories/played/turns/properties/outcomes.file-property.types.ts"
 import type { TurnAction } from "akasha/story/world/stories/played/turns/properties/turn-action.text-property.types.ts"
 import type { TurnEndsAt } from "akasha/story/world/stories/played/turns/properties/turn-ends-at.instant-property.types.ts"
@@ -31,4 +32,5 @@ export type StoryTurnPlayed = Turn & {
   rulings?: Rulings
   roleplayed?: Roleplayed
   interruptsAt?: TurnInterruptsAt
+  memoryOwed?: MemoryOwed
 }
