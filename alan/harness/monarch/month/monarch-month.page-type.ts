@@ -4,7 +4,7 @@ export const monarchMonth = {
   id: "01a0680b-2b00-7012-a659-4d8f2c7e2113",
   type: "page-type/page-type",
   slug: "monarch-month",
-  definition: "a calendar month of the household's money",
+  definition: "a calendar month of Monarch transactions",
   extends: ["page-type/monarch-record"],
   parts: [
     "boolean-property/needs-review",
@@ -58,5 +58,5 @@ export const monarchMonth = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:12:37.504Z",
-  updatedAt: "2026-09-22T00:47:01.000Z",
+  updatedAt: "2026-10-30T15:43:14.290Z",
 } as const satisfies PageType
