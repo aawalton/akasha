@@ -5,7 +5,7 @@ export const figureOffScale = {
   type: "page-type/boolean-property",
   slug: "figure-off-scale",
   propertySlug: "figure-off-scale",
-  definition: "whether a reading past either end of its scale still draws its number",
+  definition: "whether a readout in a group shows its number outside its readout scale",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -23,5 +23,5 @@ export const figureOffScale = {
   ],
   types: "ts",
   createdAt: "2026-09-03T03:39:45.868Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:23:27.549Z",
 } as const satisfies BooleanProperty
