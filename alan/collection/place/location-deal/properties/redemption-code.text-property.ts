@@ -5,10 +5,10 @@ export const redemptionCode = {
   type: "page-type/text-property",
   slug: "redemption-code",
   propertySlug: "redemption-code",
-  definition: "what to give to claim the offer",
+  definition: "what a person gives to use the offer",
   maxLength: 20,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:27:14.757Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:10:52.086Z",
 } as const satisfies TextProperty
