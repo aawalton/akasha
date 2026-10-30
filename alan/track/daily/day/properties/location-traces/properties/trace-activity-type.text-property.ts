@@ -5,10 +5,10 @@ export const traceActivityType = {
   type: "page-type/text-property",
   slug: "trace-activity-type",
   propertySlug: "activity-type",
-  definition: "what the device judged Alan to be doing",
+  definition: "the activity a device reports for Alan",
   maxLength: 32,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T21:38:23.027Z",
-  updatedAt: "2026-09-21T19:18:52.000Z",
+  updatedAt: "2026-10-30T16:47:30.382Z",
 } as const satisfies TextProperty
