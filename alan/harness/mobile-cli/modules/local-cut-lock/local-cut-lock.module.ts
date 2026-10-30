@@ -4,7 +4,7 @@ export const localCutLock = {
   id: "01a05cee-e560-799d-8874-d6c9518059c9",
   type: "page-type/module",
   slug: "local-cut-lock",
-  definition: "the workstation file lock a testflight cut holds while it runs",
+  definition: "the lock a mobile cut holds on the workstation",
   code: "ts",
   test: "ts",
   decisions: [
@@ -30,5 +30,5 @@ export const localCutLock = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:26:44.613Z",
 } as const satisfies Module
