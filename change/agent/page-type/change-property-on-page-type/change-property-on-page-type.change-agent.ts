@@ -7,7 +7,7 @@ export const changePropertyOnPageType = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
-  definition: "a property's declaration on a page type stated anew, with its pages carried",
+  definition: "a change that changes a property on a page type and on every page of that page type",
   code: "ts",
   test: "ts",
   decisions: [
@@ -55,5 +55,5 @@ export const changePropertyOnPageType = {
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
   createdAt: "2026-09-13T20:33:38.332Z",
-  updatedAt: "2026-09-22T10:08:50.000Z",
+  updatedAt: "2026-10-30T17:02:45.668Z",
 } as const satisfies ChangeAgent
