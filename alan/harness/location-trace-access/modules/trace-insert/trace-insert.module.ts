@@ -4,7 +4,7 @@ export const traceInsert = {
   id: "01a05bc7-9129-700d-9b3a-ba23544a6e88",
   type: "page-type/module",
   slug: "trace-insert",
-  definition: "a batch of recorded places landed as rows beside each place's capture day",
+  definition: "how code stores the places from Alan's phone under the day of each place",
   code: "ts",
   test: "ts",
   decisions: [
@@ -80,5 +80,5 @@ export const traceInsert = {
     },
   ],
   createdAt: "2026-09-01T07:03:20.617Z",
-  updatedAt: "2026-09-24T19:55:05.000Z",
+  updatedAt: "2026-10-30T15:42:11.128Z",
 } as const satisfies Module
