@@ -5,8 +5,8 @@ export const setPerformedAt = {
   type: "page-type/instant-property",
   slug: "set-performed-at",
   propertySlug: "set-performed-at",
-  definition: "when Alan performed the set",
+  definition: "the instant Alan performs a lifting set",
   types: "ts",
   createdAt: "2026-09-19T01:44:12.314Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T16:52:55.200Z",
 } as const satisfies InstantProperty
