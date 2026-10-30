@@ -4,7 +4,11 @@ export const attributeLevel = {
   id: "01a0c4b0-4a14-730d-a7cf-b11505b9cc59",
   type: "page-type/module",
   slug: "attribute-level",
-  definition: "the level a figure of points has climbed to",
+  definition: "how code finds the attribute level the points of an attribute reach",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "attribute level" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "attribute levels" },
+  ],
   code: "ts",
   test: "ts",
   decisions: [
@@ -62,5 +66,5 @@ export const attributeLevel = {
     },
   ],
   createdAt: "2026-09-21T15:58:02.772Z",
-  updatedAt: "2026-09-21T15:58:55.000Z",
+  updatedAt: "2026-10-30T16:13:59.016Z",
 } as const satisfies Module
