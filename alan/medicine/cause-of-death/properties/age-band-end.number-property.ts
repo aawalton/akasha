@@ -5,9 +5,9 @@ export const ageBandEnd = {
   type: "page-type/number-property",
   slug: "age-band-end",
   propertySlug: "age-band-end",
-  definition: "the oldest age a band of ages holds",
+  definition: "the last age in an age band",
   max: null,
   types: "ts",
   createdAt: "2026-10-28T18:22:21.854Z",
-  updatedAt: "2026-10-28T18:22:21.854Z",
+  updatedAt: "2026-10-30T16:07:33.463Z",
 } as const satisfies NumberProperty
