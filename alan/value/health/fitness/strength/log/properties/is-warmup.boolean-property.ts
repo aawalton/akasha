@@ -5,8 +5,8 @@ export const isWarmup = {
   type: "page-type/boolean-property",
   slug: "is-warmup",
   propertySlug: "is-warmup",
-  definition: "whether the set was preparation rather than working volume",
+  definition: "whether a lifting set prepares Alan for other lifting sets",
   types: "ts",
   createdAt: "2026-09-03T04:21:48.925Z",
-  updatedAt: "2026-09-15T15:59:02.000Z",
+  updatedAt: "2026-10-30T16:50:59.696Z",
 } as const satisfies BooleanProperty
