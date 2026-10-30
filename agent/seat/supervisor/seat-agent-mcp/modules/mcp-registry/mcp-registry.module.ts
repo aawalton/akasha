@@ -4,7 +4,7 @@ export const mcpRegistry = {
   id: "01a0686c-f06b-7009-b6fa-ed9426be09a5",
   type: "page-type/module",
   slug: "mcp-registry",
-  definition: "the tool servers a seat is launched with, read off the agent settings page",
+  definition: "how code reads the mcp servers a seat uses from a page",
   code: "ts",
   decisions: [
     {
@@ -33,5 +33,5 @@ export const mcpRegistry = {
     },
   ],
   createdAt: "2026-09-03T17:59:25.035Z",
-  updatedAt: "2026-09-24T17:19:16.000Z",
+  updatedAt: "2026-10-30T14:37:44.485Z",
 } as const satisfies Module
