@@ -4,7 +4,7 @@ export const monarchCredential = {
   id: "01a0685f-4ed9-74ca-87d5-38f3cedf684a",
   type: "page-type/module",
   slug: "monarch-credential",
-  definition: "the Monarch session headers, built from the cookie a signed-in browser holds",
+  definition: "how code makes the Monarch request headers from the credential a browser holds",
   code: "ts",
   decisions: [
     {
@@ -42,5 +42,5 @@ export const monarchCredential = {
     },
   ],
   createdAt: "2026-09-03T17:44:31.705Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:39:16.775Z",
 } as const satisfies Module
