@@ -97,6 +97,22 @@ export const giftedTrial2WorldWomb = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Alone, the mother murmurs to the child in Helenian, soft and slow, between snatches of humming.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Murmuring to it alone, she calls the child kerith, as the leaders do.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Mid-morning the mother walks to the cult's hall to eat, and the womb sways with her steps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At meals the hall is loud with many voices talking at once, and the clatter of bowls.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Three voices came through the walls: her mother's, close and soft, and a man's and a woman's.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
     },
@@ -134,5 +150,5 @@ export const giftedTrial2WorldWomb = {
     },
   ],
   createdAt: "2026-10-30T16:36:03.198Z",
-  updatedAt: "2026-10-30T17:26:52.799Z",
+  updatedAt: "2026-10-30T17:27:41.313Z",
 } as const satisfies Place
