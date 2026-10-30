@@ -4,7 +4,7 @@ export const supervisorBootPrompt = {
   id: "01a0683e-3dbe-700c-846f-2de44a594e21",
   type: "page-type/module",
   slug: "supervisor-boot-prompt",
-  definition: "the authored prompt a spawning seat is handed",
+  definition: "how code writes the prompt a seat starts with",
   code: "ts",
   decisions: [
     {
@@ -25,5 +25,5 @@ export const supervisorBootPrompt = {
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-09-24T16:29:57.000Z",
+  updatedAt: "2026-10-30T14:46:43.019Z",
 } as const satisfies Module
