@@ -5,8 +5,8 @@ export const inboxTextsClearedToday = {
   type: "page-type/boolean-property",
   slug: "inbox-texts-cleared-today",
   propertySlug: "inbox-texts-cleared-today",
-  definition: "whether the texts reached empty on a day",
+  definition: "whether the text messages that wait for a reply from Alan reached zero on a day",
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-09-15T15:59:02.000Z",
+  updatedAt: "2026-10-30T16:34:33.798Z",
 } as const satisfies BooleanProperty
