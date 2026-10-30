@@ -80,6 +80,7 @@ export const construction = {
     "construction/be-verb-with-a-preposition-phrase",
     "construction/preposition-with-a-proper-noun-and-a-preposition-phrase",
     "construction/noun-run-with-a-proper-noun-have-clause",
+    "construction/noun-run-with-a-proper-noun-have-not-clause",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -111,5 +112,5 @@ export const construction = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-21T19:39:38.477Z",
-  updatedAt: "2026-10-30T16:29:53.801Z",
+  updatedAt: "2026-10-30T16:30:46.648Z",
 } as const satisfies PageType
