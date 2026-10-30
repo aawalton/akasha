@@ -4,7 +4,7 @@ export const alanWebTerms = {
   id: "01a08829-98dd-78b3-af25-0ea47d32f1b5",
   type: "page-type/route",
   slug: "alan-web-terms",
-  definition: "the Amy messaging service's terms",
+  definition: "the rules for the text messages Amy sends",
   code: "tsx",
   urlPath: "terms",
   decisions: [
@@ -14,5 +14,5 @@ export const alanWebTerms = {
     },
   ],
   createdAt: "2026-09-09T21:53:42.621Z",
-  updatedAt: "2026-09-22T13:48:15.000Z",
+  updatedAt: "2026-10-30T17:01:39.956Z",
 } as const satisfies Route
