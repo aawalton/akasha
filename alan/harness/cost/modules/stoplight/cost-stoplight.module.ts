@@ -33,12 +33,12 @@ export const costStoplight = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The surplus read beside a cost is the reading that cost's page takes its color from.",
+        "The surplus read beside a cost is the number of the readout that cost's page takes its color from.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A cost whose page takes its color from no reading is colored as beside no surplus.",
+        "A cost whose page takes its color from no readout is colored as beside no surplus.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -46,7 +46,7 @@ export const costStoplight = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A cost group whose page states no such name is answered as no reading.",
+      statement: "A cost group whose page states no such name is answered as no number.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -84,7 +84,7 @@ export const costStoplight = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A cost with no reading is answered as a stoplight carrying no figure.",
+      statement: "A cost with no number is answered as a stoplight carrying no figure.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -131,7 +131,7 @@ export const costStoplight = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A group no readout is left in is answered as no reading rather than as empty.",
+      statement: "A group no readout is left in is answered as no number rather than as empty.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -143,11 +143,11 @@ export const costStoplight = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here takes a reading.",
+      statement: "Nothing here takes a number.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here decides when a reading is too old.",
+      statement: "Nothing here decides when a number is too old.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -164,5 +164,5 @@ export const costStoplight = {
     },
   ],
   createdAt: "2026-09-10T14:18:28.603Z",
-  updatedAt: "2026-10-30T15:35:09.519Z",
+  updatedAt: "2026-10-30T17:15:37.109Z",
 } as const satisfies Module
