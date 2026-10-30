@@ -5,9 +5,9 @@ export const appearanceVerdict = {
   type: "page-type/select-property",
   slug: "appearance-verdict",
   propertySlug: "verdict",
-  definition: "what an experiment leaves Alan doing with the thing next",
+  definition: "what Alan does with the thing after an appearance experiment",
   values: ["keep", "tweak", "drop"],
   types: "ts",
   createdAt: "2026-09-03T17:42:47.583Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:30:27.895Z",
 } as const satisfies SelectProperty
