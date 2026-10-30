@@ -4,7 +4,7 @@ export const claudeUsage = {
   id: "01a072ae-4955-71e6-bf45-d5a4c5a59670",
   type: "page-type/route",
   slug: "claude-usage",
-  definition: "what the Claude fleet has spent of its two windows",
+  definition: "what a readout widget shows of the usage windows of the model accounts",
   code: "ts",
   test: "ts",
   urlPath: "api/claude-usage",
@@ -33,5 +33,5 @@ export const claudeUsage = {
     },
   ],
   createdAt: "2026-09-05T17:46:59.797Z",
-  updatedAt: "2026-09-25T16:55:13.000Z",
+  updatedAt: "2026-10-30T16:59:07.980Z",
 } as const satisfies Route
