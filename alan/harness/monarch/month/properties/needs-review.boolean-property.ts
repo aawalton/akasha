@@ -5,7 +5,7 @@ export const needsReview = {
   type: "page-type/boolean-property",
   slug: "needs-review",
   propertySlug: "needs-review",
-  definition: "whether a transaction is waiting for somebody to settle it",
+  definition: "whether Monarch asks a person to look at a Monarch transaction",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -14,5 +14,5 @@ export const needsReview = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:12:37.504Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:46:58.120Z",
 } as const satisfies BooleanProperty
