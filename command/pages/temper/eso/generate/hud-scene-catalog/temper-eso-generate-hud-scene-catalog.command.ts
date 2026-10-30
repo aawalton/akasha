@@ -4,7 +4,7 @@ export const temperEsoGenerateHudSceneCatalog = {
   id: "01a0685d-f8fa-75a7-b5b7-54361655f76a",
   type: "page-type/command",
   slug: "temper-eso-generate-hud-scene-catalog",
-  definition: "the command writing the catalog of HUD parts out of the game's own scene source",
+  definition: "the command writing the catalog of HUD parts out of the game's own scene code",
   code: "ts",
   test: "ts",
   decisions: [
@@ -91,5 +91,5 @@ export const temperEsoGenerateHudSceneCatalog = {
   name: "hud-scene-catalog",
   arguments: [{ argument: "argument/code-root" }],
   createdAt: "2026-09-03T17:43:04.186Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:18:56.095Z",
 } as const satisfies Command
