@@ -5,9 +5,9 @@ export const misconceptions = {
   type: "page-type/file-property",
   slug: "misconceptions",
   propertySlug: "misconceptions",
-  definition: "the wrong models of a topic surfaced and corrected",
+  definition: "the wrong things Alan believed about a topic",
   extensions: ["md"],
   types: "ts",
   createdAt: "2026-09-03T04:55:52.026Z",
-  updatedAt: "2026-09-15T16:56:11.000Z",
+  updatedAt: "2026-10-30T16:37:43.953Z",
 } as const satisfies FileProperty
