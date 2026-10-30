@@ -4,7 +4,7 @@ export const absentSweeping = {
   id: "01a0b716-cdc8-7ec3-9c4a-8eb732595db3",
   type: "page-type/module",
   slug: "absent-sweeping",
-  definition: "a seat whose agent is gone found and brought to its end",
+  definition: "how code ends a seat that has no agent",
   code: "ts",
   test: "ts",
   decisions: [
@@ -30,5 +30,5 @@ export const absentSweeping = {
     },
   ],
   createdAt: "2026-09-19T00:35:20.136Z",
-  updatedAt: "2026-09-19T00:42:08.000Z",
+  updatedAt: "2026-10-30T14:51:12.127Z",
 } as const satisfies Module
