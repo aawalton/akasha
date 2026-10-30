@@ -4,7 +4,7 @@ export const workTreeComposing = {
   id: "01a0d442-62f1-7bef-820b-44a1b1ae0846",
   type: "page-type/module",
   slug: "work-tree-composing",
-  definition: "each initiative drawn under the one above it, and the intents it has",
+  definition: "how code arranges the initiatives and their intents into a tree",
   code: "ts",
   test: "ts",
   decisions: [
@@ -76,5 +76,5 @@ export const workTreeComposing = {
     },
   ],
   createdAt: "2026-09-24T16:31:55.633Z",
-  updatedAt: "2026-09-24T16:34:09.000Z",
+  updatedAt: "2026-10-30T15:42:52.274Z",
 } as const satisfies Module
