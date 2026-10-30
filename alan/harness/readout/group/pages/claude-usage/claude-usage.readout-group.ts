@@ -15,18 +15,18 @@ export const claudeUsage = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each reading here is drawn as a number rather than as a stoplight.",
+      statement: "Each readout here is shown as a number rather than as a stoplight.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading here is the pool's rather than one account's.",
+      statement: "A number here is the pool's rather than one account's.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "How much of the allowance is spent and how long the allowance has left are two readings.",
+        "How much of the allowance is spent and how long the allowance has left are two numbers.",
     },
   ],
   createdAt: "2026-09-02T20:09:28.102Z",
-  updatedAt: "2026-10-30T15:55:30.901Z",
+  updatedAt: "2026-10-30T17:09:06.451Z",
 } as const satisfies ReadoutGroup
