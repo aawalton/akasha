@@ -5,10 +5,10 @@ export const sources = {
   type: "page-type/text-property",
   slug: "sources",
   propertySlug: "sources",
-  definition: "the sources of what is written here",
+  definition: "where the text on a car page comes from",
   maxLength: 20000,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:48:02.249Z",
-  updatedAt: "2026-09-22T14:08:21.000Z",
+  updatedAt: "2026-10-30T15:14:27.470Z",
 } as const satisfies TextProperty
