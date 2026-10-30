@@ -5,7 +5,7 @@ export const attribute = {
   type: "page-type/relation-property",
   slug: "attribute",
   propertySlug: "attribute",
-  definition: "the attribute whose points a reading counts",
+  definition: "the attribute whose points are counted by a readout",
   targetPageType: "page-type/attribute",
   decisions: [
     {
@@ -19,5 +19,5 @@ export const attribute = {
   ],
   types: "ts",
   createdAt: "2026-09-08T16:52:01.930Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:08:42.329Z",
 } as const satisfies RelationProperty
