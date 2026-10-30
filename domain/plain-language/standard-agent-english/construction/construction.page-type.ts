@@ -64,6 +64,7 @@ export const construction = {
     "construction/degree-adverb-with-a-manner-adverb-and-a-clause",
     "construction/degree-adverb-with-an-adjective-and-a-be-clause",
     "construction/degree-adverb-with-a-determiner-and-a-preposition-phrase-clause",
+    "construction/verb-with-a-manner-adverb-and-a-preposition-phrase",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -95,5 +96,5 @@ export const construction = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-21T19:39:38.477Z",
-  updatedAt: "2026-10-30T15:35:05.275Z",
+  updatedAt: "2026-10-30T15:36:37.784Z",
 } as const satisfies PageType
