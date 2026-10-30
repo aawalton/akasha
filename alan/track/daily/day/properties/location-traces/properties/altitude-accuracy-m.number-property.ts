@@ -5,9 +5,9 @@ export const altitudeAccuracyM = {
   type: "page-type/number-property",
   slug: "altitude-accuracy-m",
   propertySlug: "altitude-accuracy-m",
-  definition: "how far from the stated altitude the device thinks the truth could be, in metres",
+  definition: "the error in metres a device gives for the height the device reports",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T21:38:23.027Z",
-  updatedAt: "2026-09-21T19:18:52.000Z",
+  updatedAt: "2026-10-30T16:42:16.566Z",
 } as const satisfies NumberProperty
