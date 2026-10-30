@@ -4,7 +4,7 @@ export const toolAccess = {
   id: "01a0657b-ad40-7a30-a01e-7d2c05b081b3",
   type: "page-type/agent-settings",
   slug: "tool-access",
-  definition: "which built-in tools an agent may reach",
+  definition: "the agent tools an agent can use",
   harnessSettings: "json",
   decisions: [
     {
@@ -13,5 +13,5 @@ export const toolAccess = {
     },
   ],
   createdAt: "2026-09-03T04:16:39.232Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:43:43.952Z",
 } as const satisfies AgentSettings
