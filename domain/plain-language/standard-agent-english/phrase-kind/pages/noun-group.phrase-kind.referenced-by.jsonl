@@ -11,6 +11,7 @@
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-joined-proper-noun-clause.construction.ts","id":"01a18d78-0943-7ea1-b09b-e132fab9a0d0"}
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-past-participle-and-a-preposition-phrase.construction.ts","id":"01a0c96f-bee9-7f1f-8d2c-d4d536dcb41c"}
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-past-participle.construction.ts","id":"01a0c96f-a254-7982-aacd-b072d43b1006"}
+{"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-possessive-subject-clause.construction.ts","id":"01a18ded-b199-7e5c-8091-fdd2c172cf44"}
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-preposition-phrase.construction.ts","id":"01a0c593-5e0a-7a00-be0b-096d9a7ee6bb"}
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-proper-noun-clause.construction.ts","id":"01a0d484-35d6-7cef-acb4-ad2d3941c10c"}
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-proper-noun-degree-adverb-and-a-preposition-phrase-clause.construction.ts","id":"01a18dc8-7fb6-76ac-a350-015dd4d1fd82"}
@@ -33,6 +34,7 @@
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/noun-group-with-a-past-participle.construction.ts","id":"01a18d7a-0d37-7016-abb4-300cb7fcc76f"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/noun-group-with-an-adjective.construction.ts","id":"01a0c5f9-391e-719d-9f02-bb4b63c6b37a"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-clause.construction.ts","id":"01a0c67a-50ad-7181-9d2e-827c9c7d8f18"}
+{"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-possessive-subject-clause.construction.ts","id":"01a18ded-b199-7e5c-8091-fdd2c172cf44"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-relative-determiner-clause.construction.ts","id":"01a18d7e-1613-78a0-a79f-4d8276368f28"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-an-object-and-a-stranded-preposition-clause.construction.ts","id":"01a18dec-6b2d-7a54-ab6e-2464d7ab63a8"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/possessive-noun-run-with-a-determiner.construction.ts","id":"01a0c932-0974-771f-b07a-c900f1a63592"}
