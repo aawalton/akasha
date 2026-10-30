@@ -5,9 +5,9 @@ export const stretchesCoolingDown = {
   type: "page-type/number-property",
   slug: "stretches-cooling-down",
   propertySlug: "stretches-cooling-down",
-  definition: "how many held stretches Alan takes to cool down after a bout",
+  definition: "the number of stretches Alan holds after a workout",
   max: null,
   types: "ts",
   createdAt: "2026-09-19T17:28:07.079Z",
-  updatedAt: "2026-09-19T17:29:07.000Z",
+  updatedAt: "2026-10-30T16:53:30.971Z",
 } as const satisfies NumberProperty
