@@ -5,9 +5,9 @@ export const relationshipEmailHandlerTarget = {
   type: "page-type/relation-property",
   slug: "relationship-email-handler-target",
   propertySlug: "relationship-email-handler-target",
-  definition: "the handler seat an email from this person to a persona's address is routed to",
+  definition: "the person whose handler handles an email this person sends to a persona",
   targetPageType: "page-type/person",
   types: "ts",
   createdAt: "2026-10-25T19:19:22.576Z",
-  updatedAt: "2026-10-25T19:19:22.576Z",
+  updatedAt: "2026-10-30T16:23:37.172Z",
 } as const satisfies RelationProperty
