@@ -5,7 +5,7 @@ export const harnessSettings = {
   type: "page-type/file-property",
   slug: "harness-settings",
   propertySlug: "harness-settings",
-  definition: "what an agent harness is told before the harness starts",
+  definition: "the config Claude Code starts with",
   extensions: ["json"],
   writtenBy: "module-property-group/telling",
   decisions: [
@@ -24,5 +24,5 @@ export const harnessSettings = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:16:39.232Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:44:38.368Z",
 } as const satisfies FileProperty
