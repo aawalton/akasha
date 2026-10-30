@@ -4,7 +4,7 @@ export const syncRun = {
   id: "01a06580-196a-7001-8989-3755d6f4c2ed",
   type: "page-type/module",
   slug: "sync-run",
-  definition: "a run of a sync, failing as a unit where any item in the run failed",
+  definition: "how code fails a whole run of a sync where any part of the run fails",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const syncRun = {
     },
   ],
   createdAt: "2026-09-03T04:21:29.066Z",
-  updatedAt: "2026-09-21T22:35:08.000Z",
+  updatedAt: "2026-10-30T15:21:09.655Z",
 } as const satisfies Module
