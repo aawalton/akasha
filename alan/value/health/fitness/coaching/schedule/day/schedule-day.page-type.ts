@@ -15,7 +15,8 @@ export const scheduleDay = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day states the weekday that day falls on and the focus that day trains.",
+      statement:
+        "A day states the day of the week that day falls on and the focus that day trains.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -25,5 +26,5 @@ export const scheduleDay = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:15:48.269Z",
-  updatedAt: "2026-10-30T16:55:52.615Z",
+  updatedAt: "2026-10-30T17:17:15.029Z",
 } as const satisfies PageType
