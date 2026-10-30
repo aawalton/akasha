@@ -5,10 +5,10 @@ export const killSwitchNotes = {
   type: "page-type/text-property",
   slug: "kill-switch-notes",
   propertySlug: "kill-switch-notes",
-  definition: "what is known of anything outside the driver that can stop a trim",
+  definition: "how someone besides the owner can disable a car trim",
   maxLength: 1000,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-21T18:39:10.742Z",
-  updatedAt: "2026-09-21T18:40:16.000Z",
+  updatedAt: "2026-10-30T14:56:07.659Z",
 } as const satisfies TextProperty
