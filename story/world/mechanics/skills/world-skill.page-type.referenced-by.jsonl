@@ -2,7 +2,7 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"command/modules/mechanic-defining/mechanic-defining.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"story/chapter/narration/modules/abilities/narration-abilities.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"story/ui/modules/system-window-card/system-window-card.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"story/world/mechanics/modules/gifted-path-stepping/gifted-path-stepping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"story/world/mechanics/modules/path-stepping/path-stepping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-action-check.world-check.settling.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-action-check.world-check.settling.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-action-check.world-check.settling.code.ts","typed":false,"deferred":false}

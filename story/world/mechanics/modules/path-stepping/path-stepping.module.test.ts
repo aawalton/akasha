@@ -3,7 +3,7 @@ import {
   basicPaid,
   oneSpeed,
   sped,
-} from "akasha/story/world/mechanics/modules/gifted-path-stepping/gifted-path-stepping.module.code.ts"
+} from "akasha/story/world/mechanics/modules/path-stepping/path-stepping.module.code.ts"
 
 const MIND = "metric-character-stat/probe-nala-mental"
 

@@ -2837,8 +2837,8 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/dice-reading/dice-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/dice-rolling/dice-rolling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/dice-throwing/dice-throwing.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/gifted-path-stepping/gifted-path-stepping.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/linear-stat/linear-stat.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/path-stepping/path-stepping.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/tiered-roll/tiered-roll.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/time-passing/time-passing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/stat-groups/modules/stat-grouping/stat-grouping.module.ts","typed":true,"deferred":false}

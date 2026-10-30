@@ -68,7 +68,7 @@ export const worldMechanic = {
     "text-property/to-slug",
     "text-property/wording",
     "boolean-property/unrevealed",
-    "module/gifted-path-stepping",
+    "module/path-stepping",
   ],
   properties: [
     { pageProperty: "relation-property/world", required: false, many: false },
@@ -180,5 +180,5 @@ export const worldMechanic = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T03:38:24.529Z",
-  updatedAt: "2026-10-30T13:40:53.973Z",
+  updatedAt: "2026-10-30T16:25:30.084Z",
 } as const satisfies PageType

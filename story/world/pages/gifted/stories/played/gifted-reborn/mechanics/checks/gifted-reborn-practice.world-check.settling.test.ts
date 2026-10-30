@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 import { metricCharacterStat } from "akasha/story/world/mechanics/metrics/metric-character/attribute/stat/metric-character-stat.page-type.ts"
-import type { HeldPath } from "akasha/story/world/mechanics/modules/gifted-path-stepping/gifted-path-stepping.module.code.ts"
+import type { HeldPath } from "akasha/story/world/mechanics/modules/path-stepping/path-stepping.module.code.ts"
 import {
   heldAs,
   reachOver,
-} from "akasha/story/world/mechanics/modules/gifted-path-stepping/gifted-path-stepping.module.test-fixtures.ts"
+} from "akasha/story/world/mechanics/modules/path-stepping/path-stepping.module.test-fixtures.ts"
 import { characterSkill } from "akasha/story/world/mechanics/skills/character-skill/character-skill.page-type.ts"
 import { giftedUnallocatedStats } from "akasha/story/world/pages/gifted/mechanics/metrics/resources/unallocated-stats/gifted-unallocated-stats.page-type.ts"
 import { giftedPathOfBasicNumeracy } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-basic-numeracy.world-skill.ts"

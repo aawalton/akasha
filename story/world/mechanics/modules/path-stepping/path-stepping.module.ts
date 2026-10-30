@@ -1,9 +1,9 @@
 import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const giftedPathStepping = {
+export const pathStepping = {
   id: "01a18d0a-be56-741d-8d62-a97f46fc55da",
   type: "page-type/module",
-  slug: "gifted-path-stepping",
+  slug: "path-stepping",
   definition: "what a Path a character holds in the gifted world earns and what its Tiers pay",
   code: "ts",
   test: "ts",
@@ -41,5 +41,5 @@ export const giftedPathStepping = {
     },
   ],
   createdAt: "2026-10-30T13:40:53.973Z",
-  updatedAt: "2026-10-30T13:43:51.554Z",
+  updatedAt: "2026-10-30T16:25:30.084Z",
 } as const satisfies Module

@@ -2,7 +2,7 @@ import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.mod
 import type {
   HeldPath,
   PathReach,
-} from "akasha/story/world/mechanics/modules/gifted-path-stepping/gifted-path-stepping.module.code.ts"
+} from "akasha/story/world/mechanics/modules/path-stepping/path-stepping.module.code.ts"
 import { characterSkill } from "akasha/story/world/mechanics/skills/character-skill/character-skill.page-type.ts"
 
 type Page = { readonly slug: string; readonly character: string; readonly attribute?: string }

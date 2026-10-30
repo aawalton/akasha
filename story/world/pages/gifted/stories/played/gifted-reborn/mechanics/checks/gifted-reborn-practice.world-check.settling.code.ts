@@ -12,7 +12,7 @@ import {
   type PathReach,
   SPEED,
   sped,
-} from "akasha/story/world/mechanics/modules/gifted-path-stepping/gifted-path-stepping.module.code.ts"
+} from "akasha/story/world/mechanics/modules/path-stepping/path-stepping.module.code.ts"
 import { characterSkill } from "akasha/story/world/mechanics/skills/character-skill/character-skill.page-type.ts"
 import { giftedPathOfBasicNumeracy } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-basic-numeracy.world-skill.ts"
 import { giftedPathOfLinguisticsEnglish } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-linguistics-english.world-skill.ts"

@@ -405,7 +405,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"story/lore-disclosure/modules/lore-rereading/lore-rereading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"story/world/mechanics/modules/gifted-path-stepping/gifted-path-stepping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"story/world/mechanics/modules/path-stepping/path-stepping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"story/world/mechanics/modules/tiered-roll/tiered-roll.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-action-check.world-check.settling.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-action-check.world-check.settling.code.ts","typed":false,"deferred":false}

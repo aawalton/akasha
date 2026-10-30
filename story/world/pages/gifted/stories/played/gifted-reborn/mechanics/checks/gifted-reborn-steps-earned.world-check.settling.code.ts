@@ -14,7 +14,7 @@ import {
   type Speed,
   sped,
   unallocated,
-} from "akasha/story/world/mechanics/modules/gifted-path-stepping/gifted-path-stepping.module.code.ts"
+} from "akasha/story/world/mechanics/modules/path-stepping/path-stepping.module.code.ts"
 import { characterSkill } from "akasha/story/world/mechanics/skills/character-skill/character-skill.page-type.ts"
 import { giftedPathOfSoulstealing } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-soulstealing.world-skill.ts"
 import { giftedPathOfTheCompletionist } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-the-completionist.world-skill.ts"

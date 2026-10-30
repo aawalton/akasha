@@ -170,7 +170,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"page/service/modules/page-calling/page-calling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"persona/modules/targets/persona-targets.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"story/world/mechanics/modules/gifted-path-stepping/gifted-path-stepping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"story/world/mechanics/modules/path-stepping/path-stepping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"story/world/mechanics/modules/tiered-roll/tiered-roll.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-action-check.world-check.settling.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-action-check.world-check.settling.code.ts","typed":false,"deferred":false}
