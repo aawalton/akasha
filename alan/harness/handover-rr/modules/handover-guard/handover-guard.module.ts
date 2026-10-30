@@ -4,7 +4,7 @@ export const handoverGuard = {
   id: "01a0bca8-7743-7c0d-a613-8746eafadeb9",
   type: "page-type/module",
   slug: "handover-guard",
-  definition: "which paths a peripheral opens to a stranger, and where a stranger is sent instead",
+  definition: "how code chooses the requests to a website that go to a handover",
   code: "ts",
   decisions: [
     {
@@ -34,5 +34,5 @@ export const handoverGuard = {
     },
   ],
   createdAt: "2026-09-20T02:32:32.323Z",
-  updatedAt: "2026-09-20T02:36:22.000Z",
+  updatedAt: "2026-10-30T15:48:58.492Z",
 } as const satisfies Module
