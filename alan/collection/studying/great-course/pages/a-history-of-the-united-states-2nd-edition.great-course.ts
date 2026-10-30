@@ -8,7 +8,7 @@ export const aHistoryOfTheUnitedStates2ndEdition = {
   status: "in-progress",
   unit: "unit/minutes",
   ownLength: 2585.43,
-  ownProgress: 1434.08,
+  ownProgress: 1465.1,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/history-great-courses",
@@ -21,6 +21,6 @@ export const aHistoryOfTheUnitedStates2ndEdition = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-10-28T17:26:13.648Z",
-  progressedAt: "2026-10-28T17:26:13.648Z",
+  updatedAt: "2026-10-30T13:35:26.701Z",
+  progressedAt: "2026-10-30T13:35:26.701Z",
 } as const satisfies GreatCourse
