@@ -4,7 +4,7 @@ export const akashaDay = {
   id: "01a069d3-579d-7fa0-9114-43050587d24b",
   type: "page-type/module",
   slug: "akasha-day",
-  definition: "how a day page is landed into the akasha page store",
+  definition: "how code writes a day page into akasha",
   code: "ts",
   test: "ts",
   decisions: [
@@ -68,5 +68,5 @@ export const akashaDay = {
     },
   ],
   createdAt: "2026-09-04T00:30:53.341Z",
-  updatedAt: "2026-09-19T17:46:52.000Z",
+  updatedAt: "2026-10-30T16:45:16.973Z",
 } as const satisfies Module
