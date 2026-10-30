@@ -4,8 +4,7 @@ export const trackPicking = {
   id: "01a0c578-3b36-7de0-95ef-8274663f6c91",
   type: "page-type/module",
   slug: "track-picking",
-  definition:
-    "the tracks a test wants from the artists Alan follows, in the order a playlist holds them",
+  definition: "the tracks a condition wants from followed artists",
   code: "ts",
   test: "ts",
   decisions: [
@@ -81,5 +80,5 @@ export const trackPicking = {
     },
   ],
   createdAt: "2026-09-21T19:36:26.166Z",
-  updatedAt: "2026-09-21T19:41:16.000Z",
+  updatedAt: "2026-10-30T17:22:04.671Z",
 } as const satisfies Module
