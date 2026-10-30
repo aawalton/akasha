@@ -4,8 +4,7 @@ export const safetyReading = {
   id: "01a069bc-9375-7eee-b662-6f844c8880b6",
   type: "page-type/module",
   slug: "safety-reading",
-  definition:
-    "the safety level Alan logged, taken from his open block and kept on the safety readout",
+  definition: "how code takes how safe Alan feels for a readout",
   code: "ts",
   decisions: [
     {
@@ -100,5 +99,5 @@ export const safetyReading = {
     },
   ],
   createdAt: "2026-09-04T00:06:01.333Z",
-  updatedAt: "2026-09-25T17:30:04.000Z",
+  updatedAt: "2026-10-30T16:09:39.910Z",
 } as const satisfies Module
