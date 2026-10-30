@@ -5,10 +5,10 @@ export const caption = {
   type: "page-type/text-property",
   slug: "caption",
   propertySlug: "caption",
-  definition: "the words a widget draws beside its reading",
+  definition: "the words a readout widget shows with its readings",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-02T21:57:39.545Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T16:02:15.903Z",
 } as const satisfies TextProperty
