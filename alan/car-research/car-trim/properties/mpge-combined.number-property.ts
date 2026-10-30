@@ -5,9 +5,9 @@ export const mpgeCombined = {
   type: "page-type/number-property",
   slug: "mpge-combined",
   propertySlug: "mpge-combined",
-  definition: "how far the car goes on a gallon's worth of energy over the EPA's mixed cycle",
+  definition: "the miles per gallon of fuel EPA gives a car trim on electric power",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:42:05.184Z",
-  updatedAt: "2026-09-21T18:42:37.000Z",
+  updatedAt: "2026-10-30T15:46:59.776Z",
 } as const satisfies NumberProperty
