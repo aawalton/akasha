@@ -4,7 +4,7 @@ export const calendarEventSchema = {
   id: "01a05c02-c735-7f12-9984-13c4709e141f",
   type: "page-type/module",
   slug: "calendar-event-schema",
-  definition: "how a calendar event is read off Google and written back to it",
+  definition: "the shape Google gives a calendar event",
   code: "ts",
   decisions: [
     {
@@ -33,5 +33,5 @@ export const calendarEventSchema = {
     },
   ],
   createdAt: "2026-09-01T08:08:01.077Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:34:14.739Z",
 } as const satisfies Module
