@@ -5,10 +5,10 @@ export const unit = {
   type: "page-type/text-property",
   slug: "unit",
   propertySlug: "unit",
-  definition: "what a reading counts",
+  definition: "what a readout counts",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-08-30T20:05:28.034Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T16:14:46.377Z",
 } as const satisfies TextProperty
