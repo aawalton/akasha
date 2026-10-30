@@ -4,7 +4,7 @@ export const routeAccessHolding = {
   id: "01a0655e-d39a-7381-af75-83593fd6c7b1",
   type: "page-type/module",
   slug: "route-access-holding",
-  definition: "whether a caller may reach a route, with the refusal written to the log",
+  definition: "whether a person can reach a route",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const routeAccessHolding = {
     },
   ],
   createdAt: "2026-09-03T03:45:08.506Z",
-  updatedAt: "2026-09-19T21:23:09.000Z",
+  updatedAt: "2026-10-30T16:53:42.197Z",
 } as const satisfies Module
