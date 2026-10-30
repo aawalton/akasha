@@ -4,7 +4,7 @@ export const seatAction = {
   id: "01a069bd-bdc4-7370-ba29-d4c25882427e",
   type: "page-type/module",
   slug: "seat-action",
-  definition: "the action asked of a seat's supervisor, set and then waited on until it clears",
+  definition: "how code asks a seat's supervisor for a supervisor action",
   code: "ts",
   test: "ts",
   decisions: [
@@ -27,5 +27,5 @@ export const seatAction = {
     },
   ],
   createdAt: "2026-09-04T00:07:17.700Z",
-  updatedAt: "2026-10-28T01:19:55.522Z",
+  updatedAt: "2026-10-30T14:52:22.716Z",
 } as const satisfies Module
