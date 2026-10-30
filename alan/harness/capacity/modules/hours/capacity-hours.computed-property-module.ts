@@ -4,7 +4,7 @@ export const capacityHours = {
   id: "01a14f41-d566-731f-922d-5ec7a8d21f03",
   type: "page-type/computed-property-module",
   slug: "capacity-hours",
-  definition: "the capacity a day's stretches give back or take away",
+  definition: "the stress capacity the time Alan spends in a day gives or costs",
   code: "ts",
   test: "ts",
   decisions: [
@@ -22,5 +22,5 @@ export const capacityHours = {
     },
   ],
   createdAt: "2026-10-18T13:44:36.965Z",
-  updatedAt: "2026-10-18T13:44:36.965Z",
+  updatedAt: "2026-10-30T15:31:15.311Z",
 } as const satisfies ComputedPropertyModule
