@@ -4,7 +4,7 @@ export const alanRequestsWebRoutes = {
   id: "01a0c537-ba5e-7546-95ed-67b34921782e",
   type: "page-type/app-routes",
   slug: "alan-requests-web-routes",
-  definition: "the routes the Requests site serves",
+  definition: "the routes of the Requests site",
   appLayout: "tsx",
   parts: [
     "route/requests-api-errors",
@@ -27,5 +27,5 @@ export const alanRequestsWebRoutes = {
     "route/requests-no-such-page",
   ],
   createdAt: "2026-09-21T18:25:58.878Z",
-  updatedAt: "2026-09-27T15:38:05.000Z",
+  updatedAt: "2026-10-30T16:27:25.095Z",
 } as const satisfies AppRoutes
