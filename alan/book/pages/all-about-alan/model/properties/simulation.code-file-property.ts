@@ -5,7 +5,7 @@ export const simulation = {
   type: "page-type/code-file-property",
   slug: "simulation",
   propertySlug: "simulation",
-  definition: "the computation a model is, written in Python",
+  definition: "the code of a program that shows how a part of Alan works",
   extensions: ["py"],
   decisions: [
     {
@@ -15,5 +15,5 @@ export const simulation = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:20:59.817Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:58:03.586Z",
 } as const satisfies CodeFileProperty
