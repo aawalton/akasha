@@ -43,6 +43,11 @@ test("a notice reaches the game master, the world builder and the writer of its 
   ])
 })
 
+test("a notice of a one-seat story reaches its game master seat alone", () => {
+  expect(noticedOf(MASTER, GAME, true)).toEqual([MASTER])
+  expect(noticedOf(MASTER, GAME, false)).toHaveLength(3)
+})
+
 test("a game master spelling no persona is the only seat a notice reaches", () => {
   expect(noticedOf("a-seat", GAME)).toEqual(["a-seat"])
 })

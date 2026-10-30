@@ -30,6 +30,10 @@ export const turnSeats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A notice of a one-seat story's turn reaches its game master seat alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A coordinator seat spelling no persona is the only seat a notice reaches.",
     },
     {
@@ -38,5 +42,5 @@ export const turnSeats = {
     },
   ],
   createdAt: "2026-09-27T13:26:16.707Z",
-  updatedAt: "2026-10-17T19:48:08.090Z",
+  updatedAt: "2026-10-30T12:13:28.026Z",
 } as const satisfies Module

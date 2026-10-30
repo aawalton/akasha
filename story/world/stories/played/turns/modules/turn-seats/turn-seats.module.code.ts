@@ -21,9 +21,9 @@ export function coordinatorOf(master: string, game: string): Coordinator | null 
   return null
 }
 
-export function noticedOf(master: string, game: string): readonly string[] {
+export function noticedOf(master: string, game: string, oneSeat = false): readonly string[] {
   const held = coordinatorOf(master, game)
-  if (held === null || held.role !== gameMaster.slug) return [master]
+  if (oneSeat || held === null || held.role !== gameMaster.slug) return [master]
   return [master, ...NOTICED.map((role) => `${held.persona}-${role}-${game}`)]
 }
 
