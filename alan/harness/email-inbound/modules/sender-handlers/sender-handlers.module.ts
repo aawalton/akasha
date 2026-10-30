@@ -4,7 +4,7 @@ export const senderHandlers = {
   id: "01a17482-3af7-7db8-95f2-a83b695ca757",
   type: "page-type/module",
   slug: "sender-handlers",
-  definition: "each relationship's email address against the seat its mail is handed to",
+  definition: "how code finds the seat that handles the email from a relationship",
   code: "ts",
   test: "ts",
   decisions: [
@@ -22,5 +22,5 @@ export const senderHandlers = {
     },
   ],
   createdAt: "2026-10-25T19:20:54.262Z",
-  updatedAt: "2026-10-25T19:20:54.262Z",
+  updatedAt: "2026-10-30T15:48:22.102Z",
 } as const satisfies Module
