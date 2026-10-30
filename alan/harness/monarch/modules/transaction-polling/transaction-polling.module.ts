@@ -4,7 +4,7 @@ export const transactionPolling = {
   id: "01a0686a-7a57-7bb9-b422-97270e0fa807",
   type: "page-type/module",
   slug: "transaction-polling",
-  definition: "the Monarch rows whose update stamp has moved landed into our copy",
+  definition: "how a service writes the Monarch transactions that change into akasha",
   code: "ts",
   decisions: [
     {
@@ -45,5 +45,5 @@ export const transactionPolling = {
     },
   ],
   createdAt: "2026-09-03T17:56:43.735Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:42:41.182Z",
 } as const satisfies Module
