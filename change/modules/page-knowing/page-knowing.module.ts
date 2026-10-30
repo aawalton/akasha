@@ -4,8 +4,7 @@ export const pageKnowing = {
   id: "01a0795c-c0d5-7580-afd1-7b86083ef2dd",
   type: "page-type/module",
   slug: "page-knowing",
-  definition:
-    "the page a world's index answers at a path, and the pages on either side of that page's edges",
+  definition: "how code reads what the index knows about a page",
   code: "ts",
   test: "ts",
   decisions: [
@@ -156,5 +155,5 @@ export const pageKnowing = {
     },
   ],
   createdAt: "2026-09-07T00:55:16.949Z",
-  updatedAt: "2026-10-27T22:41:32.648Z",
+  updatedAt: "2026-10-30T17:19:18.999Z",
 } as const satisfies Module
