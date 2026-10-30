@@ -4,8 +4,8 @@ export const wanderingInnWikiWebLook = {
   id: "01a0c5fc-1c4e-79ce-809c-b8add3236827",
   type: "page-type/stylesheet",
   slug: "wandering-inn-wiki-web-look",
-  definition: "the look innworld.wiki wears, and the trees holding its utilities",
+  definition: "the styles of innworld.wiki",
   styles: "css",
   createdAt: "2026-09-21T22:00:29.006Z",
-  updatedAt: "2026-09-22T13:52:13.000Z",
+  updatedAt: "2026-10-30T16:46:38.216Z",
 } as const satisfies Stylesheet
