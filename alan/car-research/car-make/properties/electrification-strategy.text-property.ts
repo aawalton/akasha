@@ -5,10 +5,10 @@ export const electrificationStrategy = {
   type: "page-type/text-property",
   slug: "electrification-strategy",
   propertySlug: "electrification-strategy",
-  definition: "what the make has said it will build and by when",
+  definition: "the plan a car make has for electric power in its cars",
   maxLength: 2000,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:55:06.621Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:31:39.537Z",
 } as const satisfies TextProperty
