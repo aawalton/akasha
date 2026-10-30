@@ -5,10 +5,10 @@ export const securityName = {
   type: "page-type/text-property",
   slug: "security-name",
   propertySlug: "security-name",
-  definition: "what the fund or share a holding is of is called",
+  definition: "the name of the investment in a Monarch holding",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T16:11:27.616Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:49:43.955Z",
 } as const satisfies TextProperty
