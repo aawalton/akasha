@@ -4,7 +4,7 @@ export const musicbrainzClient = {
   id: "01a06262-ff4c-7000-b193-5ca094701486",
   type: "page-type/module",
   slug: "musicbrainz-client",
-  definition: "MusicBrainz asked for an artist, the works and the recordings",
+  definition: "how code asks MusicBrainz about an artist",
   code: "ts",
   decisions: [
     {
@@ -45,5 +45,5 @@ export const musicbrainzClient = {
     },
   ],
   createdAt: "2026-09-02T13:50:50.188Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:28:25.938Z",
 } as const satisfies Module
