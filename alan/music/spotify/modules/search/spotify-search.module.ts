@@ -4,7 +4,7 @@ export const spotifySearch = {
   id: "01a06261-dc1d-7009-8b51-0a4990d03db0",
   type: "page-type/module",
   slug: "spotify-search",
-  definition: "Spotify's catalog searched by text",
+  definition: "a search of Spotify by text",
   code: "ts",
   test: "ts",
   decisions: [
@@ -31,5 +31,5 @@ export const spotifySearch = {
     },
   ],
   createdAt: "2026-09-02T13:49:35.645Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:25:29.890Z",
 } as const satisfies Module
