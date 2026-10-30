@@ -9,8 +9,9 @@ export const believe = {
     { partOfSpeech: "part-of-speech/verb", spelling: "believe" },
     { partOfSpeech: "part-of-speech/verb", spelling: "believes" },
     { partOfSpeech: "part-of-speech/past-participle", spelling: "believed" },
+    { partOfSpeech: "part-of-speech/past-tense", spelling: "believed" },
     { partOfSpeech: "part-of-speech/present-participle", spelling: "believing" },
   ],
   createdAt: "2026-10-30T14:38:39.575Z",
-  updatedAt: "2026-10-30T14:38:39.575Z",
+  updatedAt: "2026-10-30T16:34:44.472Z",
 } as const satisfies CommonLanguageTerm
