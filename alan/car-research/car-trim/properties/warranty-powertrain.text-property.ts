@@ -5,10 +5,10 @@ export const warrantyPowertrain = {
   type: "page-type/text-property",
   slug: "warranty-powertrain",
   propertySlug: "warranty-powertrain",
-  definition: "how long and how far the maker covers what moves the car",
+  definition: "the warranty the company that makes the car gives on the powertrain",
   maxLength: 500,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-21T18:39:53.952Z",
-  updatedAt: "2026-09-21T18:40:16.000Z",
+  updatedAt: "2026-10-30T15:07:39.445Z",
 } as const satisfies TextProperty
