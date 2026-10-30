@@ -4,7 +4,7 @@ export const alanWebApiSeatTyping = {
   id: "01a1700f-9a83-73e2-8739-cf7ebcacb37b",
   type: "page-type/route",
   slug: "alan-web-api-seat-typing",
-  definition: "the signed-in person telling a seat's page that person is typing to the seat",
+  definition: "the people that write a message to a seat",
   code: "ts",
   urlPath: "api/seat/typing",
   decisions: [
@@ -37,5 +37,5 @@ export const alanWebApiSeatTyping = {
     },
   ],
   createdAt: "2026-10-24T22:37:13.218Z",
-  updatedAt: "2026-10-24T22:37:13.218Z",
+  updatedAt: "2026-10-30T17:01:54.288Z",
 } as const satisfies Route
