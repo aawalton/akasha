@@ -5,9 +5,10 @@ export const dcFastCharge10To80Min = {
   type: "page-type/number-property",
   slug: "dc-fast-charge10-to80-min",
   propertySlug: "dc-fast-charge10-to80-min",
-  definition: "how long a fast charger takes from a tenth full to four fifths, in minutes",
+  definition:
+    "the minutes a fast charger needs to charge a car trim from ten percent to eighty percent",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:41:05.368Z",
-  updatedAt: "2026-09-21T18:42:37.000Z",
+  updatedAt: "2026-10-30T15:04:29.955Z",
 } as const satisfies NumberProperty
