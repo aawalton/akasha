@@ -13,6 +13,7 @@ export const betterAuthRr = {
     "module/sign-in-naming",
     "module/sign-in-reaching",
     "module/app-handover-session",
+    "module/looking-refusal",
   ],
   decisions: [
     {
@@ -42,5 +43,5 @@ export const betterAuthRr = {
     },
   ],
   createdAt: "2026-09-19T18:40:10.214Z",
-  updatedAt: "2026-10-30T15:58:28.422Z",
+  updatedAt: "2026-10-30T16:27:37.106Z",
 } as const satisfies Domain

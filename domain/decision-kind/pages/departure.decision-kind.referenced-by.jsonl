@@ -761,6 +761,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/google-auth-server/google-auth-server.module.ts","id":"01a0bb11-44b4-71af-a75d-f347bd292d0a"}
 {"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/google-sign-in/google-sign-in.module.ts","id":"01a0bafb-08be-77ae-a54a-a90577b68072"}
 {"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/google-sign-out/google-sign-out.module.ts","id":"01a18d88-b247-7bdb-b04c-a0963f5bb07c"}
+{"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/looking-refusal/looking-refusal.module.ts","id":"01a18da3-6114-74af-a9ba-f91015e1f9f8"}
 {"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/sign-in-naming/sign-in-naming.module.ts","id":"01a0baf8-3272-7b17-8439-b3653a48597a"}
 {"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/sign-in-reaching/sign-in-reaching.module.ts","id":"01a0bb11-1bf4-7334-9382-7617d44ca836"}
 {"propertySlug":"decision-kind","path":"alan/harness/capacity/capacity.domain.ts","id":"01a06230-614e-7825-b4af-dd84fd42f0ce"}

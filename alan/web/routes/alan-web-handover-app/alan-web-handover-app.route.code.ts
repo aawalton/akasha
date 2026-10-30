@@ -1,9 +1,11 @@
 import {
-  LOOKING_ONLY,
-  looksOnly,
   SIGN_IN_PATH,
   signedInAs,
 } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
+import {
+  LOOKING_ONLY,
+  looksOnly,
+} from "akasha/alan/harness/better-auth-rr/modules/looking-refusal/looking-refusal.module.code.ts"
 import {
   APP_AUDIENCE,
   appLandingAt,

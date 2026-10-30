@@ -9,13 +9,7 @@ export type SignedIn = {
   readonly subjectHash: string
 }
 
-const LOOKING_METHODS: ReadonlySet<string> = new Set(["GET", "HEAD", "OPTIONS"])
-
-export const LOOKING_ONLY = "A browser signed in only to look sends nothing."
-
-const FORBIDDEN = 403
-
-async function sessionOf(request: Request): Promise<unknown> {
+export async function sessionOf(request: Request): Promise<unknown> {
   try {
     return await authServer().api.getSession({ headers: request.headers })
   } catch (thrown) {
@@ -31,18 +25,4 @@ export async function signedInAs(request: Request): Promise<SignedIn | null> {
   const contributor = textIn(user.contributor)
   if (contributor === null) return null
   return { contributor, subjectHash: textIn(user.subjectHash) ?? "" }
-}
-
-export async function looksOnly(request: Request): Promise<boolean> {
-  return objectIn(objectIn(await sessionOf(request))?.session)?.look === true
-}
-
-export async function lookingRefused(
-  request: Request,
-  readByPost: ReadonlySet<string>
-): Promise<Response | null> {
-  if (LOOKING_METHODS.has(request.method.toUpperCase())) return null
-  if (readByPost.has(new URL(request.url).pathname)) return null
-  if (!(await looksOnly(request))) return null
-  return Response.json({ ok: false, error: LOOKING_ONLY }, { status: FORBIDDEN })
 }

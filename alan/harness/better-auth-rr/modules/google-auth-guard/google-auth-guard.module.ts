@@ -7,6 +7,7 @@ export const googleAuthGuard = {
   definition: "how code finds the contributor a request comes from",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -20,29 +21,7 @@ export const googleAuthGuard = {
       decisionKind: "decision-kind/departure",
       statement: "A cookie that will not read is nobody rather than an error.",
     },
-
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A browser signed in as a person other than Alan only looks.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A session marked to look only is refused every request but a get, a head or an options.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A post to a path the server names as a read is let through as a get is.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "That refusal is made before the request reaches any route.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A request with nobody signed in is left to the route to refuse.",
-    },
   ],
   createdAt: "2026-09-19T18:43:04.112Z",
-  updatedAt: "2026-10-30T15:58:28.422Z",
+  updatedAt: "2026-10-30T16:27:37.106Z",
 } as const satisfies Module
