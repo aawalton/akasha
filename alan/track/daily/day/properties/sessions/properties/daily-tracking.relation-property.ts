@@ -5,7 +5,7 @@ export const dailyTracking = {
   type: "page-type/relation-property",
   slug: "daily-tracking",
   propertySlug: "daily-tracking",
-  definition: "the day holding a stretch of time",
+  definition: "the day that holds a tracked session",
   targetPageType: "page-type/day",
   decisions: [
     {
@@ -15,5 +15,5 @@ export const dailyTracking = {
   ],
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-09-22T15:37:55.000Z",
+  updatedAt: "2026-10-30T16:39:29.166Z",
 } as const satisfies RelationProperty
