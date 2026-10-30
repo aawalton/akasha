@@ -4,7 +4,7 @@ export const testflightPoll = {
   id: "01a05cee-e560-7b4d-8df2-e5be4918211f",
   type: "page-type/module",
   slug: "testflight-poll",
-  definition: "the polling loop that carries an uploaded build from processing to tester-visible",
+  definition: "how code waits until TestFlight gives an iOS app to people",
   code: "ts",
   test: "ts",
   decisions: [
@@ -48,5 +48,5 @@ export const testflightPoll = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:47:30.085Z",
 } as const satisfies Module
