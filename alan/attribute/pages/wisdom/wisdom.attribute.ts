@@ -4,7 +4,7 @@ export const wisdom = {
   id: "01a06841-a1cb-7072-8aa0-eb11c0a4258b",
   type: "page-type/attribute",
   slug: "wisdom",
-  definition: "what Alan has built by learning about himself",
+  definition: "the capacity Alan has from what Alan learns about himself",
   pointUnit: "10,000 words added to an all-about-alan topic",
   code: "ts",
   test: "ts",
@@ -27,5 +27,5 @@ export const wisdom = {
     },
   ],
   createdAt: "2026-09-03T17:12:06.859Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:45:59.811Z",
 } as const satisfies Attribute
