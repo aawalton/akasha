@@ -5,6 +5,7 @@ export const atlasApp = {
   type: "page-type/domain",
   slug: "atlas-app",
   definition: "the program for the places in collections",
+  spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "Atlas app" }],
   createdAt: "2026-09-03T12:24:57.658Z",
-  updatedAt: "2026-09-24T17:52:26.000Z",
+  updatedAt: "2026-10-30T15:39:35.067Z",
 } as const satisfies Domain
