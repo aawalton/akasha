@@ -5,8 +5,9 @@ export const projects = {
   type: "page-type/session-activity",
   slug: "projects",
   title: "Projects",
+  spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "Projects" }],
   defaultDifficulty: 1,
   icon: "file-text",
   createdAt: "2026-07-05T23:07:19.237Z",
-  updatedAt: "2026-10-21T14:03:37.259Z",
+  updatedAt: "2026-10-30T17:04:49.314Z",
 } as const satisfies SessionActivity
