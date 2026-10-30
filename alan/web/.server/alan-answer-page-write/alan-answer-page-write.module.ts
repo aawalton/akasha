@@ -4,7 +4,7 @@ export const alanAnswerPageWrite = {
   id: "01a0655e-d399-7645-8aef-dc15eae745ee",
   type: "page-type/module",
   slug: "alan-answer-page-write",
-  definition: "a page write taken from Alan's browser and carried to the store",
+  definition: "how alanwalton.com carries the page a browser writes to the page store",
   code: "ts",
   decisions: [
     {
@@ -17,5 +17,5 @@ export const alanAnswerPageWrite = {
     },
   ],
   createdAt: "2026-09-03T03:45:08.505Z",
-  updatedAt: "2026-10-03T14:06:30.000Z",
+  updatedAt: "2026-10-30T16:56:10.896Z",
 } as const satisfies Module
