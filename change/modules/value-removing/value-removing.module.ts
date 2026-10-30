@@ -4,7 +4,7 @@ export const valueRemoving = {
   id: "01a09c7d-7d5f-746f-8af0-c3635ccb603d",
   type: "page-type/module",
   slug: "value-removing",
-  definition: "the edits taking a value out of a page property in a page's body",
+  definition: "how code removes a value from a page property in the body of a page",
   code: "ts",
   decisions: [
     {
@@ -54,5 +54,5 @@ export const valueRemoving = {
     },
   ],
   createdAt: "2026-09-13T20:37:44.927Z",
-  updatedAt: "2026-09-22T14:38:51.000Z",
+  updatedAt: "2026-10-30T17:36:43.683Z",
 } as const satisfies Module
