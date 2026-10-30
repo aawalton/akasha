@@ -4,7 +4,7 @@ export const monarchAmazonNotes = {
   id: "01a06867-fdff-7f9c-9aa9-9feb98cf40cb",
   type: "page-type/module",
   slug: "monarch-amazon-notes",
-  definition: "the Amazon order confirmations matched to charges and written on as notes",
+  definition: "how code writes a note on the Monarch transaction of each Amazon purchase",
   code: "ts",
   decisions: [
     {
@@ -40,5 +40,5 @@ export const monarchAmazonNotes = {
     },
   ],
   createdAt: "2026-09-03T17:54:00.831Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:45:35.376Z",
 } as const satisfies Module
