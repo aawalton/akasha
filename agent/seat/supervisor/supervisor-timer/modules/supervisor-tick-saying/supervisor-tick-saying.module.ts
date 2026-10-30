@@ -4,7 +4,7 @@ export const supervisorTickSaying = {
   id: "01a08e28-7d11-7673-83b4-5b56092efa4c",
   type: "page-type/module",
   slug: "supervisor-tick-saying",
-  definition: "a monitor's line, said where the kind it reports turns rather than on every tick",
+  definition: "how code writes a message to a log when the kind of the message changes",
   code: "ts",
   test: "ts",
   decisions: [
@@ -34,5 +34,5 @@ export const supervisorTickSaying = {
     },
   ],
   createdAt: "2026-09-11T01:50:13.265Z",
-  updatedAt: "2026-09-24T17:16:21.000Z",
+  updatedAt: "2026-10-30T14:37:01.254Z",
 } as const satisfies Module
