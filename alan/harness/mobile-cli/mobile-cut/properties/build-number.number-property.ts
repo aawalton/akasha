@@ -5,9 +5,9 @@ export const buildNumber = {
   type: "page-type/number-property",
   slug: "build-number",
   propertySlug: "build-number",
-  definition: "which build of its app a cut is",
+  definition: "the number a mobile cut has among the mobile cuts of its app",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T17:42:47.583Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T15:45:55.569Z",
 } as const satisfies NumberProperty
