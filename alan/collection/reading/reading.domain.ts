@@ -5,7 +5,9 @@ export const reading = {
   type: "page-type/domain",
   slug: "reading",
   definition: "how the next thing for Alan to read is chosen",
-  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "readings" }],
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "readings", scope: "domain/reading" },
+  ],
   parts: [
     "module/chapter-choosing",
     "module/reading-shapes",
@@ -22,5 +24,5 @@ export const reading = {
     "page-type/scripture-passage",
   ],
   createdAt: "2026-09-03T04:15:56.581Z",
-  updatedAt: "2026-09-25T13:02:31.000Z",
+  updatedAt: "2026-10-30T16:57:49.989Z",
 } as const satisfies Domain
