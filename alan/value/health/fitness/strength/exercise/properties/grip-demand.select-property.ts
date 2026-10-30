@@ -5,9 +5,9 @@ export const gripDemand = {
   type: "page-type/select-property",
   slug: "grip-demand",
   propertySlug: "grip-demand",
-  definition: "how much the movement asks of the hands before the target muscle gives out",
+  definition: "how hard a strength exercise works the hands",
   values: ["high", "low", "none"],
   types: "ts",
   createdAt: "2026-09-03T04:19:22.687Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:52:38.351Z",
 } as const satisfies SelectProperty
