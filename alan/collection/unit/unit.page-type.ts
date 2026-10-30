@@ -4,7 +4,7 @@ export const unit = {
   id: "01a063de-2c60-7014-9620-56bbc19efcd1",
   type: "page-type/page-type",
   slug: "unit",
-  definition: "a measure of length",
+  definition: "what a length is counted in",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "unit" },
     { partOfSpeech: "part-of-speech/noun", spelling: "units" },
@@ -32,5 +32,5 @@ export const unit = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T20:44:59.872Z",
-  updatedAt: "2026-09-22T14:07:21.000Z",
+  updatedAt: "2026-10-30T15:18:20.340Z",
 } as const satisfies PageType
