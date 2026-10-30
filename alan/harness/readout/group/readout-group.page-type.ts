@@ -44,11 +44,11 @@ export const readoutGroup = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A group draws its readings in the order of the place each reading states for that group.",
+        "A group shows its readouts in the order of the place each readout states for that group.",
     },
   ],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T20:05:28.030Z",
-  updatedAt: "2026-10-30T16:00:54.797Z",
+  updatedAt: "2026-10-30T17:05:49.144Z",
 } as const satisfies PageType
