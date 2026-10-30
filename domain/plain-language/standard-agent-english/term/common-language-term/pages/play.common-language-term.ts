@@ -8,7 +8,8 @@ export const play = {
   spellings: [
     { partOfSpeech: "part-of-speech/verb", spelling: "play" },
     { partOfSpeech: "part-of-speech/verb", spelling: "plays" },
+    { partOfSpeech: "part-of-speech/past-participle", spelling: "played" },
   ],
   createdAt: "2026-09-24T19:15:39.956Z",
-  updatedAt: "2026-09-25T15:41:48.000Z",
+  updatedAt: "2026-10-30T15:42:25.586Z",
 } as const satisfies CommonLanguageTerm
