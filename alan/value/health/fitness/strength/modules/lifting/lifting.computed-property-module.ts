@@ -4,7 +4,7 @@ export const lifting = {
   id: "01a0c430-b805-7a8b-9fe8-22a00d76e851",
   type: "page-type/computed-property-module",
   slug: "lifting",
-  definition: "how code counts the total pounds a lifting set moves",
+  definition: "how code counts the total pounds an exercise set moves",
   code: "ts",
   test: "ts",
   decisions: [
@@ -34,5 +34,5 @@ export const lifting = {
     },
   ],
   createdAt: "2026-09-21T13:38:42.309Z",
-  updatedAt: "2026-10-30T16:54:27.675Z",
+  updatedAt: "2026-10-30T17:12:32.584Z",
 } as const satisfies ComputedPropertyModule
