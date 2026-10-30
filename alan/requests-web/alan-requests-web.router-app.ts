@@ -5,6 +5,7 @@ export const alanRequestsWeb = {
   type: "page-type/router-app",
   slug: "alan-requests-web",
   definition: "the routes the Requests site serves to a browser",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "Requests site" }],
   tunnelRoutes: [
     {
       name: "requests",
@@ -70,5 +71,5 @@ export const alanRequestsWeb = {
     },
   ],
   createdAt: "2026-09-21T18:25:58.863Z",
-  updatedAt: "2026-09-25T16:25:20.000Z",
+  updatedAt: "2026-10-30T15:59:23.537Z",
 } as const satisfies RouterApp
