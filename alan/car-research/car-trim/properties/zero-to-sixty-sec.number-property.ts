@@ -5,9 +5,9 @@ export const zeroToSixtySec = {
   type: "page-type/number-property",
   slug: "zero-to-sixty-sec",
   propertySlug: "zero-to-sixty-sec",
-  definition: "how long the car takes to reach sixty miles an hour, in seconds",
+  definition: "the time a car takes to reach sixty miles per hour",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:43:59.360Z",
-  updatedAt: "2026-09-21T18:44:23.000Z",
+  updatedAt: "2026-10-30T15:13:25.580Z",
 } as const satisfies NumberProperty
