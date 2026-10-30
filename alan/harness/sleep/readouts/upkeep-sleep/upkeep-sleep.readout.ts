@@ -18,7 +18,8 @@ export const upkeepSleep = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is the reading the tracking day has for the day asked for.",
+      statement:
+        "The number this readout shows is the sleep the tracking day has for the day asked for.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -35,7 +36,7 @@ export const upkeepSleep = {
 
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here caches a reading or decides when a reading is taken.",
+      statement: "Nothing here caches a number or decides when a number is taken.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -45,5 +46,5 @@ export const upkeepSleep = {
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "day-row",
   createdAt: "2026-09-02T12:38:40.780Z",
-  updatedAt: "2026-10-30T16:02:02.038Z",
+  updatedAt: "2026-10-30T17:25:08.587Z",
 } as const satisfies Readout
