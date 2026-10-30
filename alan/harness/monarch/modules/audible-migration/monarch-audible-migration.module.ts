@@ -4,8 +4,7 @@ export const monarchAudibleMigration = {
   id: "01a06866-06f1-7168-a141-d8d56c28cd00",
   type: "page-type/module",
   slug: "monarch-audible-migration",
-  definition:
-    "the Audible charges already standing, carried onto the budget scheme that replaced them",
+  definition: "how code moves each Audible Monarch transaction to the Monarch category for Audible",
   code: "ts",
   decisions: [
     {
@@ -49,5 +48,5 @@ export const monarchAudibleMigration = {
     },
   ],
   createdAt: "2026-09-03T17:51:52.049Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:48:35.906Z",
 } as const satisfies Module
