@@ -5,7 +5,7 @@ export const scriptureTranslation = {
   type: "page-type/select-property",
   slug: "scripture-translation",
   propertySlug: "translation",
-  definition: "a rendering of scripture",
+  definition: "a version of scripture",
   values: ["book-of-mormon", "web"],
   decisions: [
     {
@@ -15,5 +15,5 @@ export const scriptureTranslation = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:36:39.632Z",
-  updatedAt: "2026-09-25T13:02:31.000Z",
+  updatedAt: "2026-10-30T15:11:03.561Z",
 } as const satisfies SelectProperty
