@@ -4,7 +4,7 @@ export const personaPointsRebuilding = {
   id: "01a082eb-b037-7fe2-b2ad-f45181c80cb2",
   type: "page-type/service-workstation",
   slug: "persona-points-rebuilding",
-  definition: "the service working out each persona's points again once a day has opened",
+  definition: "the service that counts the points of each persona when a day opens",
   enabled: true,
   systemd: {
     schedule: "*-*-* 04:10:00",
@@ -31,5 +31,5 @@ export const personaPointsRebuilding = {
     },
   ],
   createdAt: "2026-09-08T21:27:59.287Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-30T16:10:55.169Z",
 } as const satisfies ServiceWorkstation
