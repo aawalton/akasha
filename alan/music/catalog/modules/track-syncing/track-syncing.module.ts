@@ -4,7 +4,7 @@ export const trackSyncing = {
   id: "01a0a593-09e4-757b-a4e7-c505b16e801a",
   type: "page-type/module",
   slug: "track-syncing",
-  definition: "the tracks a release carries, filed as pages",
+  definition: "how code writes a page for each track a release carries",
   code: "ts",
   test: "ts",
   decisions: [
@@ -133,5 +133,5 @@ export const trackSyncing = {
     },
   ],
   createdAt: "2026-09-15T14:57:52.100Z",
-  updatedAt: "2026-10-23T13:56:43.112Z",
+  updatedAt: "2026-10-30T16:29:52.063Z",
 } as const satisfies Module
