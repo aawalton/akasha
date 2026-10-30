@@ -40,7 +40,19 @@ export const giftedTrialWorldWomb = {
       fact: "Each morning the cult leaders talk beside her mother, and their muffled words reach Nala.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's soul-sense stops at her own skin; she knows the womb only by touch and hearing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "By touch the womb is warm fluid, a soft wall close on every side, and the cord at her belly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Curled tight, the body cannot sit up; it can only shift, stretch a little and kick.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-30T13:47:19.494Z",
-  updatedAt: "2026-10-30T13:47:19.494Z",
+  updatedAt: "2026-10-30T14:13:30.130Z",
 } as const satisfies Place
