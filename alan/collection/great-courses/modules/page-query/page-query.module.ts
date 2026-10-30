@@ -4,7 +4,7 @@ export const pageQuery = {
   id: "01a06579-f3d9-7000-b770-d76acf7f6945",
   type: "page-type/module",
   slug: "page-query",
-  definition: "a page type's rows read from the store, whole or a page found by its title",
+  definition: "how code reads the rows of a page type from the store",
   code: "ts",
   decisions: [
     {
@@ -25,5 +25,5 @@ export const pageQuery = {
     },
   ],
   createdAt: "2026-09-03T04:14:46.233Z",
-  updatedAt: "2026-10-18T21:06:56.069Z",
+  updatedAt: "2026-10-30T15:19:56.498Z",
 } as const satisfies Module
