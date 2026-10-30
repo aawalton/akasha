@@ -5,9 +5,9 @@ export const link = {
   type: "page-type/url-property",
   slug: "link",
   propertySlug: "link",
-  definition: "where Alan goes to do it",
+  definition: "the URL Alan opens to do a to-do",
   maxLength: 100,
   types: "ts",
   createdAt: "2026-09-03T04:57:44.119Z",
-  updatedAt: "2026-09-15T16:36:47.000Z",
+  updatedAt: "2026-10-30T16:44:02.242Z",
 } as const satisfies UrlProperty
