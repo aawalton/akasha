@@ -4,7 +4,7 @@ export const alanWebApiStripeWebhook = {
   id: "01a0ba9c-04fb-7a10-9331-ba1d5382ec7a",
   type: "page-type/route",
   slug: "alan-web-api-stripe-webhook",
-  definition: "the payment Stripe hands this app",
+  definition: "a payment Stripe reports to alanwalton.com",
   code: "ts",
   test: "ts",
   urlPath: "api/stripe/webhook",
@@ -63,5 +63,5 @@ export const alanWebApiStripeWebhook = {
     },
   ],
   createdAt: "2026-09-19T16:59:42.203Z",
-  updatedAt: "2026-09-25T15:40:24.000Z",
+  updatedAt: "2026-10-30T16:58:15.348Z",
 } as const satisfies Route
