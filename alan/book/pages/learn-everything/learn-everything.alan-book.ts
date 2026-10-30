@@ -4,7 +4,7 @@ export const learnEverything = {
   id: "01a0659d-311d-7001-b736-ae7c499c3bf3",
   type: "page-type/alan-book",
   slug: "learn-everything",
-  definition: "how far into the whole of knowledge Ali has read, node by node",
+  definition: "the mastery level Alan has in each learn everything topic",
   parts: [
     "module/seeded-draw",
     "module/topic-tree",
@@ -56,5 +56,5 @@ export const learnEverything = {
     },
   ],
   createdAt: "2026-09-03T04:53:15.677Z",
-  updatedAt: "2026-09-21T22:13:13.000Z",
+  updatedAt: "2026-10-30T15:00:45.165Z",
 } as const satisfies AlanBook
