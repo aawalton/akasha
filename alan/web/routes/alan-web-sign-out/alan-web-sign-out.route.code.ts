@@ -1,7 +1,5 @@
-import {
-  SIGN_IN_PATH,
-  signedOutCookies,
-} from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
+import { SIGN_IN_PATH } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
+import { signedOutCookies } from "akasha/alan/harness/better-auth-rr/modules/google-sign-out/google-sign-out.module.code.ts"
 import { redirect } from "react-router"
 
 export async function action({ request }: { request: Request }): Promise<Response> {

@@ -4,7 +4,7 @@ export const googleAuthGuard = {
   id: "01a0bafa-a730-7735-bd9a-e26e4084eadb",
   type: "page-type/module",
   slug: "google-auth-guard",
-  definition: "the contributor a request's cookie reaches, and what ends that request's session",
+  definition: "how code finds the contributor a request comes from",
   code: "ts",
   test: "ts",
   decisions: [
@@ -20,15 +20,7 @@ export const googleAuthGuard = {
       decisionKind: "decision-kind/departure",
       statement: "A cookie that will not read is nobody rather than an error.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "Better Auth states the cookies ending a session, and they are read off its answer.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A session that will not end hands back no cookie rather than an error.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A browser signed in as a person other than Alan only looks.",
@@ -52,5 +44,5 @@ export const googleAuthGuard = {
     },
   ],
   createdAt: "2026-09-19T18:43:04.112Z",
-  updatedAt: "2026-10-24T22:26:45.352Z",
+  updatedAt: "2026-10-30T15:58:28.422Z",
 } as const satisfies Module

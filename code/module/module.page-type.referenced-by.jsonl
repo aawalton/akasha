@@ -589,6 +589,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/better-auth-rr/modules/google-auth-server/google-auth-server.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/better-auth-rr/modules/google-sign-in/google-sign-in.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/better-auth-rr/modules/google-sign-out/google-sign-out.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/better-auth-rr/modules/sign-in-naming/sign-in-naming.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/better-auth-rr/modules/sign-in-reaching/sign-in-reaching.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/capacity/modules/reading/capacity-reading.module.ts","typed":true,"deferred":false}

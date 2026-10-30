@@ -9,6 +9,7 @@ export const betterAuthRr = {
     "module/google-auth-guard",
     "module/google-auth-server",
     "module/google-sign-in",
+    "module/google-sign-out",
     "module/sign-in-naming",
     "module/sign-in-reaching",
     "module/app-handover-session",
@@ -41,5 +42,5 @@ export const betterAuthRr = {
     },
   ],
   createdAt: "2026-09-19T18:40:10.214Z",
-  updatedAt: "2026-09-24T22:27:54.000Z",
+  updatedAt: "2026-10-30T15:58:28.422Z",
 } as const satisfies Domain
