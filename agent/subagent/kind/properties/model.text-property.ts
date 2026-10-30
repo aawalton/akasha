@@ -5,10 +5,10 @@ export const model = {
   type: "page-type/text-property",
   slug: "model",
   propertySlug: "model",
-  definition: "the model family a kind's subagents answer on",
+  definition: "the model every subagent of a kind runs on",
   maxLength: 40,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-08-30T19:04:23.372Z",
-  updatedAt: "2026-09-24T18:44:07.000Z",
+  updatedAt: "2026-10-30T14:50:42.470Z",
 } as const satisfies TextProperty
