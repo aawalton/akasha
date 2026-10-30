@@ -4,7 +4,7 @@ export const surplusFallNotifying = {
   id: "01a0686a-7a57-7e6e-8a26-5e4ca27ca43d",
   type: "page-type/module",
   slug: "surplus-fall-notifying",
-  definition: "the day eating into the night, told to Alan once per rung it falls",
+  definition: "how code watches today's surplus for a new tier color under today's sleep",
   code: "ts",
   decisions: [
     {
@@ -87,5 +87,5 @@ export const surplusFallNotifying = {
     },
   ],
   createdAt: "2026-09-03T17:56:43.735Z",
-  updatedAt: "2026-09-24T18:01:35.000Z",
+  updatedAt: "2026-10-30T16:13:28.703Z",
 } as const satisfies Module
