@@ -4,7 +4,7 @@ export const supervisorAgentActionTypes = {
   id: "01a0683e-3dbe-7007-9a41-f9ef0fcef896",
   type: "page-type/module",
   slug: "supervisor-agent-action-types",
-  definition: "what an action asked of a running seat is",
+  definition: "the types for a supervisor action",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const supervisorAgentActionTypes = {
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-10-24T22:00:07.098Z",
+  updatedAt: "2026-10-30T14:41:39.874Z",
 } as const satisfies Module
