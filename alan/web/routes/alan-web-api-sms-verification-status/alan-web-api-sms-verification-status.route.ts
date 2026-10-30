@@ -4,7 +4,7 @@ export const alanWebApiSmsVerificationStatus = {
   id: "01a090d4-4959-7068-b799-d973b6d7993e",
   type: "page-type/route",
   slug: "alan-web-api-sms-verification-status",
-  definition: "the toll-free verification status Telnyx hands this app",
+  definition: "what Telnyx reports about whether a phone number can send text messages",
   code: "ts",
   urlPath: "api/sms/verification-status",
   decisions: [
@@ -41,5 +41,5 @@ export const alanWebApiSmsVerificationStatus = {
     },
   ],
   createdAt: "2026-09-11T14:17:06.649Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T17:03:31.930Z",
 } as const satisfies Route
