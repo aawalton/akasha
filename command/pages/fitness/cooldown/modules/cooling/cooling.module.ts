@@ -4,7 +4,7 @@ export const cooling = {
   id: "01a0bab7-a12a-7864-a9da-d54a152e1852",
   type: "page-type/module",
   slug: "cooling",
-  definition: "the held stretches that bring Alan down off a bout",
+  definition: "the stretches Alan holds after a workout",
   code: "ts",
   test: "ts",
   decisions: [
@@ -47,5 +47,5 @@ export const cooling = {
     },
   ],
   createdAt: "2026-09-19T17:29:51.658Z",
-  updatedAt: "2026-10-30T17:27:19.100Z",
+  updatedAt: "2026-10-30T17:44:32.961Z",
 } as const satisfies Module
