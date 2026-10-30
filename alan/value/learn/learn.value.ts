@@ -4,7 +4,7 @@ export const learn = {
   id: "019eb7d1-0072-7909-a9a7-6fa76806f067",
   type: "page-type/value",
   slug: "learn",
-  definition: "the understanding Alan builds",
+  definition: "the knowledge Alan builds",
   label: "Learn",
   description:
     "Learn represents my progress towards understanding truth in all domains of knowledge.",
@@ -15,5 +15,5 @@ export const learn = {
   groups: ["readout-group/values"],
   parts: ["domain/mathematics"],
   createdAt: "2026-06-11T17:53:08.210Z",
-  updatedAt: "2026-09-15T16:37:11.000Z",
+  updatedAt: "2026-10-30T16:39:47.995Z",
 } as const satisfies Value
