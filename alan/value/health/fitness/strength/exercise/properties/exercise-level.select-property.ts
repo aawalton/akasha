@@ -5,9 +5,10 @@ export const exerciseLevel = {
   type: "page-type/select-property",
   slug: "exercise-level",
   propertySlug: "exercise-level",
-  definition: "how much practice the movement takes before it is worth loading",
+  definition:
+    "how much practice a strength exercise needs before Alan adds weight to the strength exercise",
   values: ["beginner", "expert", "intermediate"],
   types: "ts",
   createdAt: "2026-09-03T04:19:22.687Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:53:31.894Z",
 } as const satisfies SelectProperty
