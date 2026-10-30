@@ -4,7 +4,7 @@ export const terminalBash = {
   id: "01a0680a-fa30-73ea-803a-5ff0bd947f73",
   type: "page-type/module",
   slug: "terminal-bash",
-  definition: "the whole of the bash a terminal sources, composed as a text",
+  definition: "the whole of the bash a terminal reads in, composed as a text",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -45,5 +45,5 @@ export const terminalBash = {
     },
   ],
   createdAt: "2026-09-03T16:12:25.008Z",
-  updatedAt: "2026-09-24T22:17:57.000Z",
+  updatedAt: "2026-10-30T16:23:39.230Z",
 } as const satisfies Module
