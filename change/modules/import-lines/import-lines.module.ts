@@ -4,7 +4,7 @@ export const importLines = {
   id: "01a08cda-348f-7c87-89fb-04be4a6a3124",
   type: "page-type/module",
   slug: "import-lines",
-  definition: "the import lines a body carries, read and written as text",
+  definition: "how code handles the lines of a code file that import names from other files",
   code: "ts",
   test: "ts",
   decisions: [
@@ -133,5 +133,5 @@ export const importLines = {
     },
   ],
   createdAt: "2026-09-10T19:45:05.679Z",
-  updatedAt: "2026-09-15T18:21:01.000Z",
+  updatedAt: "2026-10-30T17:43:06.961Z",
 } as const satisfies Module
