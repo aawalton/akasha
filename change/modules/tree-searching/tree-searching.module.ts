@@ -4,8 +4,7 @@ export const treeSearching = {
   id: "01a0a06a-7815-7496-bab7-bcf7151d8cce",
   type: "page-type/module",
   slug: "tree-searching",
-  definition:
-    "the paths a search or a listing of the tree names, with the answer a change carries laid over",
+  definition: "how code searches the files on disk with the edits of a change in place",
   code: "ts",
   test: "ts",
   decisions: [
@@ -157,5 +156,5 @@ export const treeSearching = {
     },
   ],
   createdAt: "2026-09-14T14:55:27.253Z",
-  updatedAt: "2026-09-27T19:41:56.000Z",
+  updatedAt: "2026-10-30T17:31:27.321Z",
 } as const satisfies Module
