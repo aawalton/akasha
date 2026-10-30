@@ -72,7 +72,19 @@ export const giftedPolishWorldWomb = {
       fact: "A deep voice spoke close to the wall, low and slow, the same few sounds over and over.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
     },
+    {
+      fact: "The deep voice is a cult leader's, and he took the kick for the demon in the child stirring.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He repeats three sounds over the belly, 'Sa-vo-reth', the cult's name for the demon it called.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Said so often, slow and close, 'Sa-vo-reth' comes through the walls clear enough to hold.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-30T18:34:02.178Z",
-  updatedAt: "2026-10-30T18:50:39.017Z",
+  updatedAt: "2026-10-30T18:59:16.600Z",
 } as const satisfies Place
