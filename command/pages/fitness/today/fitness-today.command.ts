@@ -27,7 +27,8 @@ export const fitnessToday = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every set logged on the day is answered, warmup or not, in the order performed.",
+      statement:
+        "Every exercise set logged on the day is answered, warmup or not, in the order performed.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -41,5 +42,5 @@ export const fitnessToday = {
   name: "today",
   arguments: [{ argument: "argument/json" }],
   createdAt: "2026-10-08T15:11:01.194Z",
-  updatedAt: "2026-10-08T15:29:38.364Z",
+  updatedAt: "2026-10-30T17:29:58.029Z",
 } as const satisfies Command
