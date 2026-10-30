@@ -10,14 +10,14 @@ export const colorFrom = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A readout taking another's color is colored with that other's reading.",
+      statement: "A readout taking another's color is colored with that other's number.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The figure stays the reading this readout took.",
+      statement: "The figure stays the number this readout took.",
     },
   ],
   types: "ts",
   createdAt: "2026-09-02T20:09:28.102Z",
-  updatedAt: "2026-10-30T16:21:56.138Z",
+  updatedAt: "2026-10-30T17:21:46.383Z",
 } as const satisfies RelationProperty
