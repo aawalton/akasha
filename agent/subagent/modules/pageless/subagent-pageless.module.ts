@@ -4,7 +4,7 @@ export const subagentPageless = {
   id: "01a0951d-933c-768f-a4e9-51a54ceda87a",
   type: "page-type/module",
   slug: "subagent-pageless",
-  definition: "a subagent a seat's transcript names as at work with no page of its own",
+  definition: "how code finds the subagents at work that have no page",
   code: "ts",
   test: "ts",
   decisions: [
@@ -44,5 +44,5 @@ export const subagentPageless = {
     },
   ],
   createdAt: "2026-09-12T10:15:38.556Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:44:03.759Z",
 } as const satisfies Module
