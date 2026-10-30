@@ -5,10 +5,10 @@ export const strengthCalories = {
   type: "page-type/computed-property",
   slug: "strength-calories",
   propertySlug: "strength-calories",
-  definition: "the calories the day's strength work came to",
+  definition: "the calories of a day's strength work",
   holds: "number",
   code: "ts",
   types: "ts",
   createdAt: "2026-09-05T14:34:38.239Z",
-  updatedAt: "2026-09-15T16:29:06.000Z",
+  updatedAt: "2026-10-30T16:42:18.703Z",
 } as const satisfies ComputedProperty
