@@ -5,6 +5,10 @@ export const carModel = {
   type: "page-type/page-type",
   slug: "car-model",
   definition: "a nameplate a make builds",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "car model" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "car models" },
+  ],
   extends: ["page-type/car"],
   parts: [
     "relation-property/car-make",
@@ -38,5 +42,5 @@ export const carModel = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:50:05.893Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:38:05.599Z",
 } as const satisfies PageType
