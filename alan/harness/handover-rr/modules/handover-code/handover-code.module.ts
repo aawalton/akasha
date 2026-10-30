@@ -4,7 +4,7 @@ export const handoverCode = {
   id: "01a0bb44-4dec-7f6d-b99e-f83158413eb6",
   type: "page-type/module",
   slug: "handover-code",
-  definition: "the short-lived signed code alanwalton.com mints and a peripheral reads",
+  definition: "the proof of identity alanwalton.com signs for a website or an app",
   code: "ts",
   test: "ts",
   decisions: [
@@ -54,5 +54,5 @@ export const handoverCode = {
     },
   ],
   createdAt: "2026-09-19T20:03:30.924Z",
-  updatedAt: "2026-10-24T21:41:24.795Z",
+  updatedAt: "2026-10-30T15:46:08.572Z",
 } as const satisfies Module
