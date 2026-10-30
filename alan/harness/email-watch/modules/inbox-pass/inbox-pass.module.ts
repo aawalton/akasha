@@ -4,7 +4,7 @@ export const inboxPass = {
   id: "01a06948-c4c6-798a-a36f-1d22dd231125",
   type: "page-type/module",
   slug: "inbox-pass",
-  definition: "a pass over a person's inbox, said in lines on which a reader can act",
+  definition: "a pass over a person's inbox that writes what the pass does",
   code: "ts",
   test: "ts",
   decisions: [
@@ -35,5 +35,5 @@ export const inboxPass = {
     },
   ],
   createdAt: "2026-09-03T21:59:31.782Z",
-  updatedAt: "2026-09-22T14:07:21.000Z",
+  updatedAt: "2026-10-30T15:31:58.282Z",
 } as const satisfies Module
