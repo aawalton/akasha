@@ -5,7 +5,7 @@ export const heldAbilityAnswering = {
   type: "page-type/module",
   slug: "held-ability-answering",
   definition:
-    "what a route answers when a player sets a held ability aside or takes it up from the sheet",
+    "how a route responds when a player changes whether the player uses an ability the player holds",
   code: "ts",
   decisions: [
     {
@@ -30,5 +30,5 @@ export const heldAbilityAnswering = {
     },
   ],
   createdAt: "2026-10-28T00:56:02.836Z",
-  updatedAt: "2026-10-28T00:56:02.836Z",
+  updatedAt: "2026-10-30T16:59:08.439Z",
 } as const satisfies Module
