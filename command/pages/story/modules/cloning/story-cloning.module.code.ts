@@ -157,21 +157,33 @@ function alternativeOf(form: Form, renames: Renames): string {
   return `(?<!${form.before})(${named.join("|")})(?!${form.after})`
 }
 
-const NAMES_A_PAGE = /^(?:-[A-Za-z0-9]|[./][a-z])/
+const FILE_NAME = /^\.[a-z]/
 
 const BEGINS_A_NAME = /^[A-Z]/
 
-const ADDRESSED = "/"
+const QUOTED_WHOLE = /^[A-Za-z0-9-]*"(?!\s*:)/
+
+const OPENS_A_VALUE = ":[,{("
+
+const SPACE = /\s/
+
+const ADDRESSED = "/."
 
 const QUOTED = '"'
 
+function opensAValue(text: string, from: number): boolean {
+  let at = from
+  while (at >= 0 && SPACE.test(text.charAt(at))) at -= 1
+  return at < 0 || OPENS_A_VALUE.includes(text.charAt(at))
+}
+
 function isAName(form: number, text: string, start: number, end: number): boolean {
-  const after = text.slice(end, end + 2)
-  if (form > 0) return BEGINS_A_NAME.test(after)
-  const before = text.slice(Math.max(0, start - 1), start)
-  if (before === ADDRESSED) return true
-  if (before === QUOTED && after.startsWith(QUOTED)) return true
-  return NAMES_A_PAGE.test(after)
+  if (form > 0) return BEGINS_A_NAME.test(text.charAt(end))
+  if (start === 0) return true
+  const before = text.charAt(start - 1)
+  if (ADDRESSED.includes(before) || FILE_NAME.test(text.slice(end, end + 2))) return true
+  if (before !== QUOTED || !QUOTED_WHOLE.test(text.slice(end))) return false
+  return opensAValue(text, start - 2)
 }
 
 export function slugsRenamed(text: string, renames: Renames): string {

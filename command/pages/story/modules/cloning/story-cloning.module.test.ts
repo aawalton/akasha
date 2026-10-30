@@ -176,22 +176,22 @@ test("turns, chapters and the files play or the index write beside a page are le
 
 test("a slug is renamed where it is a whole name or begins one, and nowhere inside a longer name", () => {
   const said = slugsRenamed(
-    '"story-played/test-story" "test-story-player" "iris-game-master-test-story" testStoryPlayer TestStoryPoints the test story',
+    '["story-played/test-story", "test-story-player", "iris-game-master-test-story"] testStoryPlayer TestStoryPoints the test story',
     { "test-story": "probe" }
   )
   expect(said).toBe(
-    '"story-played/probe" "probe-player" "iris-game-master-test-story" probePlayer ProbePoints the test story'
+    '["story-played/probe", "probe-player", "iris-game-master-test-story"] probePlayer ProbePoints the test story'
   )
 })
 
 test("a clone named for its world is renamed once, its story and its world together", () => {
   const story = { ...STORY_FACTS, from: "gifted-reborn", to: "gifted-trial", world: "gifted" }
   const said = renamedFor(
-    '"world/gifted" gifted.world.ts "gifted-reborn-nala" giftedRebornNala giftedPathOfEndurance GiftedRebornPoints',
+    '["world/gifted", "gifted-reborn-nala"] gifted.world.ts giftedRebornNala giftedPathOfEndurance GiftedRebornPoints',
     story
   )
   expect(said).toBe(
-    '"world/gifted-trial-world" gifted-trial-world.world.ts "gifted-trial-nala" giftedTrialNala giftedTrialWorldPathOfEndurance GiftedTrialPoints'
+    '["world/gifted-trial-world", "gifted-trial-nala"] gifted-trial-world.world.ts giftedTrialNala giftedTrialWorldPathOfEndurance GiftedTrialPoints'
   )
 })
 
@@ -204,6 +204,10 @@ test("a word of prose spelled as a slug is left as written, so no text is length
   expect(renamedFor('slug: "gifted", externalId: "gifted-reborn"', story)).toBe(
     'slug: "gifted-trial-world", externalId: "gifted-trial"'
   )
+  const statement =
+    "statement: 'A reading states `\"gifted\"` where she holds it, as `gifted-0002-chapter-1` shows.',"
+  expect(renamedFor(statement, story)).toBe(statement)
+  expect(renamedFor('{"gifted": 3}', story)).toBe('{"gifted": 3}')
 })
 
 test("a cloned file sits under the clone's folder under its renamed name", () => {

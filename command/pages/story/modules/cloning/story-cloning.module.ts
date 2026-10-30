@@ -46,6 +46,10 @@ export const storyCloning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A name quoted inside prose is left, since it may name a page the clone leaves.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A word of prose spelled as a slug is left as written, so no text is lengthened.",
     },
     {
@@ -107,5 +111,5 @@ export const storyCloning = {
     },
   ],
   createdAt: "2026-10-27T21:16:37.415Z",
-  updatedAt: "2026-10-30T15:22:50.905Z",
+  updatedAt: "2026-10-30T15:24:57.177Z",
 } as const satisfies Module
