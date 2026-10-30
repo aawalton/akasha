@@ -12,8 +12,6 @@ export const awenOneSeatNoticeLore = {
     "A clone played by agents only tests the change, and is removed once its last test is done.",
   ],
   createdAt: "2026-10-30T18:07:48.290Z",
-  updatedAt: "2026-10-30T18:07:58.035Z",
-  intentStack: [
-    { statement: "A notice to a one-seat story's seat names the world-builder lore it may read." },
-  ],
+  updatedAt: "2026-10-30T19:50:07.844Z",
+  intentStack: [],
 } as const satisfies Initiative
