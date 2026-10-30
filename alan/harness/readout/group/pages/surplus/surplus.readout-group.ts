@@ -10,9 +10,9 @@ export const surplus = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is the hours the night had less the hours the day spent.",
+      statement: "The number is the hours the night had less the hours the day spent.",
     },
   ],
   createdAt: "2026-09-02T01:36:55.386Z",
-  updatedAt: "2026-10-30T15:59:14.321Z",
+  updatedAt: "2026-10-30T17:12:21.726Z",
 } as const satisfies ReadoutGroup
