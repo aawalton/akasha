@@ -197,7 +197,11 @@ export const giftedTrialNala = {
       fact: "Her Path of Basic Numeracy reached Tier 4, and her window showed Mental +1 again.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-trial-nala"],
     },
+    {
+      fact: "Her Attributes read: Strength 100, Stamina 100, Coordination 100, Mental 104, Aether 100.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial-nala"],
+    },
   ],
   createdAt: "2026-10-30T13:47:19.494Z",
-  updatedAt: "2026-10-30T14:30:42.604Z",
+  updatedAt: "2026-10-30T14:36:24.989Z",
 } as const satisfies Lore
