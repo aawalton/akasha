@@ -4,7 +4,7 @@ export const addonSourceFiles = {
   id: "01a062a8-e76a-7fda-a7db-9dcb0cf64d2f",
   type: "page-type/module",
   slug: "addon-source-files",
-  definition: "which files under a game add-on's own folder are that add-on's source and markup",
+  definition: "which files under a game add-on's own folder are that add-on's code and markup",
   code: "ts",
   decisions: [
     {
@@ -45,5 +45,5 @@ export const addonSourceFiles = {
     },
   ],
   createdAt: "2026-09-02T15:07:11.594Z",
-  updatedAt: "2026-09-21T22:03:34.000Z",
+  updatedAt: "2026-10-30T16:20:12.110Z",
 } as const satisfies Module
