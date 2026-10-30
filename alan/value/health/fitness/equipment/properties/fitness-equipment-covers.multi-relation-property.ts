@@ -5,7 +5,7 @@ export const fitnessEquipmentCovers = {
   type: "page-type/multi-relation-property",
   slug: "fitness-equipment-covers",
   propertySlug: "covers",
-  definition: "the kit a movement names and this piece replaces",
+  definition: "the strength exercise implements this piece of fitness equipment can replace",
   targetPageType: "page-type/strength-exercise-implement",
   decisions: [
     {
@@ -15,5 +15,5 @@ export const fitnessEquipmentCovers = {
   ],
   types: "ts",
   createdAt: "2026-09-12T01:25:49.334Z",
-  updatedAt: "2026-09-22T14:00:25.000Z",
+  updatedAt: "2026-10-30T16:48:02.106Z",
 } as const satisfies MultiRelationProperty
