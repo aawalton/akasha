@@ -39,16 +39,16 @@ export const readoutTier = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading reaches the highest rung whose number the reading has gone over.",
+      statement: "A number reaches the highest rung whose number it has gone over.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading under every rung is black.",
+      statement: "A number under every rung is black.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The color a reading under every rung is given is named here rather than by a reader.",
+        "The color a number under every rung is given is named here rather than by a reader.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -60,25 +60,25 @@ export const readoutTier = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The tier above a reading under every rung is the first rung that is not black.",
+      statement: "The tier above a number under every rung is the first rung that is not black.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "How far a reading has climbed is the fraction between the rung reached and the rung above.",
+        "How far a number has climbed is the fraction between the rung reached and the rung above.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A reading under every rung has climbed a fraction that is unknown rather than zero.",
+        "A number under every rung has climbed a fraction that is unknown rather than zero.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading on the highest rung has no tier above that rung.",
+      statement: "A number on the highest rung has no tier above that rung.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A scale of fewer than two rungs says nothing about which way a reading runs.",
+      statement: "A scale of fewer than two rungs says nothing about which way a number runs.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -92,12 +92,12 @@ export const readoutTier = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A falling reading reaches the first rung from black whose number the reading has not gone under.",
+        "A number on a falling scale reaches the first rung from black whose number it has not gone under.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A reading under every rung of a falling scale is on the best rung that scale states.",
+        "A number under every rung of a falling scale is on the best rung that scale states.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -107,16 +107,16 @@ export const readoutTier = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "How far a falling reading has come is the fraction of the rung's band the reading has come down.",
+        "How far a number on a falling scale has come is the fraction of the rung's band it has come down.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A reading over every rung of a falling scale has come a fraction that is unknown rather than zero.",
+        "A number over every rung of a falling scale has come a fraction that is unknown rather than zero.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading that is no finite number reaches no rung.",
+      statement: "A number that is not finite reaches no rung.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -140,7 +140,7 @@ export const readoutTier = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading that is no finite number is written as the number that reading is.",
+      statement: "A number that is not finite is written as JavaScript names that number.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -148,7 +148,7 @@ export const readoutTier = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A readout is blue on a rest day it names, whatever its reading and with none.",
+      statement: "A readout is blue on a rest day it names, whatever its number and with none.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -172,9 +172,9 @@ export const readoutTier = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here decides a reading is too old to show.",
+      statement: "Nothing here decides a number is too old to show.",
     },
   ],
   createdAt: "2026-09-01T23:16:33.653Z",
-  updatedAt: "2026-10-30T16:21:01.351Z",
+  updatedAt: "2026-10-30T17:36:47.597Z",
 } as const satisfies ComputedPropertyModule
