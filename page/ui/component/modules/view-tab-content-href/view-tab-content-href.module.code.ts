@@ -37,14 +37,19 @@ export function resolveRowPageTypeSlug(
   pages: readonly PageWithProperties[],
   slugById: ReadonlyMap<string, PageTypeSlug>
 ): PageTypeSlug | undefined {
-  if (rowPageTypeSlug != null) return rowPageTypeSlug
   const match = pages.find((p) => p._id === pageId)
   const pageTypeId =
     typeof match?.properties?.pageTypeId === "string" ? match.properties.pageTypeId : undefined
-  return pageTypeId != null ? slugById.get(pageTypeId) : undefined
+  return (pageTypeId != null ? slugById.get(pageTypeId) : undefined) ?? rowPageTypeSlug
 }
 
-export function buildRowHref(rowPageTypeSlug: PageTypeSlug | undefined, row: PageRow): string {
+export function buildRowHref(
+  viewPageTypeSlug: PageTypeSlug | undefined,
+  row: PageRow,
+  slugById: ReadonlyMap<string, PageTypeSlug> | undefined
+): string {
+  const own = typeof row.pageTypeId === "string" ? slugById?.get(row.pageTypeId) : undefined
+  const rowPageTypeSlug = own ?? viewPageTypeSlug
   if (rowPageTypeSlug == null) return ""
   const slug = typeof row.slug === "string" ? row.slug : null
   const titleSource = typeof row.title === "string" ? row.title : null

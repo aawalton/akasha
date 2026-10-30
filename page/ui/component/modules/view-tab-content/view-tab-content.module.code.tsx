@@ -289,7 +289,7 @@ export function ViewTabContent({
         renderRow={(page) => {
           const { _id: id, ...rest } = page
           const pageData = pageRowToPageDataJSON(rest)
-          const viewRowHref = buildRowHref(rowPageTypeSlug, page)
+          const viewRowHref = buildRowHref(rowPageTypeSlug, page, pageTypeSlugById)
           const rowHref = viewRowHref !== "" ? viewRowHref : pageHrefById(id)
           return (
             <PageRowCells

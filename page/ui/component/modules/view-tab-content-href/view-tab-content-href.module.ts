@@ -6,6 +6,12 @@ export const viewTabContentHref = {
   slug: "view-tab-content-href",
   definition: "the address a row in a view tab links to",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row links to its page under the row's own page type rather than the view's.",
+    },
+  ],
   createdAt: "2026-09-01T11:28:48.827Z",
-  updatedAt: "2026-09-15T18:36:57.000Z",
+  updatedAt: "2026-10-30T14:13:21.571Z",
 } as const satisfies Module

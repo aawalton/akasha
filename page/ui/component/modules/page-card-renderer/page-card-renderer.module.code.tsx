@@ -70,7 +70,7 @@ export function PageCardRenderer({
   coverMaskGlyph,
   onCoverClick,
 }: PageCardRendererProps) {
-  const viewRowHref = buildRowHref(rowPageTypeSlug, page)
+  const viewRowHref = buildRowHref(rowPageTypeSlug, page, pageTypeSlugById)
   const rowHref = viewRowHref !== "" ? viewRowHref : pageHrefById(page._id)
   const ownPicture = ownCover(rowPageTypeSlug, page.slug)
   const coverUrl =
