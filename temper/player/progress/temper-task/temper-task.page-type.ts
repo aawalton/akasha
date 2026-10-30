@@ -5,6 +5,10 @@ export const temperTask = {
   type: "page-type/page-type",
   slug: "temper-task",
   definition: "something Alan means to do in the game, once or again and again",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "temper task" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "temper tasks" },
+  ],
   extends: ["page-type/temper-progress-thing"],
   parts: [
     "boolean-property/pending-sync",
@@ -67,5 +71,5 @@ export const temperTask = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T01:54:35.999Z",
-  updatedAt: "2026-10-29T19:50:24.636Z",
+  updatedAt: "2026-10-30T15:35:05.554Z",
 } as const satisfies PageType
