@@ -28,7 +28,7 @@ export const lifeTheme = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A life theme is under one value.",
+      statement: "A life theme is under one life value.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -38,5 +38,5 @@ export const lifeTheme = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:10:11.520Z",
-  updatedAt: "2026-10-30T16:31:28.538Z",
+  updatedAt: "2026-10-30T16:38:54.920Z",
 } as const satisfies PageType
