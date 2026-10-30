@@ -4,7 +4,7 @@ export const pushNotifierTick = {
   id: "01a069b6-bb6b-79e0-abb9-81217fe400a3",
   type: "page-type/module",
   slug: "push-notifier-tick",
-  definition: "a round of the notifier: push what is new in the feed",
+  definition: "a pass of code that sends each notification written after the last pass",
   code: "ts",
   decisions: [
     {
@@ -69,5 +69,5 @@ export const pushNotifierTick = {
     },
   ],
   createdAt: "2026-09-03T23:59:38.347Z",
-  updatedAt: "2026-10-24T19:54:54.376Z",
+  updatedAt: "2026-10-30T16:23:30.916Z",
 } as const satisfies Module
