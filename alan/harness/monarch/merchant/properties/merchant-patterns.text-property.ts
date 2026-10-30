@@ -5,7 +5,7 @@ export const merchantPatterns = {
   type: "page-type/text-property",
   slug: "merchant-patterns",
   propertySlug: "merchant-patterns",
-  definition: "a run of the bank's own words that names a merchant",
+  definition: "the words that show the Monarch merchant of a Monarch transaction",
   maxLength: 200,
   nameFormat: null,
   decisions: [
@@ -20,5 +20,5 @@ export const merchantPatterns = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:13:47.392Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:32:51.491Z",
 } as const satisfies TextProperty
