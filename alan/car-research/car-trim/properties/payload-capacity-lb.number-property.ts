@@ -5,9 +5,9 @@ export const payloadCapacityLb = {
   type: "page-type/number-property",
   slug: "payload-capacity-lb",
   propertySlug: "payload-capacity-lb",
-  definition: "how much the car may carry in people and cargo together, in pounds",
+  definition: "the pounds of people and cargo a car trim can carry",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:42:49.376Z",
-  updatedAt: "2026-09-21T18:44:23.000Z",
+  updatedAt: "2026-10-30T15:44:14.557Z",
 } as const satisfies NumberProperty
