@@ -24,6 +24,10 @@ export const readoutScale = {
     "readout-scale/surplus-hours",
     "readout-scale/wisdom-points",
   ],
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "readout scale" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "readout scales" },
+  ],
   extends: ["page-type/domain"],
   properties: [
     { pageProperty: "number-property/black-at", required: false, many: false },
@@ -59,5 +63,5 @@ export const readoutScale = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T20:05:28.031Z",
-  updatedAt: "2026-09-26T13:33:11.000Z",
+  updatedAt: "2026-10-30T16:03:41.144Z",
 } as const satisfies PageType
