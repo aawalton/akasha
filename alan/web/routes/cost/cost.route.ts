@@ -4,7 +4,7 @@ export const cost = {
   id: "01a08bb0-a0b2-7106-bb11-1c88c9883978",
   type: "page-type/route",
   slug: "cost",
-  definition: "Alan's cost as the color his multiplier and his surplus reach together",
+  definition: "the stoplights a readout widget shows for Alan's cost",
   code: "ts",
   test: "ts",
   urlPath: "api/cost",
@@ -55,5 +55,5 @@ export const cost = {
     },
   ],
   createdAt: "2026-09-10T14:20:03.634Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:59:33.416Z",
 } as const satisfies Route
