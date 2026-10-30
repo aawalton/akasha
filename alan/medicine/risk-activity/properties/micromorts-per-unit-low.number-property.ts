@@ -5,9 +5,9 @@ export const micromortsPerUnitLow = {
   type: "page-type/number-property",
   slug: "micromorts-per-unit-low",
   propertySlug: "micromorts-per-unit-low",
-  definition: "the low end of the range of micromorts one unit of an activity is estimated at",
+  definition: "the low estimate of the micromorts a unit of a risk activity carries",
   max: null,
   types: "ts",
   createdAt: "2026-10-28T18:23:14.375Z",
-  updatedAt: "2026-10-28T18:23:14.375Z",
+  updatedAt: "2026-10-30T16:09:26.433Z",
 } as const satisfies NumberProperty
