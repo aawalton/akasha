@@ -4,7 +4,7 @@ export const atlasHandoverSite = {
   id: "01a0bb46-11c3-76f3-84e4-f735a56d061d",
   type: "page-type/module",
   slug: "atlas-handover-site",
-  definition: "what Atlas is called in a handover, where Atlas answers, and Atlas's signing key",
+  definition: "how the Atlas app takes part in a handover",
   code: "ts",
   decisions: [
     {
@@ -17,5 +17,5 @@ export const atlasHandoverSite = {
     },
   ],
   createdAt: "2026-09-19T20:05:26.595Z",
-  updatedAt: "2026-09-22T13:50:37.000Z",
+  updatedAt: "2026-10-30T16:01:49.969Z",
 } as const satisfies Module
