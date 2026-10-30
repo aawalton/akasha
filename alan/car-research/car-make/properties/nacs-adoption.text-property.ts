@@ -5,10 +5,10 @@ export const nacsAdoption = {
   type: "page-type/text-property",
   slug: "nacs-adoption",
   propertySlug: "nacs-adoption",
-  definition: "how far the make has taken up the North American Charging Standard",
+  definition: "how far a car make uses the North American Charging Standard",
   maxLength: 20,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:55:06.622Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:54:01.297Z",
 } as const satisfies TextProperty
