@@ -32,7 +32,8 @@ export const awenSingleSeatTurn = {
     "No turn is taken in gifted-reborn, which is Alan's real save; a clone played by agents tests it.",
     "Gifted: Reborn is switched only after a clone made a whole turn in one seat.",
     "Alan's turn still shows its beats, outcome cards and prose as a seat-graph turn shows them.",
+    "Alan has approved every directive this initiative needs to land.",
   ],
   createdAt: "2026-10-30T12:00:41.177Z",
-  updatedAt: "2026-10-30T12:00:41.177Z",
+  updatedAt: "2026-10-30T13:13:47.665Z",
 } as const satisfies Initiative
