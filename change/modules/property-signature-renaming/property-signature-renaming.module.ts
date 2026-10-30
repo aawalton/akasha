@@ -4,7 +4,7 @@ export const propertySignatureRenaming = {
   id: "01a09c41-1b28-7033-a7fb-706359938013",
   type: "page-type/module",
   slug: "property-signature-renaming",
-  definition: "a property a type declares spelled anew wherever the checker resolves to it",
+  definition: "how code renames a name a type has in every file that uses the name",
   code: "ts",
   test: "ts",
   decisions: [
@@ -54,5 +54,5 @@ export const propertySignatureRenaming = {
     },
   ],
   createdAt: "2026-09-13T19:31:47.624Z",
-  updatedAt: "2026-09-22T10:07:43.000Z",
+  updatedAt: "2026-10-30T17:25:13.988Z",
 } as const satisfies Module
