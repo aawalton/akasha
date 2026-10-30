@@ -8,7 +8,8 @@ export const remove = {
   spellings: [
     { partOfSpeech: "part-of-speech/verb", spelling: "remove" },
     { partOfSpeech: "part-of-speech/verb", spelling: "removes" },
+    { partOfSpeech: "part-of-speech/past-participle", spelling: "removed" },
   ],
   createdAt: "2026-09-25T13:41:55.536Z",
-  updatedAt: "2026-09-25T15:41:48.000Z",
+  updatedAt: "2026-10-30T17:38:00.944Z",
 } as const satisfies CommonLanguageTerm
