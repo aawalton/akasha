@@ -4,7 +4,7 @@ export const royalRoadFollows = {
   id: "01a0e986-f314-7174-aae1-bf1aabba3853",
   type: "page-type/module",
   slug: "royal-road-follows",
-  definition: "the fictions on Alan's Royal Road lists and the last chapter he read in each",
+  definition: "how code reads Alan's lists on Royal Road",
   code: "ts",
   test: "ts",
   decisions: [
@@ -67,5 +67,5 @@ export const royalRoadFollows = {
     },
   ],
   createdAt: "2026-09-28T19:38:50.516Z",
-  updatedAt: "2026-10-28T15:43:28.833Z",
+  updatedAt: "2026-10-30T15:21:56.181Z",
 } as const satisfies Module
