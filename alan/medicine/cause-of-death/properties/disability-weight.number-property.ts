@@ -5,9 +5,14 @@ export const disabilityWeight = {
   type: "page-type/number-property",
   slug: "disability-weight",
   propertySlug: "disability-weight",
-  definition: "the weight the Global Burden of Disease study gives a disability",
+  definition:
+    "the part of a year of full health a disability takes in the Global Burden of Disease study",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "disability weight" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "disability weights" },
+  ],
   max: 1,
   types: "ts",
   createdAt: "2026-10-28T18:22:21.854Z",
-  updatedAt: "2026-10-28T18:22:21.854Z",
+  updatedAt: "2026-10-30T16:16:40.714Z",
 } as const satisfies NumberProperty
