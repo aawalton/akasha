@@ -5,7 +5,11 @@ export const sessions = {
   type: "page-type/page-property-entry",
   slug: "sessions",
   propertySlug: "sessions",
-  definition: "every stretch of time a day was spent in, one to a line",
+  definition: "every span of time a day was spent in",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "tracked session" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "tracked sessions" },
+  ],
   parts: [
     "instant-property/asserted-at",
     "number-property/breathing-sets",
@@ -73,5 +77,5 @@ export const sessions = {
   ],
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-09-24T20:33:06.000Z",
+  updatedAt: "2026-10-30T16:31:53.419Z",
 } as const satisfies PagePropertyEntry
