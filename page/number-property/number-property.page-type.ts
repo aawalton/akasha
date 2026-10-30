@@ -7,8 +7,8 @@ export const numberProperty = {
   definition: "a page property with a number",
   icon: "hash",
   spellings: [
-    { partOfSpeech: "part-of-speech/noun", spelling: "number" },
-    { partOfSpeech: "part-of-speech/noun", spelling: "numbers" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "number property" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "number properties" },
   ],
   extends: ["page-type/page-property"],
   parts: ["number-property/max"],
@@ -17,5 +17,5 @@ export const numberProperty = {
   schema: "jsonl",
   shapes: "jsonl",
   createdAt: "2026-08-29T14:49:52.765Z",
-  updatedAt: "2026-09-24T19:54:52.000Z",
+  updatedAt: "2026-10-30T15:27:56.725Z",
 } as const satisfies PageType
