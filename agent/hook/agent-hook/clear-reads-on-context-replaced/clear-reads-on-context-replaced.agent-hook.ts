@@ -58,7 +58,8 @@ export const clearReadsOnContextReplaced = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "One agent's readings are cleared rather than another's.",
+      statement:
+        "The files cleared are the files one agent has read rather than the files another agent has read.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -82,11 +83,12 @@ export const clearReadsOnContextReplaced = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "With no agent named only the stale readings go.",
+      statement:
+        "Where no agent is named only the files last read more than a day ago go from the record.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading last seen more than a day ago goes, whoever holds it.",
+      statement: "A file last read more than a day ago goes from the record of every agent.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -94,7 +96,8 @@ export const clearReadsOnContextReplaced = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "How many stale readings went is written down beside whether a record was taken.",
+      statement:
+        "How many files last read more than a day ago went is written down beside whether a record was taken.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -150,7 +153,8 @@ export const clearReadsOnContextReplaced = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading says the agent holds that body now rather than that it read it once.",
+      statement:
+        "A file in the record says the agent holds its body now rather than that the agent read it once.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -159,9 +163,9 @@ export const clearReadsOnContextReplaced = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A reading kept across a compaction would keep that page's body out of every later answer.",
+        "A file kept in the record across a compaction would keep that file's body out of every later answer.",
     },
   ],
   createdAt: "2026-08-29T22:33:35.608Z",
-  updatedAt: "2026-10-30T16:44:59.956Z",
+  updatedAt: "2026-10-30T17:06:27.427Z",
 } as const satisfies AgentHook
