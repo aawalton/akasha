@@ -4,7 +4,7 @@ export const groupStoplights = {
   id: "01a064e4-627c-717e-bcf8-2ad1f41c1222",
   type: "page-type/module",
   slug: "group-stoplights",
-  definition: "the glyph row and the legend a set of stoplights is drawn as",
+  definition: "how code writes a set of stoplights in text",
   code: "ts",
   decisions: [
     {
@@ -45,5 +45,5 @@ export const groupStoplights = {
     },
   ],
   createdAt: "2026-09-03T01:31:24.156Z",
-  updatedAt: "2026-10-18T13:45:21.330Z",
+  updatedAt: "2026-10-30T15:32:10.758Z",
 } as const satisfies Module
