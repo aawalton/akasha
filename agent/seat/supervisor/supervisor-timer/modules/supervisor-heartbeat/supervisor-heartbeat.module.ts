@@ -4,7 +4,7 @@ export const supervisorHeartbeat = {
   id: "01a06871-3115-7001-910f-b7d9676eca90",
   type: "page-type/module",
   slug: "supervisor-heartbeat",
-  definition: "the beat on which a supervisor records itself and runs its polls",
+  definition: "how code runs the work of a supervisor on a timer",
   code: "ts",
   decisions: [
     {
@@ -61,5 +61,5 @@ export const supervisorHeartbeat = {
     },
   ],
   createdAt: "2026-09-03T18:04:03.733Z",
-  updatedAt: "2026-09-24T17:16:21.000Z",
+  updatedAt: "2026-10-30T14:37:51.219Z",
 } as const satisfies Module
