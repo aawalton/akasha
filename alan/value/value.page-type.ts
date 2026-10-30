@@ -6,8 +6,8 @@ export const value = {
   slug: "value",
   definition: "the thing on which a person spends their life",
   spellings: [
-    { partOfSpeech: "part-of-speech/noun", spelling: "value" },
-    { partOfSpeech: "part-of-speech/noun", spelling: "values" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "life value" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "life values" },
   ],
   parts: [
     "relation-property/value-color",
@@ -76,5 +76,5 @@ export const value = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T03:33:16.511Z",
-  updatedAt: "2026-09-25T15:26:31.000Z",
+  updatedAt: "2026-10-30T16:26:51.792Z",
 } as const satisfies PageType
