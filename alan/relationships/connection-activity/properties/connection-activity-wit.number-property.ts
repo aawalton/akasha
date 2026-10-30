@@ -5,9 +5,9 @@ export const connectionActivityWit = {
   type: "page-type/number-property",
   slug: "connection-activity-wit",
   propertySlug: "connection-activity-wit",
-  definition: "how quick they are",
+  definition: "how fast the other person thinks",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:37:29.998Z",
-  updatedAt: "2026-09-25T13:01:00.000Z",
+  updatedAt: "2026-10-30T16:31:28.771Z",
 } as const satisfies NumberProperty
