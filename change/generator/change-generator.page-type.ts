@@ -4,7 +4,7 @@ export const changeGenerator = {
   id: "01a0d4dc-6d15-741e-962d-154d0705de60",
   type: "page-type/page-type",
   slug: "change-generator",
-  definition: "code adding the edits a change owes before that change lands",
+  definition: "a program that adds to a change the edits that change needs",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "change generator" },
     { partOfSpeech: "part-of-speech/noun", spelling: "change generators" },
@@ -38,5 +38,5 @@ export const changeGenerator = {
   schema: "jsonl",
   loadedExport: ["generateChange", "couldTurn"],
   createdAt: "2026-09-24T19:20:10.773Z",
-  updatedAt: "2026-09-24T19:32:10.000Z",
+  updatedAt: "2026-10-30T17:06:35.420Z",
 } as const satisfies PageType
