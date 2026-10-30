@@ -5,9 +5,9 @@ export const horsepower = {
   type: "page-type/number-property",
   slug: "horsepower",
   propertySlug: "horsepower",
-  definition: "how much power the car makes, in horsepower",
+  definition: "the power a car makes in horsepower",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:41:43.956Z",
-  updatedAt: "2026-09-21T18:42:37.000Z",
+  updatedAt: "2026-10-30T14:52:37.392Z",
 } as const satisfies NumberProperty
