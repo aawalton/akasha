@@ -5,8 +5,8 @@ export const scheduledStartAt = {
   type: "page-type/instant-property",
   slug: "scheduled-start-at",
   propertySlug: "scheduled-start-at",
-  definition: "when the person is due at the place",
+  definition: "when a person's time at a place starts on the schedule",
   types: "ts",
   createdAt: "2026-09-03T04:25:23.451Z",
-  updatedAt: "2026-09-15T17:15:46.000Z",
+  updatedAt: "2026-10-30T15:19:55.023Z",
 } as const satisfies InstantProperty
