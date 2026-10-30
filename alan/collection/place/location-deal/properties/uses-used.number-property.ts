@@ -5,9 +5,9 @@ export const usesUsed = {
   type: "page-type/number-property",
   slug: "uses-used",
   propertySlug: "uses-used",
-  definition: "how many times the offer has been claimed",
+  definition: "the number of times the offer is used",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:27:14.757Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T15:12:47.426Z",
 } as const satisfies NumberProperty
