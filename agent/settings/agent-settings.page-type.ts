@@ -4,7 +4,7 @@ export const agentSettings = {
   id: "01a0657b-ad3f-7ce8-99f8-04da79375570",
   type: "page-type/page-type",
   slug: "agent-settings",
-  definition: "a document declaring how the agent harness on this workstation is set up",
+  definition: "a page with a config Claude Code reads",
   parts: [
     "agent-settings/agents",
     "agent-settings/claude-config",
@@ -58,5 +58,5 @@ export const agentSettings = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:16:39.231Z",
-  updatedAt: "2026-09-22T00:41:39.000Z",
+  updatedAt: "2026-10-30T14:40:41.235Z",
 } as const satisfies PageType
