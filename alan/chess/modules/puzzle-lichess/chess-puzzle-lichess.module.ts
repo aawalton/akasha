@@ -4,7 +4,7 @@ export const chessPuzzleLichess = {
   id: "01a0657f-4492-7002-a461-7bfd27ac38a4",
   type: "page-type/module",
   slug: "chess-puzzle-lichess",
-  definition: "Lichess's puzzle database read row by row into puzzles",
+  definition: "how code reads chess puzzles from text",
   code: "ts",
   decisions: [
     {
@@ -26,5 +26,5 @@ export const chessPuzzleLichess = {
     },
   ],
   createdAt: "2026-09-03T04:20:34.578Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:06:49.131Z",
 } as const satisfies Module
