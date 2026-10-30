@@ -5,10 +5,10 @@ export const label = {
   type: "page-type/text-property",
   slug: "label",
   propertySlug: "label",
-  definition: "a reading's name",
+  definition: "the short name of a readout or a value",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-08-30T20:05:28.033Z",
-  updatedAt: "2026-09-22T13:45:29.000Z",
+  updatedAt: "2026-10-30T16:17:50.304Z",
 } as const satisfies TextProperty
