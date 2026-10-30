@@ -5,6 +5,7 @@ export const love = {
   type: "page-type/value",
   slug: "love",
   definition: "the people Alan is bound to and how those bonds are kept",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "love" }],
   label: "Love",
   description:
     "Love represents my relationships, with the highest priority being my relationships with myself, my spouse, and my kids.",
@@ -14,5 +15,5 @@ export const love = {
   scale: "readout-scale/green-day-units",
   groups: ["readout-group/values"],
   createdAt: "2026-06-11T17:53:05.124Z",
-  updatedAt: "2026-09-15T16:37:11.000Z",
+  updatedAt: "2026-10-30T16:41:58.299Z",
 } as const satisfies Value
