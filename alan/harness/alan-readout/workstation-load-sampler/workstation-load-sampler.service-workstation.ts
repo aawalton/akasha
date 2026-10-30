@@ -4,7 +4,7 @@ export const workstationLoadSampler = {
   id: "01a0a069-4cb1-7622-84e2-3275d4863a72",
   type: "page-type/service-workstation",
   slug: "workstation-load-sampler",
-  definition: "a service that takes processor and memory readings of the workstation",
+  definition: "a service that takes processor and memory numbers of the workstation",
   enabled: true,
   worksWithinSeconds: 180,
   systemd: {
@@ -39,5 +39,5 @@ export const workstationLoadSampler = {
     },
   ],
   createdAt: "2026-09-14T14:54:10.609Z",
-  updatedAt: "2026-10-30T16:22:32.161Z",
+  updatedAt: "2026-10-30T16:56:34.879Z",
 } as const satisfies ServiceWorkstation
