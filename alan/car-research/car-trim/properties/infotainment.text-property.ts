@@ -5,10 +5,10 @@ export const infotainment = {
   type: "page-type/text-property",
   slug: "infotainment",
   propertySlug: "infotainment",
-  definition: "the screens, the software and the sound a trim carries",
+  definition: "the screens and audio a car trim carries with their software",
   maxLength: 1000,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-21T18:39:06.217Z",
-  updatedAt: "2026-09-21T18:40:16.000Z",
+  updatedAt: "2026-10-30T14:58:44.375Z",
 } as const satisfies TextProperty
