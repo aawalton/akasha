@@ -1,8 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { rmSync } from "node:fs"
+import { join } from "node:path"
 import { storyTurnAdvance } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
 import {
   AT,
+  advancedBy,
   CHAPTER_ARGV,
   CHAPTER_AT,
   chapterReach,
@@ -10,9 +12,14 @@ import {
   LANDED,
   MASTER,
   pushingReach,
+  REVIEWED,
   ROOT,
+  reachOver,
+  SLUG,
   seatOf,
   seen,
+  turnAt,
+  WRITER,
 } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.test-fixtures.ts"
 import {
   type LoreLooking,
@@ -21,7 +28,9 @@ import {
 import {
   noticesSent,
   type Reach,
+  type Seated,
   type Told,
+  type Turn,
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import { memory } from "akasha/story/recorder/pages/memory.story-recorder.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
@@ -252,4 +261,34 @@ test("a story whose player wrote no intent hands the game master nothing of one"
   const after: Told = { report: [], faults: [] }
   await noticesSent(pushingReach(into, []), ROOT, GAME, MASTER, AT, "game-master", after)
   expect(into.notices[0]).toBe(`${MASTER}: ${noticeOf(AT, "game-master")}`)
+})
+
+const PROSE = ["--prose-file", join(ROOT, "prose.txt"), "--character", "character-player/mara"]
+
+function alone(turn: Turn, seat: Seated, into = seen()): Reach {
+  const reach = reachOver(turn, seat, into)
+  return { ...reach, storyOf: () => ({ title: "The Saga", master: MASTER, oneSeat: true }) }
+}
+
+const MASTER_SEAT = seatOf("game-master", MASTER)
+
+test("a one-seat story's game master seat hands in the world builder's and the writer's steps", async () => {
+  const lore = await advancedBy([], alone(turnAt("world-builder"), MASTER_SEAT))
+  expect(lore.refusals).toEqual([])
+  expect(lore.report[0]).toBe(`${SLUG}\tworld-builder\tgame-master`)
+  const reviewed = turnAt("writer", { reviewedBy: REVIEWED })
+  const prose = await advancedBy(PROSE, alone(reviewed, MASTER_SEAT))
+  expect(prose.refusals).toEqual([])
+})
+
+test("a one-seat story's step is refused from the seat a seat-graph story waits on", async () => {
+  const into = seen()
+  const answer = await advancedBy(PROSE, alone(turnAt("writer"), seatOf("writer", WRITER), into))
+  expect(answer.refusals.join(" ")).toContain("waits on the game-master of `the-saga`")
+  expect(into.folded).toEqual([])
+})
+
+test("a seat-graph story's step is still refused from its game master seat", async () => {
+  const answer = await advancedBy(PROSE, reachOver(turnAt("writer"), MASTER_SEAT, seen()))
+  expect(answer.refusals.join(" ")).toContain("waits on the writer of `the-saga`")
 })

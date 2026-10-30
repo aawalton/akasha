@@ -66,6 +66,10 @@ export const storyTurnAdvance = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A played turn is advanced as its story's page says it makes its turns.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A game master's scenes land with the end time and places they cache.",
     },
     {
@@ -270,5 +274,5 @@ export const storyTurnAdvance = {
     { argument: "argument/beat" },
   ],
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-28T15:42:01.844Z",
+  updatedAt: "2026-10-30T12:16:33.815Z",
 } as const satisfies Command

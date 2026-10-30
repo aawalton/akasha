@@ -200,8 +200,9 @@ async function heldOn(
   const pictured = beats.pictured ?? []
   const story = reach.storyOf(given.root, stated.game)
   const switched = read.chapter && story?.proseOnBeats === true ? { proseOnBeats: true } : {}
+  const seated = !read.chapter && story?.oneSeat === true ? { oneSeat: true } : {}
   const planned = { beats: beats.beats, scenes: beats.scenes }
-  const parts = { changes, memory, pictured, planned }
+  const parts = { changes, memory, pictured, planned, ...seated }
   const held = { ...stated, beats: planned.beats.length, ...parts, ...switched, flow: beats }
   const seat = reach.seatOf(given.root, given.agentId)
   const caller: Caller = seat ?? { role: null, game: null }
