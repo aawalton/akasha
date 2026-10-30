@@ -4,7 +4,7 @@ export const temperEsoPath = {
   id: "01a06050-639d-78c1-a9ff-c6579f3deebd",
   type: "page-type/domain",
   slug: "temper-eso-path",
-  definition: "what a workstation has of the game and of the game's own sources",
+  definition: "what a workstation has of the game and of the game's own code",
   parts: [
     "module/eso-clone-stamp",
     "module/eso-paths",
@@ -23,5 +23,5 @@ export const temperEsoPath = {
     },
   ],
   createdAt: "2026-09-02T04:11:16.253Z",
-  updatedAt: "2026-09-21T14:14:20.000Z",
+  updatedAt: "2026-10-30T16:21:56.187Z",
 } as const satisfies Domain
