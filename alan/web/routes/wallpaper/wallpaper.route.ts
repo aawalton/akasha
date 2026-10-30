@@ -4,7 +4,7 @@ export const wallpaper = {
   id: "01a07855-477e-7aa1-8183-3cb381287569",
   type: "page-type/route",
   slug: "wallpaper",
-  definition: "the persona Alan wrote to most recently, answered as a picture for his phone",
+  definition: "the wallpaper for Alan's phone of the last persona Alan writes to",
   code: "ts",
   urlPath: "api/wallpaper",
   decisions: [
@@ -34,5 +34,5 @@ export const wallpaper = {
     },
   ],
   createdAt: "2026-09-06T20:07:29.918Z",
-  updatedAt: "2026-09-21T22:39:54.000Z",
+  updatedAt: "2026-10-30T17:04:43.262Z",
 } as const satisfies Route
