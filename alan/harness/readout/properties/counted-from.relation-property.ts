@@ -5,7 +5,7 @@ export const countedFrom = {
   type: "page-type/relation-property",
   slug: "counted-from",
   propertySlug: "counted-from",
-  definition: "the property of a day's page the value of a readout is read from",
+  definition: "the property of a day's page that holds the number a readout shows",
   targetPageType: "page-type/page-property",
   decisions: [
     {
@@ -19,5 +19,5 @@ export const countedFrom = {
   ],
   types: "ts",
   createdAt: "2026-09-24T18:24:39.704Z",
-  updatedAt: "2026-10-30T16:09:56.992Z",
+  updatedAt: "2026-10-30T16:22:14.488Z",
 } as const satisfies RelationProperty
