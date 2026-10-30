@@ -5,7 +5,7 @@ export const wisdomWords = {
   type: "page-type/number-property",
   slug: "wisdom-words",
   propertySlug: "wisdom-words",
-  definition: "the words Alan added to the pages about himself on a day",
+  definition: "the words written on a day in the pages about Alan",
   max: null,
   decisions: [
     {
@@ -20,5 +20,5 @@ export const wisdomWords = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:05:48.284Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:43:11.155Z",
 } as const satisfies NumberProperty
