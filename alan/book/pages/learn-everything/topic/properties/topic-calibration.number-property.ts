@@ -5,9 +5,9 @@ export const topicCalibration = {
   type: "page-type/number-property",
   slug: "topic-calibration",
   propertySlug: "calibration",
-  definition: "how far Alan's own reading of a topic sits from what a probe found",
+  definition: "how far the mastery level Alan gives himself is from his mastery level in a topic",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:55:52.026Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T16:28:41.109Z",
 } as const satisfies NumberProperty
