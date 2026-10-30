@@ -5,9 +5,9 @@ export const chessOutcome = {
   type: "page-type/select-property",
   slug: "chess-outcome",
   propertySlug: "outcome",
-  definition: "how a game went for Alan",
+  definition: "how a game ends for Alan",
   values: ["win", "loss", "draw"],
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T15:05:18.743Z",
 } as const satisfies SelectProperty
