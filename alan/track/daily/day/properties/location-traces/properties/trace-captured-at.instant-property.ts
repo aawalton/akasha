@@ -5,8 +5,8 @@ export const traceCapturedAt = {
   type: "page-type/instant-property",
   slug: "trace-captured-at",
   propertySlug: "captured-at",
-  definition: "when the device fixed this position",
+  definition: "the instant a device finds its location",
   types: "ts",
   createdAt: "2026-09-03T21:38:23.028Z",
-  updatedAt: "2026-09-21T19:18:52.000Z",
+  updatedAt: "2026-10-30T16:48:01.097Z",
 } as const satisfies InstantProperty
