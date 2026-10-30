@@ -5,7 +5,7 @@ export const sessionSlug = {
   type: "page-type/text-property",
   slug: "session-slug",
   propertySlug: "session-slug",
-  definition: "the workout a lifting set belongs to",
+  definition: "the workout an exercise set belongs to",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [
@@ -24,5 +24,5 @@ export const sessionSlug = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:21:48.925Z",
-  updatedAt: "2026-10-30T16:52:25.798Z",
+  updatedAt: "2026-10-30T17:10:16.638Z",
 } as const satisfies TextProperty
