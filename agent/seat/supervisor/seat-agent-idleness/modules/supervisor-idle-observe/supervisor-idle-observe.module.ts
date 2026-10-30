@@ -4,7 +4,7 @@ export const supervisorIdleObserve = {
   id: "01a06871-3115-7002-a786-a3fb7a53c159",
   type: "page-type/module",
   slug: "supervisor-idle-observe",
-  definition: "what a seat's gateway, process tree and dispatch children show at this moment",
+  definition: "what a supervisor reads to find whether its agent is working",
   code: "ts",
   decisions: [
     {
@@ -47,5 +47,5 @@ export const supervisorIdleObserve = {
     },
   ],
   createdAt: "2026-09-03T18:04:03.733Z",
-  updatedAt: "2026-09-24T17:03:10.000Z",
+  updatedAt: "2026-10-30T14:54:15.883Z",
 } as const satisfies Module
