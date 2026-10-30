@@ -5,9 +5,9 @@ export const connectionActivitySeq = {
   type: "page-type/number-property",
   slug: "connection-activity-seq",
   propertySlug: "connection-activity-seq",
-  definition: "where this activity is in the order they are listed",
+  definition: "the place of an activity in the list of activities",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:37:29.998Z",
-  updatedAt: "2026-09-25T13:01:00.000Z",
+  updatedAt: "2026-10-30T16:25:54.526Z",
 } as const satisfies NumberProperty
