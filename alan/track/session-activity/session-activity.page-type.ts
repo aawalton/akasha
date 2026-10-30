@@ -4,7 +4,7 @@ export const sessionActivity = {
   id: "01a06589-d117-759e-b934-fd346ffba4fd",
   type: "page-type/page-type",
   slug: "session-activity",
-  definition: "a kind of thing Alan spends his time doing",
+  definition: "a kind of thing Alan does in a tracked session",
   extends: ["page-type/page"],
   parts: ["number-property/default-difficulty"],
   properties: [
@@ -24,5 +24,5 @@ export const sessionActivity = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:32:05.911Z",
-  updatedAt: "2026-09-24T19:52:49.000Z",
+  updatedAt: "2026-10-30T16:40:56.901Z",
 } as const satisfies PageType
