@@ -4,7 +4,7 @@ export const maintainability = {
   id: "01a0680f-d1b7-7fad-a8e1-931817f12d1a",
   type: "page-type/module",
   slug: "maintainability",
-  definition: "the maintainability index a source file works out to",
+  definition: "the maintainability index a TypeScript file works out to",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const maintainability = {
     },
   ],
   createdAt: "2026-09-03T16:17:42.327Z",
-  updatedAt: "2026-09-15T18:34:44.000Z",
+  updatedAt: "2026-10-30T16:05:13.553Z",
 } as const satisfies Module
