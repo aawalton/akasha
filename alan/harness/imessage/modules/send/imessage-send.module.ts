@@ -4,7 +4,8 @@ export const imessageSend = {
   id: "01a05bc9-4308-7006-988e-9b8bab4f1ec5",
   type: "page-type/module",
   slug: "imessage-send",
-  definition: "the script handing a message to Messages on the machine that sends it",
+  definition:
+    "how code sends iMessage messages from the machine that holds Alan's iMessage messages",
   code: "ts",
   decisions: [
     {
@@ -33,5 +34,5 @@ export const imessageSend = {
     },
   ],
   createdAt: "2026-09-01T07:05:11.688Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:34:02.490Z",
 } as const satisfies Module
