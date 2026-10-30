@@ -4,7 +4,7 @@ export const signInReaching = {
   id: "01a0bb11-1bf4-7334-9382-7617d44ca836",
   type: "page-type/module",
   slug: "sign-in-reaching",
-  definition: "the contributor a person signing in reaches, opened where that person reaches none",
+  definition: "the contributor a person reaches when the person signs in",
   code: "ts",
   test: "ts",
   decisions: [
@@ -64,5 +64,5 @@ export const signInReaching = {
     },
   ],
   createdAt: "2026-09-19T19:07:35.796Z",
-  updatedAt: "2026-09-25T15:45:44.000Z",
+  updatedAt: "2026-10-30T15:33:58.726Z",
 } as const satisfies Module
