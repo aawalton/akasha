@@ -5,7 +5,7 @@ export const spendHours = {
   type: "page-type/computed-property",
   slug: "spend-hours",
   propertySlug: "spend-hours",
-  definition: "what every stretch of the day cost, added up",
+  definition: "the hours a day spends",
   holds: "number",
   code: "ts",
   decisions: [
@@ -16,5 +16,5 @@ export const spendHours = {
   ],
   types: "ts",
   createdAt: "2026-09-05T18:56:42.376Z",
-  updatedAt: "2026-09-18T22:41:51.000Z",
+  updatedAt: "2026-10-30T16:41:11.283Z",
 } as const satisfies ComputedProperty
