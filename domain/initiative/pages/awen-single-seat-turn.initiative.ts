@@ -37,6 +37,11 @@ export const awenSingleSeatTurn = {
       workingMemory:
         "Memory lands where it lands now. A next action sent while it is open waits for it to land, never skipping or racing it. It is timed apart from the turn's time to player.",
     },
+    {
+      statement: "A one-seat turn works the numbers of every beat, then the prose of every beat.",
+      workingMemory:
+        "Alan: for this version, it should do the numbers for all beats and then the prose for all beats, instead of alternating for each beat.",
+    },
   ],
   constraints: [
     "This initiative only coordinates, and subagents under its sub-initiatives do every implementation.",
@@ -46,5 +51,5 @@ export const awenSingleSeatTurn = {
     "Alan has approved every directive this initiative needs to land.",
   ],
   createdAt: "2026-10-30T12:00:41.177Z",
-  updatedAt: "2026-10-30T14:29:50.529Z",
+  updatedAt: "2026-10-30T14:47:45.519Z",
 } as const satisfies Initiative
