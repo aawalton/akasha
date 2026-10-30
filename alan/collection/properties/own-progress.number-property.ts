@@ -5,7 +5,7 @@ export const ownProgress = {
   type: "page-type/number-property",
   slug: "own-progress",
   propertySlug: "own-progress",
-  definition: "how far through a collection a person has got, counted in its own unit",
+  definition: "the progress through a collection without its parts counted in its unit",
   max: null,
   decisions: [
     {
@@ -16,5 +16,5 @@ export const ownProgress = {
   ],
   types: "ts",
   createdAt: "2026-09-03T03:32:31.635Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:09:02.369Z",
 } as const satisfies NumberProperty
