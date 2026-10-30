@@ -4,7 +4,7 @@ export const pageTypeRows = {
   id: "01a0d441-f596-777b-8f53-9333dfa98adf",
   type: "page-type/module",
   slug: "page-type-rows",
-  definition: "the rows naming each page type and the types above it",
+  definition: "how code reads the page types above each page type from the index",
   code: "ts",
   test: "ts",
   decisions: [
@@ -39,5 +39,5 @@ export const pageTypeRows = {
     },
   ],
   createdAt: "2026-09-24T16:31:27.638Z",
-  updatedAt: "2026-09-24T16:33:21.000Z",
+  updatedAt: "2026-10-30T15:33:13.385Z",
 } as const satisfies Module
