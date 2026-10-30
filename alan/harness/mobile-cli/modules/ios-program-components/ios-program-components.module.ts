@@ -4,7 +4,7 @@ export const iosProgramComponents = {
   id: "01a05cee-e560-7f62-99a4-8df3cd92480b",
   type: "page-type/module",
   slug: "ios-program-components",
-  definition: "the Swift components and build target an akasha ios-program page names",
+  definition: "the components and the Xcode name that code reads from an iOS program page",
   code: "ts",
   decisions: [
     {
@@ -34,5 +34,5 @@ export const iosProgramComponents = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:26:06.434Z",
 } as const satisfies Module
