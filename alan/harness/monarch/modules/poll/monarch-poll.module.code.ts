@@ -17,7 +17,7 @@ import {
   clearVanishedIdsAmong,
   mirroredWindow,
 } from "akasha/alan/harness/monarch/modules/reconcile/monarch-reconcile.module.code.ts"
-import { trustedFrom } from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
+import { trustedFrom } from "akasha/alan/harness/monarch/modules/windows/monarch-windows.module.code.ts"
 import { chunk } from "akasha/code/type/narrowing/modules/chunk/chunk.module.code.ts"
 
 interface PollTally {

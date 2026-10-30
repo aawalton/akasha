@@ -4,8 +4,7 @@ export const monarchTransaction = {
   id: "01a0685f-4ed9-79ad-a2e6-7f7ef50b5218",
   type: "page-type/module",
   slug: "monarch-transaction",
-  definition:
-    "what every reader of a Monarch row agrees a transaction is, and the windows judged against it",
+  definition: "the values of a Monarch transaction a category rule reads",
   code: "ts",
   test: "ts",
   decisions: [
@@ -46,14 +45,7 @@ export const monarchTransaction = {
       decisionKind: "decision-kind/departure",
       statement: "A category of Uncategorized is no answer.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The trusted window is twelve months and the unattended window is seven days.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A window is cut from a moment handed in rather than from the clock.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A run can be repeated.",
@@ -64,5 +56,5 @@ export const monarchTransaction = {
     },
   ],
   createdAt: "2026-09-03T17:44:31.705Z",
-  updatedAt: "2026-09-24T19:10:39.000Z",
+  updatedAt: "2026-10-30T15:56:16.319Z",
 } as const satisfies Module

@@ -53,6 +53,7 @@ export const monarch = {
     "module/monarch-transaction",
     "module/monarch-transaction-create",
     "module/transaction-polling",
+    "module/monarch-windows",
     "page-type/category-rule",
     "page-type/monarch-account",
     "page-type/monarch-category",
@@ -174,5 +175,5 @@ export const monarch = {
     },
   ],
   createdAt: "2026-08-30T16:45:07.465Z",
-  updatedAt: "2026-10-30T15:54:25.282Z",
+  updatedAt: "2026-10-30T15:56:16.319Z",
 } as const satisfies Domain

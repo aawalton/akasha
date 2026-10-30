@@ -4,11 +4,11 @@ import type {
   Decision,
   Rule,
 } from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
+import { answered } from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
 import {
-  answered,
   TRUSTED_MONTHS,
   trustedFrom,
-} from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
+} from "akasha/alan/harness/monarch/modules/windows/monarch-windows.module.code.ts"
 
 interface Decided {
   readonly rule: Rule

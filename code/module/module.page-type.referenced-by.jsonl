@@ -760,6 +760,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/modules/transaction-create/monarch-transaction-create.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/modules/transaction-polling/transaction-polling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/modules/transaction/monarch-transaction.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/modules/windows/monarch-windows.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/notification-feed/modules/notifying/notifying.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/notification-feed/modules/rows/notification-feed-rows.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/readout/modules/asking/readout-asking.module.ts","typed":true,"deferred":false}

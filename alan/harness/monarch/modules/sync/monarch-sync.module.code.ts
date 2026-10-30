@@ -24,7 +24,7 @@ import {
   clearVanishedAgainstFullFetch,
   clearVanishedInWindow,
 } from "akasha/alan/harness/monarch/modules/reconcile/monarch-reconcile.module.code.ts"
-import { trustedFrom } from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
+import { trustedFrom } from "akasha/alan/harness/monarch/modules/windows/monarch-windows.module.code.ts"
 
 interface SyncTally {
   readonly landed: number
