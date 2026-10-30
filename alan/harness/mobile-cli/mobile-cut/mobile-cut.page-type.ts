@@ -5,6 +5,10 @@ export const mobileCut = {
   type: "page-type/page-type",
   slug: "mobile-cut",
   definition: "a version of an app and the commits the version was built from",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "mobile cut" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "mobile cuts" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "instant-property/cut-at",
@@ -45,5 +49,5 @@ export const mobileCut = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-07-11T12:58:12.368Z",
-  updatedAt: "2026-10-30T15:43:37.116Z",
+  updatedAt: "2026-10-30T15:44:14.868Z",
 } as const satisfies PageType
