@@ -4,8 +4,7 @@ export const monarchRuleAmounts = {
   id: "01a06863-264d-7413-a29a-4e2976d1dc3b",
   type: "page-type/module",
   slug: "monarch-rule-amounts",
-  definition:
-    "the amount clause a rule states, weighed against a transaction and said back in words",
+  definition: "how code matches a Monarch transaction against the amounts of a category rule",
   code: "ts",
   test: "ts",
   decisions: [
@@ -51,5 +50,5 @@ export const monarchRuleAmounts = {
     },
   ],
   createdAt: "2026-09-03T17:48:43.469Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:44:21.828Z",
 } as const satisfies Module
