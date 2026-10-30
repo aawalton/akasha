@@ -5,6 +5,10 @@ export const handoverRr = {
   type: "page-type/domain",
   slug: "handover-rr",
   definition: "how people sign in to a service through alanwalton.com",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "handover" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "handovers" },
+  ],
   parts: [
     "module/handover-arrival",
     "module/handover-code",
@@ -58,5 +62,5 @@ export const handoverRr = {
     },
   ],
   createdAt: "2026-09-19T20:29:10.338Z",
-  updatedAt: "2026-09-24T23:22:29.000Z",
+  updatedAt: "2026-10-30T15:45:46.568Z",
 } as const satisfies Domain
