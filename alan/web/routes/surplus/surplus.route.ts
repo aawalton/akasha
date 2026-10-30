@@ -4,7 +4,7 @@ export const surplus = {
   id: "01a07c5c-cffc-7e06-993e-f7b533204f65",
   type: "page-type/route",
   slug: "surplus",
-  definition: "Alan's surplus as the color the hours left in his night reach",
+  definition: "the stoplights a readout widget shows for Alan's surplus",
   code: "ts",
   test: "ts",
   urlPath: "api/surplus",
@@ -55,5 +55,5 @@ export const surplus = {
     },
   ],
   createdAt: "2026-09-07T14:54:12.476Z",
-  updatedAt: "2026-09-25T16:52:49.000Z",
+  updatedAt: "2026-10-30T17:04:20.295Z",
 } as const satisfies Route
