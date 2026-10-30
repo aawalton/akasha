@@ -4,7 +4,7 @@ export const addonGlobalOwnership = {
   id: "01a06351-9b09-79b9-9375-0365c78e88d8",
   type: "page-type/module",
   slug: "addon-global-ownership",
-  definition: "which Lua globals a port's source writes",
+  definition: "which Lua globals a port's code writes",
   code: "ts",
   decisions: [
     {
@@ -25,5 +25,5 @@ export const addonGlobalOwnership = {
     },
   ],
   createdAt: "2026-09-02T18:11:27.625Z",
-  updatedAt: "2026-09-21T22:03:34.000Z",
+  updatedAt: "2026-10-30T16:19:42.016Z",
 } as const satisfies Module
