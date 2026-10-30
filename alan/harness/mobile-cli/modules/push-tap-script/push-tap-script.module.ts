@@ -4,7 +4,7 @@ export const pushTapScript = {
   id: "01a05cee-e560-71d2-95a2-e4f789ace504",
   type: "page-type/module",
   slug: "push-tap-script",
-  definition: "the shell that pushes an APNs payload to a booted simulator",
+  definition: "the shell script that sends a notification to an app in a simulator",
   code: "ts",
   decisions: [
     {
@@ -29,5 +29,5 @@ export const pushTapScript = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:28:14.279Z",
 } as const satisfies Module
