@@ -133,11 +133,12 @@ export const readout = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A readout that takes its own reading holds the code taking it beside its page.",
+      statement:
+        "A readout that takes its own number holds the code taking that number beside its page.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A readout carried its reading from elsewhere holds no code.",
+      statement: "A readout whose number is carried from elsewhere holds no code.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -171,11 +172,11 @@ export const readout = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading a readout last took is carried outside the commit.",
+      statement: "The number a readout last took is carried outside the commit.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A readout answering nothing keeps the reading it last took.",
+      statement: "A readout answering nothing keeps the number it last took.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -184,7 +185,7 @@ export const readout = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Every feed sends each readout's label, and the unit where one is stated, beside its reading.",
+        "Every feed sends each readout's label, and the unit where one is stated, beside its number.",
     },
 
     {
@@ -201,7 +202,7 @@ export const readout = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A row a readout cannot read costs that row's own reading alone.",
+      statement: "A row a readout cannot read costs that row's own number alone.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -221,15 +222,15 @@ export const readout = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A readout leaves out everything but the reading itself.",
+      statement: "A readout leaves out everything but the number itself.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A readout draws however many readings its feed sends.",
+      statement: "A readout shows however many numbers its feed sends.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A feed sending no reading is the single feed a readout refuses.",
+      statement: "A feed sending no number is the single feed a readout refuses.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -245,7 +246,7 @@ export const readout = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading a readout's reader wants from that readout costs one glance.",
+      statement: "The number a readout's reader wants from that readout costs one glance.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -262,11 +263,11 @@ export const readout = {
 
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every readout a group draws keeps its last reading beside its own page.",
+      statement: "Every readout a group shows keeps its last number beside its own page.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every readout that takes a reading names a group that draws the reading.",
+      statement: "Every readout that takes a number names a group that shows the number.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -305,5 +306,5 @@ export const readout = {
   schema: "jsonl",
   loadedExport: ["sampler"],
   createdAt: "2026-08-30T20:05:28.032Z",
-  updatedAt: "2026-10-30T16:15:35.365Z",
+  updatedAt: "2026-10-30T17:07:34.446Z",
 } as const satisfies PageType
