@@ -5,7 +5,7 @@ export const countedOn = {
   type: "page-type/select-property",
   slug: "counted-on",
   propertySlug: "counted-on",
-  definition: "which day's page a readout's count is read from",
+  definition: "the day whose page holds the value of a readout",
   values: ["eso-day", "opened-day"],
   decisions: [
     {
@@ -23,5 +23,5 @@ export const countedOn = {
   ],
   types: "ts",
   createdAt: "2026-09-24T18:24:06.783Z",
-  updatedAt: "2026-09-24T18:24:34.000Z",
+  updatedAt: "2026-10-30T16:10:32.832Z",
 } as const satisfies SelectProperty
