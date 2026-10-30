@@ -5,9 +5,9 @@ export const runnerReached = {
   type: "page-type/relation-property",
   slug: "runner-reached",
   propertySlug: "reached",
-  definition: "the page type whose changes a runner reaches",
+  definition: "the page type of the changes a change runner runs",
   targetPageType: "page-type/page-type",
   types: "ts",
   createdAt: "2026-09-08T14:14:35.671Z",
-  updatedAt: "2026-09-22T18:56:50.000Z",
+  updatedAt: "2026-10-30T17:40:41.172Z",
 } as const satisfies RelationProperty
