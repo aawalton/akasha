@@ -35,6 +35,7 @@
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/buyer.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/by.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/byte.common-language-term.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/cable.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/calendar.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/call.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/can.common-language-term.ts","typed":true,"deferred":false}
