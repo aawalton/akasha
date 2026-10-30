@@ -4,7 +4,7 @@ export const handoverSite = {
   id: "01a0bb43-f125-7242-ae2b-72157ed7dc6b",
   type: "page-type/module",
   slug: "handover-site",
-  definition: "what a site is called, where a site answers, and which peripherals a code may name",
+  definition: "the services where people sign in through alanwalton.com",
   code: "ts",
   decisions: [
     {
@@ -25,5 +25,5 @@ export const handoverSite = {
     },
   ],
   createdAt: "2026-09-19T20:03:07.173Z",
-  updatedAt: "2026-09-24T16:36:58.000Z",
+  updatedAt: "2026-10-30T15:45:10.243Z",
 } as const satisfies Module
