@@ -4,7 +4,11 @@ export const typedstream = {
   id: "01a05bc9-4308-7002-8ad9-2d99f9097e39",
   type: "page-type/module",
   slug: "typedstream",
-  definition: "the text held inside an Apple typedstream message body",
+  definition: "how code reads the text of an iMessage message from its typedstream",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "typedstream" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "typedstreams" },
+  ],
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -27,5 +31,5 @@ export const typedstream = {
     },
   ],
   createdAt: "2026-09-01T07:05:11.688Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:34:57.346Z",
 } as const satisfies Module
