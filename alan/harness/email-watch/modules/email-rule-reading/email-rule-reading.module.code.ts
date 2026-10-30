@@ -5,7 +5,7 @@ import {
   ruleKinds,
   ruleLocation,
   ruleTypeSlug,
-} from "akasha/alan/harness/email-watch/modules/email-rule-set/email-rule-set.module.code.ts"
+} from "akasha/alan/harness/email-watch/modules/email-rule-folder/email-rule-folder.module.code.ts"
 import type { Condition } from "akasha/alan/harness/rules-engine/modules/rule-conditions/rule-conditions.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"

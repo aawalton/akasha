@@ -632,6 +632,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-routing/modules/email-zone-reaching/email-zone-reaching.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-routing/modules/persona-routing-run/persona-routing-run.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-watch/modules/email-rule-deciding/email-rule-deciding.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-watch/modules/email-rule-folder/email-rule-folder.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-watch/modules/email-rule-reading/email-rule-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-watch/modules/email-rule-set/email-rule-set.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-watch/modules/inbox-pass/inbox-pass.module.ts","typed":true,"deferred":false}

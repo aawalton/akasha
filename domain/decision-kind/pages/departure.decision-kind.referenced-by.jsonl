@@ -829,6 +829,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/email-routing/service-workstations/persona-email-routing/persona-email-routing.service-workstation.ts","id":"01a0a147-4f53-7e7e-8fb1-00a3014534b0"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-watch/email-watch.domain.ts","id":"01a06596-a92e-7000-b678-5d6232425a71"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-watch/modules/email-rule-deciding/email-rule-deciding.module.ts","id":"01a06871-54e5-7002-a44f-3d96cfa5d667"}
+{"propertySlug":"decision-kind","path":"alan/harness/email-watch/modules/email-rule-folder/email-rule-folder.module.ts","id":"01a18daa-fc33-78f7-bf8e-040c1dfaaa10"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-watch/modules/email-rule-reading/email-rule-reading.module.ts","id":"01a06871-54e5-7001-a2eb-d37372c1e8a3"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-watch/modules/email-rule-set/email-rule-set.module.ts","id":"01a06871-54e5-7000-b703-1ea0c1101a4d"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-watch/modules/inbox-pass/inbox-pass.module.ts","id":"01a06948-c4c6-798a-a36f-1d22dd231125"}
