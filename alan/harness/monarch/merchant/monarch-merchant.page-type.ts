@@ -4,7 +4,7 @@ export const monarchMerchant = {
   id: "01a0680c-3c00-700b-a937-4d1f6c8b310c",
   type: "page-type/page-type",
   slug: "monarch-merchant",
-  definition: "who or what a transaction was with, read out of the words it carries",
+  definition: "the other side of a transaction",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "Monarch merchant" },
     { partOfSpeech: "part-of-speech/noun", spelling: "Monarch merchants" },
@@ -50,5 +50,5 @@ export const monarchMerchant = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:13:47.392Z",
-  updatedAt: "2026-10-30T15:25:13.349Z",
+  updatedAt: "2026-10-30T15:50:26.661Z",
 } as const satisfies PageType
