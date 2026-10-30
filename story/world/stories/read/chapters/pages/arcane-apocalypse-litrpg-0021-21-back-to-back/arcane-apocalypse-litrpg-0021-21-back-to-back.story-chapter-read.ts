@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg002121BackToBack = {
     },
   ],
   createdAt: "2026-10-28T16:29:04.794Z",
-  updatedAt: "2026-10-28T16:29:04.794Z",
+  updatedAt: "2026-10-30T00:24:55.396Z",
+  ownProgress: 2541,
+  progressedAt: "2026-10-30T00:24:55.396Z",
 } as const satisfies StoryChapterRead

@@ -20,5 +20,7 @@ export const fiveElementOverlordICanUpgradeEverything0174Ch174LeavingOnAHighNote
     },
   ],
   createdAt: "2026-10-29T23:22:58.810Z",
-  updatedAt: "2026-10-29T23:22:58.810Z",
+  updatedAt: "2026-10-30T00:24:55.396Z",
+  ownProgress: 2416,
+  progressedAt: "2026-10-30T00:24:55.396Z",
 } as const satisfies StoryChapterRead

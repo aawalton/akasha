@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg001818SkillTalk = {
     },
   ],
   createdAt: "2026-10-28T16:29:04.794Z",
-  updatedAt: "2026-10-28T16:29:04.794Z",
+  updatedAt: "2026-10-30T00:24:55.396Z",
+  ownProgress: 3070,
+  progressedAt: "2026-10-30T00:24:55.396Z",
 } as const satisfies StoryChapterRead
