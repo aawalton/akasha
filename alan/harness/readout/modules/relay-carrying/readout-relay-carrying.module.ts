@@ -4,7 +4,7 @@ export const readoutRelayCarrying = {
   id: "01a09223-fc31-7916-b4e3-8b43923da124",
   type: "page-type/module",
   slug: "readout-relay-carrying",
-  definition: "the readings a run carries to the sites each readout's page names",
+  definition: "how a run sends a readout to the router apps on its page",
   code: "ts",
   test: "ts",
   decisions: [
@@ -55,5 +55,5 @@ export const readoutRelayCarrying = {
     },
   ],
   createdAt: "2026-09-11T20:23:46.993Z",
-  updatedAt: "2026-09-25T17:37:48.000Z",
+  updatedAt: "2026-10-30T16:04:06.327Z",
 } as const satisfies Module
