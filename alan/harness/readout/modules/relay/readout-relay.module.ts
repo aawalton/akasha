@@ -4,7 +4,7 @@ export const readoutRelay = {
   id: "01a05b53-8d89-70aa-a7f0-f32ee7eac52b",
   type: "page-type/module",
   slug: "readout-relay",
-  definition: "the reading carried from the machine that took it to the machine that shows it",
+  definition: "how code sends a readout's number to the machine that shows the readout",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -167,5 +167,5 @@ export const readoutRelay = {
     },
   ],
   createdAt: "2026-09-01T04:56:37.513Z",
-  updatedAt: "2026-09-25T17:30:04.000Z",
+  updatedAt: "2026-10-30T16:04:47.675Z",
 } as const satisfies Module
