@@ -4,7 +4,7 @@ export const attributesTotalling = {
   id: "01a07899-c5db-720d-b555-089ffd6bae07",
   type: "page-type/module",
   slug: "attributes-totalling",
-  definition: "the points each attribute has earned since the day the counting begins",
+  definition: "the points each attribute earns over all the days akasha counts",
   code: "ts",
   test: "ts",
   decisions: [
@@ -103,5 +103,5 @@ export const attributesTotalling = {
     },
   ],
   createdAt: "2026-09-06T21:22:18.715Z",
-  updatedAt: "2026-10-18T13:43:32.840Z",
+  updatedAt: "2026-10-30T15:28:36.383Z",
 } as const satisfies Module
