@@ -4,7 +4,7 @@ export const gbwwReading = {
   id: "01a0659f-93da-7019-b3d4-198e7acfbd4c",
   type: "page-type/page-type",
   slug: "gbww-reading",
-  definition: "a reading on the Great Books of the Western World ten-year plan",
+  definition: "a reading on the Great Books of the Western World plan",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "reading", scope: "domain/reading" },
   ],
@@ -50,5 +50,5 @@ export const gbwwReading = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:55:52.026Z",
-  updatedAt: "2026-10-30T16:29:10.060Z",
+  updatedAt: "2026-10-30T16:29:51.161Z",
 } as const satisfies PageType
