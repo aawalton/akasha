@@ -5,7 +5,7 @@ export const masteryRank = {
   type: "page-type/number-property",
   slug: "mastery-rank",
   propertySlug: "rank",
-  definition: "where a rung sits on the scale, nought to seven",
+  definition: "the place of a mastery level among the mastery levels",
   max: 7,
   decisions: [
     {
@@ -15,5 +15,5 @@ export const masteryRank = {
   ],
   types: "ts",
   createdAt: "2026-09-06T19:56:03.386Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:58:36.315Z",
 } as const satisfies NumberProperty
