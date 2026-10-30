@@ -4,7 +4,7 @@ export const spotifyCacheFile = {
   id: "01a06261-dc1d-7002-81c0-cf6b422e7fb3",
   type: "page-type/module",
   slug: "spotify-cache-file",
-  definition: "a small JSON file kept for Spotify in the user's cache folder",
+  definition: "a file kept for Spotify on Alan's computer",
   code: "ts",
   test: "ts",
   decisions: [
@@ -50,5 +50,5 @@ export const spotifyCacheFile = {
     },
   ],
   createdAt: "2026-09-02T13:49:35.645Z",
-  updatedAt: "2026-09-22T14:37:11.000Z",
+  updatedAt: "2026-10-30T16:19:10.191Z",
 } as const satisfies Module
