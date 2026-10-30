@@ -5,7 +5,7 @@ export const trackType = {
   type: "page-type/select-property",
   slug: "track-type",
   propertySlug: "track-type",
-  definition: "what kind of recording a track is",
+  definition: "the kind of recording on a track",
   values: [
     "studio",
     "live",
@@ -33,5 +33,5 @@ export const trackType = {
   ],
   types: "ts",
   createdAt: "2026-09-19T18:19:39.000Z",
-  updatedAt: "2026-09-19T18:19:39.000Z",
+  updatedAt: "2026-10-30T16:16:10.467Z",
 } as const satisfies SelectProperty
