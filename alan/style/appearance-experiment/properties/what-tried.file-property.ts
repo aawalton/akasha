@@ -5,7 +5,7 @@ export const whatTried = {
   type: "page-type/file-property",
   slug: "what-tried",
   propertySlug: "what-tried",
-  definition: "the thing put on and what went with it",
+  definition: "the things Alan wears in an appearance experiment",
   extensions: ["txt"],
   decisions: [
     {
@@ -15,5 +15,5 @@ export const whatTried = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:42:47.583Z",
-  updatedAt: "2026-09-22T13:57:00.000Z",
+  updatedAt: "2026-10-30T16:31:27.713Z",
 } as const satisfies FileProperty
