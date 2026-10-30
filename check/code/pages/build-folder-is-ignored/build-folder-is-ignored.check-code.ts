@@ -4,7 +4,7 @@ export const buildFolderIsIgnored = {
   id: "01a0d926-3ca6-7478-a7a6-55dd5c37f218",
   type: "page-type/check-code",
   slug: "build-folder-is-ignored",
-  definition: "the check refusing a page whose build folder git does not ignore",
+  definition: "whether git ignores every build folder",
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: true,
@@ -58,5 +58,5 @@ export const buildFolderIsIgnored = {
   check: { maxCpuSeconds: 3 },
   audit: { maxCpuSeconds: 15 },
   createdAt: "2026-09-25T15:19:16.902Z",
-  updatedAt: "2026-09-25T16:28:02.000Z",
+  updatedAt: "2026-10-30T17:47:49.726Z",
 } as const satisfies CheckCode
