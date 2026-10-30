@@ -5,7 +5,7 @@ export const state = {
   type: "page-type/file-property",
   slug: "state",
   propertySlug: "state",
-  definition: "what a part of the editor draws now",
+  definition: "what a part of the code editor shows",
   extensions: ["json"],
   generated: true,
   runsFileLength: false,
@@ -37,5 +37,5 @@ export const state = {
   ],
   types: "ts",
   createdAt: "2026-09-05T15:35:07.268Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:35:42.971Z",
 } as const satisfies FileProperty
