@@ -7,7 +7,7 @@ export const changeProsePattern = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/prose",
   changeTargetSubtype: "change-target-subtype/prose-pattern",
-  definition: "every passage a banned term is written in restated in the words written instead",
+  definition: "a change that replaces a banned term in every passage",
   code: "ts",
   test: "ts",
   decisions: [
@@ -52,5 +52,5 @@ export const changeProsePattern = {
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
   createdAt: "2026-09-08T18:33:10.262Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T17:14:30.052Z",
 } as const satisfies ChangeAgent
