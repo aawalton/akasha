@@ -4,7 +4,7 @@ export const healthImportRun = {
   id: "01a05c14-b11a-7004-981f-f20033c862ae",
   type: "page-type/module",
   slug: "health-import-run",
-  definition: "an import run, from the records read to the samples written",
+  definition: "a run that imports health samples from the Apple Health file",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -32,5 +32,5 @@ export const healthImportRun = {
     },
   ],
   createdAt: "2026-09-01T08:27:35.066Z",
-  updatedAt: "2026-09-24T23:05:06.000Z",
+  updatedAt: "2026-10-30T15:44:08.315Z",
 } as const satisfies Module
