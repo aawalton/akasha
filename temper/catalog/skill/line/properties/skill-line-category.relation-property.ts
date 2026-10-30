@@ -5,9 +5,9 @@ export const skillLineCategory = {
   type: "page-type/relation-property",
   slug: "skill-line-category",
   propertySlug: "category",
-  definition: "the group of lines a skill line is one of",
+  definition: "the group of skill lines a skill line belongs to",
   targetPageType: "page-type/temper-skill-line-category",
   types: "ts",
   createdAt: "2026-09-22T21:41:21.688Z",
-  updatedAt: "2026-09-22T21:41:48.000Z",
+  updatedAt: "2026-10-30T16:45:43.728Z",
 } as const satisfies RelationProperty
