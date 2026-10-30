@@ -4,7 +4,7 @@ export const notificationFeedRows = {
   id: "01a069b6-bb6b-7ec9-bdcf-8f130bb46a4d",
   type: "page-type/module",
   slug: "notification-feed-rows",
-  definition: "a person's notifications, read from and written to the feed page's own sidecar",
+  definition: "how code keeps the notifications of a person in the rows of a file",
   code: "ts",
   decisions: [
     {
@@ -54,5 +54,5 @@ export const notificationFeedRows = {
     },
   ],
   createdAt: "2026-09-03T23:59:38.347Z",
-  updatedAt: "2026-09-22T00:47:01.000Z",
+  updatedAt: "2026-10-30T15:53:15.217Z",
 } as const satisfies Module
