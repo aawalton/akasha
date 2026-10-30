@@ -4,8 +4,7 @@ export const pageTypeRenaming = {
   id: "01a091ff-4562-7ba7-9e1c-a4c636eda0b3",
   type: "page-type/module",
   slug: "page-type-renaming",
-  definition:
-    "where every file a page type and its pages hold lands once that page type is renamed",
+  definition: "how code moves the files of a renamed page type and its pages",
   code: "ts",
   test: "ts",
   decisions: [
@@ -57,5 +56,5 @@ export const pageTypeRenaming = {
     },
   ],
   createdAt: "2026-09-11T19:43:40.898Z",
-  updatedAt: "2026-09-24T17:19:05.000Z",
+  updatedAt: "2026-10-30T17:22:50.155Z",
 } as const satisfies Module
