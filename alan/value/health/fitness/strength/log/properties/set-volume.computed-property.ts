@@ -5,7 +5,7 @@ export const setVolume = {
   type: "page-type/computed-property",
   slug: "set-volume",
   propertySlug: "set-volume",
-  definition: "the total pounds a lifting set moves",
+  definition: "the total pounds an exercise set moves",
   holds: "number",
   code: "ts",
   decisions: [
@@ -54,5 +54,5 @@ export const setVolume = {
   ],
   types: "ts",
   createdAt: "2026-09-06T17:37:22.361Z",
-  updatedAt: "2026-10-30T16:53:29.330Z",
+  updatedAt: "2026-10-30T17:11:31.598Z",
 } as const satisfies ComputedProperty
