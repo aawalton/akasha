@@ -246,6 +246,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/day-boundary/day-boundary.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/email-inbound/email-inbound.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/email-routing/email-routing.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/email-routing/rule/email-routing-rule.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/email-watch/email-watch.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/errors-client/errors-client.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/geo-io/geo-io.domain.ts","typed":true,"deferred":false}

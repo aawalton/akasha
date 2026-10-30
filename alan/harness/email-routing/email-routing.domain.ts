@@ -10,6 +10,7 @@ export const emailRouting = {
     "module/email-zone-reaching",
     "module/persona-routing-run",
     "service-workstation/persona-email-routing",
+    "domain/email-routing-rule",
   ],
   decisions: [
     {
@@ -50,5 +51,5 @@ export const emailRouting = {
     },
   ],
   createdAt: "2026-09-14T18:36:10.427Z",
-  updatedAt: "2026-09-24T22:44:16.000Z",
+  updatedAt: "2026-10-30T15:53:09.662Z",
 } as const satisfies Domain
