@@ -6,6 +6,7 @@ export const grade = {
   slug: "grade",
   propertySlug: "grade",
   definition: "Alan's mark for how good a thing is",
+  spellings: [{ partOfSpeech: "part-of-speech/past-participle", spelling: "graded" }],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -14,5 +15,5 @@ export const grade = {
   ],
   types: "ts",
   createdAt: "2026-09-03T03:41:16.827Z",
-  updatedAt: "2026-09-21T20:08:12.000Z",
+  updatedAt: "2026-10-30T17:20:35.436Z",
 } as const satisfies GradeProperty

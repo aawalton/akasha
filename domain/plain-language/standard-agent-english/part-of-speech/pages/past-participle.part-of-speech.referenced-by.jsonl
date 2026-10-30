@@ -94,6 +94,7 @@
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/use.common-language-term.ts","id":"01a0d57a-2034-78a8-89c8-2193c67baae1"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/wear.common-language-term.ts","id":"01a18da4-f95a-7ceb-97df-cdd95dbb5726"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/write.common-language-term.ts","id":"01a0d435-bdab-783b-b4e0-3afede58019f"}
+{"propertySlug":"part-of-speech","path":"page/properties/grade.grade-property.ts","id":"01a0655b-4a9b-7003-a822-f4a3ceda67b2"}
 {"propertySlug":"parts","path":"domain/plain-language/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/be-verb-with-a-negator-and-a-past-participle.construction.ts","id":"01a18d6d-e8e5-7462-ac8b-fdc24ef503af"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/be-verb-with-a-past-participle-and-a-manner-adverb.construction.ts","id":"01a0d8f4-3908-7119-bbaa-a40657c4b370"}
