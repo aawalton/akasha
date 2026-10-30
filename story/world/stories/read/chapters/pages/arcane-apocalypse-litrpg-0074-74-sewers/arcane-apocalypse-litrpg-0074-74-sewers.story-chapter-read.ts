@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg007474Sewers = {
     },
   ],
   createdAt: "2026-10-28T16:29:15.598Z",
-  updatedAt: "2026-10-28T16:29:15.598Z",
+  updatedAt: "2026-10-30T19:24:18.053Z",
+  ownProgress: 4419,
+  progressedAt: "2026-10-30T19:24:18.053Z",
 } as const satisfies StoryChapterRead
