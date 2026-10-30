@@ -1,8 +1,10 @@
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
 import { pad2 } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.computed-property-module.code.ts"
-import { getMountainMorningDayStr } from "akasha/alan/harness/day-boundary/modules/mountain-day/mountain-day.module.code.ts"
-import { readMountainWallTime } from "akasha/alan/harness/day-boundary/modules/mountain-wall/mountain-wall.module.code.ts"
+import {
+  mountainWallAt,
+  readMountainWallTime,
+} from "akasha/alan/harness/day-boundary/modules/mountain-wall/mountain-wall.module.code.ts"
 import {
   rootOf,
   written,
@@ -156,13 +158,18 @@ export function readIn(argv: readonly string[], calledAs: string): Read {
 
 type HappenedAtRead = { readonly at: Date } | { readonly refused: string }
 
+function mountainDateOf(now: Date): string {
+  const wall = mountainWallAt(now)
+  return `${wall.year}-${pad2(wall.month)}-${pad2(wall.day)}`
+}
+
 export function happenedAtFrom(
   date: string | undefined,
   time: WallClock | undefined,
   now: Date
 ): HappenedAtRead {
   if (date === undefined && time === undefined) return { at: now }
-  const dayStr = date ?? getMountainMorningDayStr(now)
+  const dayStr = date ?? mountainDateOf(now)
   const wall = time ?? { hh: NOON, mm: 0 }
   const reading = readMountainWallTime(`${dayStr} ${pad2(wall.hh)}:${pad2(wall.mm)}`, now)
   if (reading.read === "refused") return { refused: reading.saying }
