@@ -5,8 +5,8 @@ export const collectionCompletedAt = {
   type: "page-type/instant-property",
   slug: "collection-completed-at",
   propertySlug: "completed-at",
-  definition: "when a collection was worked through to its end",
+  definition: "when a collection was done",
   types: "ts",
   createdAt: "2026-09-02T20:44:59.872Z",
-  updatedAt: "2026-09-15T17:15:46.000Z",
+  updatedAt: "2026-10-30T15:11:20.256Z",
 } as const satisfies InstantProperty
