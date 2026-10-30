@@ -4,7 +4,7 @@ export const supervisorSeatDefaults = {
   id: "01a06876-abda-700e-b7c6-fdaa53c08fc1",
   type: "page-type/module",
   slug: "supervisor-seat-defaults",
-  definition: "the mode, stating and slots a seat declares as its defaults",
+  definition: "how code writes every attribute a seat needs when a supervisor starts",
   code: "ts",
   decisions: [
     {
@@ -42,5 +42,5 @@ export const supervisorSeatDefaults = {
     },
   ],
   createdAt: "2026-09-03T18:10:02.842Z",
-  updatedAt: "2026-09-24T16:36:00.000Z",
+  updatedAt: "2026-10-30T14:41:18.815Z",
 } as const satisfies Module
