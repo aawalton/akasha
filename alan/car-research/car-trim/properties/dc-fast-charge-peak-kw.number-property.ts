@@ -5,9 +5,9 @@ export const dcFastChargePeakKw = {
   type: "page-type/number-property",
   slug: "dc-fast-charge-peak-kw",
   propertySlug: "dc-fast-charge-peak-kw",
-  definition: "the most a fast charger ever puts into the car at once, in kilowatts",
+  definition: "the highest kilowatts a fast charger gives a car trim",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:41:09.575Z",
-  updatedAt: "2026-09-21T18:42:37.000Z",
+  updatedAt: "2026-10-30T15:02:41.684Z",
 } as const satisfies NumberProperty
