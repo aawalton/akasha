@@ -4,7 +4,7 @@ export const releaseSyncing = {
   id: "01a09c80-78b1-747b-b16d-c003ab8e4aa7",
   type: "page-type/module",
   slug: "release-syncing",
-  definition: "the releases Spotify holds for an artist Alan follows, filed as pages",
+  definition: "how code writes a page for each release of an artist Alan keeps on Spotify",
   code: "ts",
   test: "ts",
   decisions: [
@@ -164,5 +164,5 @@ export const releaseSyncing = {
     },
   ],
   createdAt: "2026-09-13T20:41:00.337Z",
-  updatedAt: "2026-10-15T13:53:18.794Z",
+  updatedAt: "2026-10-30T16:29:38.741Z",
 } as const satisfies Module
