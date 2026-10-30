@@ -4,7 +4,7 @@ export const mountainDay = {
   id: "01a05c77-31e7-7659-86c4-340d070e0baf",
   type: "page-type/module",
   slug: "mountain-day",
-  definition: "the day an instant falls on for someone living on a Denver clock",
+  definition: "how code finds the day of a time in Denver",
   code: "ts",
   test: "ts",
   decisions: [
@@ -22,5 +22,5 @@ export const mountainDay = {
     },
   ],
   createdAt: "2026-09-01T10:15:10.567Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:43:41.027Z",
 } as const satisfies Module
