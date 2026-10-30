@@ -46,7 +46,6 @@ export const day = {
     "number-property/inbox-calendar",
     "number-property/inbox-tasks",
     "number-property/inbox-temper-tasks",
-    "number-property/inbox-texts",
     "number-property/intelligence-topics",
     "number-property/learn-points",
     "number-property/love-points",
@@ -115,7 +114,6 @@ export const day = {
       required: false,
       many: false,
     },
-    { pageProperty: "number-property/inbox-texts", required: false, many: false },
     {
       pageProperty: "boolean-property/inbox-texts-cleared-today",
       required: false,
@@ -203,5 +201,5 @@ export const day = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-10-30T16:34:23.479Z",
+  updatedAt: "2026-10-30T16:52:55.459Z",
 } as const satisfies PageType

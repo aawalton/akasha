@@ -14,7 +14,6 @@ import type { InboxTasks } from "akasha/alan/track/daily/day/properties/inbox-ta
 import type { InboxTasksClearedToday } from "akasha/alan/track/daily/day/properties/inbox-tasks-cleared-today.boolean-property.types.ts"
 import type { InboxTemperTasks } from "akasha/alan/track/daily/day/properties/inbox-temper-tasks.number-property.types.ts"
 import type { InboxTemperTasksClearedToday } from "akasha/alan/track/daily/day/properties/inbox-temper-tasks-cleared-today.boolean-property.types.ts"
-import type { InboxTexts } from "akasha/alan/track/daily/day/properties/inbox-texts.number-property.types.ts"
 import type { InboxTextsClearedToday } from "akasha/alan/track/daily/day/properties/inbox-texts-cleared-today.boolean-property.types.ts"
 import type { IntelligenceTopics } from "akasha/alan/track/daily/day/properties/intelligence-topics.number-property.types.ts"
 import type { LastViewedAt } from "akasha/alan/track/daily/day/properties/last-viewed-at.instant-property.types.ts"
@@ -77,7 +76,6 @@ export type Day = Page & {
   inboxTasksClearedToday?: InboxTasksClearedToday
   inboxTemperTasks?: InboxTemperTasks
   inboxTemperTasksClearedToday?: InboxTemperTasksClearedToday
-  inboxTexts?: InboxTexts
   inboxTextsClearedToday?: InboxTextsClearedToday
   inboxCalendar?: InboxCalendar
   inboxCalendarClearedToday?: InboxCalendarClearedToday
