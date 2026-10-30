@@ -4,7 +4,7 @@ export const spotifySync = {
   id: "01a09c84-8cd1-758c-8c48-b28856aa0770",
   type: "page-type/service-workstation",
   slug: "spotify-sync",
-  definition: "the service filing a release as a page where none represents it",
+  definition: "the service that writes a page for each release of an artist Alan keeps on Spotify",
   enabled: true,
   needsSecrets: true,
   systemd: {
@@ -53,5 +53,5 @@ export const spotifySync = {
     },
   ],
   createdAt: "2026-09-13T20:45:27.633Z",
-  updatedAt: "2026-09-24T22:04:51.000Z",
+  updatedAt: "2026-10-30T16:35:32.294Z",
 } as const satisfies ServiceWorkstation
