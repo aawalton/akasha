@@ -5,9 +5,9 @@ export const powertrainType = {
   type: "page-type/select-property",
   slug: "powertrain-type",
   propertySlug: "powertrain-type",
-  definition: "what moves a trim and the source of that trim's energy",
+  definition: "the kind of power that moves a car trim",
   values: ["BEV", "PHEV", "HEV", "MHEV"],
   types: "ts",
   createdAt: "2026-09-21T18:37:59.047Z",
-  updatedAt: "2026-09-22T13:50:37.000Z",
+  updatedAt: "2026-10-30T14:58:01.615Z",
 } as const satisfies SelectProperty
