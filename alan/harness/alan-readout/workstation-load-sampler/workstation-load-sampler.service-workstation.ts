@@ -30,8 +30,7 @@ export const workstationLoadSampler = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The readouts this sampler keeps show the last reading kept when the sampler dies.",
+      statement: "The readouts this sampler keeps show the last number kept when the sampler dies.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -39,5 +38,5 @@ export const workstationLoadSampler = {
     },
   ],
   createdAt: "2026-09-14T14:54:10.609Z",
-  updatedAt: "2026-10-30T16:56:34.879Z",
+  updatedAt: "2026-10-30T17:09:38.934Z",
 } as const satisfies ServiceWorkstation
