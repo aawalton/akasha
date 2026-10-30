@@ -4,7 +4,7 @@ export const homeDniParam = {
   id: "01a0655e-d399-7f57-a5ed-36dc75b69609",
   type: "page-type/module",
   slug: "home-dni-param",
-  definition: "the home navigation item read out of a request",
+  definition: "the choice of the menu alanwalton.com opens with",
   code: "ts",
   decisions: [
     {
@@ -46,5 +46,5 @@ export const homeDniParam = {
     },
   ],
   createdAt: "2026-09-03T03:45:08.505Z",
-  updatedAt: "2026-10-24T21:49:39.947Z",
+  updatedAt: "2026-10-30T16:59:33.514Z",
 } as const satisfies Module
