@@ -13,9 +13,9 @@ export const giftedTrial00001 = {
   action: "I sit up and take stock of the room around me, then check my Status.",
   beats: "jsonl",
   lore: ["lore/gifted-trial-nala", "place/gifted-trial-world-womb"],
-  reviewedBy: ["story-reviewer/continuity", "story-reviewer/holdings"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/holdings", "story-reviewer/scene"],
   endsAt: "2026-10-28T09:05:00.000Z",
   createdAt: "2026-10-30T14:11:30.185Z",
-  updatedAt: "2026-10-30T14:54:02.093Z",
+  updatedAt: "2026-10-30T14:54:32.767Z",
   ownLength: 622,
 } as const satisfies StoryTurnPlayed
