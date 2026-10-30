@@ -7,7 +7,8 @@ export const movePagesUnder = {
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page",
-  definition: "every page of a type carried under the page that page names, in one call",
+  definition:
+    "a change that moves each page of a page type under the page a property of that page holds",
   takesAtMost: true,
   code: "ts",
   test: "ts",
@@ -129,5 +130,5 @@ export const movePagesUnder = {
   maxCpuSeconds: 120,
   maxMemoryMb: 4096,
   createdAt: "2026-09-19T15:50:09.759Z",
-  updatedAt: "2026-09-24T16:09:53.000Z",
+  updatedAt: "2026-10-30T17:09:39.583Z",
 } as const satisfies ChangeAgent
