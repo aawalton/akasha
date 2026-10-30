@@ -5,6 +5,10 @@ export const iosProgram = {
   type: "page-type/page-type",
   slug: "ios-program",
   definition: "a thing an iOS package builds",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "iOS program" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "iOS programs" },
+  ],
   parts: [
     "code-file-property/main",
     "file-property/entitlements",
@@ -79,5 +83,5 @@ export const iosProgram = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-31T18:07:22.803Z",
-  updatedAt: "2026-09-24T19:10:01.000Z",
+  updatedAt: "2026-10-30T16:20:41.570Z",
 } as const satisfies PageType
