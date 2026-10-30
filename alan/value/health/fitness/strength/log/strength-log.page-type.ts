@@ -4,7 +4,7 @@ export const strengthLog = {
   id: "01a06580-66fc-7e15-9138-eda9b0267961",
   type: "page-type/page-type",
   slug: "strength-log",
-  definition: "a set Alan performed, as it was recorded",
+  definition: "a lifting set Alan has performed",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "lifting set" },
     { partOfSpeech: "part-of-speech/noun", spelling: "lifting sets" },
@@ -85,5 +85,5 @@ export const strengthLog = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:21:48.924Z",
-  updatedAt: "2026-10-30T16:49:22.768Z",
+  updatedAt: "2026-10-30T16:50:32.592Z",
 } as const satisfies PageType
