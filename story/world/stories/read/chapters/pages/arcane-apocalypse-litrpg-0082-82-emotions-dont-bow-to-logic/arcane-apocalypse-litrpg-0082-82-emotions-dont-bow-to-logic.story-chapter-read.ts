@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg008282EmotionsDontBowToLogic = {
     },
   ],
   createdAt: "2026-10-28T16:29:15.598Z",
-  updatedAt: "2026-10-28T16:29:15.598Z",
+  updatedAt: "2026-10-30T20:24:10.038Z",
+  ownProgress: 3943,
+  progressedAt: "2026-10-30T20:24:10.038Z",
 } as const satisfies StoryChapterRead
