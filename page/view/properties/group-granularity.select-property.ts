@@ -5,7 +5,7 @@ export const groupGranularity = {
   type: "page-type/select-property",
   slug: "group-granularity",
   propertySlug: "group-granularity",
-  definition: "how wide a stretch of time a group of a view covers",
+  definition: "the span of time a group of a view covers",
   values: ["day", "week", "month", "year"],
   decisions: [
     {
@@ -15,5 +15,5 @@ export const groupGranularity = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:14:57.280Z",
-  updatedAt: "2026-09-22T10:07:59.000Z",
+  updatedAt: "2026-10-30T17:38:23.640Z",
 } as const satisfies SelectProperty
