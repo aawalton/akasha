@@ -4,7 +4,7 @@ export const readoutNoneLeft = {
   id: "01a05b88-a4a3-76a2-abf1-db8351d2a5b7",
   type: "page-type/module",
   slug: "readout-none-left",
-  definition: "the words and emoji a readout page states for when nothing is left",
+  definition: "the words and the emoji a readout shows in place of a zero",
   code: "ts",
   test: "ts",
   decisions: [
@@ -30,5 +30,5 @@ export const readoutNoneLeft = {
     },
   ],
   createdAt: "2026-09-01T05:54:36.835Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:24:28.470Z",
 } as const satisfies Module
