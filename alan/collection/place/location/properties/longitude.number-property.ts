@@ -5,9 +5,9 @@ export const longitude = {
   type: "page-type/number-property",
   slug: "longitude",
   propertySlug: "longitude",
-  definition: "how far east of the prime meridian the place is, in degrees",
+  definition: "how many degrees east of the prime meridian a place is",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:25:23.451Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T15:56:04.892Z",
 } as const satisfies NumberProperty
