@@ -4,7 +4,7 @@ export const sendUpdatesNarrowing = {
   id: "01a0657c-604c-7000-884b-de941ede99ce",
   type: "page-type/module",
   slug: "send-updates-narrowing",
-  definition: "the three values a send-updates choice takes, and a raw value narrowed to one",
+  definition: "how code reads who a change to a calendar event reaches by email",
   code: "ts",
   decisions: [
     {
@@ -17,5 +17,5 @@ export const sendUpdatesNarrowing = {
     },
   ],
   createdAt: "2026-09-03T04:17:25.068Z",
-  updatedAt: "2026-09-22T13:22:14.000Z",
+  updatedAt: "2026-10-30T15:35:00.764Z",
 } as const satisfies Module
