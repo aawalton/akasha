@@ -12,7 +12,7 @@ export const inboxes = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "An inbox of at least ten thousand is black rather than a reading gone missing.",
+      statement: "An inbox of at least ten thousand is black rather than a number gone missing.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -20,9 +20,10 @@ export const inboxes = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The color any other reading takes is stated by that reading's own scale.",
+      statement:
+        "The color any other number takes is stated by the scale of that number's own readout.",
     },
   ],
   createdAt: "2026-09-02T12:55:53.429Z",
-  updatedAt: "2026-10-30T16:02:35.646Z",
+  updatedAt: "2026-10-30T17:11:41.661Z",
 } as const satisfies ReadoutGroup
