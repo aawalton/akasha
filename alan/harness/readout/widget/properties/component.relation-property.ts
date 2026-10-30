@@ -5,9 +5,9 @@ export const component = {
   type: "page-type/relation-property",
   slug: "component",
   propertySlug: "component",
-  definition: "a tile's component",
+  definition: "the component that shows a readout widget",
   targetPageType: "page-type/ios-component",
   types: "ts",
   createdAt: "2026-08-30T21:07:57.191Z",
-  updatedAt: "2026-09-22T13:56:56.000Z",
+  updatedAt: "2026-10-30T16:01:42.817Z",
 } as const satisfies RelationProperty
