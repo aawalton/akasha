@@ -36,3 +36,8 @@ note: Affinity (1/1): Shadow (Strong) 100; Advanced Attributes (1/2): Talented 1
 name: Paths
 note: Paths (3/10): Path of Basic Numeracy IV, Path of Exceptionalism I, Path of Soulstealing (0 steps)
 :::
+
+:::status-assessment
+name: Achievements
+note: Defeat a Lesser Demon Prince while unborn; Consume another soul and absorb it into your own
+:::
