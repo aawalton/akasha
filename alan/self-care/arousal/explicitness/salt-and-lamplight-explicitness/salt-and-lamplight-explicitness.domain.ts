@@ -4,7 +4,7 @@ export const saltAndLamplightExplicitness = {
   id: "01a0fd03-a991-7bdd-aac6-a6171fc11abb",
   type: "page-type/domain",
   slug: "salt-and-lamplight-explicitness",
-  definition: "how the story Salt and Lamplight paces and words its sex",
+  definition: "how the Salt and Lamplight story writes its sex scenes",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -45,5 +45,5 @@ export const saltAndLamplightExplicitness = {
     },
   ],
   createdAt: "2026-10-02T14:27:50.801Z",
-  updatedAt: "2026-10-17T20:51:26.539Z",
+  updatedAt: "2026-10-30T16:43:40.500Z",
 } as const satisfies Domain
