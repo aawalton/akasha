@@ -4,7 +4,8 @@ export const exportRenaming = {
   id: "01a09c33-ec44-72ad-8f25-59c72db27e3a",
   type: "page-type/module",
   slug: "export-renaming",
-  definition: "the edits spelling a name a body exports anew over the paths handed in",
+  definition:
+    "how code finds the edits that rename a name that other files can import from a code file",
   code: "ts",
   test: "ts",
   decisions: [
@@ -39,5 +40,5 @@ export const exportRenaming = {
     },
   ],
   createdAt: "2026-09-13T19:17:23.652Z",
-  updatedAt: "2026-09-25T14:52:36.000Z",
+  updatedAt: "2026-10-30T17:42:09.509Z",
 } as const satisfies Module
