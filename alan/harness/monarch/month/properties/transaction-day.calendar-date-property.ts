@@ -5,7 +5,7 @@ export const transactionDay = {
   type: "page-type/calendar-date-property",
   slug: "transaction-day",
   propertySlug: "transaction-day",
-  definition: "the day money moved",
+  definition: "the day a Monarch transaction happens",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -14,5 +14,5 @@ export const transactionDay = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:12:37.504Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:42:22.302Z",
 } as const satisfies CalendarDateProperty
