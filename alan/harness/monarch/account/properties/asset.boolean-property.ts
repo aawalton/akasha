@@ -5,8 +5,8 @@ export const asset = {
   type: "page-type/boolean-property",
   slug: "asset",
   propertySlug: "asset",
-  definition: "whether an account is money held rather than money owed",
+  definition: "whether a Monarch account holds money",
   types: "ts",
   createdAt: "2026-09-03T16:11:27.616Z",
-  updatedAt: "2026-09-15T15:59:02.000Z",
+  updatedAt: "2026-10-30T15:42:19.955Z",
 } as const satisfies BooleanProperty
