@@ -5,9 +5,9 @@ export const heldTitle = {
   type: "page-type/relation-property",
   slug: "held-title",
   propertySlug: "world-title",
-  definition: "the world's title a title held is a holding of",
+  definition: "the world title of a character title",
   targetPageType: "page-type/world-title",
   types: "ts",
   createdAt: "2026-10-27T19:02:30.081Z",
-  updatedAt: "2026-10-27T19:02:30.081Z",
+  updatedAt: "2026-10-30T16:11:14.888Z",
 } as const satisfies RelationProperty
