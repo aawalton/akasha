@@ -2517,7 +2517,7 @@
     },
     "111": {
       "currentRank": 9,
-      "currentXP": 159,
+      "currentXP": 166,
       "nextRankXP": 200
     },
     "117": {
@@ -2526,7 +2526,7 @@
       "nextRankXP": 100
     },
     "118": {
-      "currentRank": 2,
+      "currentRank": 3,
       "currentXP": 40,
       "nextRankXP": 50
     },
@@ -4459,8 +4459,8 @@
     }
   },
   "skillPoints": {
-    "total": 381,
-    "unassigned": 36,
+    "total": 382,
+    "unassigned": 37,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -4470,7 +4470,7 @@
     "endlessArchive": 1,
     "skyshardPoints": 173,
     "totalSkyshards": 520,
-    "zoneQuestTotal": 59,
+    "zoneQuestTotal": 60,
     "groupDungeonTotal": 20,
     "publicDungeonTotal": 36,
     "skyshards": {
@@ -4555,7 +4555,7 @@
       "EP0b": 0,
       "AD3": 3,
       "AD4": 2,
-      "GC": 2,
+      "GC": 3,
       "CC": 1,
       "WW": 0,
       "EP5": 3,
@@ -6687,10 +6687,12 @@
     5581,
     5582,
     5595,
+    5599,
     5634,
     5668,
     5708,
     5718,
+    5724,
     5733,
     5734,
     5735,
@@ -12794,17 +12796,17 @@
   },
   "inventoryCheck": {
     "date": "2026-10-30",
-    "misplaced": 40
+    "misplaced": 102
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1793369625,
+      "capturedAt": 1793370011,
       "buildHash": "ATQO8oFAAIBgRRMy5V1AEIBS1TlAEIBS1TlAEIBS1TlAEIBS1TlAEIBS1TlAEIA2AANAEIBBKTdAEIBBKTdAEIBBKTdAEIAeBUnbcoWXTSLBl4AAAHMAJA0Qi0Bpu0AonXwaBkl4gkQQJECfh8GwHYFh3QmqFEyyMiByjGdBhnUODHCIUISMiICAzMCIyEgIjI1IgIjIjNBIAIiIDIhAAITMiMDoyMDoiImQzIyMgACgiIiQqMwIiIwI6y6AGozIsScMrHkyy5k3Po06te2fQo0qdTxVWNo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBw2SNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpMAAgMhYxIGsCiGpAAAAAAA",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
-      "ultimate": 309,
+      "ultimate": 357,
       "health": 21944,
-      "healthBefore": 30064,
+      "healthBefore": 21519,
       "healthPaired": false,
       "stats": {
         "magicka-recovery": 785,
@@ -12815,7 +12817,7 @@
         "power-spell": 3411,
         "magicka-maximum": 13972,
         "critical-rating-weapon": 5569,
-        "stamina-recovery": 0,
+        "stamina-recovery": 1543,
         "health-recovery": 399,
         "penetration-spell": 9574,
         "resistance-spell": 12763,
@@ -12832,7 +12834,7 @@
         "power-spell": 1000,
         "magicka-maximum": 13972,
         "critical-rating-weapon": 2181,
-        "stamina-recovery": 0,
+        "stamina-recovery": 1543,
         "health-recovery": 399,
         "penetration-spell": 0,
         "resistance-spell": 0,
@@ -13456,7 +13458,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:205386:364:50:0:0:0:0:0:0:0:0:0:0:0:1:0:0:1:0:4385:0|h|h",
+          "link": "|H0:item:205386:364:50:0:0:0:0:0:0:0:0:0:0:0:1:0:0:1:0:4185:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1221,
@@ -13521,7 +13523,7 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:96972:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:2435:0|h|h",
+          "link": "|H0:item:96972:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:2235:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 2012,
@@ -13566,7 +13568,7 @@
         },
         {
           "slot": 3,
-          "link": "|H0:item:96977:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:6645:0|h|h",
+          "link": "|H0:item:96977:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:6545:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1760,
@@ -13651,7 +13653,7 @@
         },
         {
           "slot": 6,
-          "link": "|H0:item:96978:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:4795:0|h|h",
+          "link": "|H0:item:96978:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:4695:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 754,
@@ -13834,7 +13836,7 @@
         },
         {
           "slot": 16,
-          "link": "|H0:item:96974:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:5995:0|h|h",
+          "link": "|H0:item:96974:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:5895:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1006,
@@ -14348,7 +14350,7 @@
       ],
       "inArchive": false,
       "blocking": false,
-      "moving": true,
+      "moving": false,
       "archiveBoons": [],
       "advanced": {
         "healing-critical-bonus": 0.1,
