@@ -4,7 +4,7 @@ export const supervisorInteractiveBootContract = {
   id: "01a06871-3115-7004-85f9-3b541e6a385e",
   type: "page-type/module",
   slug: "supervisor-interactive-boot-contract",
-  definition: "what a seat's interactive boot is asked for and what it hands back",
+  definition: "the types for how a supervisor prepares a seat's agent",
   code: "ts",
   decisions: [
     {
@@ -26,5 +26,5 @@ export const supervisorInteractiveBootContract = {
     },
   ],
   createdAt: "2026-09-03T18:04:03.733Z",
-  updatedAt: "2026-09-24T16:29:57.000Z",
+  updatedAt: "2026-10-30T14:49:17.017Z",
 } as const satisfies Module
