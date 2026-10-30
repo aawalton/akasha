@@ -5,9 +5,9 @@ export const breathingSets = {
   type: "page-type/number-property",
   slug: "breathing-sets",
   propertySlug: "breathing-sets",
-  definition: "how many rounds of breathing a stretch of time held",
+  definition: "the number of sets of breathing in a tracked session",
   max: null,
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T16:38:57.254Z",
 } as const satisfies NumberProperty
