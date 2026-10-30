@@ -44,13 +44,13 @@ export const dayReadoutWatchService = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The sites the readings are carried to are named by the watch rather than here.",
+      statement: "The websites the numbers are carried to are named by the watch rather than here.",
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "The timers carrying these readings run whatever this service does.",
+      statement: "The timers carrying these numbers run whatever this service does.",
     },
   ],
   createdAt: "2026-09-10T16:07:06.791Z",
-  updatedAt: "2026-10-30T16:55:47.853Z",
+  updatedAt: "2026-10-30T17:08:02.507Z",
 } as const satisfies ServiceWorkstation
