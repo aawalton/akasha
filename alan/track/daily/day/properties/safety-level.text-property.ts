@@ -6,6 +6,10 @@ export const safetyLevel = {
   slug: "safety-level",
   propertySlug: "safety-level",
   definition: "how safe Alan was over a stretch of time",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "safety level" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "safety levels" },
+  ],
   maxLength: 3,
   nameFormat: null,
   decisions: [
@@ -20,5 +24,5 @@ export const safetyLevel = {
   ],
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-09-22T14:37:11.000Z",
+  updatedAt: "2026-10-30T16:26:39.688Z",
 } as const satisfies TextProperty
