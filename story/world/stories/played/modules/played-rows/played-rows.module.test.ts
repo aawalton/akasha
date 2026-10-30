@@ -1,6 +1,5 @@
 import { describe, expect, test } from "bun:test"
 import { asPage, type Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 import {
   PLAYED_ROWS_DRAWN,
   playedChaptersOf,
@@ -16,15 +15,16 @@ import {
   playedTurnsOf,
   playedUpcomingOf,
 } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
+import {
+  at,
+  making,
+  NO_PROSE,
+  read,
+  seat,
+  turnPage,
+  turnsNumbering,
+} from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.test-fixtures.ts"
 import { STALL_AFTER_MS } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
-
-const NO_PROSE: ReadonlyMap<string, string> = new Map()
-
-const turnPage = (values: Record<string, unknown>): Page =>
-  asPage({ pageTypeSlug: "story-turn-played", ...values })
-
-const turnsNumbering = (count: number): readonly Page[] =>
-  Array.from({ length: count }, (_unused, at) => turnPage({ id: `id-${at}`, position: at + 1 }))
 
 describe("playedTurnsOf", () => {
   test("orders the turns by the position each states", () => {
@@ -141,16 +141,6 @@ describe("playedCoversOf", () => {
 })
 
 describe("playedReady and playedMaking", () => {
-  const at = (step: string): string => `${stepStatus.slug}/${step}`
-  const read = turnPage({ id: "a", slug: "saga-01", position: 1, stepStatus: at("player") })
-  const making = turnPage({
-    id: "b",
-    slug: "saga-02",
-    position: 2,
-    stepStatus: at("reviewers"),
-    action: "I open the gate",
-  })
-
   test("a turn not yet at player is kept from the reader", () => {
     expect(playedReady([making, read]).map((row) => row.id)).toEqual(["a"])
   })
@@ -158,9 +148,6 @@ describe("playedReady and playedMaking", () => {
   test("a turn stating no status is read as ready", () => {
     expect(playedReady([turnPage({ id: "c", position: 1 })])).toHaveLength(1)
   })
-
-  const seat = (turnState: string): Page =>
-    asPage({ pageTypeSlug: "seat", id: turnState, turnState: `seat-turn-state/${turnState}` })
 
   test("the latest turn, while a seat of its story works it, says its action and its step", () => {
     expect(playedMaking([making, read], [seat("ready"), seat("working")])).toEqual({
@@ -254,6 +241,17 @@ describe("playedReady and playedMaking", () => {
     expect(writing?.said).toBe("Mari is writing…")
     const stalled = playedMaking([untold, read], [], STALL_AFTER_MS, "Mari")
     expect(stalled?.said).toBe("The turn has stalled.")
+  })
+
+  test("a one-seat turn says the step its checklist is on", () => {
+    const said = (row: Page, alone = true) =>
+      playedMaking([row, read], [seat("working")], 0, null, alone)?.said
+    const on = { ...making, stepStatus: at("beats"), checklistStep: "numbers", checklistBeat: 3 }
+    expect(said(on)).toBe("The game master is checking the numbers for beat 3…")
+    expect(said(on, false)).toBe("The writer and recorders are working…")
+    const gathering = { ...on, stepStatus: at("world-builder") }
+    expect(said(gathering)).toBe("The game master is gathering the lore…")
+    expect(said({ ...on, checklistStep: "" })).toBe("The game master is working…")
   })
 })
 

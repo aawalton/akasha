@@ -64,6 +64,7 @@
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/ui/modules/player-character-panel/player-character-panel.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/played/chapters/story-chapter-played.page-type.page-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/played/modules/played-run/played-run.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/played/modules/played-run/played-run.module.test.tsx","typed":false,"deferred":false}

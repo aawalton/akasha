@@ -7,6 +7,7 @@ export const playedRows = {
   definition: "the turns and chapters a story was played in, shaped into what a display draws",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -96,6 +97,15 @@ export const playedRows = {
       statement: "A turn being made in a story with a narrator is said as hers.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A turn being made in a one-seat story says the step its checklist is on, as last served.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A one-seat turn at world-builder or game-master is on its lore or its beats.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement:
         "A step just reached waits on a message reaching its seat, so no seat works it for a moment.",
@@ -132,5 +142,5 @@ export const playedRows = {
     },
   ],
   createdAt: "2026-09-14T19:22:52.305Z",
-  updatedAt: "2026-10-27T23:05:30.373Z",
+  updatedAt: "2026-10-30T18:22:18.325Z",
 } as const satisfies Module

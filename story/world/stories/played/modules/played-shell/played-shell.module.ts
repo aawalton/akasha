@@ -100,6 +100,10 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The turn being made in a one-seat story is said as its one seat's step.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A signed-in player of a game is offered the latest turn's undo in the page menu.",
     },
     {
@@ -143,5 +147,5 @@ export const playedShell = {
     },
   ],
   createdAt: "2026-09-14T19:28:23.697Z",
-  updatedAt: "2026-10-27T20:30:20.835Z",
+  updatedAt: "2026-10-30T18:22:18.325Z",
 } as const satisfies Module

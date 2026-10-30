@@ -82,6 +82,7 @@ import {
   undoOffered,
   useTurnUndo,
 } from "akasha/story/world/stories/played/modules/turn-undo-control/turn-undo-control.module.code.tsx"
+import { oneSeatOf } from "akasha/story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts"
 import { useCallback, useMemo, useState } from "react"
 
 const TITLE_ROW_WIDE = "hidden min-[584px]:block"
@@ -202,9 +203,10 @@ function PlayedStory({
   const quietMs = useQuietFor(makingKey, playedWorking(seated))
   const beside = usePlayedBeside(slug, id)
   const narrator = beside.kind === "read" ? beside.beside.narrator : null
+  const oneSeat = oneSeatOf(data)
   const making = useMemo(
-    () => playedMaking(turns.rows, seated, quietMs, narrator),
-    [turns.rows, seated, quietMs, narrator]
+    () => playedMaking(turns.rows, seated, quietMs, narrator, oneSeat),
+    [turns.rows, seated, quietMs, narrator, oneSeat]
   )
 
   const played = usePlayedRun(ready, chapters.rows)

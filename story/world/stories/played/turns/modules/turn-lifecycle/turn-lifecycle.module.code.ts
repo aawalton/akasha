@@ -304,10 +304,13 @@ function isOf(step: TurnStep): string {
   return MANY.includes(step) ? "are" : "is"
 }
 
-export function workingSaid(step: TurnStep): string {
+function openingOf(step: TurnStep): string {
   const who = WHO[step]
-  const opening = `${who.charAt(0).toUpperCase()}${who.slice(1)}`
-  return `${opening} ${isOf(step)} working…`
+  return `${who.charAt(0).toUpperCase()}${who.slice(1)}`
+}
+
+export function workingSaid(step: TurnStep): string {
+  return `${openingOf(step)} ${isOf(step)} working…`
 }
 
 export const STALL_AFTER_MS = 120_000
@@ -318,12 +321,14 @@ export function makingSaid(
   step: TurnStep,
   working: boolean,
   quietMs: number = Number.POSITIVE_INFINITY,
-  narrator: string | null = null
+  narrator: string | null = null,
+  alone: string | null = null
 ): string {
   const going = working || quietMs < STALL_AFTER_MS
   if (narrator !== null) return going ? `${narrator} is writing…` : `${STALLED}.`
-  if (going) return workingSaid(step)
-  return `${STALLED}: ${WHO[step]} ${isOf(step)} not working on it.`
+  const seat = alone === null ? step : GAME_MASTER
+  if (going) return alone === null ? workingSaid(step) : `${openingOf(seat)} is ${alone}…`
+  return `${STALLED}: ${WHO[seat]} ${isOf(seat)} not working on it.`
 }
 
 export function linesIn(text: string): readonly string[] {

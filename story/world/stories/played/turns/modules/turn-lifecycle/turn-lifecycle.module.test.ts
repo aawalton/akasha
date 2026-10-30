@@ -101,6 +101,14 @@ test("a turn a narrator makes names her writing it, and says its stall bare", ()
   )
 })
 
+test("a one-seat turn says what its game master is doing", () => {
+  const said = makingSaid("beats", true, 0, null, "writing the prose")
+  expect(said).toBe("The game master is writing the prose…")
+  expect(makingSaid("reviewers", false, STALL_AFTER_MS, null, said)).toBe(
+    "The turn has stalled: the game master is not working on it."
+  )
+})
+
 const STEPPED = ["mechanics", "inventory"]
 
 const RAN = [...STEPPED, memory.slug, CAST]

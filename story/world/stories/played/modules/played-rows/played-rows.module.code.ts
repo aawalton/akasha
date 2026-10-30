@@ -1,6 +1,11 @@
 import { seatsWorking } from "akasha/agent/seat/turn-state/modules/seat-working/seat-working.computed-property-module.code.ts"
 import { asNumber } from "akasha/code/type/narrowing/modules/as-number/as-number.module.code.ts"
 import { asRecordOrEmpty } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
+import {
+  BEATS_STEP,
+  LORE_STEP,
+  stepDoing,
+} from "akasha/command/pages/story/turn/modules/turn-step-naming/turn-step-naming.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import type { NamedPages } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
@@ -20,10 +25,12 @@ import {
 } from "akasha/story/world/stories/played/modules/played-waiting/played-waiting.module.code.ts"
 import {
   BEATS,
+  GAME_MASTER,
   makingSaid,
   PLAYER,
   stepIn,
   type TurnStep,
+  WORLD_BUILDER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 export const PLAYED_CHAPTER_PAGE_TYPE_SLUG = "story-chapter-played"
@@ -162,14 +169,31 @@ export function playedWorking(seats: readonly Page[] | null): boolean {
   return seatsWorking(seats.map((one) => ({ turnState: one[SEAT_STATE_KEY] })))
 }
 
-function saidOver(
-  step: TurnStep,
-  seats: readonly Page[] | null,
-  quietMs: number,
-  narrator: string | null
-): string | null {
+const PLAYED_ON_STEP_KEY = "checklistStep"
+
+const PLAYED_ON_BEAT_KEY = "checklistBeat"
+
+const ALONE_WORKING = "working"
+
+function aloneOf(row: Page, step: TurnStep): string {
+  if (step === WORLD_BUILDER) return stepDoing(LORE_STEP, null)
+  if (step === GAME_MASTER) return stepDoing(BEATS_STEP, null)
+  const on = row[PLAYED_ON_STEP_KEY]
+  if (typeof on !== "string" || on === "") return ALONE_WORKING
+  return stepDoing(on, asNumber(row[PLAYED_ON_BEAT_KEY]))
+}
+
+type Saying = {
+  readonly seats: readonly Page[] | null
+  readonly quietMs: number
+  readonly narrator: string | null
+  readonly alone: string | null
+}
+
+function saidOver(step: TurnStep, saying: Saying): string | null {
+  const { seats, quietMs, narrator, alone } = saying
   if (seats === null) return null
-  return makingSaid(step, playedWorking(seats), quietMs, narrator)
+  return makingSaid(step, playedWorking(seats), quietMs, narrator, alone)
 }
 
 function waitingOf(rows: readonly Page[], last: Page): boolean {
@@ -187,18 +211,22 @@ export function playedMaking(
   rows: readonly Page[],
   seats: readonly Page[] | null,
   quietMs: number = Number.POSITIVE_INFINITY,
-  narrator: string | null = null
+  narrator: string | null = null,
+  oneSeat = false
 ): Making | null {
   const last = playedOrder(rows).at(-1)
   if (!makingOf(last)) return null
   const step = stepOf(last)
   const action = last[PLAYED_TURN_ACTION_KEY]
+  const alone = oneSeat ? aloneOf(last, step) : null
   return {
     id: last.id,
     slug: slugIn(last) ?? last.id,
     action: typeof action === "string" ? action : "",
     step,
-    said: waitingOf(rows, last) ? WAITING_SAID : saidOver(step, seats, quietMs, narrator),
+    said: waitingOf(rows, last)
+      ? WAITING_SAID
+      : saidOver(step, { seats, quietMs, narrator, alone }),
   }
 }
 

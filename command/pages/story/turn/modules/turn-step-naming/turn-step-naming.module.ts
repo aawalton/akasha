@@ -21,7 +21,11 @@ export const turnStepNaming = {
       decisionKind: "decision-kind/departure",
       statement: "A review is named with its reviewer, and a record with its recorder.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a seat on a step is doing is said here from that step's name.",
+    },
   ],
   createdAt: "2026-10-30T13:21:51.721Z",
-  updatedAt: "2026-10-30T13:21:51.721Z",
+  updatedAt: "2026-10-30T18:22:18.325Z",
 } as const satisfies Module
