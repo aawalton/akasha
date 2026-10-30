@@ -4,7 +4,7 @@ export const messageLines = {
   id: "01a0657e-795c-7000-8a91-fdebae0f4233",
   type: "page-type/module",
   slug: "message-lines",
-  definition: "the pieces an iMessage row is written out from: its moment, its sender, its body",
+  definition: "how code writes the text of each iMessage message with its time and its sender",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -32,5 +32,5 @@ export const messageLines = {
     },
   ],
   createdAt: "2026-09-03T04:19:42.556Z",
-  updatedAt: "2026-09-22T10:06:45.000Z",
+  updatedAt: "2026-10-30T15:33:01.262Z",
 } as const satisfies Module
