@@ -8,6 +8,7 @@ import type { CoverRerollRefused } from "akasha/story/world/stories/played/prope
 import type { Difficulty } from "akasha/story/world/stories/played/properties/difficulty.relation-property.types.ts"
 import type { Roleplayed } from "akasha/story/world/stories/played/properties/roleplayed.boolean-property.types.ts"
 import type { StoryOpensAt } from "akasha/story/world/stories/played/properties/story-opens-at.instant-property.types.ts"
+import type { TurnSeating } from "akasha/story/world/stories/played/properties/turn-seating.select-property.types.ts"
 import type { TurnUndo } from "akasha/story/world/stories/played/properties/turn-undo.relation-property.types.ts"
 import type { TurnUndoRefused } from "akasha/story/world/stories/played/properties/turn-undo-refused.text-property.types.ts"
 
@@ -23,4 +24,5 @@ export type StoryPlayed = Story & {
   difficulty?: Difficulty
   chat?: Chat
   clonedFrom?: ClonedFrom
+  turnSeating?: TurnSeating
 }

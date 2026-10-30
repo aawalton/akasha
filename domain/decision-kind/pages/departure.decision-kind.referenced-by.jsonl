@@ -4343,6 +4343,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/prose.file-property.ts","id":"01a06424-329c-73d2-a881-67d728085a28"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/roleplayed.boolean-property.ts","id":"01a14ad9-e67e-7a0a-9ff9-ee3e304d82ff"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/story-opens-at.instant-property.ts","id":"01a0e7f1-002b-75c8-9a58-6c3cc0e9ca4a"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/properties/turn-seating.select-property.ts","id":"01a18cb7-b408-7eaa-a402-7496190b8412"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/turn-undo-refused.text-property.ts","id":"01a0f1c7-4de9-799d-b9f0-dc0f6cc64803"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/turn-undo.relation-property.ts","id":"01a0f1c7-4de9-7d53-acd4-24af9e2aa93c"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/service-workstations/cover-rerolling/cover-rerolling.service-workstation.ts","id":"01a0e853-50d7-72fe-a224-748adb47cde2"}

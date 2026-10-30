@@ -144,6 +144,7 @@
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"tobacco-use","propertySlug":"tobacco-use","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"topic-status","propertySlug":"status","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"track-type","propertySlug":"track-type","fileName":null,"folderName":null}
+{"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"turn-seating","propertySlug":"turn-seating","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"use-limit","propertySlug":"use-limit","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"watcher-operation-kind","propertySlug":"kind","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"watcher-operation-state","propertySlug":"state","fileName":null,"folderName":null}

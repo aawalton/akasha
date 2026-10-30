@@ -73,6 +73,7 @@ export const storyPlayed = {
     "boolean-property/roleplayed",
     "module/played-quiet",
     "relation-property/cloned-from",
+    "select-property/turn-seating",
   ],
   decisions: [
     {
@@ -163,7 +164,8 @@ export const storyPlayed = {
     },
     { pageProperty: "file-property/chat", required: false, many: false, default: "jsonl" },
     { pageProperty: "relation-property/cloned-from", required: false, many: false },
+    { pageProperty: "select-property/turn-seating", required: false, many: false },
   ],
   createdAt: "2026-09-02T22:01:28.988Z",
-  updatedAt: "2026-10-28T19:46:44.696Z",
+  updatedAt: "2026-10-30T12:10:11.847Z",
 } as const satisfies PageType
