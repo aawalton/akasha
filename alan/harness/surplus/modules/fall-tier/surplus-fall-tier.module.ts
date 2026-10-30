@@ -14,7 +14,7 @@ export const surplusFallTier = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading nearer black is the worse reading.",
+      statement: "A number nearer black is the worse number.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -30,5 +30,5 @@ export const surplusFallTier = {
     },
   ],
   createdAt: "2026-09-03T22:58:37.395Z",
-  updatedAt: "2026-10-30T15:58:07.674Z",
+  updatedAt: "2026-10-30T17:27:59.259Z",
 } as const satisfies Module
