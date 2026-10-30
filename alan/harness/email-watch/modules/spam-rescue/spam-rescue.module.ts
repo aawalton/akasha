@@ -4,7 +4,7 @@ export const spamRescue = {
   id: "01a11c54-9b11-738e-8975-fe9437685abf",
   type: "page-type/module",
   slug: "spam-rescue",
-  definition: "fresh spam a rule rescues, moved back into the inbox",
+  definition: "how code moves a new message from spam into the inbox where an email rule asks",
   code: "ts",
   test: "ts",
   decisions: [
@@ -34,5 +34,5 @@ export const spamRescue = {
     },
   ],
   createdAt: "2026-10-08T16:24:29.200Z",
-  updatedAt: "2026-10-08T16:24:29.200Z",
+  updatedAt: "2026-10-30T15:35:59.136Z",
 } as const satisfies Module
