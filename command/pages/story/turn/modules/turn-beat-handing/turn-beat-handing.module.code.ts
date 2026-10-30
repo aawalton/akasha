@@ -12,6 +12,7 @@ import {
   beatPrompt,
   type Flowing,
 } from "akasha/command/pages/story/turn/modules/turn-beat-prompting/turn-beat-prompting.module.code.ts"
+import { checklistServed } from "akasha/command/pages/story/turn/modules/turn-checklist-serving/turn-checklist-serving.module.code.ts"
 import {
   handedOut,
   masterOf,
@@ -164,7 +165,25 @@ function startingOf(job: BeatJob, asked: BeatAsking, persona: string, game: stri
   return { persona, role: storyRecorderRole.slug, game, flex, prompt }
 }
 
+type Serving = (root: string, game: string, calledAs: string) => string
+
 export async function beatsHanded(
+  reach: Reach,
+  root: string,
+  at: Context,
+  held: Held,
+  said: Moved,
+  slug: string,
+  done: string[],
+  after: Told,
+  serve: Serving = checklistServed
+): Promise<undefined> {
+  await beatsHandedOut(reach, root, at, held, said, slug, done, after)
+  if (held.oneSeat === true) after.report.push(serve(root, at.game, at.prompting.calledAs))
+  return undefined
+}
+
+async function beatsHandedOut(
   reach: Reach,
   root: string,
   at: Context,

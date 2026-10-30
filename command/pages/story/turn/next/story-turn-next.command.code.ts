@@ -12,6 +12,7 @@ import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.c
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { storyTurnAdvance } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.ts"
 import { readyBeatOf } from "akasha/command/pages/story/turn/modules/turn-beat-handing/turn-beat-handing.module.code.ts"
+import { checklistServed } from "akasha/command/pages/story/turn/modules/turn-checklist-serving/turn-checklist-serving.module.code.ts"
 import {
   REACHED,
   type Reach,
@@ -36,6 +37,8 @@ export function nothingSaid(seat: string): string {
 const STEPS: readonly FlowPart[] = ["changes", "prose", "memory", "pictured"]
 
 type HandingOut = (root: string, game: string, calledAs: string) => Promise<readonly string[]>
+
+type Serving = (root: string, game: string, calledAs: string) => string
 
 async function handedAgain(root: string, game: string, calledAs: string) {
   const master = REACHED.storyOf(root, game)?.master ?? null
@@ -65,7 +68,8 @@ export async function storyTurnNext(
   given: Given,
   seatOf: (root: string, agentId: string | null) => Seated | null = REACHED.seatOf,
   handOut: HandingOut = handedAgain,
-  storyOf: Reach["storyOf"] = REACHED.storyOf
+  storyOf: Reach["storyOf"] = REACHED.storyOf,
+  serve: Serving = checklistServed
 ): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return mistaking(read.refused)
@@ -74,11 +78,13 @@ export async function storyTurnNext(
     return refused("the caller holds no role in a story, so no beat is ready for it", DATA)
   }
   const advancing = given.calledAs.replace(LAST_WORD, storyTurnAdvance.name)
+  const alone = storyOf(given.root, seat.game)?.oneSeat === true
+  const master = seat.role === gameMasterRole.slug
+  if (alone && master) return told([serve(given.root, seat.game, advancing)])
   const held = { name: seat.name, role: seat.role, game: seat.game }
   const ready = readyBeatOf(given.root, held, advancing)
   if (ready !== null) return told([ready])
-  const alone = storyOf(given.root, seat.game)?.oneSeat === true
-  const handing = seat.role === gameMasterRole.slug && !alone
+  const handing = master && !alone
   const again = handing ? await handOut(given.root, seat.game, advancing) : []
   return told([nothingSaid(seat.name), ...again])
 }

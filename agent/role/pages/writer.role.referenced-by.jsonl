@@ -2,6 +2,8 @@
 {"propertySlug":"import","fileName":"writer.role.ts","path":"command/modules/mechanic-defining/mechanic-defining.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"writer.role.ts","path":"command/pages/story/turn/correct/story-turn-correct.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"writer.role.ts","path":"command/pages/story/turn/modules/turn-beat-handing/turn-beat-handing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"writer.role.ts","path":"command/pages/story/turn/modules/turn-checklist-serving/turn-checklist-serving.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"writer.role.ts","path":"command/pages/story/turn/modules/turn-checklist/turn-checklist.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"writer.role.ts","path":"command/pages/story/turn/modules/turn-hand-retrying/turn-hand-retrying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"writer.role.ts","path":"command/pages/story/turn/next/story-turn-next.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"writer.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}

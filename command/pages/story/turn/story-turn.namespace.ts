@@ -35,8 +35,12 @@ export const storyTurn = {
     "module/turn-hand-retrying",
     "command/story-turn-next",
     "module/turn-beat-prompting",
+    "module/turn-checklist",
+    "module/turn-crossed",
+    "module/turn-described",
+    "module/turn-checklist-serving",
   ],
   name: "turn",
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-30T12:49:16.246Z",
+  updatedAt: "2026-10-30T12:58:02.685Z",
 } as const satisfies Namespace

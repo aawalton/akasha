@@ -41,10 +41,28 @@ test("a game master with no beat to restate hands each step's ready beat out aga
   expect(HANDED).toEqual(["saga"])
 })
 
-test("a one-seat story's game master hands no beat out to another seat", async () => {
+test("a one-seat story's game master is served its checklist, and hands no beat out", async () => {
   const seat = { name: "iris-game-master-alone", role: gameMaster.slug, game: "alone" }
   const story = () => ({ title: "Alone", master: seat.name, oneSeat: true })
-  const said = await storyTurnNext([], GIVEN, () => seat, handOut, story)
-  expect(said.report).toEqual([nothingSaid(seat.name)])
+  const served: string[] = []
+  const serve = (_root: string, game: string, calledAs: string) => {
+    served.push(`${game}\t${calledAs}`)
+    return "the checklist"
+  }
+  const said = await storyTurnNext([], GIVEN, () => seat, handOut, story, serve)
+  expect(said.report).toEqual(["the checklist"])
+  expect(served).toEqual(["alone\takasha story turn advance"])
   expect(HANDED).not.toContain("alone")
+})
+
+test("a one-seat story's other seat and a seat-graph game master are served no checklist", async () => {
+  const serve = () => "the checklist"
+  const writer = { name: "iris-writer-alone", role: "writer", game: "alone" }
+  const alone = () => ({ title: "Alone", master: "iris-game-master-alone", oneSeat: true })
+  const told = await storyTurnNext([], GIVEN, () => writer, handOut, alone, serve)
+  expect(told.report).toEqual([nothingSaid(writer.name)])
+  const master = { name: "iris-game-master-saga", role: gameMaster.slug, game: "saga" }
+  const graph = () => ({ title: "Saga", master: master.name })
+  const said = await storyTurnNext([], GIVEN, () => master, handOut, graph, serve)
+  expect(said.report).not.toContain("the checklist")
 })

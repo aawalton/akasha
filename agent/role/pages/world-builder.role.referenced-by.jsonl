@@ -1,6 +1,8 @@
 {"propertySlug":"import","fileName":"world-builder.role.ts","path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-builder.role.ts","path":"command/modules/mechanic-defining/mechanic-defining.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-builder.role.ts","path":"command/pages/story/turn/correct/story-turn-correct.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"world-builder.role.ts","path":"command/pages/story/turn/modules/turn-checklist-serving/turn-checklist-serving.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"world-builder.role.ts","path":"command/pages/story/turn/modules/turn-checklist/turn-checklist.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-builder.role.ts","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-builder.role.ts","path":"story/world/stories/played/turns/modules/turn-waiting/turn-waiting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-builder.role.ts","path":"story/world/stories/played/turns/modules/turn-waiting/turn-waiting.module.test.ts","typed":false,"deferred":false}

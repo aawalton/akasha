@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"beat-flow.module.code.ts","path":"command/pages/story/turn/modules/cancel-unbeating/cancel-unbeating.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-flow.module.code.ts","path":"command/pages/story/turn/modules/turn-beat-handing/turn-beat-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-flow.module.code.ts","path":"command/pages/story/turn/modules/turn-beat-prompting/turn-beat-prompting.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"beat-flow.module.code.ts","path":"command/pages/story/turn/modules/turn-checklist/turn-checklist.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-flow.module.code.ts","path":"command/pages/story/turn/modules/turn-unplaying/turn-unplaying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-flow.module.code.ts","path":"command/pages/story/turn/next/story-turn-next.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"beat-flow.module.code.ts","path":"story/engine/beat-state/modules/beat-flow/beat-flow.module.test.ts","typed":false,"deferred":false}
@@ -8,6 +9,8 @@
 {"propertySlug":"import","fileName":"beat-flow.module.code.ts","path":"story/world/stories/played/turns/modules/turn-queueing/turn-queueing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-flow.module.test-fixtures.ts","path":"command/pages/story/turn/modules/turn-beat-handing/turn-beat-handing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-flow.module.test-fixtures.ts","path":"command/pages/story/turn/modules/turn-beat-prompting/turn-beat-prompting.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"beat-flow.module.test-fixtures.ts","path":"command/pages/story/turn/modules/turn-checklist-serving/turn-checklist-serving.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"beat-flow.module.test-fixtures.ts","path":"command/pages/story/turn/modules/turn-checklist/turn-checklist.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-flow.module.test-fixtures.ts","path":"command/pages/story/turn/modules/turn-hand-retrying/turn-hand-retrying.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-flow.module.test-fixtures.ts","path":"story/engine/beat-state/modules/beat-flow/beat-flow.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-flow.module.test-fixtures.ts","path":"story/world/stories/played/turns/modules/turn-beating/turn-beating.module.test.ts","typed":false,"deferred":false}

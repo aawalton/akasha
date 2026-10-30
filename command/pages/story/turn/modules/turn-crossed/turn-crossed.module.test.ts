@@ -1,10 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { rmSync } from "node:fs"
 import {
-  crossedSaid,
-  crossingsIn,
-} from "akasha/command/pages/story/turn/advance/modules/turn-crossed/turn-crossed.module.code.ts"
-import {
   advancedBy,
   LANDED,
   ROOT,
@@ -14,6 +10,10 @@ import {
   toldAll,
   turnAt,
 } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.test-fixtures.ts"
+import {
+  crossedSaid,
+  crossingsIn,
+} from "akasha/command/pages/story/turn/modules/turn-crossed/turn-crossed.module.code.ts"
 
 afterAll(() => rmSync(ROOT, { recursive: true, force: true }))
 

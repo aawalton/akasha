@@ -4,7 +4,6 @@ import type { FileChange } from "akasha/change/modules/answer/change-answer.modu
 import type { Landing } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
-import type { Crossing } from "akasha/command/pages/story/turn/advance/modules/turn-crossed/turn-crossed.module.code.ts"
 import {
   type Admitting,
   type Casting,
@@ -12,6 +11,7 @@ import {
   type Timed,
   type Timing,
 } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
+import type { Crossing } from "akasha/command/pages/story/turn/modules/turn-crossed/turn-crossed.module.code.ts"
 import type { Starting } from "akasha/command/pages/story/turn/modules/turn-job-handing/turn-job-handing.module.code.ts"
 import { loreLine } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
 import type {

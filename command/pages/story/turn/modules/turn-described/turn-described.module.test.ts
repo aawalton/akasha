@@ -3,7 +3,7 @@ import {
   type Describing,
   describedIn,
   storyFolderOf,
-} from "akasha/command/pages/story/turn/advance/modules/turn-described/turn-described.module.code.ts"
+} from "akasha/command/pages/story/turn/modules/turn-described/turn-described.module.code.ts"
 
 const KINDS: ReadonlySet<string> = new Set(["world-mechanic", "world-skill", "world-item"])
 

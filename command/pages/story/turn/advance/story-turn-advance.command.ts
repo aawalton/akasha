@@ -10,10 +10,8 @@ export const storyTurnAdvance = {
   test: "ts",
   testFixtures: "ts",
   parts: [
-    "module/turn-described",
     "module/turn-handing",
     "module/turn-timing",
-    "module/turn-crossed",
     "module/chapter-length",
     "module/turn-roleplay-telling",
     "module/turn-step-timing",
@@ -255,6 +253,11 @@ export const storyTurnAdvance = {
       statement:
         "A played turn reaching its game master names every level or rank the turn before crossed.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A one-seat story's advance answers with its checklist, or says no turn waits on the seat.",
+    },
   ],
   name: "advance",
   arguments: [
@@ -275,5 +278,5 @@ export const storyTurnAdvance = {
     { argument: "argument/beat" },
   ],
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-30T12:46:10.864Z",
+  updatedAt: "2026-10-30T12:58:02.685Z",
 } as const satisfies Command

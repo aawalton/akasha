@@ -72,7 +72,12 @@ export const turnBeatHanding = {
       decisionKind: "decision-kind/departure",
       statement: "A one-seat story's beats go to no seat, and its notes to its game master seat.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A one-seat story's hand-in answers with its checklist, so its game master seat goes straight on.",
+    },
   ],
   createdAt: "2026-10-27T19:54:42.651Z",
-  updatedAt: "2026-10-30T12:49:16.246Z",
+  updatedAt: "2026-10-30T12:58:02.685Z",
 } as const satisfies Module

@@ -1,13 +1,20 @@
 import { expect, test } from "bun:test"
 import {
+  beatsHanded,
   flowingIn,
   notesSaid,
   rememberedNow,
   seatPartOf,
   waitingAfter,
 } from "akasha/command/pages/story/turn/modules/turn-beat-handing/turn-beat-handing.module.code.ts"
+import {
+  REACHED,
+  type Told,
+} from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import { beatsOf } from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.test-fixtures.ts"
 import {
+  type Held,
+  moved,
   statusOf,
   type TurnStep,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
@@ -18,6 +25,44 @@ const BEATS = beatsOf(
   { beat: 1, event: "Mara opens the gate.", changes: [] },
   { beat: 2, event: "The hall is dark." }
 )
+
+test("a one-seat story's hand-in answers with its checklist, and a seat-graph story's does not", async () => {
+  const at = {
+    game: "saga",
+    story: null,
+    reviewers: [],
+    recorders: [],
+    prompting: {
+      title: "The Saga",
+      turnAt: AT,
+      address: "story-turn-played/saga-00-004",
+      calledAs: "akasha story turn advance",
+      lore: [],
+      written: [],
+    },
+  }
+  const graph: Held = {
+    game: "saga",
+    status: "game-master",
+    lore: [],
+    issues: [],
+    reviewedBy: [],
+    recordedBy: [],
+    written: false,
+  }
+  const serve = (_root: string, game: string, calledAs: string) =>
+    `checklist of ${game}: ${calledAs}`
+  const hand = async (held: Held) => {
+    const after: Told = { report: [], faults: [] }
+    const said = moved("mechanics", {})
+    await beatsHanded(REACHED, "/nowhere", at, held, said, "saga-00-004", [], after, serve)
+    return after
+  }
+  const alone = await hand({ ...graph, oneSeat: true })
+  expect(alone.report).toEqual(["checklist of saga: akasha story turn advance"])
+  expect(alone.faults).toEqual([])
+  expect((await hand(graph)).report).toEqual([])
+})
 
 test("a seat's step is read off its role, and a story recorder's off its flex number", () => {
   const slugs = ["inventory", "mechanics", "memory", "picture", "plan"]
