@@ -4,7 +4,7 @@ export const supervisorChildExitDecide = {
   id: "01a0683e-3dbe-700e-bc70-8aac8a65c77d",
   type: "page-type/module",
   slug: "supervisor-child-exit-decide",
-  definition: "what a child's wait status says about how the child stopped",
+  definition: "how code reads how a Claude Code process ends",
   code: "ts",
   test: "ts",
   decisions: [
@@ -23,5 +23,5 @@ export const supervisorChildExitDecide = {
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-09-24T16:36:00.000Z",
+  updatedAt: "2026-10-30T14:38:33.554Z",
 } as const satisfies Module
