@@ -5,7 +5,7 @@ export const emailRuleMatchValues = {
   type: "page-type/text-property",
   slug: "email-rule-match-values",
   propertySlug: "values",
-  definition: "the values against which a clause weighs a piece of mail",
+  definition: "the values a condition compares with a part of an email",
   maxLength: 200,
   nameFormat: null,
   decisions: [
@@ -16,5 +16,5 @@ export const emailRuleMatchValues = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:45:38.719Z",
-  updatedAt: "2026-09-22T14:07:21.000Z",
+  updatedAt: "2026-10-30T15:48:22.331Z",
 } as const satisfies TextProperty
