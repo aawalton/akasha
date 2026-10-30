@@ -4,7 +4,7 @@ export const supervisorAgentCreate = {
   id: "01a0683e-3dbe-7009-b4d5-f3784313307e",
   type: "page-type/module",
   slug: "supervisor-agent-create",
-  definition: "a newly seated agent's identity",
+  definition: "how code makes the id of a new seat",
   code: "ts",
   decisions: [
     {
@@ -17,5 +17,5 @@ export const supervisorAgentCreate = {
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-09-24T16:36:00.000Z",
+  updatedAt: "2026-10-30T14:37:33.103Z",
 } as const satisfies Module
