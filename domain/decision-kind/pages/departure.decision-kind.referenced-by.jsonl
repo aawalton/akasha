@@ -832,6 +832,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/email-watch/modules/email-rule-set/email-rule-set.module.ts","id":"01a06871-54e5-7000-b703-1ea0c1101a4d"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-watch/modules/inbox-pass/inbox-pass.module.ts","id":"01a06948-c4c6-798a-a36f-1d22dd231125"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-watch/modules/inbox-run/inbox-run.module.ts","id":"01a06596-a92d-7000-8626-c02c9e56a331"}
+{"propertySlug":"decision-kind","path":"alan/harness/email-watch/modules/inbox-telling/inbox-telling.module.ts","id":"01a18d8a-eff8-7dc5-8ee7-20b7c8bf34e3"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-watch/modules/inbox-watching/inbox-watching.module.ts","id":"01a0686a-7a57-789b-82d6-c6d715e27ae4"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-watch/modules/spam-rescue/spam-rescue.module.ts","id":"01a11c54-9b11-738e-8975-fe9437685abf"}
 {"propertySlug":"decision-kind","path":"alan/harness/errors-client/modules/error-reporting/error-reporting.module.ts","id":"01a05c89-6034-7244-b9d2-6f9242df9ca4"}

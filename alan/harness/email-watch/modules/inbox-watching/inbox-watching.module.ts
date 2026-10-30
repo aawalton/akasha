@@ -4,8 +4,7 @@ export const inboxWatching = {
   id: "01a0686a-7a57-789b-82d6-c6d715e27ae4",
   type: "page-type/module",
   slug: "inbox-watching",
-  definition:
-    "alan's mail decided over and over, and each agent told the claims waiting on that agent",
+  definition: "how code runs a pass over Alan's inbox on a timer",
   code: "ts",
   decisions: [
     {
@@ -39,40 +38,7 @@ export const inboxWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only claims nobody has been told about yet are announced.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A claim is marked told only once the telling has landed.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A claim is told to the persona whose channel it names rather than to the handler.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A claim carrying no handle is told to the handler.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A telling that fails leaves only that handle's claims untold.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "An untold claim is tried again on the next pass.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A claim an agent rule took is put to the handler as the handler's to judge.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A claim a rule asked the handler be told of is put to the handler as news.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The mail announced is still in the inbox.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -85,5 +51,5 @@ export const inboxWatching = {
     },
   ],
   createdAt: "2026-09-03T17:56:43.735Z",
-  updatedAt: "2026-09-24T18:00:53.000Z",
+  updatedAt: "2026-10-30T16:00:55.262Z",
 } as const satisfies Module

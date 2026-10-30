@@ -635,6 +635,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-watch/modules/email-rule-set/email-rule-set.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-watch/modules/inbox-pass/inbox-pass.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-watch/modules/inbox-run/inbox-run.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-watch/modules/inbox-telling/inbox-telling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-watch/modules/inbox-watching/inbox-watching.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-watch/modules/spam-rescue/spam-rescue.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/errors-client/modules/error-capture-installer/error-capture-installer.module.ts","typed":true,"deferred":false}
