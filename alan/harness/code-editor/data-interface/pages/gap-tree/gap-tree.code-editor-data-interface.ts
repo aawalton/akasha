@@ -4,7 +4,7 @@ export const gapTree = {
   id: "01a0b7a0-c25d-74c1-b59f-75ee61fe417c",
   type: "page-type/code-editor-data-interface",
   slug: "gap-tree",
-  definition: "the rows the gaps panel draws",
+  definition: "the rows of the tree of gaps the code editor shows",
   code: "ts",
   cooldownMilliseconds: 10000,
   decisions: [
@@ -18,5 +18,5 @@ export const gapTree = {
     },
   ],
   createdAt: "2026-09-19T03:06:01.181Z",
-  updatedAt: "2026-09-25T17:55:37.000Z",
+  updatedAt: "2026-10-30T15:34:13.496Z",
 } as const satisfies CodeEditorDataInterface
