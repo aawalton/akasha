@@ -5,8 +5,7 @@ export const injuryDisability = {
   type: "page-type/record-property",
   slug: "injury-disability",
   propertySlug: "injury-disability",
-  definition:
-    "the injuries an activity causes and the disability each leaves, one injury at a time",
+  definition: "the injuries a risk activity causes with the disability from each injury",
   properties: [
     { pageProperty: "text-property/injury-name", required: true, many: false },
     { pageProperty: "number-property/injuries-per-million-units", required: true, many: false },
@@ -27,5 +26,5 @@ export const injuryDisability = {
   ],
   types: "ts",
   createdAt: "2026-10-28T18:23:14.375Z",
-  updatedAt: "2026-10-28T19:19:08.653Z",
+  updatedAt: "2026-10-30T16:06:57.142Z",
 } as const satisfies RecordProperty
