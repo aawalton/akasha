@@ -4,7 +4,7 @@ export const supervisorDeferredRestartDecide = {
   id: "01a0683e-3dbe-701b-b09a-df583a1df918",
   type: "page-type/module",
   slug: "supervisor-deferred-restart-decide",
-  definition: "whether a deferred restart fires on this tick",
+  definition: "whether an agent in a seat is restarted at this time",
   code: "ts",
   test: "ts",
   decisions: [
@@ -22,5 +22,5 @@ export const supervisorDeferredRestartDecide = {
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-09-24T15:55:20.000Z",
+  updatedAt: "2026-10-30T14:40:28.026Z",
 } as const satisfies Module
