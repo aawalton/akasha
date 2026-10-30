@@ -4,7 +4,7 @@ export const handoverReader = {
   id: "01a0bcc7-ddd5-7853-9c7d-c024406e8843",
   type: "page-type/module",
   slug: "handover-reader",
-  definition: "the reader a route reads off the session cookie, or nobody",
+  definition: "how code finds the contributor behind a request to a website",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const handoverReader = {
     },
   ],
   createdAt: "2026-09-20T03:06:50.197Z",
-  updatedAt: "2026-09-20T03:07:17.000Z",
+  updatedAt: "2026-10-30T15:47:39.749Z",
 } as const satisfies Module
