@@ -5,10 +5,10 @@ export const plaidItemAccessToken = {
   type: "page-type/text-property",
   slug: "plaid-item-access-token",
   propertySlug: "access-token",
-  definition: "the key Plaid issued for reading one bank Alan linked",
+  definition: "the secret Plaid gives for a bank Alan links",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-10-19T13:44:47.983Z",
-  updatedAt: "2026-10-19T13:44:47.983Z",
+  updatedAt: "2026-10-30T16:00:46.742Z",
 } as const satisfies TextProperty
