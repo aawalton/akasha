@@ -4,7 +4,7 @@ export const carYear = {
   id: "01a0659d-2432-715e-b4e1-2cfa27018de7",
   type: "page-type/page-type",
   slug: "car-year",
-  definition: "a model year of a nameplate",
+  definition: "a model year of a car model",
   extends: ["page-type/car"],
   parts: [
     "number-property/model-year",
@@ -25,5 +25,5 @@ export const carYear = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:53:12.370Z",
-  updatedAt: "2026-09-22T00:50:00.000Z",
+  updatedAt: "2026-10-30T15:02:31.187Z",
 } as const satisfies PageType
