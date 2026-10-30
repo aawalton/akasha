@@ -4,7 +4,8 @@ export const codeExportRepointing = {
   id: "01a0b795-3ef9-7cd7-bd07-ddeb56621fcf",
   type: "page-type/module",
   slug: "code-export-repointing",
-  definition: "the passages pointing every body that names a carried export at where it landed",
+  definition:
+    "how code finds the edits to every file that imports a named piece of code moved to another code file",
   code: "ts",
   decisions: [
     {
@@ -46,5 +47,5 @@ export const codeExportRepointing = {
     },
   ],
   createdAt: "2026-09-19T02:53:26.649Z",
-  updatedAt: "2026-09-25T13:39:33.000Z",
+  updatedAt: "2026-10-30T17:41:00.602Z",
 } as const satisfies Module
