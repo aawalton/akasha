@@ -4,7 +4,7 @@ export const inboxesTasks = {
   id: "01a06230-b156-7d81-a78b-ca66f6f5da77",
   type: "page-type/readout",
   slug: "inboxes-tasks",
-  definition: "how many of Alan's tasks are waiting",
+  definition: "how many to-dos wait for Alan",
   label: "Tasks",
   unit: "tasks",
   scale: "readout-scale/inbox-count",
@@ -45,5 +45,5 @@ export const inboxesTasks = {
   carriedTo: ["router-app/alan-web"],
   madeFrom: "day-row",
   createdAt: "2026-09-02T12:55:53.430Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-30T15:32:51.072Z",
 } as const satisfies Readout
