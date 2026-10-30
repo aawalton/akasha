@@ -15,15 +15,15 @@ export const trainingWeek = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A set counts only where that set names a movement this knows.",
+      statement: "An exercise set counts only where that exercise set names a movement this knows.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A set outside the window is neither counted nor passed over.",
+      statement: "An exercise set outside the window is neither counted nor passed over.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The effort a set counts at is handed in rather than read here.",
+      statement: "The effort an exercise set counts at is handed in rather than read here.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -31,9 +31,9 @@ export const trainingWeek = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The day a set falls on is read from the day that set names.",
+      statement: "The day an exercise set falls on is read from the day that exercise set names.",
     },
   ],
   createdAt: "2026-09-18T23:50:20.888Z",
-  updatedAt: "2026-09-19T02:01:35.000Z",
+  updatedAt: "2026-10-30T17:28:53.229Z",
 } as const satisfies Module
