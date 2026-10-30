@@ -4,7 +4,7 @@ export const resumeSeat = {
   id: "01a0695a-d2ea-735a-9483-a00a8cf935b6",
   type: "page-type/module",
   slug: "resume-seat",
-  definition: "a stopped seat relaunched under its own name once nothing live has it",
+  definition: "how code starts a seat that was stopped",
   code: "ts",
   decisions: [
     {
@@ -22,5 +22,5 @@ export const resumeSeat = {
     },
   ],
   createdAt: "2026-09-03T22:19:15.050Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:47:14.121Z",
 } as const satisfies Module
