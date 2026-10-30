@@ -4,7 +4,7 @@ export const scriptureCollection = {
   id: "01a06807-be66-7003-aba8-347b1f0d9f84",
   type: "page-type/page-type",
   slug: "scripture-collection",
-  definition: "a book of scripture whose chapters Alan reads",
+  definition: "a book of scripture that has the passages Alan reads",
   extends: ["page-type/collection-external"],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -25,5 +25,5 @@ export const scriptureCollection = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:08:53.094Z",
-  updatedAt: "2026-09-25T13:02:31.000Z",
+  updatedAt: "2026-10-30T15:10:25.451Z",
 } as const satisfies PageType
