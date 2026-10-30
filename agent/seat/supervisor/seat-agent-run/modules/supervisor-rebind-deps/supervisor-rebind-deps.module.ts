@@ -5,8 +5,8 @@ export const supervisorRebindDeps = {
   type: "page-type/module",
   slug: "supervisor-rebind-deps",
   definition:
-    "the live calls a seat's loop is handed to keep its agent's session and bind its name",
+    "how code makes the calls that write the Claude Code session and the name of an agent",
   code: "ts",
   createdAt: "2026-09-03T18:10:02.842Z",
-  updatedAt: "2026-09-24T17:10:42.000Z",
+  updatedAt: "2026-10-30T14:34:25.769Z",
 } as const satisfies Module
