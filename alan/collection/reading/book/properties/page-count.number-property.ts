@@ -5,7 +5,7 @@ export const pageCount = {
   type: "page-type/number-property",
   slug: "page-count",
   propertySlug: "page-count",
-  definition: "how many pages an edition runs to",
+  definition: "the number of pages in an edition",
   max: null,
   decisions: [
     {
@@ -19,5 +19,5 @@ export const pageCount = {
   ],
   types: "ts",
   createdAt: "2026-09-03T12:32:44.815Z",
-  updatedAt: "2026-09-25T13:02:31.000Z",
+  updatedAt: "2026-10-30T16:21:12.013Z",
 } as const satisfies NumberProperty
