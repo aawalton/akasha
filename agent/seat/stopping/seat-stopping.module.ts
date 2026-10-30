@@ -4,7 +4,7 @@ export const seatStopping = {
   id: "01a05d02-889b-7880-9ab9-c72cdc79dc5c",
   type: "page-type/module",
   slug: "seat-stopping",
-  definition: "a seat brought to an end, and the pages it held taken with it",
+  definition: "how code ends a seat and the pages the seat has",
   parts: [
     "module/absent-sweeping",
     "module/kill-target-plan",
@@ -119,5 +119,5 @@ export const seatStopping = {
     },
   ],
   createdAt: "2026-09-01T12:47:22.267Z",
-  updatedAt: "2026-09-19T00:42:08.000Z",
+  updatedAt: "2026-10-30T14:36:09.495Z",
 } as const satisfies Module
