@@ -4,7 +4,7 @@ export const alanRouteGuard = {
   id: "01a0c129-30bb-7f20-8811-37cb885fa99e",
   type: "page-type/module",
   slug: "alan-route-guard",
-  definition: "which routes of alanwalton.com a reader reaches, and where the rest send them",
+  definition: "whether a person at a browser can reach a route of alanwalton.com",
   code: "ts",
   decisions: [
     {
@@ -29,5 +29,5 @@ export const alanRouteGuard = {
     },
   ],
   createdAt: "2026-09-20T23:31:37.275Z",
-  updatedAt: "2026-09-27T14:07:30.000Z",
+  updatedAt: "2026-10-30T16:56:54.869Z",
 } as const satisfies Module
