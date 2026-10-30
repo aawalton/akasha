@@ -4,7 +4,7 @@ export const seatResumeDriver = {
   id: "01a0686d-9d5e-7016-8168-21e6a3ddfd3a",
   type: "page-type/module",
   slug: "seat-resume-driver",
-  definition: "the five things that put a resuming seat back to work",
+  definition: "the things that start work in a seat that was restarted",
   code: "ts",
   decisions: [
     {
@@ -13,5 +13,5 @@ export const seatResumeDriver = {
     },
   ],
   createdAt: "2026-09-03T18:00:09.310Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:45:23.284Z",
 } as const satisfies Module
