@@ -4,7 +4,7 @@ export const emailRuleCode = {
   id: "01a06828-59d3-7d52-bae3-818debc51db7",
   type: "page-type/page-type",
   slug: "email-rule-code",
-  definition: "an email rule its own clauses carry out",
+  definition: "an email rule that code settles",
   extends: ["page-type/email-rule"],
   parts: [
     "relation-property/email-rule-code-forward-to",
@@ -55,5 +55,5 @@ export const emailRuleCode = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:44:30.035Z",
-  updatedAt: "2026-10-08T16:21:30.456Z",
+  updatedAt: "2026-10-30T15:38:19.672Z",
 } as const satisfies PageType
