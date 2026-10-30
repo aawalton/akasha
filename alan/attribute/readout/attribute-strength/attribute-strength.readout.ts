@@ -4,7 +4,7 @@ export const attributeStrength = {
   id: "01a06838-9421-7f89-932a-569d681c18a4",
   type: "page-type/readout",
   slug: "attribute-strength",
-  definition: "the points Alan earned on a day for the weight he moved",
+  definition: "the points Alan earns on a day for the weight Alan moves",
   label: "STR",
   unit: "points",
   scale: "readout-scale/attribute-points",
@@ -54,5 +54,5 @@ export const attributeStrength = {
   carriedTo: ["router-app/alan-web"],
   madeFrom: "day-row",
   createdAt: "2026-09-03T17:02:13.537Z",
-  updatedAt: "2026-10-20T11:10:21.943Z",
+  updatedAt: "2026-10-30T14:51:44.054Z",
 } as const satisfies Readout
