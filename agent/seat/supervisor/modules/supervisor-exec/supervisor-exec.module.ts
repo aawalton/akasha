@@ -4,7 +4,7 @@ export const supervisorExec = {
   id: "01a0683e-3dbe-7020-aab5-a279b45af99d",
   type: "page-type/module",
   slug: "supervisor-exec",
-  definition: "a supervisor's libc calls for replacing and reaping processes",
+  definition: "the calls a supervisor makes on processes",
   code: "ts",
   decisions: [
     {
@@ -25,5 +25,5 @@ export const supervisorExec = {
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-09-24T17:08:49.000Z",
+  updatedAt: "2026-10-30T14:50:21.798Z",
 } as const satisfies Module
