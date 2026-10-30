@@ -4,7 +4,7 @@ export const committedDataWatching = {
   id: "01a0d99a-f5fd-78c4-9c85-232ca75a4d5f",
   type: "page-type/module",
   slug: "committed-data-watching",
-  definition: "the pictures the editor draws from committed pages, taken again as a commit lands",
+  definition: "how code makes what the code editor shows from each new commit",
   code: "ts",
   test: "ts",
   decisions: [
@@ -52,5 +52,5 @@ export const committedDataWatching = {
     },
   ],
   createdAt: "2026-09-25T17:26:46.525Z",
-  updatedAt: "2026-09-25T18:31:58.000Z",
+  updatedAt: "2026-10-30T15:40:24.985Z",
 } as const satisfies Module
