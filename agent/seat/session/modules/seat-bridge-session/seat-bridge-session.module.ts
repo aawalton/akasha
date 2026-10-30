@@ -4,7 +4,7 @@ export const seatBridgeSession = {
   id: "01a0d900-0f71-7159-9a2e-756c4af02fda",
   type: "page-type/module",
   slug: "seat-bridge-session",
-  definition: "the claude.ai session a seat's agent is reached through, read off its transcript",
+  definition: "the id Claude Code Remote Control has for a seat",
   code: "ts",
   test: "ts",
   decisions: [
@@ -53,5 +53,5 @@ export const seatBridgeSession = {
     },
   ],
   createdAt: "2026-09-25T14:37:34.961Z",
-  updatedAt: "2026-09-25T15:55:11.000Z",
+  updatedAt: "2026-10-30T14:49:37.783Z",
 } as const satisfies Module
