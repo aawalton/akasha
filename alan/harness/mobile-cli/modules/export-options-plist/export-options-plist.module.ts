@@ -4,7 +4,7 @@ export const exportOptionsPlist = {
   id: "01a05cee-e560-75d1-bc5d-3afdaa86f77d",
   type: "page-type/module",
   slug: "export-options-plist",
-  definition: "the plist that tells Xcode which profile signs which bundle",
+  definition: "the file Xcode reads when Xcode signs an app",
   code: "ts",
   decisions: [
     {
@@ -22,5 +22,5 @@ export const exportOptionsPlist = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:25:22.498Z",
 } as const satisfies Module
