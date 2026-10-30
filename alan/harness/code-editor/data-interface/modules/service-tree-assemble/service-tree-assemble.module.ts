@@ -4,7 +4,7 @@ export const serviceTreeAssemble = {
   id: "01a09bb0-6ca4-76db-b1d3-1c5357bd4f81",
   type: "page-type/module",
   slug: "service-tree-assemble",
-  definition: "every service there is, filed under the kind of service each one is",
+  definition: "how code arranges every service under its kind of service",
   code: "ts",
   test: "ts",
   decisions: [
@@ -84,5 +84,5 @@ export const serviceTreeAssemble = {
     },
   ],
   createdAt: "2026-09-13T16:53:45.764Z",
-  updatedAt: "2026-09-25T16:45:06.000Z",
+  updatedAt: "2026-10-30T15:27:47.766Z",
 } as const satisfies Module
