@@ -4,7 +4,7 @@ export const attributeConstitution = {
   id: "01a06838-9486-7039-a5b5-f3b864bb2160",
   type: "page-type/readout",
   slug: "attribute-constitution",
-  definition: "the points Alan earned on a day for the whole plants he ate",
+  definition: "the points Alan earns on a day for the whole plants Alan eats",
   label: "CON",
   unit: "points",
   scale: "readout-scale/attribute-points",
@@ -44,5 +44,5 @@ export const attributeConstitution = {
   carriedTo: ["router-app/alan-web"],
   madeFrom: "day-row-and-food-entries",
   createdAt: "2026-09-03T17:02:13.638Z",
-  updatedAt: "2026-10-20T11:10:21.943Z",
+  updatedAt: "2026-10-30T14:50:45.027Z",
 } as const satisfies Readout
