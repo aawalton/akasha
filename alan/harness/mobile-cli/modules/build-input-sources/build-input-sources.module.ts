@@ -4,7 +4,7 @@ export const buildInputSources = {
   id: "01a05cee-e560-7116-bb78-4e76e90508fe",
   type: "page-type/module",
   slug: "build-input-sources",
-  definition: "the two repo-and-paths pairs holding a mobile build's inputs",
+  definition: "the paths in two repos that hold what a mobile cut is built from",
   code: "ts",
   decisions: [
     {
@@ -26,5 +26,5 @@ export const buildInputSources = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-22T14:07:21.000Z",
+  updatedAt: "2026-10-30T16:24:18.950Z",
 } as const satisfies Module
