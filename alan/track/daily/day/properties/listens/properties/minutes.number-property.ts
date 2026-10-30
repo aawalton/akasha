@@ -5,9 +5,9 @@ export const minutes = {
   type: "page-type/number-property",
   slug: "minutes",
   propertySlug: "minutes",
-  definition: "how long a track runs, in minutes",
+  definition: "the length of a track in minutes",
   max: null,
   types: "ts",
   createdAt: "2026-09-02T13:12:49.935Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T16:39:10.731Z",
 } as const satisfies NumberProperty
