@@ -4,7 +4,7 @@ export const inboxStoplights = {
   id: "01a072b2-59cc-72dc-9f34-01e609e3f191",
   type: "page-type/route",
   slug: "inbox-stoplights",
-  definition: "Alan's inboxes as the colors their counts reach",
+  definition: "the stoplights a readout widget shows for Alan's inboxes",
   code: "ts",
   test: "ts",
   urlPath: "api/inbox-stoplights",
@@ -27,5 +27,5 @@ export const inboxStoplights = {
     },
   ],
   createdAt: "2026-09-05T17:51:26.156Z",
-  updatedAt: "2026-09-25T16:37:06.000Z",
+  updatedAt: "2026-10-30T17:01:30.215Z",
 } as const satisfies Route
