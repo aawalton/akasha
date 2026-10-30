@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0202Chapter182MissingEvid
     },
   ],
   createdAt: "2026-10-30T20:24:10.038Z",
-  updatedAt: "2026-10-30T20:24:10.038Z",
+  updatedAt: "2026-10-30T22:26:46.242Z",
+  ownProgress: 2375,
+  progressedAt: "2026-10-30T22:26:46.242Z",
 } as const satisfies StoryChapterRead

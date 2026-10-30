@@ -20,5 +20,7 @@ export const rebornAsADemonicTree0109Chapter634HeavenlyCycleOfCreationAndRuin = 
     },
   ],
   createdAt: "2026-10-30T20:24:10.038Z",
-  updatedAt: "2026-10-30T20:24:10.038Z",
+  updatedAt: "2026-10-30T22:26:46.242Z",
+  ownProgress: 2585,
+  progressedAt: "2026-10-30T22:26:46.242Z",
 } as const satisfies StoryChapterRead

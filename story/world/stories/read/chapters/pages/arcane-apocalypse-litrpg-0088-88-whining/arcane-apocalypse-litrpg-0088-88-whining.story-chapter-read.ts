@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg008888Whining = {
     },
   ],
   createdAt: "2026-10-28T16:29:15.598Z",
-  updatedAt: "2026-10-28T16:29:15.598Z",
+  updatedAt: "2026-10-30T22:26:46.242Z",
+  ownProgress: 3761,
+  progressedAt: "2026-10-30T22:26:46.242Z",
 } as const satisfies StoryChapterRead
