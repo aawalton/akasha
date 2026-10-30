@@ -4,7 +4,8 @@ export const surplusFallTier = {
   id: "01a0697e-ded3-7adb-9d6e-f852cfc9ffd7",
   type: "page-type/module",
   slug: "surplus-fall-tier",
-  definition: "a tier's color order, and whether today has gone below its opening color",
+  definition:
+    "whether the surplus of a day has a tier color under the tier color of the sleep of that day",
   code: "ts",
   decisions: [
     {
@@ -29,5 +30,5 @@ export const surplusFallTier = {
     },
   ],
   createdAt: "2026-09-03T22:58:37.395Z",
-  updatedAt: "2026-09-22T13:46:30.000Z",
+  updatedAt: "2026-10-30T15:58:07.674Z",
 } as const satisfies Module
