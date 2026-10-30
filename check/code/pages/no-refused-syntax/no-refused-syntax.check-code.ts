@@ -4,7 +4,7 @@ export const noRefusedSyntax = {
   id: "01a0500d-738b-7831-b8d7-66fe5737a5c8",
   type: "page-type/check-code",
   slug: "no-refused-syntax",
-  definition: "the check refusing a source file with a pattern a syntax rule names",
+  definition: "the check refusing a TypeScript file with a pattern a syntax rule names",
   parts: ["page-type/syntax-rule"],
   runsOnChange: true,
   runsOnDeploy: true,
@@ -109,5 +109,5 @@ export const noRefusedSyntax = {
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 60 },
   createdAt: "2026-08-30T00:24:13.963Z",
-  updatedAt: "2026-09-21T20:02:56.000Z",
+  updatedAt: "2026-10-30T16:07:12.615Z",
 } as const satisfies CheckCode
