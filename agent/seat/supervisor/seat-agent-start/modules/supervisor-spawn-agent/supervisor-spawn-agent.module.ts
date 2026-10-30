@@ -4,7 +4,7 @@ export const supervisorSpawnAgent = {
   id: "01a06876-abda-7017-a0af-8bbe92c1bb1b",
   type: "page-type/module",
   slug: "supervisor-spawn-agent",
-  definition: "the subagent definitions and disallowed tools a launch is given",
+  definition: "how code reads the subagent kinds a seat can run",
   code: "ts",
   decisions: [
     {
@@ -25,5 +25,5 @@ export const supervisorSpawnAgent = {
     },
   ],
   createdAt: "2026-09-03T18:10:02.842Z",
-  updatedAt: "2026-09-24T16:36:00.000Z",
+  updatedAt: "2026-10-30T14:42:37.227Z",
 } as const satisfies Module
