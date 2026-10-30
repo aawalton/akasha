@@ -5,8 +5,9 @@ export const writerOwesReading = {
   type: "page-type/boolean-property",
   slug: "writer-owes-reading",
   propertySlug: "writer-owes-reading",
-  definition: "whether the writer of a change of this kind owes the readings its paths warrant",
+  definition:
+    "whether an agent must read the files a change of this kind edits before the agent makes the change",
   types: "ts",
   createdAt: "2026-09-01T17:52:04.603Z",
-  updatedAt: "2026-09-15T15:59:02.000Z",
+  updatedAt: "2026-10-30T17:07:18.392Z",
 } as const satisfies BooleanProperty
