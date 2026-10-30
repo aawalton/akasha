@@ -4,7 +4,7 @@ export const trackResolving = {
   id: "01a06281-4d9d-7004-9a0b-82fe940e4d95",
   type: "page-type/module",
   slug: "track-resolving",
-  definition: "a play command's track and device",
+  definition: "the track and the device a music command uses",
   code: "ts",
   test: "ts",
   decisions: [
@@ -54,5 +54,5 @@ export const trackResolving = {
     },
   ],
   createdAt: "2026-09-02T14:23:56.317Z",
-  updatedAt: "2026-09-22T13:57:00.000Z",
+  updatedAt: "2026-10-30T16:10:08.355Z",
 } as const satisfies Module
