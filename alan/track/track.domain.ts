@@ -14,11 +14,10 @@ export const track = {
     "page-type/to-do",
     "page-type/tracking-capture",
     "page-type/tracking-entry",
-    "page-type/tracking-entry-date",
     "page-type/tracking-entry-instant",
     "page-type/tracking-entry-session",
     "page-type/tracking-field",
   ],
   createdAt: "2026-09-02T16:03:07.263Z",
-  updatedAt: "2026-09-25T13:17:12.000Z",
+  updatedAt: "2026-10-30T17:01:05.662Z",
 } as const satisfies Domain
