@@ -5,7 +5,7 @@ export const turnWorking = {
   type: "page-type/record-property",
   slug: "turn-working",
   propertySlug: "turn-working",
-  definition: "whether a seat is mid-turn, the byte read to, and the commands still running",
+  definition: "what code reads from a seat's transcript",
   properties: [
     { pageProperty: "boolean-property/active-turn", required: true, many: false },
     { pageProperty: "number-property/scanned-to", required: true, many: false },
@@ -35,5 +35,5 @@ export const turnWorking = {
   ],
   types: "ts",
   createdAt: "2026-09-04T12:47:06.411Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:38:58.054Z",
 } as const satisfies RecordProperty
