@@ -8,6 +8,8 @@ export const artist = {
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "artist" },
     { partOfSpeech: "part-of-speech/noun", spelling: "artists" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "followed artist" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "followed artists" },
   ],
   extends: ["page-type/collection-external"],
   parts: ["file-property/reaction", "text-property/artist-genre"],
@@ -19,5 +21,5 @@ export const artist = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T13:15:58.411Z",
-  updatedAt: "2026-10-30T16:15:53.582Z",
+  updatedAt: "2026-10-30T17:19:54.226Z",
 } as const satisfies PageType
