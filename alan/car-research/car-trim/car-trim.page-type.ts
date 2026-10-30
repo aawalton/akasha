@@ -5,6 +5,10 @@ export const carTrim = {
   type: "page-type/page-type",
   slug: "car-trim",
   definition: "a specification of a model year on sale",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "car trim" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "car trims" },
+  ],
   extends: ["page-type/car"],
   parts: [
     "relation-property/car-year",
@@ -88,5 +92,5 @@ export const carTrim = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:43:27.197Z",
-  updatedAt: "2026-09-23T14:43:15.000Z",
+  updatedAt: "2026-10-30T14:38:21.183Z",
 } as const satisfies PageType
