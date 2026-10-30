@@ -4,7 +4,7 @@ export const googleSignIn = {
   id: "01a0bafb-08be-77ae-a54a-a90577b68072",
   type: "page-type/module",
   slug: "google-sign-in",
-  definition: "the card a reader signs in from, holding the button Google answers",
+  definition: "the screen where a person signs in with Google",
   code: "tsx",
   decisions: [
     {
@@ -49,5 +49,5 @@ export const googleSignIn = {
     },
   ],
   createdAt: "2026-09-19T18:43:29.086Z",
-  updatedAt: "2026-10-24T21:42:59.638Z",
+  updatedAt: "2026-10-30T15:33:11.349Z",
 } as const satisfies Module
