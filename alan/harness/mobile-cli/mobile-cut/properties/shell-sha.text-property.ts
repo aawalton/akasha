@@ -5,7 +5,7 @@ export const shellSha = {
   type: "page-type/text-property",
   slug: "shell-sha",
   propertySlug: "shell-sha",
-  definition: "a cut's app shell commit",
+  definition: "the commit of the native shell a mobile cut was built from",
   maxLength: 40,
   nameFormat: null,
   decisions: [
@@ -17,5 +17,5 @@ export const shellSha = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:42:47.583Z",
-  updatedAt: "2026-09-22T13:58:57.000Z",
+  updatedAt: "2026-10-30T16:00:54.852Z",
 } as const satisfies TextProperty
