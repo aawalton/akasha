@@ -5,9 +5,9 @@ export const streamingService = {
   type: "page-type/relation-property",
   slug: "streaming-service",
   propertySlug: "service",
-  definition: "a service a collection's parts stream on",
+  definition: "a streaming service that has a part of a collection",
   targetPageType: "page-type/streaming-service",
   types: "ts",
   createdAt: "2026-10-28T20:00:00.000Z",
-  updatedAt: "2026-10-28T20:41:21.414Z",
+  updatedAt: "2026-10-30T15:03:38.675Z",
 } as const satisfies RelationProperty
