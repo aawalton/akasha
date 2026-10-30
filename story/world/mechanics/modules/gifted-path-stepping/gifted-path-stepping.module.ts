@@ -7,6 +7,7 @@ export const giftedPathStepping = {
   definition: "what a Path a character holds in the gifted world earns and what its Tiers pay",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -40,5 +41,5 @@ export const giftedPathStepping = {
     },
   ],
   createdAt: "2026-10-30T13:40:53.973Z",
-  updatedAt: "2026-10-30T13:40:53.973Z",
+  updatedAt: "2026-10-30T13:43:51.554Z",
 } as const satisfies Module

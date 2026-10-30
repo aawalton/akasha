@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
-import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 import { metricCharacterStat } from "akasha/story/world/mechanics/metrics/metric-character/attribute/stat/metric-character-stat.page-type.ts"
-import type {
-  HeldPath,
-  PathReach,
-} from "akasha/story/world/mechanics/modules/gifted-path-stepping/gifted-path-stepping.module.code.ts"
+import type { HeldPath } from "akasha/story/world/mechanics/modules/gifted-path-stepping/gifted-path-stepping.module.code.ts"
+import {
+  heldAs,
+  reachOver,
+} from "akasha/story/world/mechanics/modules/gifted-path-stepping/gifted-path-stepping.module.test-fixtures.ts"
 import { characterSkill } from "akasha/story/world/mechanics/skills/character-skill/character-skill.page-type.ts"
 import { giftedUnallocatedStats } from "akasha/story/world/pages/gifted/mechanics/metrics/resources/unallocated-stats/gifted-unallocated-stats.page-type.ts"
 import { giftedPathOfEndurance } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-endurance.world-skill.ts"
@@ -45,21 +45,6 @@ const PROBE_STAMINA = `${metricCharacterStat.slug}/probe-nala-stamina`
 
 const ROLL = { total: 3, crit: false, fumble: false }
 
-type Page = { readonly slug: string; readonly character: string; readonly attribute?: string }
-
-type Skill = { readonly title: string; readonly tierSteps: readonly number[] }
-
-function heldAs(held: Page, path: Skill): HeldPath {
-  return {
-    address: `${characterSkill.slug}/${held.slug}`,
-    character: held.character,
-    title: path.title,
-    tiers: path.tierSteps,
-    attribute: held.attribute ?? null,
-    setAside: false,
-  }
-}
-
 const HELD: readonly HeldPath[] = [
   heldAs(giftedRebornNalaPathOfEndurance, giftedPathOfEndurance),
   heldAs(giftedRebornNalaPathOfSoulstealing, giftedPathOfSoulstealing),
@@ -71,17 +56,7 @@ const HELD: readonly HeldPath[] = [
   ),
 ]
 
-function ownedBy(address: string): string | null {
-  const owner = HELD.find((one) => slugOf(address).startsWith(`${slugOf(one.character)}-`))
-  return owner?.character ?? null
-}
-
-const REACH: PathReach = {
-  heldAt: (address) => HELD.find((one) => one.address === address) ?? null,
-  heldBy: (character) => HELD.filter((one) => one.character === character),
-  ownerOf: ownedBy,
-  statsOf: (character) => (character === NALA ? STATS : PROBE_STATS),
-}
+const REACH = reachOver(HELD, (character) => (character === NALA ? STATS : PROBE_STATS))
 
 test("Talented 109 turns an Achievement's 1000 steps into 1218, as Survive a Fatal Blow paid", () => {
   const reading = {

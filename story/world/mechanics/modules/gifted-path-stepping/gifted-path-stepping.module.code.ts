@@ -115,6 +115,13 @@ export type PathReach = {
   readonly statsOf: (character: string) => string
 }
 
+export function heldNamed<Listed extends { readonly held: HeldPath }>(
+  paths: readonly Listed[],
+  said: string
+): Listed | undefined {
+  return paths.find((one) => one.held.address === said)
+}
+
 function addressOf(type: string, slug: string): string {
   return `${type}/${slug}`
 }

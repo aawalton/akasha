@@ -5,6 +5,7 @@ import {
   BASIC_TIERS,
   basicPaid,
   type HeldPath,
+  heldNamed,
   ONE_SPEED,
   oneSpeed,
   PATHS_INDEXED,
@@ -153,10 +154,6 @@ function ownerOf(earning: Earning, reach: PathReach): string | null {
   return earning.character ?? reach.ownerOf(earning.earned[0]?.path ?? "")
 }
 
-function pathOf(paths: readonly Listed[], said: string): Listed | undefined {
-  return paths.find((one) => one.held.address === said)
-}
-
 function offered(one: Listed, offer: Offer | undefined): number | string {
   if (one.kind === null) return `${one.title} ${one.apart}`
   const steps = offer?.[one.kind]
@@ -194,7 +191,7 @@ function unpaid(said: string, paths: readonly Listed[]): Paid {
 }
 
 function paidTo(entry: Entry, speed: Speed, paths: readonly Listed[]): Paid {
-  const one = pathOf(paths, entry.path)
+  const one = heldNamed(paths, entry.path)
   if (one === undefined) return unpaid(entry.path, paths)
   if (one.held.setAside) return { refused: `${one.title} is set aside, so it earns no steps` }
   const steps = stepsOf(one, entry)
@@ -237,7 +234,7 @@ export function added(
   if (!earning.success || !said.success) return []
   const paths = pathsOf(ownerOf(earning.data, reach), reach)
   return said.data.earned.flatMap((one) => {
-    const path = pathOf(paths, one.path)
+    const path = heldNamed(paths, one.path)
     if (path === undefined) return []
     const from = tiersPassed(path.tiers, one.experience - one.gained)
     return [{ page: one.path, key: "experience", by: one.gained }, ...path.paid(from, one.tier)]
