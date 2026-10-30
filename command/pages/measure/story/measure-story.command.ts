@@ -46,6 +46,16 @@ export const measureStory = {
       statement: "A story or a phase whose rows name no step is drawn with no step line.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A one-seat turn's memory, handed in at player, is drawn on its own line after the whole.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That memory counts in no phase and not in the whole, so the whole is the time to player.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A run writes no value the commit has.",
     },
@@ -57,5 +67,5 @@ export const measureStory = {
   name: "story",
   arguments: [{ argument: "argument/run-window" }],
   createdAt: "2026-09-28T18:32:12.613Z",
-  updatedAt: "2026-10-30T12:47:35.239Z",
+  updatedAt: "2026-10-30T14:37:53.939Z",
 } as const satisfies Command

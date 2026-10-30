@@ -36,6 +36,8 @@ const ABSENT = "-"
 
 const WHOLE = "whole"
 
+const MEMORY = "memory"
+
 const INDENT = "  "
 
 const HEADED: readonly string[] = [
@@ -357,11 +359,23 @@ function stepLinesOf(held: readonly PhaseRow[]): (readonly string[])[] {
   )
 }
 
+function rememberedIn(one: PhaseRow): boolean {
+  return one.phase === PLAYER && one.step === MEMORY
+}
+
+function memoryLinesOf(rows: readonly PhaseRow[]): (readonly string[])[] {
+  const held = rows.filter(rememberedIn)
+  if (held.length === 0) return []
+  const walls = held.map((one) => one.wallMs)
+  return [lineOf(`${INDENT}${MEMORY}`, walls, held)]
+}
+
 export function linesOf(rows: readonly PhaseRow[]): readonly string[] {
   const drawn: (readonly string[])[] = [["story", ...HEADED]]
   const stories = [...grouped(rows, (one) => one.story)].sort((a, b) => a[0].localeCompare(b[0]))
-  for (const [story, some] of stories) {
+  for (const [story, all] of stories) {
     drawn.push([story])
+    const some = all.filter((one) => !rememberedIn(one))
     const phases = grouped(some, (one) => one.phase)
     for (const phase of phasesOrdered(some)) {
       const held = phases.get(phase) ?? []
@@ -375,6 +389,7 @@ export function linesOf(rows: readonly PhaseRow[]): readonly string[] {
       drawn.push(...stepLinesOf(held))
     }
     drawn.push(lineOf(`${INDENT}${WHOLE}`, wholesOf(some), []))
+    drawn.push(...memoryLinesOf(all))
   }
   return columnsOf(drawn)
 }

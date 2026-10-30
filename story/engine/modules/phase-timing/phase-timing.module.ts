@@ -75,6 +75,14 @@ export const phaseTiming = {
       statement: "A row of a seat-graph turn names no step.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A one-seat turn's memory is a row of the player's phase naming the step memory.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That row is drawn on a line of its own after the whole, under no phase.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A phase that cannot be written refuses nothing it ends.",
     },
@@ -106,5 +114,5 @@ export const phaseTiming = {
     },
   ],
   createdAt: "2026-09-28T18:27:12.495Z",
-  updatedAt: "2026-10-30T12:47:35.239Z",
+  updatedAt: "2026-10-30T14:37:53.939Z",
 } as const satisfies Module

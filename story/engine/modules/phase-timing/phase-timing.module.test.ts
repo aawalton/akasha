@@ -237,6 +237,47 @@ test("a phase whose rows name steps draws each step beneath it, its beats folded
   expect(saga.filter((line) => line.startsWith("    "))).toEqual([])
 })
 
+test("a one-seat turn's memory, handed in at player, is timed from the turn reaching player", () => {
+  const root = scratch.rootFor("phase-timing-")
+  mkdirSync(join(root, "story/the-saga"), { recursive: true })
+  phaseEnded(root, PAGE, { ...ended("beats", 60), step: "review continuity" }, () => null)
+  const wrote = phaseEnded(root, PAGE, { ...ended(PLAYER, 100), step: "memory" }, () => null)
+  expect(wrote.map((one) => [one.phase, one.ranAt, one.wallMs, one.step, one.stepMs])).toEqual([
+    [PLAYER, at(60), 40 * SECOND, "memory", 40 * SECOND],
+  ])
+})
+
+const REMEMBERED = [
+  ...ONE_SEAT,
+  taleRow(row("tale-001", "beats", 100, 120), "review continuity", 20),
+  taleRow(row("tale-001", PLAYER, 120, 150), "memory", 30),
+  { ...row("tale-001", PLAYER, 120, 400), story: "the-tale" },
+  taleRow(row("tale-002", "world-builder", 400, 410), "lore", 10),
+]
+
+test("a one-seat turn's memory is drawn on a line of its own after the whole, counted in no phase", () => {
+  const drawn = linesOf(REMEMBERED)
+  expect(drawn.map((line) => line.trim().split(" ")[0])).toEqual([
+    "story",
+    "the-tale",
+    "world-builder",
+    "lore",
+    "game-master",
+    "beats",
+    "beats",
+    "changes",
+    "prose",
+    "review",
+    PLAYER,
+    "whole",
+    "memory",
+  ])
+  const said = drawn.join("\n")
+  expect(said).toMatch(/\n {2}player +1 +280\.000s/)
+  expect(said).toMatch(/\n {2}whole +2 +65\.000s +65\.000s +120\.000s/)
+  expect(said).toMatch(/\n {2}memory +1 +30\.000s +30\.000s +30\.000s/)
+})
+
 test("the table draws each story's phases and the whole run beneath them", () => {
   const drawn = linesOf(PLAYED).join("\n")
   expect(drawn).toContain("the-saga")
