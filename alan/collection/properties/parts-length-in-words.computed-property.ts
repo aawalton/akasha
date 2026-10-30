@@ -5,7 +5,7 @@ export const partsLengthInWords = {
   type: "page-type/computed-property",
   slug: "parts-length-in-words",
   propertySlug: "parts-length-in-words",
-  definition: "how much there is to work through in the collections this one holds, in words",
+  definition: "the length of the parts of a collection counted in words",
   holds: "number",
   code: "ts",
   decisions: [
@@ -42,5 +42,5 @@ export const partsLengthInWords = {
   ],
   types: "ts",
   createdAt: "2026-09-03T22:17:54.599Z",
-  updatedAt: "2026-10-29T19:19:47.279Z",
+  updatedAt: "2026-10-30T15:10:59.874Z",
 } as const satisfies ComputedProperty
