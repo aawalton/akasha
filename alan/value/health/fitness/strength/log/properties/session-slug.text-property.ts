@@ -11,18 +11,18 @@ export const sessionSlug = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A bout is the run of sets Alan performed at one sitting.",
+      statement: "A workout is the run of exercise sets Alan performed at one sitting.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Two sets of one day naming two bouts were performed at two sittings.",
+      statement: "Two exercise sets of one day naming two workouts were performed at two sittings.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "A bout is no page.",
+      statement: "A workout is no page.",
     },
   ],
   types: "ts",
   createdAt: "2026-09-03T04:21:48.925Z",
-  updatedAt: "2026-10-30T17:10:16.638Z",
+  updatedAt: "2026-10-30T17:22:56.003Z",
 } as const satisfies TextProperty
