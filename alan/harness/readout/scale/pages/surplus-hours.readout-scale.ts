@@ -18,7 +18,7 @@ export const surplusHours = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A reading below zero reaches a rung rather than being read as though the scale began at zero.",
+        "A number below zero reaches a rung rather than being read as though the scale began at zero.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -27,5 +27,5 @@ export const surplusHours = {
     },
   ],
   createdAt: "2026-09-02T01:36:55.386Z",
-  updatedAt: "2026-10-30T16:09:46.313Z",
+  updatedAt: "2026-10-30T17:25:26.821Z",
 } as const satisfies ReadoutScale
