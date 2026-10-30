@@ -4,7 +4,7 @@ export const targetKinding = {
   id: "01a08251-3c27-7aaa-b035-a2345ee394a0",
   type: "page-type/module",
   slug: "target-kinding",
-  definition: "a path's change target subtype",
+  definition: "how code finds the change target subtype of a path",
   code: "ts",
   test: "ts",
   decisions: [
@@ -66,5 +66,5 @@ export const targetKinding = {
     },
   ],
   createdAt: "2026-09-08T18:39:17.031Z",
-  updatedAt: "2026-09-25T13:54:20.000Z",
+  updatedAt: "2026-10-30T17:44:45.316Z",
 } as const satisfies Module
