@@ -4,8 +4,7 @@ export const monarchNotesRevert = {
   id: "01a06865-ecc3-7197-8546-e38b32431638",
   type: "page-type/module",
   slug: "monarch-notes-revert",
-  definition:
-    "the notes and tags a transaction carried before this project wrote, and putting them back",
+  definition: "how code restores the note and the Monarch tags of a Monarch transaction",
   code: "ts",
   decisions: [
     {
@@ -42,5 +41,5 @@ export const monarchNotesRevert = {
     },
   ],
   createdAt: "2026-09-03T17:51:45.347Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:41:45.496Z",
 } as const satisfies Module
