@@ -4,7 +4,7 @@ export const activeCaloriesService = {
   id: "01a07724-a486-7717-8141-ae09cdb04434",
   type: "page-type/service-workstation",
   slug: "active-calories-service",
-  definition: "the service writing the calories Alan burned moving onto the days he burned them",
+  definition: "the service that writes each day's active calories to that day",
   enabled: true,
   systemd: {
     restart: "on-failure",
@@ -26,5 +26,5 @@ export const activeCaloriesService = {
     },
   ],
   createdAt: "2026-09-06T14:34:45.254Z",
-  updatedAt: "2026-10-18T15:31:01.166Z",
+  updatedAt: "2026-10-30T16:41:47.145Z",
 } as const satisfies ServiceWorkstation
