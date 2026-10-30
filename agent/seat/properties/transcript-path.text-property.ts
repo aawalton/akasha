@@ -5,7 +5,7 @@ export const transcriptPath = {
   type: "page-type/text-property",
   slug: "transcript-path",
   propertySlug: "transcript-path",
-  definition: "where a seat writes what was said in it",
+  definition: "the path of a seat's transcript",
   maxLength: 200,
   nameFormat: null,
   decisions: [
@@ -16,5 +16,5 @@ export const transcriptPath = {
   ],
   types: "ts",
   createdAt: "2026-08-30T18:30:46.637Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:35:53.554Z",
 } as const satisfies TextProperty
