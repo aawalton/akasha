@@ -26,16 +26,16 @@ export const inboxesTasks = {
 
     {
       decisionKind: "decision-kind/departure",
-      statement: "No tracking day is no reading rather than a count of zero.",
+      statement: "No tracking day is no number rather than a count of zero.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A tracking day with no count is no reading rather than a count of zero.",
+      statement: "A tracking day with no count is no number rather than a count of zero.",
     },
 
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here caches a reading or decides when a reading is taken.",
+      statement: "Nothing here caches a number or decides when a number is taken.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -45,5 +45,5 @@ export const inboxesTasks = {
   carriedTo: ["router-app/alan-web"],
   madeFrom: "day-row",
   createdAt: "2026-09-02T12:55:53.430Z",
-  updatedAt: "2026-10-30T15:32:51.072Z",
+  updatedAt: "2026-10-30T17:21:02.606Z",
 } as const satisfies Readout
