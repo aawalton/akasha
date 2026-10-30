@@ -12,5 +12,6 @@ export const awenAddressFromThePage = {
     "No turn is taken, no message sent and nothing advanced in gifted-reborn, which is Alan's real save.",
   ],
   createdAt: "2026-10-30T18:07:48.290Z",
-  updatedAt: "2026-10-30T18:07:48.290Z",
+  updatedAt: "2026-10-30T18:07:59.312Z",
+  intentStack: [{ statement: "Address From The Page matches how checks read pages now." }],
 } as const satisfies Initiative
