@@ -4,7 +4,7 @@ export const syncOutcome = {
   id: "01a06580-196a-7000-9451-e53d200e3e2d",
   type: "page-type/module",
   slug: "sync-outcome",
-  definition: "an error named by kind, retried where retrying helps, and a run's tally",
+  definition: "how code handles the errors of a sync",
   code: "ts",
   decisions: [
     {
@@ -25,5 +25,5 @@ export const syncOutcome = {
     },
   ],
   createdAt: "2026-09-03T04:21:29.066Z",
-  updatedAt: "2026-09-22T13:44:11.000Z",
+  updatedAt: "2026-10-30T15:20:54.834Z",
 } as const satisfies Module
