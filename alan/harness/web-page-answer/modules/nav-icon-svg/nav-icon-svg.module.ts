@@ -4,7 +4,7 @@ export const navIconSvg = {
   id: "01a0640f-8510-721d-88b0-b37b2bda4681",
   type: "page-type/module",
   slug: "nav-icon-svg",
-  definition: "a navigation icon drawn as svg text",
+  definition: "how code writes the text of the icon a website shows for a page",
   code: "ts",
   decisions: [
     {
@@ -25,5 +25,5 @@ export const navIconSvg = {
     },
   ],
   createdAt: "2026-09-02T21:38:53.840Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:14:38.189Z",
 } as const satisfies Module
