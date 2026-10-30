@@ -5,8 +5,8 @@ export const liveShell = {
   type: "page-type/boolean-property",
   slug: "live-shell",
   propertySlug: "live-shell",
-  definition: "whether a command a seat left running in the background has yet to report",
+  definition: "whether a seat has a background command that runs",
   types: "ts",
   createdAt: "2026-09-04T18:07:03.697Z",
-  updatedAt: "2026-09-15T15:59:02.000Z",
+  updatedAt: "2026-10-30T15:48:14.512Z",
 } as const satisfies BooleanProperty
