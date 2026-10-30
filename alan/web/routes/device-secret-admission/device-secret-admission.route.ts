@@ -4,7 +4,7 @@ export const deviceSecretAdmission = {
   id: "01a08243-801c-7c22-aeb9-ab9b8c8261dc",
   type: "page-type/route",
   slug: "device-secret-admission",
-  definition: "whether the secret a phone has is still one the store admits",
+  definition: "whether a device has lost its secret",
   code: "ts",
   urlPath: "api/device-secret/admission",
   decisions: [
@@ -46,5 +46,5 @@ export const deviceSecretAdmission = {
     },
   ],
   createdAt: "2026-09-08T18:24:16.924Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:59:58.488Z",
 } as const satisfies Route
