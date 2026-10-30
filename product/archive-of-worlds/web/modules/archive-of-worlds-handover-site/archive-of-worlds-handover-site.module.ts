@@ -4,7 +4,7 @@ export const archiveOfWorldsHandoverSite = {
   id: "01a0bb92-4d60-7a2d-a44a-b6ab161a858c",
   type: "page-type/module",
   slug: "archive-of-worlds-handover-site",
-  definition: "what the archive is called in a handover, where it answers, and its signing key",
+  definition: "how archiveofworlds.app takes part in a handover",
   code: "ts",
   decisions: [
     {
@@ -22,5 +22,5 @@ export const archiveOfWorldsHandoverSite = {
     },
   ],
   createdAt: "2026-09-19T21:28:42.592Z",
-  updatedAt: "2026-09-22T13:56:42.000Z",
+  updatedAt: "2026-10-30T16:03:30.672Z",
 } as const satisfies Module
