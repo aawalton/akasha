@@ -4,7 +4,7 @@ export const atlasNoSuchPage = {
   id: "01a0e383-ebe0-7b07-99d4-bc6c09a652bd",
   type: "page-type/route",
   slug: "atlas-no-such-page",
-  definition: "that no page of Alan's map site is at the address a reader named",
+  definition: "the error the website shows for a path with no page",
   code: "tsx",
   urlPath: "*",
   decisions: [
@@ -14,5 +14,5 @@ export const atlasNoSuchPage = {
     },
   ],
   createdAt: "2026-09-27T15:37:48.768Z",
-  updatedAt: "2026-09-27T15:38:05.000Z",
+  updatedAt: "2026-10-30T14:48:42.236Z",
 } as const satisfies Route
