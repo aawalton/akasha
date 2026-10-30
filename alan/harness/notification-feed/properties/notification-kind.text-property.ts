@@ -5,10 +5,10 @@ export const notificationKind = {
   type: "page-type/text-property",
   slug: "notification-kind",
   propertySlug: "kind",
-  definition: "what sort of thing a notification tells a person",
+  definition: "the kind of a notification",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
   createdAt: "2026-09-03T17:47:21.933Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:51:21.608Z",
 } as const satisfies TextProperty
