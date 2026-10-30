@@ -4,7 +4,7 @@ export const endurance = {
   id: "01a06841-a16e-7bcb-a31a-fba64ce8de69",
   type: "page-type/attribute",
   slug: "endurance",
-  definition: "what Alan has built by moving his body",
+  definition: "the capacity Alan has from how Alan moves his body",
   pointUnit: "200 active calories burned",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const endurance = {
     },
   ],
   createdAt: "2026-09-03T17:12:06.766Z",
-  updatedAt: "2026-10-18T13:43:32.840Z",
+  updatedAt: "2026-10-30T14:45:16.838Z",
 } as const satisfies Attribute
