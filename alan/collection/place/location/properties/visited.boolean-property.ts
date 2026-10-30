@@ -5,8 +5,9 @@ export const visited = {
   type: "page-type/boolean-property",
   slug: "visited",
   propertySlug: "visited",
-  definition: "whether the person has been",
+  definition: "whether a place was visited by the person that keeps the place",
+  spellings: [{ partOfSpeech: "part-of-speech/past-participle", spelling: "visited" }],
   types: "ts",
   createdAt: "2026-09-03T04:25:23.451Z",
-  updatedAt: "2026-09-15T15:59:02.000Z",
+  updatedAt: "2026-10-30T15:21:56.181Z",
 } as const satisfies BooleanProperty
