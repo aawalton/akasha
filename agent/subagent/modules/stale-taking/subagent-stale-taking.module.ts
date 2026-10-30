@@ -4,7 +4,7 @@ export const subagentStaleTaking = {
   id: "01a0d8ef-ef9c-7e37-ba86-801120eb273f",
   type: "page-type/module",
   slug: "subagent-stale-taking",
-  definition: "the take of the subagent pages a sweep judged stale, one sweep at a time",
+  definition: "how code uses a lock to remove the subagent pages that are done",
   code: "ts",
   test: "ts",
   decisions: [
@@ -71,5 +71,5 @@ export const subagentStaleTaking = {
     },
   ],
   createdAt: "2026-09-25T14:19:58.236Z",
-  updatedAt: "2026-09-25T14:22:59.000Z",
+  updatedAt: "2026-10-30T14:53:27.648Z",
 } as const satisfies Module
