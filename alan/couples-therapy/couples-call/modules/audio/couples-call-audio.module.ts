@@ -4,7 +4,7 @@ export const couplesCallAudio = {
   id: "01a16fae-6058-7ed4-879d-925bc538cc54",
   type: "page-type/module",
   slug: "couples-call-audio",
-  definition: "the sound a couples call carries between the phones and the live model",
+  definition: "the sound a couples call carries between the phones and the model",
   code: "ts",
   test: "ts",
   decisions: [
@@ -26,5 +26,5 @@ export const couplesCallAudio = {
     },
   ],
   createdAt: "2026-10-24T20:51:01.335Z",
-  updatedAt: "2026-10-24T20:51:01.335Z",
+  updatedAt: "2026-10-30T15:29:28.929Z",
 } as const satisfies Module
