@@ -4,7 +4,7 @@ export const codeEditorTerminal = {
   id: "01a06826-92e5-7481-a7d4-68af91528f0b",
   type: "page-type/page-type",
   slug: "code-editor-terminal",
-  definition: "a terminal the editor is running",
+  definition: "a terminal the code editor runs",
   extends: ["page-type/page"],
   mortal: true,
   decisions: [
@@ -21,5 +21,5 @@ export const codeEditorTerminal = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:42:33.573Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:36:49.236Z",
 } as const satisfies PageType
