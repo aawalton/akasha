@@ -4,7 +4,7 @@ export const supervisorLogPath = {
   id: "01a06838-5a84-7007-ad97-0d2824c6293d",
   type: "page-type/module",
   slug: "supervisor-log-path",
-  definition: "where a supervisor's own files are while that supervisor runs",
+  definition: "how code finds the path of a supervisor's files",
   code: "ts",
   test: "ts",
   decisions: [
@@ -72,5 +72,5 @@ export const supervisorLogPath = {
     },
   ],
   createdAt: "2026-09-03T17:01:58.788Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:44:37.614Z",
 } as const satisfies Module
