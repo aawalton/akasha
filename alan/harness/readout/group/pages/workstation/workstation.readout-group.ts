@@ -10,21 +10,21 @@ export const workstation = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each reading here is drawn as a number rather than as a stoplight.",
+      statement: "Each readout here is shown as a number rather than as a stoplight.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading here is the workstation's own rather than one process's.",
+      statement: "A number here is the workstation's own rather than one process's.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The processor reading here is a share and the memory reading an amount.",
+      statement: "The processor number here is a share and the memory number an amount.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading here is drawn in the unit its own readout names.",
+      statement: "A number here is shown in the unit its own readout names.",
     },
   ],
   createdAt: "2026-09-14T14:49:09.589Z",
-  updatedAt: "2026-09-25T17:02:42.000Z",
+  updatedAt: "2026-10-30T17:13:31.332Z",
 } as const satisfies ReadoutGroup
