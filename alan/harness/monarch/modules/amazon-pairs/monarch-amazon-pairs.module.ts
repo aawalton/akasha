@@ -4,7 +4,8 @@ export const monarchAmazonPairs = {
   id: "01a06866-06f1-75a5-8052-12c391088698",
   type: "page-type/module",
   slug: "monarch-amazon-pairs",
-  definition: "the Amazon charges and refunds standing under an order, and where they disagree",
+  definition:
+    "how code finds whether the Monarch transactions of an Amazon purchase with a refund match",
   code: "ts",
   decisions: [
     {
@@ -42,5 +43,5 @@ export const monarchAmazonPairs = {
     },
   ],
   createdAt: "2026-09-03T17:51:52.049Z",
-  updatedAt: "2026-09-22T00:47:01.000Z",
+  updatedAt: "2026-10-30T15:46:51.325Z",
 } as const satisfies Module
