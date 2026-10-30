@@ -4,7 +4,7 @@ export const inboxCountPolling = {
   id: "01a069b6-bb6b-7e55-a1b8-4f2824914c87",
   type: "page-type/module",
   slug: "inbox-count-polling",
-  definition: "how many things are waiting in each of Alan's inboxes at this moment",
+  definition: "how many things wait in each inbox Alan has",
   code: "ts",
   decisions: [
     {
@@ -49,5 +49,5 @@ export const inboxCountPolling = {
     },
   ],
   createdAt: "2026-09-03T23:59:38.347Z",
-  updatedAt: "2026-10-18T13:46:11.572Z",
+  updatedAt: "2026-10-30T15:29:26.456Z",
 } as const satisfies Module
