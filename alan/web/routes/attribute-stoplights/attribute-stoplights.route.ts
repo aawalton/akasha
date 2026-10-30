@@ -4,7 +4,7 @@ export const attributeStoplights = {
   id: "01a06858-8cfa-79e8-a5bc-b735b8f2f652",
   type: "page-type/route",
   slug: "attribute-stoplights",
-  definition: "the attributes group answered as the stoplights Alan's tile reads",
+  definition: "the points Alan earns for each attribute in a day",
   code: "ts",
   test: "ts",
   urlPath: "api/attribute-stoplights",
@@ -23,5 +23,5 @@ export const attributeStoplights = {
     },
   ],
   createdAt: "2026-09-03T17:37:08.858Z",
-  updatedAt: "2026-09-25T16:37:06.000Z",
+  updatedAt: "2026-10-30T16:57:25.086Z",
 } as const satisfies Route
