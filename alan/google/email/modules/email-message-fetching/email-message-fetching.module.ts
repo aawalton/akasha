@@ -4,7 +4,7 @@ export const emailMessageFetching = {
   id: "01a07253-d962-737b-8253-aa8fc539d58e",
   type: "page-type/module",
   slug: "email-message-fetching",
-  definition: "Gmail messages listed and fetched by a caller with no client",
+  definition: "how code reads Gmail messages",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const emailMessageFetching = {
     },
   ],
   createdAt: "2026-09-05T16:08:12.898Z",
-  updatedAt: "2026-09-24T19:36:51.000Z",
+  updatedAt: "2026-10-30T15:10:59.961Z",
 } as const satisfies Module
