@@ -5,7 +5,7 @@ export const topicStatus = {
   type: "page-type/select-property",
   slug: "topic-status",
   propertySlug: "status",
-  definition: "whether a topic is unopened, live or resting",
+  definition: "whether a topic is new or open or idle",
   values: ["unopened", "live", "resting"],
   decisions: [
     {
@@ -19,5 +19,5 @@ export const topicStatus = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:55:52.026Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:41:40.618Z",
 } as const satisfies SelectProperty
