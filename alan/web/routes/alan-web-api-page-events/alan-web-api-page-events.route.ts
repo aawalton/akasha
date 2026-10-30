@@ -4,7 +4,7 @@ export const alanWebApiPageEvents = {
   id: "01a0d4bf-c2a3-75bb-8c8f-0741343e0fa4",
   type: "page-type/route",
   slug: "alan-web-api-page-events",
-  definition: "the one stream of page changes a browser opens",
+  definition: "the stream of page changes a browser opens",
   code: "ts",
   urlPath: "api/page-events",
   decisions: [
@@ -22,5 +22,5 @@ export const alanWebApiPageEvents = {
     },
   ],
   createdAt: "2026-09-24T18:48:52.131Z",
-  updatedAt: "2026-09-24T22:11:06.000Z",
+  updatedAt: "2026-10-30T16:54:44.118Z",
 } as const satisfies Route
