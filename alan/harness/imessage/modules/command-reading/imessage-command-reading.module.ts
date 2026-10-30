@@ -4,7 +4,7 @@ export const imessageCommandReading = {
   id: "01a0685f-c8ed-7000-adfa-6dd4db0e10c3",
   type: "page-type/module",
   slug: "imessage-command-reading",
-  definition: "the answer an iMessage command builds from the messages it read",
+  definition: "how code writes the messages an iMessage command reads",
   code: "ts",
   test: "ts",
   decisions: [
@@ -43,5 +43,5 @@ export const imessageCommandReading = {
     },
   ],
   createdAt: "2026-09-03T17:45:02.957Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:27:43.438Z",
 } as const satisfies Module
