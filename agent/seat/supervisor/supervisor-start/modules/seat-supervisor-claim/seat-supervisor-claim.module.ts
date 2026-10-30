@@ -4,7 +4,7 @@ export const seatSupervisorClaim = {
   id: "01a0687e-533c-7000-b149-004c8b1c0b5f",
   type: "page-type/module",
   slug: "seat-supervisor-claim",
-  definition: "a supervisor taking a seat, refused where another supervisor is still in it",
+  definition: "whether a supervisor can have a seat",
   code: "ts",
   test: "ts",
   decisions: [
@@ -43,5 +43,5 @@ export const seatSupervisorClaim = {
     },
   ],
   createdAt: "2026-09-03T18:18:24.444Z",
-  updatedAt: "2026-09-24T16:29:57.000Z",
+  updatedAt: "2026-10-30T14:46:22.418Z",
 } as const satisfies Module
