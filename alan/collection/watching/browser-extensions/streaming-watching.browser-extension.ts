@@ -4,7 +4,8 @@ export const streamingWatching = {
   id: "01a18818-57d5-74ec-be59-49a4420be06e",
   type: "page-type/browser-extension",
   slug: "streaming-watching",
-  definition: "the extension recording the episodes and films Alan finishes on a streaming service",
+  definition:
+    "the browser extension that writes the episodes and movies Alan watches on a streaming service",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -36,5 +37,5 @@ export const streamingWatching = {
     },
   ],
   createdAt: "2026-10-29T14:37:39.156Z",
-  updatedAt: "2026-10-29T14:37:39.156Z",
+  updatedAt: "2026-10-30T15:21:34.814Z",
 } as const satisfies BrowserExtension
