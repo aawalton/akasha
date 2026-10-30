@@ -4,7 +4,7 @@ export const supervisorRestartInstall = {
   id: "01a06876-abda-7010-b833-f472fa23d6e8",
   type: "page-type/module",
   slug: "supervisor-restart-install",
-  definition: "running the install a self-heal needs, one flight at a time",
+  definition: "how code installs the packages a new version of a supervisor needs",
   code: "ts",
   decisions: [
     {
@@ -31,5 +31,5 @@ export const supervisorRestartInstall = {
     },
   ],
   createdAt: "2026-09-03T18:10:02.842Z",
-  updatedAt: "2026-09-24T15:11:23.000Z",
+  updatedAt: "2026-10-30T14:39:51.363Z",
 } as const satisfies Module
