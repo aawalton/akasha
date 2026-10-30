@@ -1,4 +1,4 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, renameSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
@@ -15,9 +15,36 @@ import {
 import { SCRATCH_AT } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
 import { INDEX_AT } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
-const ROOT = codeRoot()
+const GIT = ["git", "-c", "user.name=held", "-c", "user.email=held@example.com"]
+
+function gitIn(root: string, ...words: string[]): string {
+  const done = ran([...GIT, ...words], { cwd: root })
+  if (done.code !== 0) throw new Error(`git ${words.join(" ")} failed: ${done.err}`)
+  return done.out.trim()
+}
+
+function committed(root: string, said: string): string {
+  gitIn(root, "add", "-A")
+  gitIn(root, "commit", "-q", "-m", said)
+  return gitIn(root, "rev-parse", "HEAD")
+}
+
+const HELD_FILES = ["one.ts", "two.ts", "three.ts", "bun.lock", "biome.json"]
+
+function heldRepository(): string {
+  const root = mkdtempSync(join(SCRATCH_AT, "deploy-check-judging-"))
+  gitIn(root, "init", "-q")
+  mkdirSync(join(root, INDEX_AT, "page-type"), { recursive: true })
+  writeFileSync(join(root, INDEX_AT, "page-type", "kept"), "kept\n")
+  for (const one of HELD_FILES) writeFileSync(join(root, one), `${one}\n`)
+  committed(root, "the files a deploy is built from")
+  return root
+}
+
+const ROOT = heldRepository()
+
+afterAll(() => rmSync(ROOT, { recursive: true, force: true }))
 
 const NOWHERE = "no-commit-this-checkout-holds"
 
@@ -66,20 +93,6 @@ test("the change is pinned, so its tests are read at the deploy's commit", () =>
   expect(FRESH.pinned).toBe(true)
   expect(NAMED.pinned).toBe(true)
 })
-
-const GIT = ["git", "-c", "user.name=held", "-c", "user.email=held@example.com"]
-
-function gitIn(root: string, ...words: string[]): string {
-  const done = ran([...GIT, ...words], { cwd: root })
-  if (done.code !== 0) throw new Error(`git ${words.join(" ")} failed: ${done.err}`)
-  return done.out.trim()
-}
-
-function committed(root: string, said: string): string {
-  gitIn(root, "add", "-A")
-  gitIn(root, "commit", "-q", "-m", said)
-  return gitIn(root, "rev-parse", "HEAD")
-}
 
 test("a file renamed away is judged where it was, in a change that moves nothing", () => {
   const root = mkdtempSync(join(SCRATCH_AT, "deploy-check-judging-"))
