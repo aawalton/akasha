@@ -5,8 +5,8 @@ export const toDoCompletedAt = {
   type: "page-type/instant-property",
   slug: "to-do-completed-at",
   propertySlug: "to-do-completed-at",
-  definition: "when this round of a to-do was finished",
+  definition: "the instant a to-do with no recurrence was done",
   types: "ts",
   createdAt: "2026-09-03T04:57:44.119Z",
-  updatedAt: "2026-09-15T17:15:46.000Z",
+  updatedAt: "2026-10-30T16:44:58.245Z",
 } as const satisfies InstantProperty
