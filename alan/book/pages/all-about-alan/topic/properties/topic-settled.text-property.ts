@@ -5,7 +5,7 @@ export const topicSettled = {
   type: "page-type/text-property",
   slug: "topic-settled",
   propertySlug: "settled",
-  definition: "what is worked out about a topic",
+  definition: "the text about a topic that is settled",
   maxLength: 1000,
   nameFormat: null,
   decisions: [
@@ -20,5 +20,5 @@ export const topicSettled = {
   ],
   types: "ts",
   createdAt: "2026-09-03T03:40:37.941Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:04:18.566Z",
 } as const satisfies TextProperty
