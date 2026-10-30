@@ -4,7 +4,7 @@ export const telnyxAccount = {
   id: "01a06861-e7cd-7e44-b19a-09599abde817",
   type: "page-type/page-type",
   slug: "telnyx-account",
-  definition: "the account sending akasha's texts",
+  definition: "a Telnyx account that sends akasha's text messages",
   extends: ["page-type/page"],
   parts: [
     "phone-number-property/telnyx-account-from-number",
@@ -40,5 +40,5 @@ export const telnyxAccount = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T17:47:21.933Z",
-  updatedAt: "2026-09-24T18:01:35.000Z",
+  updatedAt: "2026-10-30T16:10:32.463Z",
 } as const satisfies PageType
