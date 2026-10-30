@@ -7,7 +7,7 @@ export const moveCodeExport = {
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",
-  definition: "an export moved to another code body, judged by the checks a landing runs",
+  definition: "a change that moves a named piece of code to another file",
   code: "ts",
   test: "ts",
   decisions: [
@@ -33,5 +33,5 @@ export const moveCodeExport = {
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
   createdAt: "2026-09-09T19:20:41.544Z",
-  updatedAt: "2026-09-22T10:07:43.000Z",
+  updatedAt: "2026-10-30T17:03:35.855Z",
 } as const satisfies ChangeAgent
