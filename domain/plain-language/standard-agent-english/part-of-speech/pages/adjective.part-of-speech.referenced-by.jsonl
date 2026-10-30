@@ -2,6 +2,7 @@
 {"propertySlug":"part-of-speech","path":"agent/seat/turn-state/pages/idle/idle.seat-turn-state.ts","id":"01a06925-c777-7e84-b147-2a1c7af4f56c"}
 {"propertySlug":"part-of-speech","path":"code/type/type.domain.ts","id":"01a049e9-651c-7006-896c-2bffa71e2d0a"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/animated.common-language-term.ts","id":"01a0d48b-59fb-775a-be1c-347621b92eb7"}
+{"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/athletic.common-language-term.ts","id":"01a18da4-a644-7e53-a8ce-472cf751eb4d"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/black.common-language-term.ts","id":"01a18d51-6446-761b-a999-1e7a40855735"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/blue.common-language-term.ts","id":"01a18d8a-90c1-70a3-b2df-4b66eb378792"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/capable.common-language-term.ts","id":"01a15588-7613-7a10-a44a-808a3baf64b3"}
