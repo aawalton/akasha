@@ -23,6 +23,7 @@
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/sign.common-language-term.ts","id":"01a18d78-2d28-784a-b29d-baa89c1ad349"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/stop.common-language-term.ts","id":"01a0d3ee-4609-79c9-8be8-f3c77f483337"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/wait.common-language-term.ts","id":"01a0d5b8-6729-72c1-828b-c0f2275caf1a"}
+{"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/wear.common-language-term.ts","id":"01a18da4-f95a-7ceb-97df-cdd95dbb5726"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/work.common-language-term.ts","id":"01a0d3cb-f4ea-7db3-8754-9af2855c3a5e"}
 {"propertySlug":"parts","path":"domain/plain-language/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/be-verb-with-a-present-participle.construction.ts","id":"01a0ca12-af3e-7c2a-8691-f11ab7829d6d"}
