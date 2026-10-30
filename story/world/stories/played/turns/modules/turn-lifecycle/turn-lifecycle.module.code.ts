@@ -121,6 +121,7 @@ export type Held = {
   readonly pictured?: readonly Pictured[]
   readonly planned?: Planned
   readonly roleplayed?: boolean
+  readonly oneSeat?: boolean
   readonly flow?: Beats
   readonly characters?: readonly string[]
 }

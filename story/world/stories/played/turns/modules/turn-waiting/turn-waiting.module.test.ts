@@ -1,7 +1,13 @@
 import { expect, test } from "bun:test"
+import { gameMaster } from "akasha/agent/role/pages/game-master/game-master.role.ts"
+import { reviewer } from "akasha/agent/role/pages/reviewer.role.ts"
 import { roleplay } from "akasha/agent/role/pages/roleplay.role.ts"
 import { roleplayRecorder } from "akasha/agent/role/pages/roleplay-recorder.role.ts"
+import { storyRecorder } from "akasha/agent/role/pages/story-recorder.role.ts"
+import { worldBuilder } from "akasha/agent/role/pages/world-builder.role.ts"
+import { writer } from "akasha/agent/role/pages/writer.role.ts"
 import {
+  BEATS,
   GAME_MASTER,
   MECHANICS,
   PLAYER,
@@ -58,4 +64,52 @@ test("a roleplayed turn waits on the roleplay-recorder at every status after gam
 
 test("a roleplayed turn at player waits on nobody", () => {
   expect(roleOf({ status: PLAYER, roleplayed: true })).toBe(null)
+})
+
+test("a one-seat turn waits on the game master at every status but player", () => {
+  for (const status of [WORLD_BUILDER, GAME_MASTER, MECHANICS, WRITER, REVIEWERS, RECORDERS]) {
+    expect(roleOf({ status, oneSeat: true })).toBe(gameMaster.slug)
+  }
+  expect(roleOf({ status: PLAYER, oneSeat: true })).toBe(null)
+})
+
+test("a one-seat turn is advanced by its game master seat, and by no other seat", () => {
+  const alone = { ...HELD, oneSeat: true }
+  const master = { role: gameMaster.slug, game: "the-saga" }
+  for (const status of [WORLD_BUILDER, MECHANICS, WRITER, REVIEWERS, RECORDERS]) {
+    expect(callerRefused({ ...alone, status }, master)).toBe(null)
+  }
+  const builder = { role: worldBuilder.slug, game: "the-saga" }
+  expect(callerRefused({ ...alone, status: WORLD_BUILDER }, builder)).toContain(
+    `waits on the ${gameMaster.slug} of \`the-saga\``
+  )
+  const writing = { role: writer.slug, game: "the-saga" }
+  expect(callerRefused({ ...alone, status: WRITER }, writing)).toContain(`a ${writer.slug} seat`)
+  const elsewhere = { role: gameMaster.slug, game: "another" }
+  expect(callerRefused({ ...alone, status: WRITER }, elsewhere)).toContain(
+    "a game-master seat of `another`"
+  )
+})
+
+test("a one-seat turn at beats waits on its game master seat alone", () => {
+  const beating = { ...HELD, status: BEATS, oneSeat: true }
+  expect(callerRefused(beating, { role: gameMaster.slug, game: "the-saga" })).toBe(null)
+  for (const role of [writer.slug, storyRecorder.slug, reviewer.slug]) {
+    expect(callerRefused(beating, { role, game: "the-saga" })).toBe(
+      `the turn is at ${BEATS}, so it waits on the ${gameMaster.slug} seat of \`the-saga\`, beat by beat`
+    )
+  }
+  const elsewhere = { role: gameMaster.slug, game: "another" }
+  expect(callerRefused(beating, elsewhere)).toContain("beat by beat")
+})
+
+test("a seat-graph turn at beats still waits on every step's seat", () => {
+  const beating = { ...HELD, status: BEATS }
+  for (const role of [gameMaster.slug, writer.slug, storyRecorder.slug, reviewer.slug]) {
+    expect(callerRefused(beating, { role, game: "the-saga" })).toBe(null)
+  }
+  const master = { role: gameMaster.slug, game: "the-saga" }
+  expect(callerRefused({ ...HELD, status: WRITER }, master)).toContain(
+    `waits on the ${writer.slug} of \`the-saga\``
+  )
 })

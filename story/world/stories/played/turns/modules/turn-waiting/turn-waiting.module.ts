@@ -31,7 +31,12 @@ export const turnWaiting = {
       statement:
         "A roleplayed turn waits on the roleplay-recorder at every status after game-master but player.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A one-seat story's turn waits on its game master seat at every status but player.",
+    },
   ],
   createdAt: "2026-10-17T17:12:36.732Z",
-  updatedAt: "2026-10-27T21:23:40.652Z",
+  updatedAt: "2026-10-30T12:11:46.800Z",
 } as const satisfies Module

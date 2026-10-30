@@ -30,8 +30,13 @@ const ROLE_OF: Readonly<{ [step in TurnStep]: string | null }> = {
   player: null,
 }
 
-export function roleOf(held: Pick<Held, "status" | "roleplayed">): string | null {
-  if (held.roleplayed !== true) return ROLE_OF[held.status]
+function seatedRoleOf(held: Pick<Held, "status" | "oneSeat">): string | null {
+  const role = ROLE_OF[held.status]
+  return role !== null && held.oneSeat === true ? gameMasterRole.slug : role
+}
+
+export function roleOf(held: Pick<Held, "status" | "roleplayed" | "oneSeat">): string | null {
+  if (held.roleplayed !== true) return seatedRoleOf(held)
   if (NARRATED.includes(held.status)) return roleplayRole.slug
   if (held.status === PLAYER) return null
   return roleplayRecorderRole.slug
@@ -44,11 +49,15 @@ const AT_BEATS: readonly string[] = [
   reviewerRole.slug,
 ]
 
+const ALONE_AT_BEATS: readonly string[] = [gameMasterRole.slug]
+
 function beatCallerRefused(held: Held, caller: Caller): string | null {
-  if (caller.role !== null && AT_BEATS.includes(caller.role) && caller.game === held.game) {
+  const seats = held.oneSeat === true ? ALONE_AT_BEATS : AT_BEATS
+  if (caller.role !== null && seats.includes(caller.role) && caller.game === held.game) {
     return null
   }
-  return `the turn is at ${BEATS}, so it waits on the ${AT_BEATS.join(" and ")} seats of \`${held.game}\`, beat by beat`
+  const named = `${seats.join(" and ")} seat${seats.length === 1 ? "" : "s"}`
+  return `the turn is at ${BEATS}, so it waits on the ${named} of \`${held.game}\`, beat by beat`
 }
 
 export function callerRefused(held: Held, caller: Caller): string | null {
