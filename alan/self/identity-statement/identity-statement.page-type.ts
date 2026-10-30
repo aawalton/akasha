@@ -5,6 +5,10 @@ export const identityStatement = {
   type: "page-type/page-type",
   slug: "identity-statement",
   definition: "a sentence Alan means to become true of him",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "identity statement" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "identity statements" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "number-property/identity-statement-level",
@@ -73,5 +77,5 @@ export const identityStatement = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:32:47.519Z",
-  updatedAt: "2026-09-22T13:59:42.000Z",
+  updatedAt: "2026-10-30T16:32:05.274Z",
 } as const satisfies PageType
