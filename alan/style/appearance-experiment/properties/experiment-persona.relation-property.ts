@@ -5,9 +5,9 @@ export const experimentPersona = {
   type: "page-type/relation-property",
   slug: "experiment-persona",
   propertySlug: "persona",
-  definition: "the persona who read an experiment",
+  definition: "the persona that watches an appearance experiment",
   targetPageType: "page-type/persona",
   types: "ts",
   createdAt: "2026-09-04T16:56:01.902Z",
-  updatedAt: "2026-09-15T16:30:55.000Z",
+  updatedAt: "2026-10-30T16:30:40.923Z",
 } as const satisfies RelationProperty
