@@ -5,9 +5,9 @@ export const nearFailureRpeFloor = {
   type: "page-type/number-property",
   slug: "near-failure-rpe-floor",
   propertySlug: "near-failure-rpe-floor",
-  definition: "the effort at or above which a set counts toward a weekly total",
+  definition: "the lowest effort of a set that counts in a week",
   max: null,
   types: "ts",
   createdAt: "2026-09-18T23:25:10.484Z",
-  updatedAt: "2026-09-18T23:27:51.000Z",
+  updatedAt: "2026-10-30T16:53:30.946Z",
 } as const satisfies NumberProperty
