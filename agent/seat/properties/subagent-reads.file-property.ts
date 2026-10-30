@@ -5,7 +5,7 @@ export const subagentReads = {
   type: "page-type/file-property",
   slug: "subagent-reads",
   propertySlug: "subagent-reads",
-  definition: "the readings a seat keeps for a subagent that has no page",
+  definition: "the list of files read by a subagent that has no page",
   extensions: ["jsonl"],
   runsFileLength: false,
   generated: true,
@@ -65,5 +65,5 @@ export const subagentReads = {
   ],
   types: "ts",
   createdAt: "2026-09-13T22:59:45.610Z",
-  updatedAt: "2026-09-25T18:10:49.000Z",
+  updatedAt: "2026-10-30T16:50:33.708Z",
 } as const satisfies FileProperty
