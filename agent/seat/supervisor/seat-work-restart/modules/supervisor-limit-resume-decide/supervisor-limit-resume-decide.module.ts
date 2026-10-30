@@ -4,7 +4,7 @@ export const supervisorLimitResumeDecide = {
   id: "01a0686d-9d5e-7003-85f7-c26e7d26b125",
   type: "page-type/module",
   slug: "supervisor-limit-resume-decide",
-  definition: "whether a seat whose turn died on a usage limit is nudged back into its work now",
+  definition: "whether a supervisor sends a notice to a seat that waits on a limit",
   code: "ts",
   test: "ts",
   decisions: [
@@ -27,5 +27,5 @@ export const supervisorLimitResumeDecide = {
     },
   ],
   createdAt: "2026-09-03T18:00:09.310Z",
-  updatedAt: "2026-09-24T17:13:10.000Z",
+  updatedAt: "2026-10-30T14:42:52.326Z",
 } as const satisfies Module
