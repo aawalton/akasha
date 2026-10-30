@@ -4,8 +4,7 @@ export const dayActiveCalories = {
   id: "01a06972-ba96-7000-9539-60cc6079f306",
   type: "page-type/module",
   slug: "day-active-calories",
-  definition:
-    "a day's active calories, recomputed from the health samples and written onto the day",
+  definition: "how code writes the active calories of a day from its health samples",
   code: "ts",
   test: "ts",
   decisions: [
@@ -68,5 +67,5 @@ export const dayActiveCalories = {
     },
   ],
   createdAt: "2026-09-03T22:45:21.686Z",
-  updatedAt: "2026-10-18T15:30:13.954Z",
+  updatedAt: "2026-10-30T16:49:09.311Z",
 } as const satisfies Module
