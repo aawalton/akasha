@@ -4,7 +4,7 @@ export const esoPaths = {
   id: "01a06050-639f-7d76-bfda-f105e8a7cd3e",
   type: "page-type/module",
   slug: "eso-paths",
-  definition: "the directories from which the game and the game's sources are read",
+  definition: "the directories from which the game and the game's code are read",
   code: "ts",
   test: "ts",
   decisions: [
@@ -49,5 +49,5 @@ export const esoPaths = {
     },
   ],
   createdAt: "2026-09-02T04:11:16.255Z",
-  updatedAt: "2026-09-24T17:53:07.000Z",
+  updatedAt: "2026-10-30T16:21:34.279Z",
 } as const satisfies Module
