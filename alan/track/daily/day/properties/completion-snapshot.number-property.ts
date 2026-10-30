@@ -5,9 +5,9 @@ export const completionSnapshot = {
   type: "page-type/number-property",
   slug: "completion-snapshot",
   propertySlug: "completion-snapshot",
-  definition: "the lifetime to-do rounds finished as counted on a day",
+  definition: "the number of times a to-do was done in Alan's life counted on a day",
   max: null,
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T16:35:22.420Z",
 } as const satisfies NumberProperty
