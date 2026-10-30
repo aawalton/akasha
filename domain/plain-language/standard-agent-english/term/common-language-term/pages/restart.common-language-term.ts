@@ -5,7 +5,11 @@ export const restart = {
   type: "page-type/common-language-term",
   slug: "restart",
   definition: "setting a thing going again after it stopped",
-  spellings: [{ partOfSpeech: "part-of-speech/past-participle", spelling: "restarted" }],
+  spellings: [
+    { partOfSpeech: "part-of-speech/verb", spelling: "restart" },
+    { partOfSpeech: "part-of-speech/verb", spelling: "restarts" },
+    { partOfSpeech: "part-of-speech/past-participle", spelling: "restarted" },
+  ],
   createdAt: "2026-09-24T15:49:21.238Z",
-  updatedAt: "2026-09-25T15:41:48.000Z",
+  updatedAt: "2026-10-30T14:56:48.212Z",
 } as const satisfies CommonLanguageTerm
