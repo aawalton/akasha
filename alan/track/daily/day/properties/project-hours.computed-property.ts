@@ -11,18 +11,19 @@ export const projectHours = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch counts where the stretch's title says projects as a word of its own.",
+      statement:
+        "A tracked session counts where the tracked session's title says projects as a word of its own.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch still open counts up to the moment the reading is taken.",
+      statement: "A tracked session still open counts up to the moment the reading is taken.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day with no stretches is no reading rather than a spend of nothing.",
+      statement: "A day with no tracked sessions is no reading rather than a spend of nothing.",
     },
   ],
   types: "ts",
   createdAt: "2026-09-07T02:51:22.146Z",
-  updatedAt: "2026-10-30T17:05:29.624Z",
+  updatedAt: "2026-10-30T17:46:53.805Z",
 } as const satisfies ComputedProperty
