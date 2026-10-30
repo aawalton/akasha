@@ -9,7 +9,7 @@ export const safetyReading = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is taken on the workstation with the checkout.",
+      statement: "The number is taken on the workstation with the checkout.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -46,15 +46,15 @@ export const safetyReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No open session is no reading.",
+      statement: "No open session is no number.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An open session with no level is no reading.",
+      statement: "An open session with no level is no number.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A level spelling no number is no reading rather than a level of zero.",
+      statement: "A level spelling no number is no number rather than a level of zero.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -70,7 +70,7 @@ export const safetyReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run of this file takes a reading.",
+      statement: "A run of this file takes a number.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -91,13 +91,13 @@ export const safetyReading = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Importing this file takes no reading.",
+      statement: "Importing this file takes no number.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here decides when a reading is due.",
+      statement: "Nothing here decides when a number is due.",
     },
   ],
   createdAt: "2026-09-04T00:06:01.333Z",
-  updatedAt: "2026-10-30T16:09:39.910Z",
+  updatedAt: "2026-10-30T17:23:32.610Z",
 } as const satisfies Module
