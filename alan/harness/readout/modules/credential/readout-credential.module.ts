@@ -9,7 +9,7 @@ export const readoutCredential = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "One guard answers for every route serving a reading.",
+      statement: "One guard answers for every route serving a readout.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -29,5 +29,5 @@ export const readoutCredential = {
     },
   ],
   createdAt: "2026-08-30T22:45:56.895Z",
-  updatedAt: "2026-10-30T16:03:02.715Z",
+  updatedAt: "2026-10-30T17:29:06.443Z",
 } as const satisfies Module
