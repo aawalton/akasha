@@ -1,9 +1,9 @@
 import {
-  type Condition,
   type FieldType,
   type RuleSet,
   typeOf,
-} from "akasha/alan/harness/rules-engine/modules/rule-conditions/rule-conditions.module.code.ts"
+} from "akasha/alan/harness/rules-engine/field/modules/rule-fields/rule-fields.module.code.ts"
+import type { Condition } from "akasha/alan/harness/rules-engine/modules/rule-conditions/rule-conditions.module.code.ts"
 
 export type Case = Readonly<Record<string, string>>
 

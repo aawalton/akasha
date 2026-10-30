@@ -5,6 +5,7 @@ export const rulesEngineField = {
   type: "page-type/domain",
   slug: "rules-engine-field",
   definition: "a property a rule reads",
+  parts: ["module/rule-fields"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -158,5 +159,5 @@ export const rulesEngineField = {
     },
   ],
   createdAt: "2026-09-03T06:41:11.168Z",
-  updatedAt: "2026-09-24T23:39:13.000Z",
+  updatedAt: "2026-10-30T16:29:15.884Z",
 } as const satisfies Domain
