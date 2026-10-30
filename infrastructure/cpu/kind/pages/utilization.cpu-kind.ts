@@ -4,7 +4,7 @@ export const utilization = {
   id: "01a0918b-7688-7fb8-a940-bbcdee460ae4",
   type: "page-type/cpu-kind",
   slug: "utilization",
-  definition: "the part of a processor a program spent over a stretch of time",
+  definition: "the part of a processor a program uses in a span of time",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -24,5 +24,5 @@ export const utilization = {
     },
   ],
   createdAt: "2026-09-11T17:37:11.304Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T17:47:01.971Z",
 } as const satisfies CpuKind
