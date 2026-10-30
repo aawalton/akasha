@@ -5,10 +5,10 @@ export const dealKey = {
   type: "page-type/text-property",
   slug: "deal-key",
   propertySlug: "deal-key",
-  definition: "what the source calls the offer",
+  definition: "the name the offer has in its location collection",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:27:14.757Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:09:47.273Z",
 } as const satisfies TextProperty
