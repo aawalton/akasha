@@ -4,7 +4,7 @@ export const alanWebApiAuth = {
   id: "01a0bafb-9c26-7fbf-a604-d1157ce78af0",
   type: "page-type/route",
   slug: "alan-web-api-auth",
-  definition: "every address Better Auth answers for alanwalton.com",
+  definition: "the paths Better Auth handles for alanwalton.com",
   code: "ts",
   urlPath: "api/auth/*",
   decisions: [
@@ -27,5 +27,5 @@ export const alanWebApiAuth = {
     },
   ],
   createdAt: "2026-09-19T18:44:06.822Z",
-  updatedAt: "2026-09-19T19:19:52.000Z",
+  updatedAt: "2026-10-30T17:08:23.670Z",
 } as const satisfies Route
