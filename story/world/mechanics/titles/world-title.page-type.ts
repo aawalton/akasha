@@ -4,7 +4,11 @@ export const worldTitle = {
   id: "01a06558-a991-7a45-b681-fed7723c95e3",
   type: "page-type/page-type",
   slug: "world-title",
-  definition: "a name the world gives a character for something they did",
+  definition: "a name the world gives a character for something the character does",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "world title" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "world titles" },
+  ],
   pluralSlug: "titles",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
@@ -12,5 +16,5 @@ export const worldTitle = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T03:38:24.529Z",
-  updatedAt: "2026-10-27T19:02:30.081Z",
+  updatedAt: "2026-10-30T16:09:26.558Z",
 } as const satisfies PageType
