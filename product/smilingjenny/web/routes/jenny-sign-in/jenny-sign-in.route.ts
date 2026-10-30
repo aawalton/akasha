@@ -4,7 +4,7 @@ export const jennySignIn = {
   id: "01a08823-9dc2-7243-8e1c-b4c0979fbb10",
   type: "page-type/route",
   slug: "jenny-sign-in",
-  definition: "the send-off to alanwalton.com, where Jenny is signed in",
+  definition: "how a person signs in at alanwalton.com",
   code: "ts",
   urlPath: "sign-in",
   decisions: [
@@ -14,5 +14,5 @@ export const jennySignIn = {
     },
   ],
   createdAt: "2026-09-09T21:47:10.658Z",
-  updatedAt: "2026-09-21T00:06:05.000Z",
+  updatedAt: "2026-10-30T15:56:33.423Z",
 } as const satisfies Route
