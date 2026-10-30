@@ -4,7 +4,7 @@ export const sshReach = {
   id: "01a05c2f-0f03-7c3a-84db-8888d5bebc83",
   type: "page-type/module",
   slug: "ssh-reach",
-  definition: "a script run on another host, its output taken line by line or whole",
+  definition: "how code runs a script on another machine through SSH",
   code: "ts",
   decisions: [
     {
@@ -30,5 +30,5 @@ export const sshReach = {
     },
   ],
   createdAt: "2026-09-01T08:56:23.043Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:11:18.333Z",
 } as const satisfies Module
