@@ -51,6 +51,7 @@
 {"propertySlug":"part-of-speech","path":"alan/car-research/car-make/car-make.page-type.ts","id":"01a0659e-e27a-7b1f-bb44-5601b4fc9699"}
 {"propertySlug":"part-of-speech","path":"alan/car-research/car-model/car-model.page-type.ts","id":"01a0659a-4bc5-745f-bbb3-18171fb52343"}
 {"propertySlug":"part-of-speech","path":"alan/car-research/car-trim/car-trim.page-type.ts","id":"01a06827-645d-74f5-957f-25b077d85817"}
+{"propertySlug":"part-of-speech","path":"alan/car-research/car-year/car-year.page-type.ts","id":"01a0659d-2432-715e-b4e1-2cfa27018de7"}
 {"propertySlug":"part-of-speech","path":"alan/car-research/car/car.page-type.ts","id":"01a065a0-0000-7000-8000-000000000401"}
 {"propertySlug":"part-of-speech","path":"alan/chess/chess.domain.ts","id":"01a05be1-cb07-74d3-b8ca-8a6e71097f9b"}
 {"propertySlug":"part-of-speech","path":"alan/collection/collection.page-type.ts","id":"01a063de-2c60-7006-8395-50a12e499f8e"}

@@ -5,6 +5,10 @@ export const carYear = {
   type: "page-type/page-type",
   slug: "car-year",
   definition: "a model year of a car model",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "model year" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "model years" },
+  ],
   extends: ["page-type/car"],
   parts: [
     "number-property/model-year",
@@ -25,5 +29,5 @@ export const carYear = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:53:12.370Z",
-  updatedAt: "2026-10-30T15:02:31.187Z",
+  updatedAt: "2026-10-30T15:27:56.156Z",
 } as const satisfies PageType
