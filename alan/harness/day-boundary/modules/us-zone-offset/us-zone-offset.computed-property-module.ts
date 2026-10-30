@@ -4,7 +4,7 @@ export const usZoneOffset = {
   id: "01a05c77-31e6-7877-b124-3f103fd4ac3d",
   type: "page-type/computed-property-module",
   slug: "us-zone-offset",
-  definition: "how far behind UTC New York and Denver are at an instant",
+  definition: "how far the times in New York and in Denver are behind UTC at an instant",
   code: "ts",
   test: "ts",
   decisions: [
@@ -51,5 +51,5 @@ export const usZoneOffset = {
     },
   ],
   createdAt: "2026-09-01T10:15:10.566Z",
-  updatedAt: "2026-09-22T14:34:11.000Z",
+  updatedAt: "2026-10-30T16:15:28.685Z",
 } as const satisfies ComputedPropertyModule
