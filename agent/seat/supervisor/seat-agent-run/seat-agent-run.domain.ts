@@ -7,6 +7,7 @@ export const seatAgentRun = {
   definition: "how a supervisor runs a seat's agent",
   parts: [
     "module/supervisor-interactive",
+    "module/supervisor-interactive-exit",
     "module/supervisor-interactive-iteration",
     "module/supervisor-interactive-seams",
     "module/supervisor-interactive-wire",
@@ -18,5 +19,5 @@ export const seatAgentRun = {
     "module/supervisor-rebind-deps",
   ],
   createdAt: "2026-09-13T20:13:41.930Z",
-  updatedAt: "2026-09-25T01:17:22.000Z",
+  updatedAt: "2026-10-30T15:48:04.230Z",
 } as const satisfies Domain

@@ -405,6 +405,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.ts","id":"01a0683e-3dbe-701d-8d02-1a1db2476e25"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.ts","id":"01a0683e-3dbe-701a-a109-8a13a6084415"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.ts","id":"01a06838-5a84-7003-a0ce-e7e92276f897"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-exit/supervisor-interactive-exit.module.ts","id":"01a18d7f-2c07-752f-a9e1-977270ee9dd7"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.ts","id":"01a06871-3115-7006-b87f-63a3b2e561a3"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.ts","id":"01a06871-3115-7007-ad27-cd0693dae709"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.ts","id":"01a06871-3115-7009-a94c-1cccc05f925d"}
@@ -412,6 +413,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-iteration-outcome-db/supervisor-iteration-outcome-db.module.ts","id":"01a06838-5a84-7001-a522-1f0b3c183f21"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-iteration-outcome-handlers/supervisor-iteration-outcome-handlers.module.ts","id":"01a06871-3115-700b-b125-962ed5e09687"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-iteration-outcome/supervisor-iteration-outcome.module.ts","id":"01a06871-3115-700c-bb97-5d8f1d4b1d6d"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.ts","id":"01a06876-abda-7003-aa46-8cb6a02b10c3"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-start/modules/agent-hook-registration/agent-hook-registration.module.ts","id":"01a069ca-e863-7000-a1ae-b2d92e543dd0"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.ts","id":"01a0683e-3dbe-7001-8d52-13b4652ba83e"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-adopted-claude-port/supervisor-adopted-claude-port.module.ts","id":"01a0683e-3dbe-7002-909e-1e947514559c"}

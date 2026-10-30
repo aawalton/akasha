@@ -19,19 +19,7 @@ export const supervisorInteractiveSpawn = {
       decisionKind: "decision-kind/departure",
       statement: "A model override on the options is taken over the seat's stated worker model.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A carried name that fails to bind is logged and the spawn goes on.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The proxy is stopped at exit only where no re-exec is pending.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The last cleanup runs under a force-exit timer that is always disarmed.",
-    },
   ],
   createdAt: "2026-09-03T18:04:03.733Z",
-  updatedAt: "2026-10-30T14:40:29.313Z",
+  updatedAt: "2026-10-30T15:48:04.230Z",
 } as const satisfies Module

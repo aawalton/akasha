@@ -2,12 +2,7 @@ import { buildInteractiveCLIArgs } from "akasha/agent/claude-code/modules/claude
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import type { SeatResume } from "akasha/agent/seat/supervisor/modules/supervisor-args/supervisor-args.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
-import { setOAuthProxyHandle } from "akasha/agent/seat/supervisor/modules/supervisor-state/supervisor-state.module.code.ts"
-import type { AgentProcess } from "akasha/agent/seat/supervisor/modules/supervisor-types/supervisor-types.module.code.ts"
 import { resolveMcpConfig } from "akasha/agent/seat/supervisor/seat-agent-mcp/modules/supervisor-mcp/supervisor-mcp.module.code.ts"
-import type { CarriedAgentName } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
-import type { ClearRebindDeps } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
-import { processCleanup } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"
 import type { spawnClaudeChild } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-claude-spawn/supervisor-claude-spawn.module.code.ts"
 import {
   disallowedToolsForLaunch,
@@ -29,8 +24,6 @@ import type {
   InteractiveOpts,
   InteractiveSessionBoot,
 } from "akasha/agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
-import { armForceExitTimer } from "akasha/agent/seat/supervisor/supervisor-stop/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"
-import { isPendingReExec } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
 
 export type SeatSpawnDecider = (
   agentId: string | null,
@@ -38,19 +31,6 @@ export type SeatSpawnDecider = (
 ) => Promise<{
   readonly remoteControl: boolean
 }>
-
-export async function applyCarriedName(
-  agentId: string,
-  carried: CarriedAgentName | null,
-  bindAgentName: ClearRebindDeps["bindAgentName"]
-): Promise<void> {
-  if (carried === null) return
-  try {
-    await bindAgentName(agentId, carried.name, carried.title, carried.slots)
-  } catch (err) {
-    console.error(`${LOG} Failed to carry name onto reset successor ${agentId}:`, err)
-  }
-}
 
 export async function buildIterationSpawnOpts(args: {
   opts: InteractiveOpts
@@ -164,24 +144,4 @@ export async function buildIterationSpawnOpts(args: {
     resumeTokenThreshold: resumeThresholds.tokens,
   }
   return { iterMcpPath, spawnOpts, bootPromptPath: systemPromptFile }
-}
-
-export async function finalizeInteractiveExit(args: {
-  agentProc: AgentProcess | undefined
-  proxy: InteractiveSessionBoot["proxy"]
-}): Promise<void> {
-  const { agentProc, proxy } = args
-  const disarmCleanupBackstop = armForceExitTimer("post-loop-cleanup")
-  try {
-    agentProc?.stopSessionWatch?.()
-
-    if (!isPendingReExec()) {
-      proxy.stop()
-      setOAuthProxyHandle(null)
-    }
-
-    if (agentProc) await processCleanup(agentProc)
-  } finally {
-    disarmCleanupBackstop()
-  }
 }

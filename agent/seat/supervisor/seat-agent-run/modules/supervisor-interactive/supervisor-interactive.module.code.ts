@@ -6,6 +6,7 @@ import {
 } from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
 import { isShuttingDown } from "akasha/agent/seat/supervisor/modules/supervisor-state/supervisor-state.module.code.ts"
 import type { AgentProcess } from "akasha/agent/seat/supervisor/modules/supervisor-types/supervisor-types.module.code.ts"
+import { finalizeInteractiveExit } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-exit/supervisor-interactive-exit.module.code.ts"
 import {
   acquireIterationChild,
   assembleIterationProcess,
@@ -20,7 +21,6 @@ import {
 import { dispatchPostExitOutcome } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-iteration-outcome/supervisor-iteration-outcome.module.code.ts"
 import { buildLoopState } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-loop-state/supervisor-loop-state.module.code.ts"
 import type { CarriedAgentName } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
-import { finalizeInteractiveExit } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
 import { bootInteractiveSession } from "akasha/agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts"
 import type { InteractiveOpts } from "akasha/agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
