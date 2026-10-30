@@ -4,7 +4,8 @@ export const inferenceDeploying = {
   id: "01a09b0e-376c-70a6-9838-96e1f3f656a1",
   type: "page-type/service-workstation",
   slug: "inference-deploying",
-  definition: "the service putting the inference kind up once a commit changes its source",
+  definition:
+    "the service putting an inference service up once a commit changes what that service is built from",
   enabled: true,
   systemd: {
     schedule: "*:*:00",
@@ -37,5 +38,5 @@ export const inferenceDeploying = {
     },
   ],
   createdAt: "2026-09-13T13:56:35.308Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-30T16:14:34.826Z",
 } as const satisfies ServiceWorkstation
