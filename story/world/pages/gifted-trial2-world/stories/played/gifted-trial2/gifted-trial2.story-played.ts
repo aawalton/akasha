@@ -5,6 +5,7 @@ export const giftedTrial2 = {
   type: "page-type/story-played",
   slug: "gifted-trial2",
   coordinatorAgent: "iris-game-master-gifted-trial2",
+  turnSeating: "one-seat",
   clonedFrom: "story-played/gifted-reborn",
   opensAt: "2026-10-28T09:00:00.000Z",
   title: "Gifted: Reborn",
@@ -22,5 +23,5 @@ export const giftedTrial2 = {
     "played-panel/difficulty",
   ],
   createdAt: "2026-10-30T16:36:03.198Z",
-  updatedAt: "2026-10-30T16:36:03.198Z",
+  updatedAt: "2026-10-30T16:36:59.492Z",
 } as const satisfies StoryPlayed
