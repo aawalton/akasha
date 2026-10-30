@@ -20,8 +20,6 @@ const WORLD_TAIL = "-world"
 
 const PARTED = "/"
 
-const LEFT_DIRS: readonly string[] = ["turns/", "chapters/"]
-
 const LEFT_ENDINGS: readonly string[] = [
   ".referenced-by.jsonl",
   ".uncommitted.jsonl",
@@ -120,7 +118,6 @@ export function cloneWorldFolderOf(worldFolder: string, to: string): string {
 export function copied(folder: string, path: string): boolean {
   if (!path.startsWith(folder)) return false
   const within = path.slice(folder.length)
-  if (LEFT_DIRS.some((one) => within.startsWith(one))) return false
   return !LEFT_ENDINGS.some((one) => within.endsWith(one))
 }
 

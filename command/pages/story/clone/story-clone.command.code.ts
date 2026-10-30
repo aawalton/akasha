@@ -50,6 +50,8 @@ import {
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { lowerKebabCase } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
+import { player } from "akasha/story/chapter/step-status/pages/player.step-status.ts"
+import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 import { storyChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
@@ -74,10 +76,13 @@ const TAB = "\t"
 
 const UTF8 = "utf8"
 
-const ENDED: readonly string[] = [
-  `.${storyTurnPlayed.slug}${PAGE_FILE}`,
-  `.${storyChapterPlayed.slug}${PAGE_FILE}`,
-]
+const TURN_FILE = `.${storyTurnPlayed.slug}${PAGE_FILE}`
+
+const ENDED: readonly string[] = [TURN_FILE, `.${storyChapterPlayed.slug}${PAGE_FILE}`]
+
+const STEP = "stepStatus"
+
+const AT_PLAYER = `${stepStatus.slug}/${player.slug}`
 
 export type Reach = {
   readonly storyAt: (root: string, slug: string) => string | null
@@ -195,6 +200,18 @@ function planned(
       return ended === null ? null : textAt(ended, ENDS)
     })
   const opensAt = latestOf(ends)
+  const working = files.filter((one) => {
+    if (!one.endsWith(TURN_FILE)) return false
+    const turn = reach.valueOf(root, one)
+    return turn !== null && textAt(turn, STEP) !== AT_PLAYER
+  })
+  if (working.length > 0) {
+    const named = working.map((one) => `\`${one}\``).join(", ")
+    return {
+      refused: `${named} are turns still being made, and no seat of a clone would finish them — clone \`${held.from}\` once its turn is at the player`,
+      code: DATA,
+    }
+  }
   const sources: { path: string; text: string }[] = []
   const worldFiles = reach.committedUnder(root, worldFolder)
   for (const path of worldFiles.filter((one) => copiedFrom(worldFolder, folder, one))) {

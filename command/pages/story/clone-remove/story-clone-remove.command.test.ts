@@ -240,6 +240,32 @@ test("a clone in a world of its own goes with every file of that world", async (
   expect(calls.swept).toEqual([OWN_WORLD])
 })
 
+test("a clone's carried chapters and design go with its world, their files beside them", async () => {
+  const calls = fresh()
+  const played = `${OWN_WORLD}stories/played/own/`
+  const chapter = `${played}chapters/own-0001-x.story-chapter-played`
+  const design = `${OWN_WORLD}designs/own.story-design`
+  const committed = [
+    OWN_WORLD_AT,
+    `${design}.ts`,
+    `${design}.premise.md`,
+    OWN_STORY_AT,
+    `${chapter}.ts`,
+    `${chapter}.prose.txt`,
+    `${chapter}.beats.jsonl`,
+  ]
+  const reach: Reach = {
+    ...reachInto(calls),
+    committedUnder: (_root, folder) => (folder === OWN_WORLD ? committed : []),
+    referrersOf: () => [],
+  }
+  const answer = await storyCloneRemove(["--story", "own"], GIVEN, landingInto(calls), reach)
+  expect(answer.code).toBe(0)
+  const ats = (calls.landed[0] ?? []).map((one) => (one.given as { readonly at: string }).at)
+  expect(ats).toEqual([OWN_WORLD_AT, `${design}.ts`, OWN_STORY_AT, `${chapter}.ts`])
+  expect(calls.swept).toEqual([OWN_WORLD])
+})
+
 test("a seat refusing to stop leaves every page where it is", async () => {
   const calls = fresh()
   const answer = await storyCloneRemove(

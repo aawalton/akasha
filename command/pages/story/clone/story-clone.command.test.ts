@@ -5,6 +5,9 @@ import {
   type Reach,
   storyClone,
 } from "akasha/command/pages/story/clone/story-clone.command.code.ts"
+import { player } from "akasha/story/chapter/step-status/pages/player.step-status.ts"
+import { writer } from "akasha/story/chapter/step-status/pages/writer.step-status.ts"
+import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 import { worldCheck } from "akasha/story/world/mechanics/checks/world-check.page-type.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 
@@ -67,6 +70,8 @@ const TEXTS: Record<string, string> = {
 
 const TYPED = "page-type"
 
+const STEP = stepStatus.slug
+
 const VALUES: Record<string, Record<string, unknown>> = {
   [STORY_AT]: {
     type: `${TYPED}/${storyPlayed.slug}`,
@@ -74,7 +79,7 @@ const VALUES: Record<string, Record<string, unknown>> = {
     coordinatorAgent: "iris-game-master-test-story",
   },
   [CHECK_AT]: { type: `${TYPED}/${worldCheck.slug}`, slug: "test-story-upkeep" },
-  [TURN_AT]: { endsAt: "2026-10-27T08:50:00.000Z" },
+  [TURN_AT]: { endsAt: "2026-10-27T08:50:00.000Z", stepStatus: `${STEP}/${player.slug}` },
   [CHAPTER_AT]: { endsAt: "2026-10-27T08:44:00.000Z" },
   [GIFTED]: { coordinatorAgent: "aine-game-master-gifted-reborn" },
   [WORLD_AT]: { slug: "test-world", testing: true },
@@ -251,6 +256,53 @@ test("a clone its landing refuses names each page and property, and answers no c
   expect(answer.code).not.toBe(0)
   expect(answer.refusals.join("\n")).toContain(over)
   expect(answer.report.join("\n")).not.toContain("commit")
+})
+
+test("a source's turns and chapters are copied with the prose beside them", async () => {
+  const prose = TURN_AT.replace(/\.ts$/, ".prose.txt")
+  const texts: Record<string, string> = {
+    [TURN_AT]: 'export const x = {\n  slug: "test-story-00-009",\n} as const\n',
+    [CHAPTER_AT]: 'export const x = {\n  slug: "test-story-0002-x",\n} as const\n',
+    [prose]: "She sits up.\n",
+  }
+  const carried: Reach = {
+    ...REACH,
+    committedUnder: () => [STORY_AT, TURN_AT, prose, CHAPTER_AT],
+    textOf: (root, path) => texts[path] ?? REACH.textOf(root, path),
+  }
+  const landed: Landed[] = []
+  const answer = await storyClone(
+    ["--story", "test-story", "--as", "probe"],
+    GIVEN,
+    landingInto(landed),
+    carried
+  )
+  expect(answer.code).toBe(0)
+  const ats = (landed[0]?.asked ?? []).map((one) => (one.given as { readonly at: string }).at)
+  const played = `${CLONED}stories/played/probe/`
+  expect(ats).toContain(`${played}turns/probe-00-009.story-turn-played.ts`)
+  expect(ats).toContain(`${played}turns/probe-00-009.story-turn-played.prose.txt`)
+  expect(ats).toContain(`${played}chapters/probe-0002-x.story-chapter-played.ts`)
+})
+
+test("a source with a turn still being made is refused by name, and nothing lands", async () => {
+  const working: Reach = {
+    ...REACH,
+    valueOf: (root, path) =>
+      path === TURN_AT
+        ? { endsAt: "2026-10-27T08:50:00.000Z", stepStatus: `${STEP}/${writer.slug}` }
+        : REACH.valueOf(root, path),
+  }
+  const landed: Landed[] = []
+  const answer = await storyClone(
+    ["--story", "test-story", "--as", "probe"],
+    GIVEN,
+    landingInto(landed),
+    working
+  )
+  expect(answer.code).not.toBe(0)
+  expect(answer.refusals.join(" ")).toContain(TURN_AT)
+  expect(landed.length).toBe(0)
 })
 
 test("a slug that is no lower kebab case is refused", async () => {

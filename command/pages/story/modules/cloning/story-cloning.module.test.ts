@@ -163,9 +163,39 @@ test("a copied page is exported under its own slug, where the source's export na
   expect(made?.body).toContain('  slug: "gifted-trial-world",\n')
 })
 
-test("turns, chapters and the files play or the index write beside a page are left", () => {
-  expect(copied(FOLDER, `${FOLDER}turns/test-story-00-009.story-turn-played.ts`)).toBe(false)
-  expect(copied(FOLDER, `${FOLDER}chapters/test-story-0001-x.story-chapter-played.ts`)).toBe(false)
+test("turns and chapters are copied with their prose, and a story design of the world is", () => {
+  const chapter = `${FOLDER}chapters/test-story-0001-x.story-chapter-played`
+  expect(copied(FOLDER, `${FOLDER}turns/test-story-00-009.story-turn-played.ts`)).toBe(true)
+  expect(copied(FOLDER, `${chapter}.ts`)).toBe(true)
+  expect(copied(FOLDER, `${chapter}.prose.txt`)).toBe(true)
+  expect(copied(FOLDER, `${chapter}.beats.jsonl`)).toBe(true)
+  const design = `${WORLD}designs/test-story.story-design`
+  expect(copiedFrom(WORLD, FOLDER, `${design}.ts`)).toBe(true)
+  expect(copiedFrom(WORLD, FOLDER, `${design}.premise.md`)).toBe(true)
+  expect(clonedPath(`${design}.premise.md`, WORLD, STORY_FACTS)).toBe(
+    "story/world/pages/probe-world/designs/probe.story-design.premise.md"
+  )
+})
+
+test("a chapter's prose keeps its words, and its beats name the clone's pages", () => {
+  const chapter = `${FOLDER}chapters/test-story-0001-x.story-chapter-played`
+  const prose = "The test story opens in Test World, where test-story begins.\n"
+  const beats = '{"beat":1,"place":"place/test-world-hall","event":"She walks in."}\n'
+  const made = copiesOf(
+    [
+      { path: `${chapter}.prose.txt`, text: prose },
+      { path: `${chapter}.beats.jsonl`, text: beats },
+    ],
+    CLONING
+  )
+  const at = `${CLONED}chapters/probe-0001-x.story-chapter-played`
+  expect(made).toEqual([
+    { at: `${at}.beats.jsonl`, body: beats.replace("test-world-hall", "probe-world-hall") },
+    { at: `${at}.prose.txt`, body: prose },
+  ])
+})
+
+test("the files play or the index write beside a page are left", () => {
   expect(copied(FOLDER, `${FOLDER}test-story.story-played.chat.jsonl`)).toBe(false)
   const history = `${FOLDER}a/test-story-player.metric-character-health.history.jsonl`
   expect(copied(FOLDER, history)).toBe(false)

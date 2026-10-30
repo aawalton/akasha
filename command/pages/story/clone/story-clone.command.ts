@@ -30,6 +30,15 @@ export const storyClone = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A clone carries its source's turns and chapters, with the prose and beats beside.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A source with a turn not yet at the player is refused, naming each such turn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page naming a copied page among its parts names the copy there as well.",
     },
     {
@@ -64,5 +73,5 @@ export const storyClone = {
     { argument: "argument/clone-as", required: true },
   ],
   createdAt: "2026-10-27T21:16:37.415Z",
-  updatedAt: "2026-10-30T14:07:39.251Z",
+  updatedAt: "2026-10-30T15:28:47.324Z",
 } as const satisfies Command

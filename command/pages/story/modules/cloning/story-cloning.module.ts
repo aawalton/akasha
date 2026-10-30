@@ -26,7 +26,15 @@ export const storyCloning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A clone copies every file under its source's folder but its turns and chapters.",
+      statement: "A clone copies every file under its source's folder, its turns and chapters too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "So a clone's turn is made from the prose, beats and pictures its source's is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story design in the source's world is copied as every world page is.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -90,8 +98,7 @@ export const storyCloning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A copied page states no history, since the clone has no turn a history line names.",
+      statement: "A copied page states no history, so the clone's history begins at its own turns.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -111,5 +118,5 @@ export const storyCloning = {
     },
   ],
   createdAt: "2026-10-27T21:16:37.415Z",
-  updatedAt: "2026-10-30T15:24:57.177Z",
+  updatedAt: "2026-10-30T15:28:47.324Z",
 } as const satisfies Module
