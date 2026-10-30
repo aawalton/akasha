@@ -4,7 +4,7 @@ export const alanwaltonUpkeepStoplights = {
   id: "01a06420-b259-7c2d-889c-333cb1144c67",
   type: "page-type/readout-widget",
   slug: "alanwalton-upkeep-stoplights",
-  definition: "the tile on Alan's phone showing whether his upkeep is working",
+  definition: "the readout widget on Alan's phone that shows whether Alan looks after himself",
   app: "ios-app/alanwalton",
   component: "ios-component/alanwalton-upkeep-stoplights-widget",
   kind: "HabitStoplightsWidget",
@@ -17,5 +17,5 @@ export const alanwaltonUpkeepStoplights = {
   groups: ["readout-group/upkeep"],
   place: 6,
   createdAt: "2026-09-02T21:57:39.545Z",
-  updatedAt: "2026-09-15T16:23:51.000Z",
+  updatedAt: "2026-10-30T16:08:11.624Z",
 } as const satisfies ReadoutWidget
