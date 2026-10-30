@@ -5,7 +5,7 @@ export const transactions = {
   type: "page-type/page-property-entry",
   slug: "transactions",
   propertySlug: "transactions",
-  definition: "the movements of money a month covers, one to a line",
+  definition: "the amounts of money that move in a month",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "Monarch transaction" },
     { partOfSpeech: "part-of-speech/noun", spelling: "Monarch transactions" },
@@ -79,5 +79,5 @@ export const transactions = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:12:37.504Z",
-  updatedAt: "2026-10-30T15:31:42.755Z",
+  updatedAt: "2026-10-30T15:48:49.922Z",
 } as const satisfies PagePropertyEntry
