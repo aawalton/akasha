@@ -4,7 +4,7 @@ export const scheduling = {
   id: "01a05c6f-c7c4-7bd2-ac26-fc8ae8b38e8b",
   type: "page-type/module",
   slug: "scheduling",
-  definition: "the next day a repeating thing falls due after the one it has",
+  definition: "how code finds the next day in the recurrence of a to-do",
   code: "ts",
   decisions: [
     {
@@ -26,5 +26,5 @@ export const scheduling = {
     },
   ],
   createdAt: "2026-09-01T10:07:04.644Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:04:16.897Z",
 } as const satisfies Module
