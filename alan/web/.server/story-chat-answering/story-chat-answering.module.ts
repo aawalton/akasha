@@ -4,7 +4,8 @@ export const storyChatAnswering = {
   id: "01a17ecf-bd36-7b35-8cfc-6bc1dc046199",
   type: "page-type/module",
   slug: "story-chat-answering",
-  definition: "what a route answers when Alan says a message in a story played's chat",
+  definition:
+    "how a route responds to a message Alan sends to the game master of a story Alan plays",
   code: "ts",
   decisions: [
     {
@@ -59,5 +60,5 @@ export const storyChatAnswering = {
     },
   ],
   createdAt: "2026-10-27T19:21:46.037Z",
-  updatedAt: "2026-10-27T22:43:01.523Z",
+  updatedAt: "2026-10-30T16:54:11.466Z",
 } as const satisfies Module
