@@ -4,7 +4,7 @@ export const bookSeries = {
   id: "01a06598-222b-7003-beee-2001c8924b27",
   type: "page-type/page-type",
   slug: "book-series",
-  definition: "a shelf with the books of a work",
+  definition: "a series of books Alan reads",
   extends: ["page-type/collection-external"],
   parts: ["select-property/maturity-rating"],
   properties: [
@@ -32,5 +32,5 @@ export const bookSeries = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:47:44.171Z",
-  updatedAt: "2026-09-25T13:02:31.000Z",
+  updatedAt: "2026-10-30T16:34:19.999Z",
 } as const satisfies PageType
