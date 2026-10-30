@@ -8,7 +8,7 @@ export const telling = {
   type: "page-type/module-property-group",
   slug: "telling",
   propertySlug: "telling",
-  definition: "what writes the settings an agent harness is told",
+  definition: "the code that writes the config Claude Code reads",
   createdAt: "2026-09-11T00:55:20.856Z",
-  updatedAt: "2026-09-15T17:32:01.000Z",
+  updatedAt: "2026-10-30T14:45:07.506Z",
 } as const satisfies ModulePropertyGroup
