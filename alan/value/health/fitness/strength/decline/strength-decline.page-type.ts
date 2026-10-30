@@ -4,7 +4,7 @@ export const strengthDecline = {
   id: "01a0b71d-29d7-78fa-a2fa-467c181aa8d2",
   type: "page-type/page-type",
   slug: "strength-decline",
-  definition: "a movement Alan turned down, and the day Alan turned it down",
+  definition: "a strength exercise Alan rejects on a day",
   extends: ["page-type/page"],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -25,5 +25,5 @@ export const strengthDecline = {
     },
   ],
   createdAt: "2026-09-19T00:42:16.919Z",
-  updatedAt: "2026-09-22T10:06:01.000Z",
+  updatedAt: "2026-10-30T16:50:49.367Z",
 } as const satisfies PageType
