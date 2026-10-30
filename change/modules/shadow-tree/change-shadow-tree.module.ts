@@ -4,7 +4,7 @@ export const changeShadowTree = {
   id: "01a08e11-1e9d-7287-aea2-7bdc8d2fd844",
   type: "page-type/module",
   slug: "change-shadow-tree",
-  definition: "the paths under a folder, read from the tree rather than from the index",
+  definition: "how code finds the paths under a folder on disk with the edits of a change in place",
   code: "ts",
   test: "ts",
   decisions: [
@@ -125,5 +125,5 @@ export const changeShadowTree = {
     },
   ],
   createdAt: "2026-09-11T01:24:41.757Z",
-  updatedAt: "2026-09-22T00:32:09.000Z",
+  updatedAt: "2026-10-30T17:21:29.279Z",
 } as const satisfies Module
