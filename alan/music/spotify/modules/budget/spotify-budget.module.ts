@@ -4,7 +4,7 @@ export const spotifyBudget = {
   id: "01a0b6e3-22de-7cc3-9e86-b827104ed1b3",
   type: "page-type/module",
   slug: "spotify-budget",
-  definition: "the calls a window holds, counted against the account every process shares",
+  definition: "the limit on the calls every process makes with a Spotify account",
   code: "ts",
   test: "ts",
   decisions: [
@@ -42,5 +42,5 @@ export const spotifyBudget = {
     },
   ],
   createdAt: "2026-09-18T23:38:54.046Z",
-  updatedAt: "2026-09-22T00:49:24.000Z",
+  updatedAt: "2026-10-30T16:18:55.329Z",
 } as const satisfies Module
