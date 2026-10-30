@@ -4,7 +4,7 @@ export const rustModule = {
   id: "01a0602d-6acf-7594-86e8-07b54a35a700",
   type: "page-type/page-type",
   slug: "rust-module",
-  definition: "a Rust crate's source code",
+  definition: "a module of Rust code",
   parts: ["code-file-property/rust", "text-property/rust-module-name"],
   extends: ["page-type/domain"],
   properties: [
@@ -40,5 +40,5 @@ export const rustModule = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T03:33:04.335Z",
-  updatedAt: "2026-09-24T22:26:30.000Z",
+  updatedAt: "2026-10-30T16:04:28.512Z",
 } as const satisfies PageType
