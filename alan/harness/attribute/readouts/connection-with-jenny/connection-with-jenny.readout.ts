@@ -16,15 +16,15 @@ export const connectionWithJenny = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The reading is the hours of today's stretches naming the relationship linked here.",
+        "The number this readout shows is the hours of today's stretches naming the relationship linked here.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch naming Jenny among others counts toward the reading.",
+      statement: "A stretch naming Jenny among others counts toward the number.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is colored on the scale the charisma is colored on.",
+      statement: "The number is colored on the scale the charisma is colored on.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -36,11 +36,11 @@ export const connectionWithJenny = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here caches a reading or decides when a reading is taken.",
+      statement: "Nothing here caches a number or decides when a number is taken.",
     },
   ],
   carriedTo: ["router-app/smilingjenny-web"],
   madeFrom: "day-row-and-stretches",
   createdAt: "2026-10-13T13:47:26.474Z",
-  updatedAt: "2026-10-30T15:27:37.414Z",
+  updatedAt: "2026-10-30T17:12:46.964Z",
 } as const satisfies Readout
