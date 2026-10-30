@@ -4,7 +4,7 @@ export const emailCommandReading = {
   id: "01a06810-cf11-7676-b503-15195a7cff5b",
   type: "page-type/module",
   slug: "email-command-reading",
-  definition: "what an email command reads off its arguments",
+  definition: "what an email command reads from its arguments",
   code: "ts",
   test: "ts",
   decisions: [
@@ -60,5 +60,5 @@ export const emailCommandReading = {
     },
   ],
   createdAt: "2026-09-03T16:18:47.185Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:10:34.478Z",
 } as const satisfies Module
