@@ -8,7 +8,7 @@ export const skillMorphs = {
   displayOrder: 0,
   character: "temper-account-character/lyonette-du-marquin",
   completionCard: "temper-completion-category/characters-skill-morphs",
-  dueDate: "2026-10-30",
+  dueDate: "2026-10-31",
   rruleRule: "FREQ=DAILY",
   rruleAnchorFromCompletion: false,
   accountPage: "temper-account/alanarre",
@@ -20,5 +20,5 @@ export const skillMorphs = {
   progressTotal: 24480,
   progressCurrent: 24103,
   createdAt: "2026-04-22T12:39:34.017Z",
-  updatedAt: "2026-10-30T14:23:33.279Z",
+  updatedAt: "2026-10-30T14:28:50.026Z",
 } as const satisfies TemperTask
