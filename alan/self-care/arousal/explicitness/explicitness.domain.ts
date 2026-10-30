@@ -4,7 +4,7 @@ export const explicitness = {
   id: "01a14ba0-7f9a-738a-a44e-ef644ed4bc15",
   type: "page-type/domain",
   slug: "explicitness",
-  definition: "how explicitly a story writes and pictures its sex",
+  definition: "how plainly a story shows its sex scenes",
   parts: [
     "domain/hollowmere-explicitness",
     "domain/salt-and-lamplight-explicitness",
@@ -77,5 +77,5 @@ export const explicitness = {
     },
   ],
   createdAt: "2026-10-17T20:49:32.057Z",
-  updatedAt: "2026-10-17T20:52:07.276Z",
+  updatedAt: "2026-10-30T16:37:32.820Z",
 } as const satisfies Domain
