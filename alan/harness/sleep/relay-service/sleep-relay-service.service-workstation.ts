@@ -4,7 +4,7 @@ export const sleepRelayService = {
   id: "01a06220-ef8c-7a3e-a40b-06bc3fc01541",
   type: "page-type/service-workstation",
   slug: "sleep-relay-service",
-  definition: "the service carrying the sleep hours to the sites that show them",
+  definition: "the service that sends Alan's hours of sleep to the websites that show the hours",
   enabled: true,
   needsSecrets: true,
   systemd: {
@@ -14,5 +14,5 @@ export const sleepRelayService = {
     catchUp: false,
   },
   createdAt: "2026-09-02T12:38:40.780Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-30T16:02:23.881Z",
 } as const satisfies ServiceWorkstation
