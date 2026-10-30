@@ -4,7 +4,7 @@ export const changeRestated = {
   id: "01a07245-0dbf-7539-b0dc-ce6281aa96e8",
   type: "page-type/change-kind",
   slug: "change-restated",
-  definition: "a change saying what a page already said in other words",
+  definition: "a change that writes the claims a page makes in other words",
   runsChecks: true,
   writerOwesReading: true,
   readersOweReading: false,
@@ -45,5 +45,5 @@ export const changeRestated = {
     },
   ],
   createdAt: "2026-09-05T15:52:03.263Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T17:06:46.854Z",
 } as const satisfies ChangeKind
