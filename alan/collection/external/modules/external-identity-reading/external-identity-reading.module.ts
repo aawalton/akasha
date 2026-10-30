@@ -4,7 +4,7 @@ export const externalIdentityReading = {
   id: "01a09bf4-84e9-7269-b76b-4b3efbc8d34a",
   type: "page-type/module",
   slug: "external-identity-reading",
-  definition: "what a provider calls a collection, read off and folded into its records",
+  definition: "how code keeps the names a collection has outside akasha",
   code: "ts",
   test: "ts",
   decisions: [
@@ -42,5 +42,5 @@ export const externalIdentityReading = {
     },
   ],
   createdAt: "2026-09-13T18:08:08.425Z",
-  updatedAt: "2026-09-22T14:37:11.000Z",
+  updatedAt: "2026-10-30T15:16:01.215Z",
 } as const satisfies Module
