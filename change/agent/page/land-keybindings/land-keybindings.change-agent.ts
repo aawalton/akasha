@@ -7,7 +7,7 @@ export const landKeybindings = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/page",
   changeTargetSubtype: "change-target-subtype/page",
-  definition: "a capture of the keybinder landed on the keybinding pages",
+  definition: "a change that writes the keybindings the game holds to their pages",
   code: "ts",
   test: "ts",
   decisions: [
@@ -33,5 +33,5 @@ export const landKeybindings = {
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
   createdAt: "2026-10-28T21:50:21.831Z",
-  updatedAt: "2026-10-28T21:50:21.831Z",
+  updatedAt: "2026-10-30T17:25:19.224Z",
 } as const satisfies ChangeAgent
