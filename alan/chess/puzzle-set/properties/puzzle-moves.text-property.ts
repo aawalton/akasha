@@ -5,10 +5,10 @@ export const puzzleMoves = {
   type: "page-type/text-property",
   slug: "puzzle-moves",
   propertySlug: "moves",
-  definition: "a puzzle's answer as moves in long algebraic",
+  definition: "every move of a puzzle",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:08:15.602Z",
 } as const satisfies TextProperty
