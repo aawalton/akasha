@@ -4,7 +4,7 @@ export const fork = {
   id: "01a0d8ec-83e1-7a10-88c9-2affda3b024e",
   type: "page-type/subagent-kind",
   slug: "fork",
-  definition: "a subagent that carries on the conversation of the seat that ran it",
+  definition: "a subagent that starts with the whole conversation of its seat",
   dispatchedAs: "fork",
   decisions: [
     {
@@ -13,5 +13,5 @@ export const fork = {
     },
   ],
   createdAt: "2026-09-25T14:16:14.049Z",
-  updatedAt: "2026-09-25T14:16:19.000Z",
+  updatedAt: "2026-10-30T14:49:04.253Z",
 } as const satisfies SubagentKind
