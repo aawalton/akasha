@@ -5,9 +5,9 @@ export const says = {
   type: "page-type/file-property",
   slug: "says",
   propertySlug: "says",
-  definition: "what a note says",
+  definition: "the words of a note",
   extensions: ["txt"],
   types: "ts",
   createdAt: "2026-09-03T04:15:54.368Z",
-  updatedAt: "2026-09-15T16:56:11.000Z",
+  updatedAt: "2026-10-30T16:55:20.972Z",
 } as const satisfies FileProperty
