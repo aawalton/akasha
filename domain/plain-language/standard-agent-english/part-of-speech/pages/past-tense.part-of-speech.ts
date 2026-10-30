@@ -10,7 +10,11 @@ export const pastTense = {
       decisionKind: "decision-kind/departure",
       statement: "A spelling that is both this and a past participle is stated as each.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This word is written only after a proper noun opening a relative clause.",
+    },
   ],
   createdAt: "2026-10-30T16:32:08.887Z",
-  updatedAt: "2026-10-30T16:32:08.887Z",
+  updatedAt: "2026-10-30T16:36:40.381Z",
 } as const satisfies PartOfSpeech
