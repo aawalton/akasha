@@ -5,7 +5,8 @@ export const reExecAsk = {
   type: "page-type/relation-property",
   slug: "re-exec-ask",
   propertySlug: "re-exec-ask",
-  definition: "the standing of a seat's request to re-exec its supervisor",
+  definition:
+    "whether a supervisor reads the request of a seat that wants the supervisor restarted",
   targetPageType: "page-type/re-exec-ask-state",
   decisions: [
     {
@@ -19,5 +20,5 @@ export const reExecAsk = {
   ],
   types: "ts",
   createdAt: "2026-08-31T13:43:58.892Z",
-  updatedAt: "2026-09-24T19:10:37.000Z",
+  updatedAt: "2026-10-30T14:55:49.447Z",
 } as const satisfies RelationProperty
