@@ -5,8 +5,8 @@ export const runCompletedAt = {
   type: "page-type/instant-property",
   slug: "run-completed-at",
   propertySlug: "run-completed-at",
-  definition: "when a pull stopped, whether it finished or died",
+  definition: "the time a run of a sync ends at",
   types: "ts",
   createdAt: "2026-09-03T17:47:25.668Z",
-  updatedAt: "2026-09-15T17:15:46.000Z",
+  updatedAt: "2026-10-30T15:04:04.542Z",
 } as const satisfies InstantProperty
