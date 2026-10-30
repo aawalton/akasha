@@ -5,10 +5,10 @@ export const partsRemainingInWords = {
   type: "page-type/computed-property",
   slug: "parts-remaining-in-words",
   propertySlug: "parts-remaining-in-words",
-  definition: "how much of everything the collection holds is left to work through",
+  definition: "the remaining length of the parts of a collection counted in words",
   holds: "number",
   code: "ts",
   types: "ts",
   createdAt: "2026-09-05T15:31:05.701Z",
-  updatedAt: "2026-09-15T16:29:06.000Z",
+  updatedAt: "2026-10-30T15:11:48.383Z",
 } as const satisfies ComputedProperty
