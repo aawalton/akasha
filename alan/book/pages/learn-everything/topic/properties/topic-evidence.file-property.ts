@@ -5,9 +5,9 @@ export const topicEvidence = {
   type: "page-type/file-property",
   slug: "topic-evidence",
   propertySlug: "topic-evidence",
-  definition: "the probes of a topic Alan cleared and the ones he did not",
+  definition: "the things that show the mastery level Alan has in a topic",
   extensions: ["md"],
   types: "ts",
   createdAt: "2026-09-03T04:55:52.026Z",
-  updatedAt: "2026-09-15T16:56:11.000Z",
+  updatedAt: "2026-10-30T16:29:32.961Z",
 } as const satisfies FileProperty
