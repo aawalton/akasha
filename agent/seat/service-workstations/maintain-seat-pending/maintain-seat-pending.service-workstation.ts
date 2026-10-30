@@ -4,12 +4,12 @@ export const maintainSeatPending = {
   id: "01a026aa-c443-7000-8636-7a36d8bbf564",
   type: "page-type/service-workstation",
   slug: "maintain-seat-pending",
-  definition: "the service keeping each seat's pending parts true between a turn end and the next",
+  definition: "the service that writes whether each seat waits when a file changes",
   enabled: true,
   systemd: {
     restartDelaySeconds: 10,
   },
   told: false,
   createdAt: "2026-08-21T23:32:00.707Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-30T14:44:49.944Z",
 } as const satisfies ServiceWorkstation
