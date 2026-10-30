@@ -4,7 +4,7 @@ export const macbookTarget = {
   id: "01a05cee-e560-7367-9a9b-49ae85f1844f",
   type: "page-type/module",
   slug: "macbook-target",
-  definition: "the macbook's ssh target: its user, its address and its key path",
+  definition: "the values that code uses to reach Alan's MacBook",
   code: "ts",
   decisions: [
     {
@@ -17,5 +17,5 @@ export const macbookTarget = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-24T22:58:43.000Z",
+  updatedAt: "2026-10-30T16:27:19.830Z",
 } as const satisfies Module
