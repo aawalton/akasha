@@ -5,10 +5,10 @@ export const riskFactorPersonProperty = {
   type: "page-type/text-property",
   slug: "risk-factor-person-property",
   propertySlug: "person-property",
-  definition: "the property slug of the person property a risk factor reads",
+  definition: "the name of the person property a risk factor reads",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
   createdAt: "2026-10-28T18:22:21.854Z",
-  updatedAt: "2026-10-28T18:22:21.854Z",
+  updatedAt: "2026-10-30T16:14:35.930Z",
 } as const satisfies TextProperty
