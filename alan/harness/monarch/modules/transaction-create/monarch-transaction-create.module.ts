@@ -4,7 +4,7 @@ export const monarchTransactionCreate = {
   id: "01a06865-ecc3-7529-b7f4-6be99588abe2",
   type: "page-type/module",
   slug: "monarch-transaction-create",
-  definition: "a transaction written into Monarch, and the pair of them a budget transfer is",
+  definition: "how code writes new Monarch transactions into Monarch",
   code: "ts",
   decisions: [
     {
@@ -44,5 +44,5 @@ export const monarchTransactionCreate = {
     },
   ],
   createdAt: "2026-09-03T17:51:45.347Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:42:22.309Z",
 } as const satisfies Module
