@@ -5,10 +5,10 @@ export const locationNotes = {
   type: "page-type/text-property",
   slug: "location-notes",
   propertySlug: "notes",
-  definition: "the person's reason for keeping the place",
+  definition: "the notes a person keeps about a place",
   maxLength: 500,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:25:23.451Z",
-  updatedAt: "2026-09-22T13:42:40.000Z",
+  updatedAt: "2026-10-30T15:18:29.995Z",
 } as const satisfies TextProperty
