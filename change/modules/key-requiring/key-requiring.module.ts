@@ -4,7 +4,7 @@ export const keyRequiring = {
   id: "01a0825b-21cd-7c17-ac5f-ecb7da01c1e7",
   type: "page-type/module",
   slug: "key-requiring",
-  definition: "whether the page type a page is requires a key",
+  definition: "whether the page type of a page needs a property",
   code: "ts",
   test: "ts",
   decisions: [
@@ -56,5 +56,5 @@ export const keyRequiring = {
     },
   ],
   createdAt: "2026-09-08T18:50:05.645Z",
-  updatedAt: "2026-09-15T18:21:01.000Z",
+  updatedAt: "2026-10-30T17:44:16.291Z",
 } as const satisfies Module
