@@ -5,9 +5,9 @@ export const wheelbaseIn = {
   type: "page-type/number-property",
   slug: "wheelbase-in",
   propertySlug: "wheelbase-in",
-  definition: "how far the front axle sits from the rear axle, in inches",
+  definition: "the distance between the two axles of a car in inches",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:43:54.945Z",
-  updatedAt: "2026-09-21T18:44:23.000Z",
+  updatedAt: "2026-10-30T15:10:44.965Z",
 } as const satisfies NumberProperty
