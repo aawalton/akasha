@@ -15,10 +15,10 @@ export const wireKeyName = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A group stating no name has no reading drawn as a stoplight.",
+      statement: "A group stating no name has no number shown as a stoplight.",
     },
   ],
   types: "ts",
   createdAt: "2026-09-25T16:27:56.252Z",
-  updatedAt: "2026-10-30T16:24:54.662Z",
+  updatedAt: "2026-10-30T17:14:41.288Z",
 } as const satisfies TextProperty
