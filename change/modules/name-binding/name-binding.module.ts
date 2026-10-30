@@ -4,7 +4,8 @@ export const nameBinding = {
   id: "01a0a67e-333d-7266-bf7a-3c5e63cb0dfb",
   type: "page-type/module",
   slug: "name-binding",
-  definition: "the names a declaration binds beneath itself and the names a body binds at its top",
+  definition:
+    "how code finds the names a piece of code holds and the names a code file holds at its top",
   code: "ts",
   test: "ts",
   decisions: [
@@ -79,5 +80,5 @@ export const nameBinding = {
     },
   ],
   createdAt: "2026-09-15T19:14:43.645Z",
-  updatedAt: "2026-09-21T20:03:02.000Z",
+  updatedAt: "2026-10-30T17:45:10.271Z",
 } as const satisfies Module
