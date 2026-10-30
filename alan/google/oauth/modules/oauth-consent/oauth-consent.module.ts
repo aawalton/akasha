@@ -4,7 +4,7 @@ export const oauthConsent = {
   id: "01a0657c-604c-7001-97a9-2a69478eb550",
   type: "page-type/module",
   slug: "oauth-consent",
-  definition: "the browser round trip bringing back a Google refresh token",
+  definition: "how code keeps the token Google sends after consent in a browser",
   code: "ts",
   test: "ts",
   decisions: [
@@ -50,5 +50,5 @@ export const oauthConsent = {
     },
   ],
   createdAt: "2026-09-03T04:17:25.068Z",
-  updatedAt: "2026-09-22T14:07:21.000Z",
+  updatedAt: "2026-10-30T16:26:31.012Z",
 } as const satisfies Module
