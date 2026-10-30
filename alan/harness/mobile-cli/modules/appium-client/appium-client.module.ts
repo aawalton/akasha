@@ -4,7 +4,7 @@ export const appiumClient = {
   id: "01a05cee-e560-73f4-91d5-4cabe49e4d24",
   type: "page-type/module",
   slug: "appium-client",
-  definition: "a typed WebDriver client over an Appium server's HTTP endpoints",
+  definition: "how code sends requests to an Appium server",
   code: "ts",
   test: "ts",
   decisions: [
@@ -26,5 +26,5 @@ export const appiumClient = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:23:44.293Z",
 } as const satisfies Module
