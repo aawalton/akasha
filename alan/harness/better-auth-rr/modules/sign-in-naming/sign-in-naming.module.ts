@@ -4,8 +4,7 @@ export const signInNaming = {
   id: "01a0baf8-3272-7b17-8439-b3653a48597a",
   type: "page-type/module",
   slug: "sign-in-naming",
-  definition:
-    "the names a sign-in and a contributor are reached by, hashed out of a provider's word",
+  definition: "the names of sign-ins and contributors",
   code: "ts",
   test: "ts",
   decisions: [
@@ -19,5 +18,5 @@ export const signInNaming = {
     },
   ],
   createdAt: "2026-09-19T18:40:23.154Z",
-  updatedAt: "2026-09-19T19:19:52.000Z",
+  updatedAt: "2026-10-30T15:35:51.913Z",
 } as const satisfies Module
