@@ -5,7 +5,7 @@ export const surplusHours = {
   type: "page-type/computed-property",
   slug: "surplus-hours",
   propertySlug: "surplus-hours",
-  definition: "how much of the night's sleep the day has not spent",
+  definition: "the hours of sleep a day keeps after the hours the day spends",
   holds: "number",
   code: "ts",
   decisions: [
@@ -16,5 +16,5 @@ export const surplusHours = {
   ],
   types: "ts",
   createdAt: "2026-09-05T18:56:42.376Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:43:10.492Z",
 } as const satisfies ComputedProperty
