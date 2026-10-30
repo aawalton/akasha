@@ -5,7 +5,7 @@ export const fitnessEquipmentAvailable = {
   type: "page-type/boolean-property",
   slug: "fitness-equipment-available",
   propertySlug: "available",
-  definition: "whether Alan can load a movement with this piece today",
+  definition: "whether Alan can use a piece of fitness equipment today",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -18,5 +18,5 @@ export const fitnessEquipmentAvailable = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:51:17.317Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:47:01.635Z",
 } as const satisfies BooleanProperty
