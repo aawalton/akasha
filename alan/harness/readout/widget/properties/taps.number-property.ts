@@ -5,9 +5,9 @@ export const taps = {
   type: "page-type/number-property",
   slug: "taps",
   propertySlug: "taps",
-  definition: "how many taps a widget has taken",
+  definition: "the number of taps on a readout widget",
   max: null,
   types: "ts",
   createdAt: "2026-09-06T21:27:27.749Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T16:05:54.801Z",
 } as const satisfies NumberProperty
