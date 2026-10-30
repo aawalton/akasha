@@ -5,6 +5,10 @@ export const narration = {
   type: "page-type/domain",
   slug: "narration",
   definition: "a chapter read aloud to Alan",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "narration" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "narrations" },
+  ],
   parts: [
     "module/window-speaking",
     "module/narration-segments",
@@ -143,5 +147,5 @@ export const narration = {
     },
   ],
   createdAt: "2026-10-05T20:21:33.528Z",
-  updatedAt: "2026-10-28T16:36:07.019Z",
+  updatedAt: "2026-10-30T16:58:26.680Z",
 } as const satisfies Domain
