@@ -5,9 +5,9 @@ export const reps = {
   type: "page-type/number-property",
   slug: "reps",
   propertySlug: "reps",
-  definition: "how many repetitions the set ran to",
+  definition: "the number of times Alan lifts the weight in a lifting set",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:21:48.925Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T16:51:49.405Z",
 } as const satisfies NumberProperty
