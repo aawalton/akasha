@@ -4,7 +4,7 @@ export const seatRecovery = {
   id: "01a0687e-5361-7000-b809-2c591fc15c79",
   type: "page-type/module",
   slug: "seat-recovery",
-  definition: "the process trees a restarted seat left behind, reaped before the seat runs again",
+  definition: "how code ends the processes a seat started before the seat was restarted",
   code: "ts",
   test: "ts",
   decisions: [
@@ -26,5 +26,5 @@ export const seatRecovery = {
     },
   ],
   createdAt: "2026-09-03T18:18:24.481Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:46:54.392Z",
 } as const satisfies Module
