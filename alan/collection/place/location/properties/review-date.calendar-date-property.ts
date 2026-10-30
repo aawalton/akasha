@@ -5,8 +5,8 @@ export const reviewDate = {
   type: "page-type/calendar-date-property",
   slug: "review-date",
   propertySlug: "review-date",
-  definition: "the day the person reviewed the place",
+  definition: "the day a person publishes something about a place",
   types: "ts",
   createdAt: "2026-09-03T04:25:23.451Z",
-  updatedAt: "2026-09-15T16:02:20.000Z",
+  updatedAt: "2026-10-30T15:21:25.369Z",
 } as const satisfies CalendarDateProperty
