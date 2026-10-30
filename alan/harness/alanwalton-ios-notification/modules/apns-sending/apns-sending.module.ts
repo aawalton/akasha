@@ -4,7 +4,7 @@ export const apnsSending = {
   id: "01a069b6-bb6b-7ca0-81b1-b62e52519bbf",
   type: "page-type/module",
   slug: "apns-sending",
-  definition: "a push handed to Apple's push service over a connection kept open",
+  definition: "how code sends a notification to the service that sends notifications to phones",
   code: "ts",
   decisions: [
     {
@@ -54,5 +54,5 @@ export const apnsSending = {
     },
   ],
   createdAt: "2026-09-03T23:59:38.347Z",
-  updatedAt: "2026-10-18T13:21:54.809Z",
+  updatedAt: "2026-10-30T16:23:15.949Z",
 } as const satisfies Module
