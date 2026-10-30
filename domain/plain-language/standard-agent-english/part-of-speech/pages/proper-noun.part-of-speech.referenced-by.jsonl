@@ -46,6 +46,7 @@
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/python.common-language-term.ts","id":"01a18d85-3d8b-7550-9c9f-2e2aaf5d34c3"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/rust.common-language-term.ts","id":"01a18d85-980d-7b1b-b931-7e83edcde42d"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/ssh.common-language-term.ts","id":"01a18d7d-360b-7246-bb88-dc01b5a21eb7"}
+{"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/swift-language.common-language-term.ts","id":"01a18d85-f4cf-7273-ba74-e0b3b0c0ad71"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/testflight.common-language-term.ts","id":"01a18d7d-57fe-7041-8568-2942211e75de"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/xcode.common-language-term.ts","id":"01a18d7b-4313-77f1-9b1c-4c20753957b4"}
 {"propertySlug":"part-of-speech","path":"infrastructure/cluster/provisioning/talos/talos.domain.ts","id":"01a06813-7b0e-79e0-ae0d-60b8f8c4a138"}
