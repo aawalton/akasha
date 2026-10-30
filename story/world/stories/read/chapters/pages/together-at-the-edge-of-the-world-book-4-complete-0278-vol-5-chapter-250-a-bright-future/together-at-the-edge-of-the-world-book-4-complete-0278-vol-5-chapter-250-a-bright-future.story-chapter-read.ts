@@ -20,5 +20,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0278Vol5Chapter250ABrightFu
     },
   ],
   createdAt: "2026-10-30T13:25:59.742Z",
-  updatedAt: "2026-10-30T13:25:59.742Z",
+  updatedAt: "2026-10-30T16:22:59.000Z",
+  ownProgress: 2681,
+  progressedAt: "2026-10-30T16:22:59.000Z",
 } as const satisfies StoryChapterRead

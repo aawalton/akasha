@@ -20,5 +20,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0214Chapter769TruthAndA
     },
   ],
   createdAt: "2026-10-30T12:23:42.387Z",
-  updatedAt: "2026-10-30T12:23:42.387Z",
+  updatedAt: "2026-10-30T16:22:59.000Z",
+  ownProgress: 3143,
+  progressedAt: "2026-10-30T16:22:59.000Z",
 } as const satisfies StoryChapterRead

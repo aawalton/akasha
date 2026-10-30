@@ -20,5 +20,7 @@ export const catGirlEvolution0184181ShoppingSpree = {
     },
   ],
   createdAt: "2026-10-30T08:21:33.982Z",
-  updatedAt: "2026-10-30T08:21:33.982Z",
+  updatedAt: "2026-10-30T16:22:59.000Z",
+  ownProgress: 2528,
+  progressedAt: "2026-10-30T16:22:59.000Z",
 } as const satisfies StoryChapterRead

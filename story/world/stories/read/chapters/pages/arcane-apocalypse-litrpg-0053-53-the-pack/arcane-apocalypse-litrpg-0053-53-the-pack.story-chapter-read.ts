@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg005353ThePack = {
     },
   ],
   createdAt: "2026-10-28T16:29:04.794Z",
-  updatedAt: "2026-10-28T16:29:04.794Z",
+  updatedAt: "2026-10-30T16:22:59.000Z",
+  ownProgress: 3717,
+  progressedAt: "2026-10-30T16:22:59.000Z",
 } as const satisfies StoryChapterRead

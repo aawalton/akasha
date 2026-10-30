@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg005252CrisisAverted = {
     },
   ],
   createdAt: "2026-10-28T16:29:04.794Z",
-  updatedAt: "2026-10-28T16:29:04.794Z",
+  updatedAt: "2026-10-30T16:22:59.000Z",
+  ownProgress: 3013,
+  progressedAt: "2026-10-30T16:22:59.000Z",
 } as const satisfies StoryChapterRead
