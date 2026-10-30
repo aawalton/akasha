@@ -5,6 +5,10 @@ export const machine = {
   type: "page-type/strength-exercise-implement",
   slug: "machine",
   definition: "a device that guides a weight along a fixed path",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "weight machine" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "weight machines" },
+  ],
   createdAt: "2026-09-12T05:26:32.283Z",
-  updatedAt: "2026-10-30T16:56:53.407Z",
+  updatedAt: "2026-10-30T17:13:59.272Z",
 } as const satisfies StrengthExerciseImplement
