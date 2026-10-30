@@ -5,7 +5,7 @@ export const emailRuleCodeDelay = {
   type: "page-type/text-property",
   slug: "email-rule-code-delay",
   propertySlug: "delay",
-  definition: "how long after mail arrives before the rule acts on it",
+  definition: "the time an email rule waits before the rule handles a new email",
   maxLength: 10,
   nameFormat: null,
   decisions: [
@@ -24,5 +24,5 @@ export const emailRuleCodeDelay = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:45:38.720Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:41:56.210Z",
 } as const satisfies TextProperty
