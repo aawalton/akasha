@@ -5,9 +5,9 @@ export const groundClearanceIn = {
   type: "page-type/number-property",
   slug: "ground-clearance-in",
   propertySlug: "ground-clearance-in",
-  definition: "how far the lowest part of the car sits above the road, in inches",
+  definition: "how far the lowest part of a car sits above the road in inches",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:41:31.379Z",
-  updatedAt: "2026-09-21T18:42:37.000Z",
+  updatedAt: "2026-10-30T14:49:50.547Z",
 } as const satisfies NumberProperty
