@@ -7,7 +7,7 @@ export const addPropertyValues = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
-  definition: "many values put into the properties their lines name, in one call",
+  definition: "a change that adds values to the properties lines name",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -190,5 +190,5 @@ export const addPropertyValues = {
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
   createdAt: "2026-09-09T23:29:59.836Z",
-  updatedAt: "2026-09-29T02:28:20.000Z",
+  updatedAt: "2026-10-30T17:10:38.265Z",
 } as const satisfies ChangeAgent
