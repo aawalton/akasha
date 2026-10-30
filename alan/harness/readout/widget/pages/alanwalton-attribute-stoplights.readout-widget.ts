@@ -4,7 +4,7 @@ export const alanwaltonAttributeStoplights = {
   id: "01a06858-8cfa-7178-8e79-50dece17aecf",
   type: "page-type/readout-widget",
   slug: "alanwalton-attribute-stoplights",
-  definition: "the tile on Alan's phone showing what each of his attributes earned today",
+  definition: "the readout widget on Alan's phone that shows the points his attributes earn today",
   app: "ios-app/alanwalton",
   component: "ios-component/alanwalton-attribute-stoplights-widget",
   kind: "AttributeStoplightsWidget",
@@ -17,5 +17,5 @@ export const alanwaltonAttributeStoplights = {
   groups: ["readout-group/attributes"],
   place: 11,
   createdAt: "2026-09-03T17:37:08.858Z",
-  updatedAt: "2026-09-16T12:37:48.000Z",
+  updatedAt: "2026-10-30T16:11:39.487Z",
 } as const satisfies ReadoutWidget
