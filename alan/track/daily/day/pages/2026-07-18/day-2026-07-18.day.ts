@@ -15,7 +15,6 @@ export const day20260718 = {
   funPoints: 0.7792,
   learnPoints: 0,
   completionSnapshot: 441546,
-  wordsReadSnapshot: 35202673,
   inboxTasks: 0,
   inboxTasksClearedToday: true,
   inboxTemperTasks: 0,
@@ -23,5 +22,5 @@ export const day20260718 = {
   completedTasks: "jsonl",
   healthSamples: "jsonl",
   createdAt: "2026-07-18T10:00:00.819Z",
-  updatedAt: "2026-10-30T16:55:01.957Z",
+  updatedAt: "2026-10-30T16:55:29.238Z",
 } as const satisfies Day
