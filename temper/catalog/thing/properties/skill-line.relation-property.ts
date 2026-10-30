@@ -5,7 +5,7 @@ export const skillLine = {
   type: "page-type/relation-property",
   slug: "skill-line",
   propertySlug: "skill-line-id",
-  definition: "the line a thing is learned from",
+  definition: "the skill line a thing is learned from",
   targetPageType: "page-type/temper-skill-line",
   decisions: [
     {
@@ -15,5 +15,5 @@ export const skillLine = {
   ],
   types: "ts",
   createdAt: "2026-09-22T21:59:21.561Z",
-  updatedAt: "2026-09-22T22:02:21.000Z",
+  updatedAt: "2026-10-30T16:44:49.832Z",
 } as const satisfies RelationProperty
