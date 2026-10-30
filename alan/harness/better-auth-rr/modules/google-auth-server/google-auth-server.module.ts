@@ -4,7 +4,7 @@ export const googleAuthServer = {
   id: "01a0bb11-44b4-71af-a75d-f347bd292d0a",
   type: "page-type/module",
   slug: "google-auth-server",
-  definition: "the Better Auth instance alanwalton.com signs a person in with, and its handler",
+  definition: "how a person signs in to alanwalton.com",
   code: "ts",
   decisions: [
     {
@@ -76,5 +76,5 @@ export const googleAuthServer = {
     },
   ],
   createdAt: "2026-09-19T19:07:46.228Z",
-  updatedAt: "2026-09-20T01:48:09.000Z",
+  updatedAt: "2026-10-30T15:36:37.735Z",
 } as const satisfies Module
