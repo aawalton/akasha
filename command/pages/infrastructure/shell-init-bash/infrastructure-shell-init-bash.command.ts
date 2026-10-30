@@ -4,7 +4,7 @@ export const infrastructureShellInitBash = {
   id: "01a0680a-fa30-7da6-aede-88d6a9a5e49a",
   type: "page-type/command",
   slug: "infrastructure-shell-init-bash",
-  definition: "the command composing the bash a terminal sources",
+  definition: "the command composing the bash a terminal reads in",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -62,5 +62,5 @@ export const infrastructureShellInitBash = {
   name: "shell-init-bash",
   arguments: [],
   createdAt: "2026-09-03T16:12:25.008Z",
-  updatedAt: "2026-09-25T14:08:24.000Z",
+  updatedAt: "2026-10-30T16:23:52.254Z",
 } as const satisfies Command
