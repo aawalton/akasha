@@ -4,7 +4,7 @@ export const lookingRefusal = {
   id: "01a18da3-6114-74af-a9ba-f91015e1f9f8",
   type: "page-type/module",
   slug: "looking-refusal",
-  definition: "how code rejects a request that changes something from a browser that looks",
+  definition: "how code rejects a request that changes something from a browser that only looks",
   code: "ts",
   test: "ts",
   decisions: [
@@ -31,5 +31,5 @@ export const lookingRefusal = {
     },
   ],
   createdAt: "2026-10-30T16:27:37.106Z",
-  updatedAt: "2026-10-30T16:27:37.106Z",
+  updatedAt: "2026-10-30T17:02:09.184Z",
 } as const satisfies Module
