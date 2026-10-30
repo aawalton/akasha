@@ -26,7 +26,11 @@ export const turnChecklistServing = {
       decisionKind: "decision-kind/departure",
       statement: "A role page an item names is found in the index by the role's slug.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each serving states on the open turn, uncommitted, the step its checklist is on.",
+    },
   ],
   createdAt: "2026-10-30T12:58:02.685Z",
-  updatedAt: "2026-10-30T15:38:23.605Z",
+  updatedAt: "2026-10-30T18:19:08.419Z",
 } as const satisfies Module

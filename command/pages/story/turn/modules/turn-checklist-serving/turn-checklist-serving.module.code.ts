@@ -12,7 +12,9 @@ import {
 } from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
 import {
   type Checking,
+  checklistOn,
   checklistSaid,
+  type OnStep,
 } from "akasha/command/pages/story/turn/modules/turn-checklist/turn-checklist.module.code.ts"
 import {
   type Crossing,
@@ -30,6 +32,7 @@ import {
   type Reach,
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { changeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { NO_BEATS } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import { flowsOn } from "akasha/story/world/stories/played/turns/modules/turn-beating/turn-beating.module.code.ts"
 import {
@@ -51,6 +54,10 @@ import { MEMORY_OWED } from "akasha/story/world/stories/played/turns/modules/tur
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
 const STATUS = "stepStatus"
+
+const ON_STEP = "checklistStep"
+
+const ON_BEAT = "checklistBeat"
 
 const PARTED = "/"
 
@@ -77,6 +84,16 @@ export type Serving = {
   readonly crossedOf: Crossing
   readonly rolePathOf: (root: string, role: string) => string | null
   readonly textOf: (root: string, path: string) => string
+  readonly mark: (root: string, turn: string, on: OnStep) => undefined
+}
+
+function markedOn(root: string, turn: string, on: OnStep): undefined {
+  const beat = on.beat === null ? {} : { [ON_BEAT]: on.beat }
+  changeUncommitted(root, turn, (held) => {
+    const kept = Object.entries(held ?? {}).filter(([key]) => key !== ON_BEAT)
+    return { ...Object.fromEntries(kept), [ON_STEP]: on.step, ...beat }
+  })
+  return undefined
 }
 
 const SERVED: Serving = {
@@ -86,6 +103,7 @@ const SERVED: Serving = {
   crossedOf: crossedIndexed,
   rolePathOf: (root, role) => listedAt(root, rolePageType.slug, role)[0]?.path ?? null,
   textOf: (root, path) => readFileSync(join(root, path), TEXT),
+  mark: markedOn,
 }
 
 function openOf(turns: readonly Paged[]): Paged | null {
@@ -163,5 +181,7 @@ export function checklistServed(
     roles: rolesOf(serving, root),
     notice,
   }
+  const on = checklistOn(checking)
+  if (on !== null) serving.mark(root, turn.at, on)
   return checklistSaid(checking)
 }

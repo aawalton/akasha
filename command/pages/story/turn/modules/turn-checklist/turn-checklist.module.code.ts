@@ -264,6 +264,14 @@ function roleSaid(checking: Checking, item: Item): readonly string[] {
   ]
 }
 
+export type OnStep = { readonly step: string; readonly beat: number | null }
+
+export function checklistOn(checking: Checking): OnStep | null {
+  const next = itemsOf(checking).find((one) => !one.done)
+  if (next === undefined) return null
+  return { step: next.label, beat: next.beat ?? null }
+}
+
 export function checklistSaid(checking: Checking): string {
   const items = itemsOf(checking)
   const next = items.find((one) => !one.done)

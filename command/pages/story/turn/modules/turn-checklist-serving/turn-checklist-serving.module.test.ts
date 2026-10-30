@@ -23,7 +23,12 @@ const staff = (slug: string, kind: string) => ({
   instructionsAt: `story/${kind}/pages/${slug}.story-${kind}.instructions.md`,
 })
 
-const servingOf = (turns: readonly ReturnType<typeof pagedOf>[]): Serving => ({
+type Marked = { readonly turn: string; readonly step: string; readonly beat: number | null }
+
+const servingOf = (
+  turns: readonly ReturnType<typeof pagedOf>[],
+  marked: Marked[] = []
+): Serving => ({
   reach: {
     storyOf: () => ({
       title: "The Saga",
@@ -45,6 +50,10 @@ const servingOf = (turns: readonly ReturnType<typeof pagedOf>[]): Serving => ({
   }),
   rolePathOf: (_root, role) => `agent/role/pages/${role}.role.ts`,
   textOf: () => "",
+  mark: (_root, turn, on) => {
+    marked.push({ turn, ...on })
+    return undefined
+  },
 })
 
 const CALLED = "akasha story turn advance"
@@ -57,11 +66,13 @@ test("the checklist served is the earliest turn not at player, whatever turns wa
     pagedOf("saga-00-004", 4, "beats"),
     pagedOf("saga-00-003", 3, "player"),
   ]
-  const said = checklistServed("/nowhere", "saga", CALLED, servingOf(turns))
+  const marked: Marked[] = []
+  const said = checklistServed("/nowhere", "saga", CALLED, servingOf(turns, marked))
   expect(said).toStartWith(
     `The checklist of the turn \`${atOf("saga-00-004")}\` of The Saga, at beats`
   )
   expect(said).toContain("Now: Beat 1: numbers")
+  expect(marked).toEqual([{ turn: atOf("saga-00-004"), step: "numbers", beat: 1 }])
   expect(said).toContain("--turn story-turn-played/saga-00-004 --beat 1 --recorder mechanics")
 })
 
@@ -79,13 +90,15 @@ test("a turn at game-master is told as its game master is, crossings and the pla
   expect(said).toContain("--turn story-turn-played/saga-00-004 --beats-file <path>")
 })
 
-test("a story whose every turn is at player has the seat end its turn", () => {
+test("a story whose every turn is at player has the seat end its turn, and marks no step", () => {
+  const marked: Marked[] = []
   const said = checklistServed(
     "/nowhere",
     "saga",
     CALLED,
-    servingOf([pagedOf("saga-00-004", 4, "player")])
+    servingOf([pagedOf("saga-00-004", 4, "player")], marked)
   )
+  expect(marked).toEqual([])
   expect(said).toBe(
     "Every turn of The Saga is at player with its memory in, so no item waits on this seat: end your turn, and the next turn's notice comes as a message."
   )

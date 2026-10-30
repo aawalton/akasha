@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   type Checking,
+  checklistOn,
   checklistSaid,
 } from "akasha/command/pages/story/turn/modules/turn-checklist/turn-checklist.module.code.ts"
 import { beatsOf } from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.test-fixtures.ts"
@@ -168,4 +169,24 @@ test("a turn at player owing its memory has its memory last, for the whole turn,
   expect(said).not.toContain("--beat")
   const remembered = checklistSaid({ ...owing, memoryOwed: false })
   expect(remembered).toContain("- [x] memory")
+})
+
+test("the step a checklist is on is its item to work now, named as the checklist names it", () => {
+  expect(checklistOn(CHECKING)).toEqual({ step: "prose", beat: 3 })
+  const reviewing = beatsOf(shown(1, "Mara opens the gate."), shown(2, "The hall is dark."))
+  expect(checklistOn({ ...CHECKING, flow: reviewing })).toEqual({
+    step: "review style",
+    beat: null,
+  })
+  expect(checklistOn({ ...CHECKING, status: "world-builder", flow: NO_BEATS })).toEqual({
+    step: "lore",
+    beat: null,
+  })
+  const done: Checking = {
+    ...CHECKING,
+    status: "player",
+    flow: reviewing,
+    reviewedBy: ["continuity", "style"],
+  }
+  expect(checklistOn(done)).toBeNull()
 })
