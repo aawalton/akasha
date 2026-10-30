@@ -19,7 +19,7 @@ export const cooling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The muscles to stretch are those the day's sets worked.",
+      statement: "The muscles to stretch are those the day's exercise sets worked.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -47,5 +47,5 @@ export const cooling = {
     },
   ],
   createdAt: "2026-09-19T17:29:51.658Z",
-  updatedAt: "2026-10-08T15:15:34.000Z",
+  updatedAt: "2026-10-30T17:27:19.100Z",
 } as const satisfies Module
