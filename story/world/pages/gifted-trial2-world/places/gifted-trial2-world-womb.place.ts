@@ -40,7 +40,43 @@ export const giftedTrial2WorldWomb = {
       fact: "Each morning the cult leaders talk beside her mother, and their muffled words reach Nala.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The cult's two leaders are a deep-voiced man and a dry-voiced older woman.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "They talk with the mother in Helenian, and not one word of it is English.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Through the walls the mother's voice is close and soft; the leaders' are farther and duller.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The man does most of the talking, slow and pleased; the woman cuts in short, and laughs once.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The man lays a hand on the belly as he talks, and its weight presses in through the wall.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "One word comes again and again in their talk: kerith, Helenian for vessel.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The cult calls the child it carries the kerith, the vessel for its demon.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The mother tells them the child kicked twice in the night; they take it for the demon waking.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "They speak of the birth some five months off, and the rite to greet their demon then.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-30T16:36:03.198Z",
-  updatedAt: "2026-10-30T16:36:03.198Z",
+  updatedAt: "2026-10-30T16:47:46.340Z",
 } as const satisfies Place
