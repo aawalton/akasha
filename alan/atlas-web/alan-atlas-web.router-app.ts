@@ -4,7 +4,7 @@ export const alanAtlasWeb = {
   id: "01a06582-6b30-78d1-8b0b-1d3af65a8bcd",
   type: "page-type/router-app",
   slug: "alan-atlas-web",
-  definition: "the routes Alan's map site serves to a browser",
+  definition: "the routes of the website that shows Alan's locations",
   tunnelRoutes: [
     {
       name: "atlas",
@@ -45,5 +45,5 @@ export const alanAtlasWeb = {
   ],
   toolReached: ["react-dom"],
   createdAt: "2026-09-03T04:24:01.072Z",
-  updatedAt: "2026-09-25T14:52:33.000Z",
+  updatedAt: "2026-10-30T14:47:40.340Z",
 } as const satisfies RouterApp
