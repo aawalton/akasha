@@ -5,6 +5,10 @@ export const temperKeybinding = {
   type: "page-type/page-type",
   slug: "temper-keybinding",
   definition: "the keys Alan binds one action of the game or of an add-on to",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "keybinding" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "keybindings" },
+  ],
   extends: ["page-type/temper-thing"],
   parts: [
     "boolean-property/shared-across-characters",
@@ -85,5 +89,5 @@ export const temperKeybinding = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-28T21:43:47.335Z",
-  updatedAt: "2026-10-28T21:43:47.335Z",
+  updatedAt: "2026-10-30T17:24:48.256Z",
 } as const satisfies PageType
