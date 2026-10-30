@@ -4,8 +4,7 @@ export const runSupervisor = {
   id: "01a069c8-f654-7d87-acd6-65d71f1132ff",
   type: "page-type/module",
   slug: "run-supervisor",
-  definition:
-    "the program a seat's supervisor is launched as, wiring the live session watch and rebind into it",
+  definition: "the program that runs the supervisor of a seat",
   code: "ts",
   decisions: [
     {
@@ -18,5 +17,5 @@ export const runSupervisor = {
     },
   ],
   createdAt: "2026-09-04T00:19:33.076Z",
-  updatedAt: "2026-09-24T17:08:49.000Z",
+  updatedAt: "2026-10-30T14:48:31.693Z",
 } as const satisfies Module
