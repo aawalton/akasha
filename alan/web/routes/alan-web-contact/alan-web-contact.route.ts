@@ -4,7 +4,7 @@ export const alanWebContact = {
   id: "01a08828-5d45-7bd8-a16d-6e8d242d8a4c",
   type: "page-type/route",
   slug: "alan-web-contact",
-  definition: "how a reader reaches Alan Walton",
+  definition: "how a person reaches Alan",
   code: "tsx",
   urlPath: "contact",
   decisions: [
@@ -18,5 +18,5 @@ export const alanWebContact = {
     },
   ],
   createdAt: "2026-09-09T21:52:21.829Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T17:05:24.622Z",
 } as const satisfies Route
