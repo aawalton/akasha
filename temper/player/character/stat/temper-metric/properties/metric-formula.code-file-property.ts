@@ -6,9 +6,13 @@ export const metricFormula = {
   slug: "metric-formula",
   propertySlug: "formula",
   definition: "the formula a stat is worked out by",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "metric formula" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "metric formulas" },
+  ],
   extensions: ["ts"],
   fixedExport: ["FORMULA"],
   types: "ts",
   createdAt: "2026-09-26T15:43:01.840Z",
-  updatedAt: "2026-09-26T15:48:37.000Z",
+  updatedAt: "2026-10-30T17:03:04.691Z",
 } as const satisfies CodeFileProperty

@@ -633,6 +633,7 @@
 {"propertySlug":"part-of-speech","path":"temper/player/character/character-build/build-optimization/temper-build-optimization.domain.ts","id":"01a159d5-030c-729c-9b01-a19b08594e31"}
 {"propertySlug":"part-of-speech","path":"temper/player/character/character-build/character-build.page-type.ts","id":"01a06835-fae8-7243-8c39-219aa5e07daf"}
 {"propertySlug":"part-of-speech","path":"temper/player/character/companion-build/companion-build.page-type.ts","id":"01a06835-fae8-7a27-90c7-c499c3e046cc"}
+{"propertySlug":"part-of-speech","path":"temper/player/character/stat/temper-metric/properties/metric-formula.code-file-property.ts","id":"01a0de62-56d0-72e3-ba0e-68982a628b1d"}
 {"propertySlug":"part-of-speech","path":"temper/player/progress/temper-task/temper-task.page-type.ts","id":"01a05fd3-435f-7ddd-a951-70e6e3d31e07"}
 {"propertySlug":"part-of-speech","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}
 {"propertySlug":"part-of-speech","path":"temper/web/temper-web.router-app.ts","id":"01a06401-38c0-764d-a6a9-adb737874f4b"}
