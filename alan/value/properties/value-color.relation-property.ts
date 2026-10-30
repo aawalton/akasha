@@ -5,7 +5,7 @@ export const valueColor = {
   type: "page-type/relation-property",
   slug: "value-color",
   propertySlug: "color",
-  definition: "the color always drawn for a value",
+  definition: "the color of a life value",
   targetPageType: "page-type/color",
   decisions: [
     {
@@ -15,5 +15,5 @@ export const valueColor = {
   ],
   types: "ts",
   createdAt: "2026-09-04T17:32:46.967Z",
-  updatedAt: "2026-09-22T14:00:01.000Z",
+  updatedAt: "2026-10-30T16:30:13.406Z",
 } as const satisfies RelationProperty
