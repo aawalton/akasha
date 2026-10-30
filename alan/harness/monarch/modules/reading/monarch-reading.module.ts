@@ -4,7 +4,7 @@ export const monarchReading = {
   id: "01a057fa-c464-7f2b-9f87-031b5dbedaa9",
   type: "page-type/module",
   slug: "monarch-reading",
-  definition: "the unreviewed count taken from Monarch and kept on its readout",
+  definition: "how code counts the Monarch transactions that wait for a person",
   code: "ts",
   test: "ts",
   decisions: [
@@ -76,5 +76,5 @@ export const monarchReading = {
     },
   ],
   createdAt: "2026-08-31T13:20:47.204Z",
-  updatedAt: "2026-09-25T17:30:41.000Z",
+  updatedAt: "2026-10-30T15:43:20.324Z",
 } as const satisfies Module
