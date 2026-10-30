@@ -4,7 +4,7 @@ export const esoCloneStamp = {
   id: "01a06050-639f-76e4-94da-ea05355aa7da",
   type: "page-type/module",
   slug: "eso-clone-stamp",
-  definition: "the API version the game's source clone is at",
+  definition: "the API version the clone of the game's code is at",
   code: "ts",
   test: "ts",
   decisions: [
@@ -18,5 +18,5 @@ export const esoCloneStamp = {
     },
   ],
   createdAt: "2026-09-02T04:11:16.255Z",
-  updatedAt: "2026-09-24T23:30:33.000Z",
+  updatedAt: "2026-10-30T16:21:19.104Z",
 } as const satisfies Module
