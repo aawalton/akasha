@@ -5,9 +5,9 @@ export const propositionStatus = {
   type: "page-type/select-property",
   slug: "proposition-status",
   propertySlug: "proposition-status",
-  definition: "where the statement is in being settled",
+  definition: "how far Alan has settled a proposition",
   values: ["open", "adopted", "proved", "parked"],
   types: "ts",
   createdAt: "2026-09-03T04:10:11.500Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:45:15.901Z",
 } as const satisfies SelectProperty
