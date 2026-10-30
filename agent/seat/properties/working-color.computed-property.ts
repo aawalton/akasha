@@ -5,7 +5,7 @@ export const workingColor = {
   type: "page-type/computed-property",
   slug: "working-color",
   propertySlug: "working-color",
-  definition: "the color a seat's turn state is drawn in",
+  definition: "the color a seat is shown in",
   holds: "relation",
   targetPageType: "page-type/color",
   code: "ts",
@@ -27,5 +27,5 @@ export const workingColor = {
   ],
   types: "ts",
   createdAt: "2026-09-24T15:46:34.777Z",
-  updatedAt: "2026-09-25T13:54:32.000Z",
+  updatedAt: "2026-10-30T14:37:29.493Z",
 } as const satisfies ComputedProperty
