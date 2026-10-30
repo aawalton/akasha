@@ -17,7 +17,8 @@
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/status-bar-composing/status-bar-composing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"alan/harness/readout/modules/reading/readout-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"alan/harness/readout/modules/reading/readout-reading.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"alan/harness/reminder-system/reminder/modules/sending/reminder-sending.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"alan/harness/reminder-system/reminder/modules/arming/reminder-arming.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"alan/harness/reminder-system/reminder/modules/removing/reminder-removing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"alan/music/spotify/modules/budget/spotify-budget.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"alan/music/spotify/modules/budget/spotify-budget.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"alan/track/daily/modules/day-messages-mining/day-messages-mining.module.code.ts","typed":false,"deferred":false}

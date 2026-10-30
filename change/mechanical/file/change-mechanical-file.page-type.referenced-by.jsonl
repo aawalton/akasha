@@ -12,7 +12,7 @@
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"alan/harness/monarch/modules/land-files/monarch-land-files.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"alan/harness/reminder-system/reminder/modules/sending/reminder-sending.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"alan/harness/reminder-system/reminder/modules/removing/reminder-removing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"alan/track/modules/landing/track-landing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/agent/file-content/remove-property-value/remove-property-value.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/agent/file/move-pages-under/move-pages-under.change-agent.code.ts","typed":false,"deferred":false}

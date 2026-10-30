@@ -13,7 +13,10 @@ export const reminder = {
   mortal: true,
   parts: [
     "instant-property/next-at",
-    "module/reminder-sending",
+    "module/reminder-arming",
+    "module/reminder-listing",
+    "module/reminder-next-time",
+    "module/reminder-removing",
     "relation-property/sent-from",
     "relation-property/sent-to",
     "text-property/reminder-schedule",
@@ -65,5 +68,5 @@ export const reminder = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-01T23:16:51.649Z",
-  updatedAt: "2026-10-30T16:05:16.397Z",
+  updatedAt: "2026-10-30T16:31:23.274Z",
 } as const satisfies PageType

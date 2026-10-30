@@ -1093,7 +1093,10 @@
 {"propertySlug":"decision-kind","path":"alan/harness/recurrence/recurrence.domain.ts","id":"01a05c6f-c7c2-7806-b684-baa6549863dc"}
 {"propertySlug":"decision-kind","path":"alan/harness/reminder-system/modules/due-reminder-sending/due-reminder-sending.module.ts","id":"01a0686a-7a57-78a3-96ed-968543d56042"}
 {"propertySlug":"decision-kind","path":"alan/harness/reminder-system/reminder-system.domain.ts","id":"01a05f42-d941-7000-8906-8852e706c156"}
-{"propertySlug":"decision-kind","path":"alan/harness/reminder-system/reminder/modules/sending/reminder-sending.module.ts","id":"01a05f4b-4a6f-7000-b814-4d63f9e06e66"}
+{"propertySlug":"decision-kind","path":"alan/harness/reminder-system/reminder/modules/arming/reminder-arming.module.ts","id":"01a18da6-d48a-7cc4-9ae6-8a7a6f246f47"}
+{"propertySlug":"decision-kind","path":"alan/harness/reminder-system/reminder/modules/listing/reminder-listing.module.ts","id":"01a18da6-d48b-74c9-ae84-f21ac64e9f62"}
+{"propertySlug":"decision-kind","path":"alan/harness/reminder-system/reminder/modules/next-time/reminder-next-time.module.ts","id":"01a18da6-d48b-70f2-a944-71842374185f"}
+{"propertySlug":"decision-kind","path":"alan/harness/reminder-system/reminder/modules/removing/reminder-removing.module.ts","id":"01a18da6-d48b-7159-95f0-57f1f6386f6e"}
 {"propertySlug":"decision-kind","path":"alan/harness/reminder-system/reminder/properties/next-at.instant-property.ts","id":"01a05f42-d941-7005-9b78-ea153ee9fc0f"}
 {"propertySlug":"decision-kind","path":"alan/harness/reminder-system/reminder/properties/reminder-schedule.text-property.ts","id":"01a05f42-d941-7006-a1ef-7866d346525a"}
 {"propertySlug":"decision-kind","path":"alan/harness/reminder-system/reminder/properties/reminder-text.text-property.ts","id":"01a05f42-d941-7004-bf1f-acc8c93bb270"}

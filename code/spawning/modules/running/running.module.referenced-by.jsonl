@@ -26,7 +26,7 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/subagent/modules/page-asking/subagent-page-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"alan/harness/mobile-cli/modules/git-tree-hash/git-tree-hash.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"running.module.code.ts","path":"alan/harness/reminder-system/reminder/modules/sending/reminder-sending.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"running.module.code.ts","path":"alan/harness/reminder-system/reminder/modules/next-time/reminder-next-time.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"alan/harness/web-build-version/modules/build-sha-define/build-sha-define.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"change/modules/tree-searching/tree-searching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"check/code/pages/browser-code-compiles/modules/route-typegen/route-typegen.module.code.ts","typed":false,"deferred":false}

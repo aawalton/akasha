@@ -2,11 +2,13 @@ import { writeMessage } from "akasha/agent/message/modules/sending/agent-message
 import {
   armedAt,
   armFor,
+} from "akasha/alan/harness/reminder-system/reminder/modules/arming/reminder-arming.module.code.ts"
+import {
   everyReminder,
   type Found,
-  nextElapse,
-  tookReminder,
-} from "akasha/alan/harness/reminder-system/reminder/modules/sending/reminder-sending.module.code.ts"
+} from "akasha/alan/harness/reminder-system/reminder/modules/listing/reminder-listing.module.code.ts"
+import { nextElapse } from "akasha/alan/harness/reminder-system/reminder/modules/next-time/reminder-next-time.module.code.ts"
+import { tookReminder } from "akasha/alan/harness/reminder-system/reminder/modules/removing/reminder-removing.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export function sentSaid(to: string, relPath: string): string {
