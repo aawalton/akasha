@@ -4,7 +4,7 @@ export const driveFileSchema = {
   id: "01a05bec-fc0b-71e6-99a6-f877a44350dd",
   type: "page-type/module",
   slug: "drive-file-schema",
-  definition: "the shape Drive gives a file's metadata",
+  definition: "the shape of what Google Drive sends about a file",
   code: "ts",
   decisions: [
     {
@@ -13,5 +13,5 @@ export const driveFileSchema = {
     },
   ],
   createdAt: "2026-09-01T07:44:12.811Z",
-  updatedAt: "2026-09-22T13:58:57.000Z",
+  updatedAt: "2026-10-30T15:06:59.056Z",
 } as const satisfies Module
