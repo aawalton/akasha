@@ -4,7 +4,7 @@ export const listUnsubscribe = {
   id: "01a05c0e-3731-779e-88f2-ee109ff37a60",
   type: "page-type/module",
   slug: "list-unsubscribe",
-  definition: "getting off a mailing list by the headers the mail has",
+  definition: "how code unsubscribes from the list an email comes from",
   code: "ts",
   test: "ts",
   decisions: [
@@ -39,5 +39,5 @@ export const listUnsubscribe = {
     },
   ],
   createdAt: "2026-09-01T08:20:30.641Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:20:28.626Z",
 } as const satisfies Module
