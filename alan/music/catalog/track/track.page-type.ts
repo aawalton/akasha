@@ -4,7 +4,7 @@ export const track = {
   id: "01a0a57b-23fe-7c3a-92e1-06b28a781b17",
   type: "page-type/page-type",
   slug: "track",
-  definition: "a recording and every release carrying it",
+  definition: "a recording and every release that carries that recording",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "track" },
     { partOfSpeech: "part-of-speech/noun", spelling: "tracks" },
@@ -86,5 +86,5 @@ export const track = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-15T14:31:45.918Z",
-  updatedAt: "2026-09-24T20:31:48.000Z",
+  updatedAt: "2026-10-30T16:15:42.927Z",
 } as const satisfies PageType
