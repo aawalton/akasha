@@ -13,6 +13,7 @@ export const googleCalendar = {
     "module/calendar-event-shapes",
     "module/calendar-events",
     "module/send-updates-narrowing",
+    "domain/calendar-event",
   ],
   decisions: [
     {
@@ -25,5 +26,5 @@ export const googleCalendar = {
     },
   ],
   createdAt: "2026-09-01T08:08:01.074Z",
-  updatedAt: "2026-09-24T22:01:00.000Z",
+  updatedAt: "2026-10-30T15:24:48.356Z",
 } as const satisfies Domain
