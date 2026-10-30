@@ -5,10 +5,10 @@ export const chargingNetworkAccess = {
   type: "page-type/text-property",
   slug: "charging-network-access",
   propertySlug: "charging-network-access",
-  definition: "which charging networks the make's cars can use",
+  definition: "the public chargers the cars of a car make can use",
   maxLength: 2000,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:55:06.621Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:30:53.650Z",
 } as const satisfies TextProperty
