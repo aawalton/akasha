@@ -4,7 +4,7 @@ export const spotifyAuthCli = {
   id: "01a06261-dc1d-700c-a56a-b1a6269144c7",
   type: "page-type/module",
   slug: "spotify-auth-cli",
-  definition: "what Alan runs at a terminal to authorise this client",
+  definition: "how Alan gives the music commands consent at a terminal",
   code: "ts",
   test: "ts",
   decisions: [
@@ -63,5 +63,5 @@ export const spotifyAuthCli = {
     },
   ],
   createdAt: "2026-09-02T13:49:35.645Z",
-  updatedAt: "2026-09-21T17:14:07.000Z",
+  updatedAt: "2026-10-30T16:25:04.364Z",
 } as const satisfies Module
