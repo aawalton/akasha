@@ -4,7 +4,7 @@ export const seatConversationHearing = {
   id: "01a17006-627a-7d02-aa55-f557d03b7e20",
   type: "page-type/module",
   slug: "seat-conversation-hearing",
-  definition: "how a seat's page hears the seat's conversation and turn state",
+  definition: "how a seat's page asks for the seat's conversation",
   code: "ts",
   decisions: [
     {
@@ -29,5 +29,5 @@ export const seatConversationHearing = {
     },
   ],
   createdAt: "2026-10-24T22:27:09.050Z",
-  updatedAt: "2026-10-24T22:27:09.050Z",
+  updatedAt: "2026-10-30T14:49:57.277Z",
 } as const satisfies Module
