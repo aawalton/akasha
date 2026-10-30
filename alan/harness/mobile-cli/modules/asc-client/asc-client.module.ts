@@ -4,7 +4,7 @@ export const ascClient = {
   id: "01a05cee-e560-7e4e-918a-7f897a988209",
   type: "page-type/module",
   slug: "asc-client",
-  definition: "the App Store Connect REST client that mints its own ES256 JWT from the local .p8",
+  definition: "how code sends requests to App Store Connect",
   code: "ts",
   test: "ts",
   decisions: [
@@ -50,5 +50,5 @@ export const ascClient = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:23:59.825Z",
 } as const satisfies Module
