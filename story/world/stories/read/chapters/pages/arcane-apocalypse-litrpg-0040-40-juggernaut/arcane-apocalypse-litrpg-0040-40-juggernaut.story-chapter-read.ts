@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg004040Juggernaut = {
     },
   ],
   createdAt: "2026-10-28T16:29:04.794Z",
-  updatedAt: "2026-10-28T16:29:04.794Z",
+  updatedAt: "2026-10-30T03:23:10.771Z",
+  ownProgress: 3139,
+  progressedAt: "2026-10-30T03:23:10.771Z",
 } as const satisfies StoryChapterRead
