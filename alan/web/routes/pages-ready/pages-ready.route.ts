@@ -4,7 +4,7 @@ export const pagesReady = {
   id: "01a072b4-378d-70ab-8d75-5361b4ca7293",
   type: "page-type/route",
   slug: "pages-ready",
-  definition: "whether this pod can read a page",
+  definition: "whether the code of alanwalton.com can read a page",
   code: "ts",
   test: "ts",
   urlPath: "api/pages-ready",
@@ -39,5 +39,5 @@ export const pagesReady = {
     },
   ],
   createdAt: "2026-09-05T17:53:28.461Z",
-  updatedAt: "2026-09-21T19:01:57.000Z",
+  updatedAt: "2026-10-30T17:02:19.754Z",
 } as const satisfies Route
