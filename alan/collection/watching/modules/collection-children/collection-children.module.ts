@@ -4,7 +4,7 @@ export const collectionChildren = {
   id: "01a18803-cea5-705d-b15d-36afd298a622",
   type: "page-type/module",
   slug: "collection-children",
-  definition: "the pages naming one page, drawn through the view that page's type embeds",
+  definition: "how code shows the pages under a page in the view of its type",
   code: "tsx",
   decisions: [
     {
@@ -25,5 +25,5 @@ export const collectionChildren = {
     },
   ],
   createdAt: "2026-10-29T14:15:13.316Z",
-  updatedAt: "2026-10-29T14:48:21.774Z",
+  updatedAt: "2026-10-30T15:21:30.741Z",
 } as const satisfies Module
