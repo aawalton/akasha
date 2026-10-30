@@ -8,7 +8,10 @@ export const repair = {
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "repair" },
     { partOfSpeech: "part-of-speech/noun", spelling: "repairs" },
+    { partOfSpeech: "part-of-speech/verb", spelling: "repair" },
+    { partOfSpeech: "part-of-speech/verb", spelling: "repairs" },
+    { partOfSpeech: "part-of-speech/past-participle", spelling: "repaired" },
   ],
   createdAt: "2026-10-30T15:16:52.324Z",
-  updatedAt: "2026-10-30T15:16:52.324Z",
+  updatedAt: "2026-10-30T17:18:30.023Z",
 } as const satisfies CommonLanguageTerm
