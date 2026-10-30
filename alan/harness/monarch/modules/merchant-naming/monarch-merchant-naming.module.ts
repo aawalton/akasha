@@ -4,7 +4,7 @@ export const monarchMerchantNaming = {
   id: "01a06863-264d-729e-aab5-0dd77d14abc2",
   type: "page-type/module",
   slug: "monarch-merchant-naming",
-  definition: "the merchant a transaction's own words name, drawn from the merchant pages",
+  definition: "how code finds the Monarch merchant of a Monarch transaction",
   code: "ts",
   decisions: [
     {
@@ -47,5 +47,5 @@ export const monarchMerchantNaming = {
     },
   ],
   createdAt: "2026-09-03T17:48:43.469Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:41:28.129Z",
 } as const satisfies Module
