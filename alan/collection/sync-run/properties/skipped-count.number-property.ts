@@ -5,9 +5,9 @@ export const skippedCount = {
   type: "page-type/number-property",
   slug: "skipped-count",
   propertySlug: "skipped-count",
-  definition: "how many pages a pull left as they were",
+  definition: "how many pages are skipped in a run",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T17:47:25.668Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T15:16:50.154Z",
 } as const satisfies NumberProperty
