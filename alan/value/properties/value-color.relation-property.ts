@@ -10,10 +10,10 @@ export const valueColor = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A value is drawn in this color whatever a reading against that value says.",
+      statement: "A life value is drawn in this color whatever number that life value has.",
     },
   ],
   types: "ts",
   createdAt: "2026-09-04T17:32:46.967Z",
-  updatedAt: "2026-10-30T16:30:13.406Z",
+  updatedAt: "2026-10-30T16:38:27.222Z",
 } as const satisfies RelationProperty
