@@ -5,6 +5,7 @@ export const wisdom = {
   type: "page-type/attribute",
   slug: "wisdom",
   definition: "the capacity Alan has from what Alan learns about himself",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "wisdom" }],
   pointUnit: "10,000 words added to an all-about-alan topic",
   code: "ts",
   test: "ts",
@@ -27,5 +28,5 @@ export const wisdom = {
     },
   ],
   createdAt: "2026-09-03T17:12:06.859Z",
-  updatedAt: "2026-10-30T14:45:59.811Z",
+  updatedAt: "2026-10-30T16:03:36.468Z",
 } as const satisfies Attribute
