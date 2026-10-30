@@ -5,7 +5,7 @@ export const lineSet = {
   type: "page-type/file-property",
   slug: "line-set",
   propertySlug: "line-set",
-  definition: "the lines an experiment plays, each with an id and a predicted register",
+  definition: "the messages an experiment plays to Alan",
   extensions: ["json"],
   decisions: [
     {
@@ -15,5 +15,5 @@ export const lineSet = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:20:59.817Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:56:58.086Z",
 } as const satisfies FileProperty
