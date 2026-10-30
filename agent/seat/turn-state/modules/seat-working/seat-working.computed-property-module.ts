@@ -4,7 +4,7 @@ export const seatWorking = {
   id: "01a0ed14-07ed-7558-abc4-c5cdbd32e4ee",
   type: "page-type/computed-property-module",
   slug: "seat-working",
-  definition: "whether any of a set of seats is working its turn",
+  definition: "whether any seat in a set of seats is working",
   code: "ts",
   test: "ts",
   decisions: [
@@ -22,5 +22,5 @@ export const seatWorking = {
     },
   ],
   createdAt: "2026-09-29T12:11:48.077Z",
-  updatedAt: "2026-09-29T12:11:54.000Z",
+  updatedAt: "2026-10-30T14:44:23.538Z",
 } as const satisfies ComputedPropertyModule
