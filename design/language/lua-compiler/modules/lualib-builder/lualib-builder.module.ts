@@ -4,7 +4,7 @@ export const lualibBuilder = {
   id: "01a06758-8e5e-7000-a6a2-355e374cf411",
   type: "page-type/module",
   slug: "lualib-builder",
-  definition: "the lualib TypeScript sources built into per-feature Lua code and a bundle",
+  definition: "the lualib TypeScript code built into Lua code for each feature and a bundle",
   code: "ts",
   test: "ts",
   decisions: [
@@ -47,5 +47,5 @@ export const lualibBuilder = {
     },
   ],
   createdAt: "2026-09-03T12:57:31.998Z",
-  updatedAt: "2026-09-24T22:33:35.000Z",
+  updatedAt: "2026-10-30T16:01:14.692Z",
 } as const satisfies Module
