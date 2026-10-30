@@ -67,7 +67,7 @@ export const toDo = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A to-do that has not been sorted belongs to no value.",
+      statement: "A to-do that has not been sorted belongs to no life value.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -85,5 +85,5 @@ export const toDo = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:57:44.116Z",
-  updatedAt: "2026-10-30T15:32:10.054Z",
+  updatedAt: "2026-10-30T16:39:37.198Z",
 } as const satisfies PageType
