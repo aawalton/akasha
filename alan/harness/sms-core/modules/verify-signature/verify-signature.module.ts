@@ -4,7 +4,7 @@ export const verifySignature = {
   id: "01a05b6f-999d-7522-a55b-564a85f90c43",
   type: "page-type/module",
   slug: "verify-signature",
-  definition: "whether an inbound webhook truly came from Telnyx",
+  definition: "whether a request comes from Telnyx",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -36,5 +36,5 @@ export const verifySignature = {
     },
   ],
   createdAt: "2026-09-01T05:27:15.613Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:09:47.565Z",
 } as const satisfies Module
