@@ -5,7 +5,8 @@ export const matches = {
   type: "page-type/record-property",
   slug: "matches",
   propertySlug: "matches",
-  definition: "what a rule tests a transaction against, each with the key tested and how",
+  definition:
+    "the parts of a transaction a category rule looks at and the values the rule looks for",
   properties: [
     { pageProperty: "select-property/match-key", required: true, many: false },
     { pageProperty: "select-property/match-comparison", required: true, many: false },
@@ -35,5 +36,5 @@ export const matches = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:13:47.392Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:45:46.911Z",
 } as const satisfies RecordProperty
