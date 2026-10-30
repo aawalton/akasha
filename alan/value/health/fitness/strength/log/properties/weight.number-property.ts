@@ -5,9 +5,9 @@ export const weight = {
   type: "page-type/number-property",
   slug: "weight",
   propertySlug: "weight",
-  definition: "the load on an implement, in pounds",
+  definition: "the weight in pounds of each piece Alan lifts in a lifting set",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:21:48.925Z",
-  updatedAt: "2026-09-22T10:05:53.000Z",
+  updatedAt: "2026-10-30T16:53:51.737Z",
 } as const satisfies NumberProperty
