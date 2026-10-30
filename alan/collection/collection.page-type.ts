@@ -4,7 +4,7 @@ export const collection = {
   id: "01a063de-2c60-7006-8395-50a12e499f8e",
   type: "page-type/page-type",
   slug: "collection",
-  definition: "something for a person to experience",
+  definition: "something for a person to work through",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "collection" },
     { partOfSpeech: "part-of-speech/noun", spelling: "collections" },
@@ -211,5 +211,5 @@ export const collection = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T20:44:59.872Z",
-  updatedAt: "2026-10-29T14:48:21.774Z",
+  updatedAt: "2026-10-30T15:14:23.962Z",
 } as const satisfies PageType
