@@ -5,7 +5,7 @@ export const partsStreamingOn = {
   type: "page-type/computed-property",
   slug: "parts-streaming-on",
   propertySlug: "parts-streaming-on",
-  definition: "every service the unfinished collections a collection holds stream on",
+  definition: "every streaming service that has an unfinished part of a collection",
   holds: "records",
   properties: [
     { pageProperty: "relation-property/streaming-service", required: true, many: false },
@@ -49,5 +49,5 @@ export const partsStreamingOn = {
   ],
   types: "ts",
   createdAt: "2026-10-28T20:00:00.000Z",
-  updatedAt: "2026-10-29T14:12:28.309Z",
+  updatedAt: "2026-10-30T15:19:01.626Z",
 } as const satisfies ComputedProperty
