@@ -4,7 +4,8 @@ export const promptCancel = {
   id: "01a1840e-cfea-7d4a-9646-ebdb6b4abc7d",
   type: "page-type/module",
   slug: "prompt-cancel",
-  definition: "a prompt taken back before any answer, read from the seat's screen",
+  definition:
+    "how code finds on a seat's screen a prompt canceled before the agent writes anything",
   code: "ts",
   test: "ts",
   decisions: [
@@ -34,5 +35,5 @@ export const promptCancel = {
     },
   ],
   createdAt: "2026-10-28T19:48:45.674Z",
-  updatedAt: "2026-10-28T19:48:45.674Z",
+  updatedAt: "2026-10-30T14:41:29.497Z",
 } as const satisfies Module
