@@ -4,7 +4,7 @@ export const emailZoneReaching = {
   id: "01a0a141-1f7c-70b6-9fb7-3e8b9fc5baba",
   type: "page-type/module",
   slug: "email-zone-reaching",
-  definition: "the zone's email routing rules, read from Cloudflare and written back to it",
+  definition: "how code reaches the email routing rules at Cloudflare",
   code: "ts",
   test: "ts",
   decisions: [
@@ -59,5 +59,5 @@ export const emailZoneReaching = {
     },
   ],
   createdAt: "2026-09-14T18:49:54.812Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:53:54.447Z",
 } as const satisfies Module
