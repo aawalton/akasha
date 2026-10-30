@@ -4,7 +4,7 @@ export const mechanicalChangeRunning = {
   id: "01a08165-1d8f-730e-ad94-1bd3d2d9513b",
   type: "page-type/change-runner",
   slug: "mechanical-change-running",
-  definition: "the changes a program names run in order and landed as one commit",
+  definition: "the change runner that runs a mechanical change for a program",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -154,5 +154,5 @@ export const mechanicalChangeRunning = {
     },
   ],
   createdAt: "2026-09-08T14:21:22.703Z",
-  updatedAt: "2026-10-03T18:12:37.000Z",
+  updatedAt: "2026-10-30T17:40:10.102Z",
 } as const satisfies ChangeRunner
