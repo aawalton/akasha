@@ -10,13 +10,13 @@ import { temperMetricTree } from "akasha/temper/player/progress/temper-metric-tr
 
 type Category = "buffs"
 
-export type ArchiveBoonSource = EffectSourceInterface<Category> & {
+type ArchiveBoonSource = EffectSourceInterface<Category> & {
   readonly esoAbilityId: number
   readonly name: string
   readonly description: string
 }
 
-export type ArchiveBoonCatalog = ReadonlyMap<number, ArchiveBoonSource>
+type ArchiveBoonCatalog = ReadonlyMap<number, ArchiveBoonSource>
 
 const FIELDS: readonly string[] = ["slug", "key", "title", "description", "esoAbilityId", "effects"]
 
