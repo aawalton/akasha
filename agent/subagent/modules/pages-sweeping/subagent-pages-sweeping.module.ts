@@ -4,7 +4,7 @@ export const subagentPagesSweeping = {
   id: "01a0c9f3-a507-7c30-b53a-684fdfea1f49",
   type: "page-type/module",
   slug: "subagent-pages-sweeping",
-  definition: "a sweep of the subagent pages under a seat, asked for and not waited on",
+  definition: "how code starts a program that removes the subagent pages under a seat",
   code: "ts",
   decisions: [
     {
@@ -29,5 +29,5 @@ export const subagentPagesSweeping = {
     },
   ],
   createdAt: "2026-09-22T16:29:43.047Z",
-  updatedAt: "2026-09-22T16:33:18.000Z",
+  updatedAt: "2026-10-30T14:49:23.943Z",
 } as const satisfies Module
