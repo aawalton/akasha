@@ -4,7 +4,7 @@ export const supervisorCompactDecide = {
   id: "01a0c57e-03dc-7717-9ac2-10dfd4ab8a6f",
   type: "page-type/module",
   slug: "supervisor-compact-decide",
-  definition: "whether a seat is to be asked to compact at this moment",
+  definition: "whether a supervisor asks a seat to compact",
   code: "ts",
   test: "ts",
   decisions: [
@@ -52,5 +52,5 @@ export const supervisorCompactDecide = {
     },
   ],
   createdAt: "2026-09-21T19:42:45.212Z",
-  updatedAt: "2026-09-24T17:36:54.000Z",
+  updatedAt: "2026-10-30T14:44:38.535Z",
 } as const satisfies Module
