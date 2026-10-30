@@ -7,7 +7,7 @@ export const moveFolder = {
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/folder",
   changeTargetSubtype: "change-target-subtype/folder",
-  definition: "a folder and every file under it moved to another path",
+  definition: "a change that moves a folder and every file under that folder to another path",
   code: "ts",
   test: "ts",
   decisions: [
@@ -32,5 +32,5 @@ export const moveFolder = {
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
   createdAt: "2026-09-07T14:45:18.384Z",
-  updatedAt: "2026-09-22T10:07:43.000Z",
+  updatedAt: "2026-10-30T17:12:07.280Z",
 } as const satisfies ChangeAgent
