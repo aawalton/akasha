@@ -2,9 +2,7 @@
 {"propertySlug":"import","fileName":"general-purpose.subagent-kind.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/alan-abae5ccb7f3243dff/alan-abae5ccb7f3243dff.subagent.ts","id":"01a18d58-6c1b-77c6-b112-ab2cb386bfa1"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/awen-a7eedc12b3fd8bb06/awen-a7eedc12b3fd8bb06.subagent.ts","id":"01a18d1b-268e-7b0d-b9c7-5bac1dcdfed7"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/awen-a8f702baf5b8c0a3e/awen-a8f702baf5b8c0a3e.subagent.ts","id":"01a18caf-6174-77a7-84a3-6099b45ccb2b"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/awen-a9c944410b0c29cdc/awen-a9c944410b0c29cdc.subagent.ts","id":"01a18d38-4a19-7a19-b889-d092587695d8"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/awen-aaab25e824d26a69e/awen-aaab25e824d26a69e.subagent.ts","id":"01a18d84-af94-7f13-95ad-776d3941def2"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/awen-ab3570c6f428b34a3/awen-ab3570c6f428b34a3.subagent.ts","id":"01a18d84-7f10-7888-abd2-5bcac461631c"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/ryn-a10b858a0909ee1fb/ryn-a10b858a0909ee1fb.subagent.ts","id":"01a18d6a-9a6d-7397-af4e-2828dac653de"}
@@ -18,7 +16,6 @@
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/ryn-a6737d1835e7239f4/ryn-a6737d1835e7239f4.subagent.ts","id":"01a18d87-fb2c-7bf4-b8cf-41b1740ba634"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/ryn-a683e6625d24185a9/ryn-a683e6625d24185a9.subagent.ts","id":"01a18d81-9573-70c6-b1b4-f67f2a67b206"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/ryn-a7a38922268492104/ryn-a7a38922268492104.subagent.ts","id":"01a18d54-869b-7fb0-99c7-2a4a8616969e"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/ryn-a7d27d15a924e64b3/ryn-a7d27d15a924e64b3.subagent.ts","id":"01a18d6a-c3d4-709e-9c50-e0a86d30b1ef"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/ryn-a8c57a1359cad43dc/ryn-a8c57a1359cad43dc.subagent.ts","id":"01a18d80-49b5-752b-8627-cb1f7c227e51"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/ryn-a8c914abe6efa41f9/ryn-a8c914abe6efa41f9.subagent.ts","id":"01a18d7e-3d93-78c0-ada5-9d9e93ab0df2"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/ryn-a9c3053c755174c30/ryn-a9c3053c755174c30.subagent.ts","id":"01a18d77-24de-7a7a-9ed1-ec39ca083db5"}
