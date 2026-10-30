@@ -5,7 +5,7 @@ export const plantGrams = {
   type: "page-type/number-property",
   slug: "plant-grams",
   propertySlug: "plant-grams",
-  definition: "the grams of whole plant a thing eaten contributes",
+  definition: "the grams of whole plants in something Alan has eaten",
   max: null,
   decisions: [
     {
@@ -23,5 +23,5 @@ export const plantGrams = {
   ],
   types: "ts",
   createdAt: "2026-09-03T05:00:04.619Z",
-  updatedAt: "2026-09-22T10:06:45.000Z",
+  updatedAt: "2026-10-30T16:46:46.645Z",
 } as const satisfies NumberProperty
