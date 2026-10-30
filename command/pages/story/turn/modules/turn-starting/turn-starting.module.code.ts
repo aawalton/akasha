@@ -90,7 +90,7 @@ export async function seatsStarted(
   done: string[],
   after: Told
 ) {
-  if (starts.length === 0) return
+  if (starts.length === 0 || at.story?.oneSeat === true) return
   const master = at.story?.master ?? null
   const persona = master === null ? null : (coordinatorOf(master, at.game)?.persona ?? null)
   if (master === null || persona === null) {

@@ -87,6 +87,24 @@ test("seats that are up and are sent their jobs tell nobody, and the answer says
   expect(after.report).toEqual(["sent\treviewer-flex-1", "sent\treviewer-flex-2"])
 })
 
+test("a one-seat story's move starts no seat and tells nobody", async () => {
+  const told: string[] = []
+  const started: string[] = []
+  const after: Told = { report: [], faults: [] }
+  const reach: Reach = {
+    ...refusing(told),
+    start: async (starting) => {
+      started.push(starting.role)
+      return { how: "started", name: starting.role }
+    },
+  }
+  const alone = { ...AT_REVIEWERS, story: { title: "The Saga", master: MASTER, oneSeat: true } }
+  await seatsStarted(reach, alone, STARTS, [], after)
+  expect([started, told, after.report, after.faults]).toEqual([[], [], [], []])
+  await seatsStarted(reach, AT_REVIEWERS, STARTS, [], after)
+  expect(started).toEqual(["reviewer", "reviewer"])
+})
+
 test("a mechanics job is the mechanics prompt of the recorder it names", () => {
   const at = {
     ...AT_REVIEWERS,

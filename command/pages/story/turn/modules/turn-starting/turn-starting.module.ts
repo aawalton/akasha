@@ -14,6 +14,11 @@ export const turnStarting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A one-seat story's move starts no seat, since its game master seat does each job.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A job's prompt is the same whether a started seat or a notice carries it.",
     },
     {
@@ -34,5 +39,5 @@ export const turnStarting = {
     },
   ],
   createdAt: "2026-09-30T06:40:34.869Z",
-  updatedAt: "2026-10-17T18:37:42.830Z",
+  updatedAt: "2026-10-30T12:16:54.090Z",
 } as const satisfies Module
