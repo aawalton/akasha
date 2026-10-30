@@ -4,7 +4,7 @@ export const spotifyAuth = {
   id: "01a06261-dc1d-7006-a47d-60926a2515c8",
   type: "page-type/module",
   slug: "spotify-auth",
-  definition: "an access token good right now, refreshed when it is not",
+  definition: "a Spotify token that code renews when the token is old",
   code: "ts",
   test: "ts",
   decisions: [
@@ -47,5 +47,5 @@ export const spotifyAuth = {
     },
   ],
   createdAt: "2026-09-02T13:49:35.645Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:18:43.403Z",
 } as const satisfies Module
