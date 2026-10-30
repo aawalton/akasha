@@ -8,7 +8,8 @@ export const study = {
   spellings: [
     { partOfSpeech: "part-of-speech/verb", spelling: "study" },
     { partOfSpeech: "part-of-speech/verb", spelling: "studies" },
+    { partOfSpeech: "part-of-speech/past-participle", spelling: "studied" },
   ],
   createdAt: "2026-09-25T13:02:11.054Z",
-  updatedAt: "2026-09-25T15:41:48.000Z",
+  updatedAt: "2026-10-30T16:18:36.836Z",
 } as const satisfies CommonLanguageTerm
