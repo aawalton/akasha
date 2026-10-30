@@ -10,7 +10,8 @@ export const limiting = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day's limit is worked out again each run from the sets already logged.",
+      statement:
+        "A day's limit is worked out again each run from the exercise sets already logged.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -69,13 +70,15 @@ export const limiting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every set counts toward a day, whether that set warmed Alan or worked him.",
+      statement:
+        "Every exercise set counts toward a day, whether that exercise set warmed Alan or worked him.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A set naming a movement this does not know moves the weight it states alone.",
+      statement:
+        "An exercise set naming a movement this does not know moves the weight it states alone.",
     },
   ],
-  updatedAt: "2026-10-17T12:33:49.000Z",
+  updatedAt: "2026-10-30T17:30:30.919Z",
   createdAt: "2026-09-21T13:42:03.180Z",
 } as const satisfies Module
