@@ -7,7 +7,8 @@ export const nestModules = {
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/folder",
   changeTargetSubtype: "change-target-subtype/folder",
-  definition: "every module's folder carried under a modules folder beside the page above it",
+  definition:
+    "a change that moves the folder of each module into a modules folder in its parent folder",
   takesAtMost: true,
   code: "ts",
   test: "ts",
@@ -73,5 +74,5 @@ export const nestModules = {
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
   createdAt: "2026-09-12T14:14:55.079Z",
-  updatedAt: "2026-09-24T16:09:53.000Z",
+  updatedAt: "2026-10-30T17:12:55.704Z",
 } as const satisfies ChangeAgent
