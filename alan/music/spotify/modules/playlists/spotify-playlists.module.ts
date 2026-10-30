@@ -4,7 +4,7 @@ export const spotifyPlaylists = {
   id: "01a0c4ed-a8b0-7e8c-9703-45d944d791a6",
   type: "page-type/module",
   slug: "spotify-playlists",
-  definition: "a playlist of Alan's read and kept over the Web API",
+  definition: "the tracks in a Spotify playlist that belongs to Alan",
   code: "ts",
   test: "ts",
   decisions: [
@@ -72,5 +72,5 @@ export const spotifyPlaylists = {
     },
   ],
   createdAt: "2026-09-21T17:05:04.688Z",
-  updatedAt: "2026-09-21T17:57:26.000Z",
+  updatedAt: "2026-10-30T16:23:57.574Z",
 } as const satisfies Module
