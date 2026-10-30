@@ -4,7 +4,8 @@ export const clearReadsOnContextReplaced = {
   id: "01a04fa8-2878-7000-ab4d-25b94a3d14f6",
   type: "page-type/agent-hook",
   slug: "clear-reads-on-context-replaced",
-  definition: "the hook that removes an agent's readings when the agent starts a new context",
+  definition:
+    "the hook that removes the list of files read by an agent when the agent starts a new context",
   code: "ts",
   test: "ts",
   runsAt: ["SessionStart"],
@@ -162,5 +163,5 @@ export const clearReadsOnContextReplaced = {
     },
   ],
   createdAt: "2026-08-29T22:33:35.608Z",
-  updatedAt: "2026-09-25T17:56:11.000Z",
+  updatedAt: "2026-10-30T16:44:59.956Z",
 } as const satisfies AgentHook
