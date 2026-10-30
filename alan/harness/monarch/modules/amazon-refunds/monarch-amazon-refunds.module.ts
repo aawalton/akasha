@@ -4,7 +4,7 @@ export const monarchAmazonRefunds = {
   id: "01a06868-1535-7f8d-b4a1-c65d6300210e",
   type: "page-type/module",
   slug: "monarch-amazon-refunds",
-  definition: "the Amazon refund notices matched to credits and written on as notes",
+  definition: "how code writes a note on the Monarch transaction of each Amazon refund",
   code: "ts",
   decisions: [
     {
@@ -39,5 +39,5 @@ export const monarchAmazonRefunds = {
     },
   ],
   createdAt: "2026-09-03T17:54:06.773Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:45:52.691Z",
 } as const satisfies Module
