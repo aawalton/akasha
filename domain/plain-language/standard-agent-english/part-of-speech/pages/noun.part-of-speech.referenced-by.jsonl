@@ -136,6 +136,7 @@
 {"propertySlug":"part-of-speech","path":"alan/requests-web/alan-requests-web.router-app.ts","id":"01a0c537-ba4f-70c8-8138-07fe3a3ea045"}
 {"propertySlug":"part-of-speech","path":"alan/romance/romance.domain.ts","id":"01a0673a-bc3a-7005-88bf-8400c8981697"}
 {"propertySlug":"part-of-speech","path":"alan/self-care/arousal/arousal.domain.ts","id":"01a06c95-1991-726a-8273-86c28202a2f2"}
+{"propertySlug":"part-of-speech","path":"alan/self/life-theme/life-theme.page-type.ts","id":"01a06575-c2c0-7479-ae1f-92956ac3d48e"}
 {"propertySlug":"part-of-speech","path":"alan/self/self.domain.ts","id":"01a06576-0000-7000-8000-000000000101"}
 {"propertySlug":"part-of-speech","path":"alan/style/style.domain.ts","id":"01a065a0-140b-7657-b6e6-589ac95defd6"}
 {"propertySlug":"part-of-speech","path":"alan/track/daily/day/day.page-type.ts","id":"01a05fd8-c30f-72ee-80d9-eb1c179b8359"}

@@ -4,7 +4,11 @@ export const lifeTheme = {
   id: "01a06575-c2c0-7479-ae1f-92956ac3d48e",
   type: "page-type/page-type",
   slug: "life-theme",
-  definition: "a stretch of Alan's life given over to one of his values",
+  definition: "a time in Alan's life that is given to a value Alan has",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "life theme" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "life themes" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "calendar-date-property/end-date",
@@ -34,5 +38,5 @@ export const lifeTheme = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:10:11.520Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:26:59.866Z",
 } as const satisfies PageType
