@@ -5,7 +5,7 @@ export const streamingFree = {
   type: "page-type/boolean-property",
   slug: "streaming-free",
   propertySlug: "free",
-  definition: "whether anyone watches a streaming service free, with ads",
+  definition: "whether a streaming service has a tier with ads and no price",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -18,5 +18,5 @@ export const streamingFree = {
   ],
   types: "ts",
   createdAt: "2026-10-28T20:27:56.630Z",
-  updatedAt: "2026-10-28T20:27:56.630Z",
+  updatedAt: "2026-10-30T15:27:32.080Z",
 } as const satisfies BooleanProperty
