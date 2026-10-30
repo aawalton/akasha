@@ -5,7 +5,7 @@ export const stillPath = {
   type: "page-type/text-property",
   slug: "still-path",
   propertySlug: "still-path",
-  definition: "the path to a frame taken from an episode",
+  definition: "the path to an image from an episode's video",
   maxLength: 100,
   nameFormat: null,
   decisions: [
@@ -16,5 +16,5 @@ export const stillPath = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:49:41.897Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-30T15:08:18.859Z",
 } as const satisfies TextProperty
