@@ -10,11 +10,15 @@ export const seatAkashaHistory = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat is read from the newest commit that wrote its page.",
+      statement: "A seat is read from the commit its root is on.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat's moment is the time of the commit that wrote that seat.",
+      statement: "No history is walked, since a seat page taken away holds nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat's moment is when its page says its committed values last changed.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -34,13 +38,12 @@ export const seatAkashaHistory = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement:
-        "Git history is walked by the path a seat page had rather than by the seat page type.",
+      statement: "A commit is read by the path a seat page had rather than by the seat page type.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "History is walked over the folder the seats sit in now and every folder they sat in before.",
+        "A commit is read over the folder the seats sit in now and every folder they sat in before.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -65,5 +68,5 @@ export const seatAkashaHistory = {
     },
   ],
   createdAt: "2026-09-03T22:00:32.641Z",
-  updatedAt: "2026-09-25T17:55:18.000Z",
+  updatedAt: "2026-10-30T14:54:42.446Z",
 } as const satisfies Module

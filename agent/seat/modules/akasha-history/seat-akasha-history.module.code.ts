@@ -28,52 +28,36 @@ function gitAt(root: string, args: readonly string[]): string | null {
   return done.code === 0 ? done.out : null
 }
 
-function valuesAt(root: string, commit: string, path: string): Record<string, unknown> | null {
+const UPDATED_AT = "updatedAt"
+
+interface HeldValues {
+  readonly atMs: number
+  readonly values: Record<string, unknown>
+}
+
+function momentOf(page: Record<string, unknown>): number {
+  const said = page[UPDATED_AT]
+  const ms = typeof said === "string" ? Date.parse(said) : Number.NaN
+  return Number.isFinite(ms) ? ms : 0
+}
+
+function valuesAt(root: string, commit: string, path: string): HeldValues | null {
   const text = gitAt(root, ["show", `${commit}:${path}`])
   if (text === null || text === "") return null
   const held = loadedFrom(text)
   if (held.failed !== null || held.value === null) return null
-  return underOldKeys(held.value as Record<string, unknown>)
+  const page = held.value as Record<string, unknown>
+  return { atMs: momentOf(page), values: underOldKeys(page) }
 }
 
-interface Wrote {
-  readonly commit: string
-  readonly atMs: number
-  readonly gone: boolean
-}
-
-const MARKED_OFF = "\t"
-
-const TAKEN_AWAY = "D"
-
-function newestPerPath(root: string): readonly (readonly [string, Wrote])[] {
-  const log = gitAt(root, [
-    "log",
-    "--format=%H %ct",
-    "--name-status",
-    "--no-renames",
-    "--",
-    ...foldersOf(root),
-  ])
-  const found = new Map<string, Wrote>()
-  if (log === null) return []
-  let at = { commit: "", atMs: 0 }
-  for (const line of log.split("\n")) {
-    const said = line.trim()
-    if (said === "") continue
-    const marked = said.indexOf(MARKED_OFF)
-    if (marked < 0) {
-      const split = said.indexOf(" ")
-      if (split <= 0) continue
-      const seconds = Number.parseInt(said.slice(split + 1), 10)
-      at = { commit: said.slice(0, split), atMs: Number.isFinite(seconds) ? seconds * 1000 : 0 }
-      continue
-    }
-    const path = said.slice(marked + 1)
-    if (!path.endsWith(SUFFIX) || found.has(path)) continue
-    found.set(path, { ...at, gone: said.startsWith(TAKEN_AWAY) })
+function pathsAt(root: string, commit: string): readonly string[] {
+  const found: string[] = []
+  for (const folder of foldersOf(root)) {
+    const listed = gitAt(root, ["ls-tree", "-r", "--name-only", commit, "--", folder])
+    if (listed === null) continue
+    for (const path of listed.split("\n")) if (path.endsWith(SUFFIX)) found.push(path)
   }
-  return [...found].sort((one, two) => two[1].atMs - one[1].atMs)
+  return found
 }
 
 interface HeldReading {
@@ -87,15 +71,17 @@ function commitOn(root: string): string {
   return gitAt(root, ["rev-parse", "HEAD"])?.trim() ?? ""
 }
 
-function walkForSeats(root: string): ReadonlyMap<string, SeatInHistory> {
+function seatsAt(root: string, commit: string): ReadonlyMap<string, SeatInHistory> {
+  const read: SeatInHistory[] = []
+  for (const path of pathsAt(root, commit)) {
+    const held = valuesAt(root, commit, path)
+    if (held !== null) read.push({ commit, path, ...held })
+  }
   const byId = new Map<string, SeatInHistory>()
-  for (const [path, wrote] of newestPerPath(root)) {
-    if (wrote.gone) continue
-    const values = valuesAt(root, wrote.commit, path)
-    if (values === null) continue
-    const id = values[ID]
+  for (const seat of read.sort((one, two) => two.atMs - one.atMs)) {
+    const id = seat.values[ID]
     if (typeof id !== "string" || id === "" || byId.has(id)) continue
-    byId.set(id, { commit: wrote.commit, path, atMs: wrote.atMs, values })
+    byId.set(id, seat)
   }
   return byId
 }
@@ -104,7 +90,7 @@ function seatsInHistory(root: string): ReadonlyMap<string, SeatInHistory> {
   const onCommit = commitOn(root)
   const held = heldPerRoot.get(root)
   if (held !== undefined && held.onCommit === onCommit) return held.found
-  const found = walkForSeats(root)
+  const found = onCommit === "" ? new Map<string, SeatInHistory>() : seatsAt(root, onCommit)
   heldPerRoot.set(root, { onCommit, found })
   return found
 }
