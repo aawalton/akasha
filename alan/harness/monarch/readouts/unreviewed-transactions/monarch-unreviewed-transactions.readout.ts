@@ -23,7 +23,7 @@ export const monarchUnreviewedTransactions = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Unreviewed is counted over the year behind the reading.",
+      statement: "Unreviewed is counted over the year that ends on the day the number is taken.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -44,7 +44,7 @@ export const monarchUnreviewedTransactions = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A fault on Monarch's side or a dropped connection is asked again before the reading fails.",
+        "A fault on Monarch's side or a dropped connection is asked again before taking the number fails.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -52,7 +52,7 @@ export const monarchUnreviewedTransactions = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here caches a reading or decides when a reading is taken.",
+      statement: "Nothing here caches a number or decides when a number is taken.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -61,5 +61,5 @@ export const monarchUnreviewedTransactions = {
   ],
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   createdAt: "2026-08-30T17:15:09.786Z",
-  updatedAt: "2026-10-30T15:49:19.294Z",
+  updatedAt: "2026-10-30T17:23:01.787Z",
 } as const satisfies Readout
