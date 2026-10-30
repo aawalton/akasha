@@ -5,7 +5,7 @@ export const changeMaxCpuSeconds = {
   type: "page-type/number-property",
   slug: "change-max-cpu-seconds",
   propertySlug: "max-cpu-seconds",
-  definition: "the most processor time a run of a change may spend, in seconds",
+  definition: "the limit on the processor time a run of a change spends",
   max: null,
   decisions: [
     {
@@ -31,5 +31,5 @@ export const changeMaxCpuSeconds = {
   ],
   types: "ts",
   createdAt: "2026-09-11T16:30:51.429Z",
-  updatedAt: "2026-09-22T10:09:53.000Z",
+  updatedAt: "2026-10-30T17:34:07.405Z",
 } as const satisfies NumberProperty
