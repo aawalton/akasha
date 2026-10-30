@@ -4,7 +4,7 @@ export const seatComingBack = {
   id: "01a0a502-1586-777f-84c7-0d2a1f147ede",
   type: "page-type/module",
   slug: "seat-coming-back",
-  definition: "a seat composed again from what its page said before that page was taken away",
+  definition: "how code writes a seat's page from git",
   code: "ts",
   test: "ts",
   decisions: [
@@ -86,5 +86,5 @@ export const seatComingBack = {
     },
   ],
   createdAt: "2026-09-15T12:19:32.358Z",
-  updatedAt: "2026-09-22T16:19:35.000Z",
+  updatedAt: "2026-10-30T14:48:30.567Z",
 } as const satisfies Module
