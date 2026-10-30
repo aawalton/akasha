@@ -7,7 +7,7 @@ export const changePagePagePropertyText = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value-prose",
-  definition: "the whole value a text property of a page has, stated anew in other words",
+  definition: "a change that replaces the whole value of a text property on a page",
   code: "ts",
   test: "ts",
   decisions: [
@@ -53,5 +53,5 @@ export const changePagePagePropertyText = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-09-07T01:57:09.368Z",
-  updatedAt: "2026-09-22T10:07:43.000Z",
+  updatedAt: "2026-10-30T17:02:34.247Z",
 } as const satisfies ChangeAgent
