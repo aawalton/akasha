@@ -4,7 +4,7 @@ export const readoutGroup = {
   id: "01a05446-e75e-7657-acda-566edc2b182e",
   type: "page-type/page-type",
   slug: "readout-group",
-  definition: "the readings drawn together",
+  definition: "readouts that are shown together",
   parts: [
     "boolean-property/figure-off-scale",
     "readout-group/attributes",
@@ -50,5 +50,5 @@ export const readoutGroup = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T20:05:28.030Z",
-  updatedAt: "2026-10-18T13:32:41.384Z",
+  updatedAt: "2026-10-30T16:00:54.797Z",
 } as const satisfies PageType
