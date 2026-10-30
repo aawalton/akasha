@@ -20,7 +20,7 @@ export const weeklyBack = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is the soonest window still ahead of the moment asked in.",
+      statement: "The number is the soonest window still ahead of the moment asked in.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -28,14 +28,14 @@ export const weeklyBack = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No account with a window ahead is no reading rather than a wait of zero.",
+      statement: "No account with a window ahead is no number rather than a wait of zero.",
     },
 
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here caches a reading or decides when a reading is taken.",
+      statement: "Nothing here caches a number or decides when a number is taken.",
     },
   ],
   createdAt: "2026-09-02T20:09:28.102Z",
-  updatedAt: "2026-10-30T15:57:02.464Z",
+  updatedAt: "2026-10-30T17:17:40.935Z",
 } as const satisfies Readout
