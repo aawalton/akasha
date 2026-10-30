@@ -4,7 +4,7 @@ export const alanWebHandoverApp = {
   id: "01a0bc7e-522c-7c65-b007-81ff501f4a65",
   type: "page-type/route",
   slug: "alan-web-handover-app",
-  definition: "the code the iOS app takes away from a sign-in made in the system browser",
+  definition: "the code alanwalton.com gives the iOS app",
   code: "ts",
   urlPath: "handover/app",
   decisions: [
@@ -35,5 +35,5 @@ export const alanWebHandoverApp = {
     },
   ],
   createdAt: "2026-09-20T01:46:30.316Z",
-  updatedAt: "2026-10-24T21:47:25.567Z",
+  updatedAt: "2026-10-30T16:06:56.794Z",
 } as const satisfies Route
