@@ -4,7 +4,7 @@ export const greatCoursesSync = {
   id: "01a06829-0194-71d6-8b3b-2687352034df",
   type: "page-type/service-workstation",
   slug: "great-courses-sync",
-  definition: "the service filing a Great Courses course as a page where none represents it",
+  definition: "the service that runs the sync of The Great Courses",
   enabled: true,
   needsSecrets: false,
   systemd: {
@@ -41,5 +41,5 @@ export const greatCoursesSync = {
     },
   ],
   createdAt: "2026-09-03T16:45:12.980Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-30T15:22:01.074Z",
 } as const satisfies ServiceWorkstation
