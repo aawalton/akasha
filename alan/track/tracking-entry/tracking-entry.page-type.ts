@@ -4,7 +4,11 @@ export const trackingEntry = {
   id: "01a06827-ec0c-7c96-bc4a-ca5b59f6b38f",
   type: "page-type/page-type",
   slug: "tracking-entry",
-  definition: "a set of field values written down together",
+  definition: "a set of values of tracking fields that are written together",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "tracking entry" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "tracking entries" },
+  ],
   extends: ["page-type/page"],
   decisions: [
     {
@@ -24,5 +28,5 @@ export const trackingEntry = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:44:01.932Z",
-  updatedAt: "2026-09-22T10:05:53.000Z",
+  updatedAt: "2026-10-30T16:49:34.390Z",
 } as const satisfies PageType
