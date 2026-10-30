@@ -5,9 +5,9 @@ export const muscleFocus = {
   type: "page-type/select-property",
   slug: "muscle-focus",
   propertySlug: "muscle-focus",
-  definition: "which day of the rotation the movement belongs to",
+  definition: "the kind of training day a strength exercise belongs to",
   values: ["core", "legs", "other", "pull", "push"],
   types: "ts",
   createdAt: "2026-09-03T04:19:22.688Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:56:13.804Z",
 } as const satisfies SelectProperty
