@@ -5,9 +5,9 @@ export const frontier = {
   type: "page-type/file-property",
   slug: "frontier",
   propertySlug: "frontier",
-  definition: "where Alan's model of a topic thins",
+  definition: "the edge of what Alan knows about a topic",
   extensions: ["md"],
   types: "ts",
   createdAt: "2026-09-03T04:55:52.026Z",
-  updatedAt: "2026-09-15T16:56:11.000Z",
+  updatedAt: "2026-10-30T16:24:18.282Z",
 } as const satisfies FileProperty
