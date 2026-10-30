@@ -5,9 +5,9 @@ export const attempt = {
   type: "page-type/number-property",
   slug: "attempt",
   propertySlug: "attempt",
-  definition: "which try at a proposition a proof is, counting from one",
+  definition: "the number a proof has among the proofs of its proposition",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:20:41.000Z",
-  updatedAt: "2026-09-22T10:05:53.000Z",
+  updatedAt: "2026-10-30T16:43:36.666Z",
 } as const satisfies NumberProperty
