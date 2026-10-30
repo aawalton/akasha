@@ -5,7 +5,7 @@ export const holdingValue = {
   type: "page-type/number-property",
   slug: "holding-value",
   propertySlug: "holding-value",
-  definition: "what the shares an account holds are worth in dollars",
+  definition: "the dollars an investment an account holds can sell for",
   max: null,
   decisions: [
     {
@@ -15,5 +15,5 @@ export const holdingValue = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:11:27.616Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:49:28.783Z",
 } as const satisfies NumberProperty
