@@ -4,7 +4,7 @@ export const monarchCategorize = {
   id: "01a06865-ecc3-728c-8068-f1a0461fa6d7",
   type: "page-type/module",
   slug: "monarch-categorize",
-  definition: "a category set on a transaction, in Monarch and in our copy alike",
+  definition: "how code writes a Monarch category on a Monarch transaction in Monarch and akasha",
   code: "ts",
   decisions: [
     {
@@ -39,5 +39,5 @@ export const monarchCategorize = {
     },
   ],
   createdAt: "2026-09-03T17:51:45.347Z",
-  updatedAt: "2026-09-22T00:47:01.000Z",
+  updatedAt: "2026-10-30T15:34:26.165Z",
 } as const satisfies Module
