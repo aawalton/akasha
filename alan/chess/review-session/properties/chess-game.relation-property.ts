@@ -5,9 +5,9 @@ export const chessGame = {
   type: "page-type/relation-property",
   slug: "chess-game",
   propertySlug: "chess-game",
-  definition: "a session's game",
+  definition: "the game an agent goes through",
   targetPageType: "page-type/chess-game",
   types: "ts",
   createdAt: "2026-09-03T17:44:27.723Z",
-  updatedAt: "2026-09-22T13:50:37.000Z",
+  updatedAt: "2026-10-30T15:12:28.239Z",
 } as const satisfies RelationProperty
