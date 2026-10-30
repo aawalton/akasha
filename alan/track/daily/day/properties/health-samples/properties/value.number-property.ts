@@ -5,9 +5,9 @@ export const value = {
   type: "page-type/number-property",
   slug: "value",
   propertySlug: "value",
-  definition: "how much a reading measured",
+  definition: "the amount a measurement measures",
   max: null,
   types: "ts",
   createdAt: "2026-09-02T07:17:38.447Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T16:27:59.857Z",
 } as const satisfies NumberProperty
