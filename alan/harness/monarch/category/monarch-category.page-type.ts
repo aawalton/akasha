@@ -4,7 +4,7 @@ export const monarchCategory = {
   id: "01a0680a-1a00-700c-9f28-6e4a7b2d110c",
   type: "page-type/page-type",
   slug: "monarch-category",
-  definition: "what a transaction counts as, from groceries to salary",
+  definition: "a kind of transaction a budget counts",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "Monarch category" },
     { partOfSpeech: "part-of-speech/noun", spelling: "Monarch categories" },
@@ -38,5 +38,5 @@ export const monarchCategory = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:11:27.616Z",
-  updatedAt: "2026-10-30T15:32:44.836Z",
+  updatedAt: "2026-10-30T15:47:47.849Z",
 } as const satisfies PageType
