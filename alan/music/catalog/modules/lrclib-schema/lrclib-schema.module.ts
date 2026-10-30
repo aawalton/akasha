@@ -4,7 +4,7 @@ export const lrclibSchema = {
   id: "01a06262-ff4c-7003-9b41-cc6b930ce9df",
   type: "page-type/module",
   slug: "lrclib-schema",
-  definition: "the shape an LRCLIB answer takes",
+  definition: "the shape of a reply from LRCLIB",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const lrclibSchema = {
     },
   ],
   createdAt: "2026-09-02T13:50:50.188Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:27:33.330Z",
 } as const satisfies Module
