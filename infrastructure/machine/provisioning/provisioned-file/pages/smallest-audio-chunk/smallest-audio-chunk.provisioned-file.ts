@@ -4,7 +4,7 @@ export const smallestAudioChunk = {
   id: "01a0c526-fa62-791b-9dc7-6046fc96ba7d",
   type: "page-type/provisioned-file",
   slug: "smallest-audio-chunk",
-  definition: "the smallest stretch of sound the audio graph works on at a time",
+  definition: "the shortest span of sound the audio graph works on",
   content: "conf",
   placedBy: "link",
   onlyOn: "linux",
@@ -13,21 +13,23 @@ export const smallestAudioChunk = {
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
-      statement: "Every app sending sound works on the shortest stretch any one of them asks for.",
+      statement:
+        "Every app sending sound works on the shortest span of sound any one of them asks for.",
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "A shorter stretch leaves an app less room to be late before the sound breaks.",
+      statement:
+        "A shorter span of sound leaves an app less room to be late before the sound breaks.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No app takes the stretch below what is written here by asking for less.",
+      statement: "No app takes that span below what is written here by asking for less.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The stretch is set live rather than by starting the sound server again.",
+      statement: "That span is set live rather than by starting the sound server again.",
     },
   ],
   createdAt: "2026-09-21T18:07:41.154Z",
-  updatedAt: "2026-09-21T18:08:30.000Z",
+  updatedAt: "2026-10-30T17:41:43.669Z",
 } as const satisfies ProvisionedFile
