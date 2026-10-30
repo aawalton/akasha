@@ -4,7 +4,7 @@ export const testflightCut = {
   id: "01a0611b-8cc6-7a38-9968-530fd511dd04",
   type: "page-type/module",
   slug: "testflight-cut",
-  definition: "the run taking an iOS app from a pinned commit to a TestFlight build",
+  definition: "how code takes an iOS app from a commit to TestFlight",
   code: "ts",
   test: "ts",
   decisions: [
@@ -109,5 +109,5 @@ export const testflightCut = {
     },
   ],
   createdAt: "2026-09-02T07:53:10.598Z",
-  updatedAt: "2026-10-29T16:30:55.893Z",
+  updatedAt: "2026-10-30T15:46:48.494Z",
 } as const satisfies Module
