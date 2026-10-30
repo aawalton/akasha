@@ -4,7 +4,7 @@ export const notificationFeed = {
   id: "01a06861-e7cd-7f8b-a674-034ea5efe956",
   type: "page-type/page-type",
   slug: "notification-feed",
-  definition: "everything akasha has pushed at a person",
+  definition: "the notifications sent to a person",
   extends: ["page-type/page"],
   parts: [
     "instant-property/notification-read-at",
@@ -48,5 +48,5 @@ export const notificationFeed = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T17:47:21.933Z",
-  updatedAt: "2026-09-24T18:02:20.000Z",
+  updatedAt: "2026-10-30T15:50:53.701Z",
 } as const satisfies PageType
