@@ -98,6 +98,14 @@ const CALLS: Calls = {
   write: (asked) => writingFor(asked),
 }
 
+async function landedAlready(game: string, made: Made, calls: Calls): Promise<boolean> {
+  if ("refused" in made) return false
+  const turns = await calls.ask(latestAsked(game))
+  if ("refused" in turns) return false
+  const row = turns.rows.find((one) => one[SLUG] === made.slug)
+  return row !== undefined && row[ACTION] === made.values[ACTION]
+}
+
 async function heldBack(game: string, before: string, calls: Calls): Promise<boolean> {
   const turns = await calls.ask(latestAsked(game))
   return !("refused" in turns) && holdsBack(turns.rows.find((row) => row[SLUG] === before))
@@ -308,7 +316,9 @@ export async function turnMadeFor(
         : { ...turn, fresh: true, values: { ...made.values, ...roleplay.values } },
     ],
   })
-  if ("refused" in wrote) return { kind: "unread", why: wrote.refused }
+  if ("refused" in wrote && !(await landedAlready(game, made, calls))) {
+    return { kind: "unread", why: wrote.refused }
+  }
   const played = roleplay.values[ROLEPLAYED] === true
   const back = made.waits === true && (joins || (await heldBack(game, latest.slug, calls)))
   const waits = back ? { waits: true as const } : {}
@@ -347,7 +357,9 @@ async function firstTurnMadeFor(game: string, action: string, calls: Calls): Pro
     message: `${made.slug} is made from the player's action, as ${game}'s first turn`,
     pages: [{ ...page, values: made.values }],
   })
-  if ("refused" in wrote) return { kind: "unread", why: wrote.refused }
+  if ("refused" in wrote && !(await landedAlready(game, made, calls))) {
+    return { kind: "unread", why: wrote.refused }
+  }
   return { kind: "made", slug: made.slug, at, roleplayed: false }
 }
 

@@ -115,6 +115,32 @@ test("an action writes the next turn as new, beside the turn before it", async (
   ])
 })
 
+const PAGE_ALREADY = "`story-turn-played/the-saga-00-003` is a page already"
+
+function callsAnsweredLate(after: readonly Record<string, unknown>[]): Calls {
+  const asked = [[turnRow(2, "player")], after]
+  const turns = (query: Query) => (query.pageTypeSlug === storyTurnPlayed.slug ? asked.shift() : [])
+  return {
+    ...callsFlowing([], []),
+    ask: async (query) => ({ rows: turns(query) ?? [], n: 1 }),
+    write: async () => ({ refused: PAGE_ALREADY }),
+  }
+}
+
+test("a turn that landed though its write was answered refused is made", async () => {
+  const landed = turnRow(3, "world-builder", { action: "I open the gate" })
+  const made = await turnMadeFor(GAME, "I open the gate", callsAnsweredLate([landed]))
+  expect(made).toMatchObject({ kind: "made", slug: "the-saga-00-003" })
+})
+
+test("a refused write whose turn is not there with the action is unread", async () => {
+  const other = turnRow(3, "world-builder", { action: "I close the gate" })
+  const made = await turnMadeFor(GAME, "I open the gate", callsAnsweredLate([other]))
+  expect(made).toEqual({ kind: "unread", why: PAGE_ALREADY })
+  const none = await turnMadeFor(GAME, "I open the gate", callsAnsweredLate([turnRow(2, "player")]))
+  expect(none).toEqual({ kind: "unread", why: PAGE_ALREADY })
+})
+
 test("an action while the last turn is being made writes nothing", async () => {
   const wrote: Writing[] = []
   const made = await turnMadeFor(GAME, "I open the gate", callsOver("writer", wrote))

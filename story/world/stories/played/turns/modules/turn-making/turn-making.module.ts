@@ -26,6 +26,14 @@ export const turnMaking = {
       statement: "A turn copies the story and the unit the latest turn states.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "A write sent again after its answer ran out is refused, though the first landed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "So a turn found landed with its action is made, though its write was refused.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "An action sent while the latest turn's beats flow makes the next turn at once.",
     },
@@ -112,5 +120,5 @@ export const turnMaking = {
     },
   ],
   createdAt: "2026-09-26T17:39:09.550Z",
-  updatedAt: "2026-10-30T14:53:12.355Z",
+  updatedAt: "2026-10-30T17:28:26.917Z",
 } as const satisfies Module
