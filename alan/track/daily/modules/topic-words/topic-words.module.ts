@@ -4,7 +4,7 @@ export const topicWords = {
   id: "01a06972-bd40-7000-9a84-aea39ed039e2",
   type: "page-type/module",
   slug: "topic-words",
-  definition: "the wisdom words Alan wrote and the learn-everything topics he updated on a day",
+  definition: "how code counts what Alan writes on a day",
   code: "ts",
   decisions: [
     {
@@ -99,5 +99,5 @@ export const topicWords = {
     },
   ],
   createdAt: "2026-09-03T22:45:22.368Z",
-  updatedAt: "2026-09-22T17:57:08.000Z",
+  updatedAt: "2026-10-30T16:44:43.597Z",
 } as const satisfies Module
