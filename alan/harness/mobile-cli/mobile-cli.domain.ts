@@ -33,6 +33,7 @@ export const mobileCli = {
     "module/testflight-poll",
     "page-type/mobile-cut",
     "domain/native-shell",
+    "domain/provisioning-profile",
   ],
   decisions: [
     {
@@ -90,5 +91,5 @@ export const mobileCli = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-10-30T16:00:21.352Z",
+  updatedAt: "2026-10-30T16:22:10.115Z",
 } as const satisfies Domain
