@@ -22,7 +22,8 @@ export const healthLogs = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Sleep is the stretches titled sleep, averaged over the nights holding one.",
+      statement:
+        "Sleep is the tracked sessions titled sleep, averaged over the nights holding one.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -30,9 +31,9 @@ export const healthLogs = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "A stretch still open counts toward nothing.",
+      statement: "A tracked session still open counts toward nothing.",
     },
   ],
   createdAt: "2026-10-28T18:57:02.952Z",
-  updatedAt: "2026-10-28T18:57:02.952Z",
+  updatedAt: "2026-10-30T17:42:07.984Z",
 } as const satisfies Module
