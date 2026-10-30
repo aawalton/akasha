@@ -4,7 +4,7 @@ export const orphanResourceAudit = {
   id: "01a0686c-fd2c-7005-95f0-9e6b3cfb16bd",
   type: "page-type/module",
   slug: "orphan-resource-audit",
-  definition: "the live resources a deploy manages that no source manifest names",
+  definition: "the live resources a deploy manages that no manifest in the repository names",
   code: "ts",
   test: "ts",
   decisions: [
@@ -36,5 +36,5 @@ export const orphanResourceAudit = {
     },
   ],
   createdAt: "2026-09-03T17:59:28.300Z",
-  updatedAt: "2026-09-27T14:55:11.000Z",
+  updatedAt: "2026-10-30T16:10:01.462Z",
 } as const satisfies Module
