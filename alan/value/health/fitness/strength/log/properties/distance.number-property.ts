@@ -5,9 +5,9 @@ export const distance = {
   type: "page-type/number-property",
   slug: "distance",
   propertySlug: "distance",
-  definition: "the number of miles a set covers",
+  definition: "the number of miles an exercise set covers",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T17:56:55.118Z",
-  updatedAt: "2026-10-30T16:43:52.434Z",
+  updatedAt: "2026-10-30T17:06:31.804Z",
 } as const satisfies NumberProperty
