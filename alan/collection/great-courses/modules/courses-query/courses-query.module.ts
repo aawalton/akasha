@@ -4,7 +4,7 @@ export const coursesQuery = {
   id: "01a06579-f3d9-7003-83c3-1c73c2fbe33b",
   type: "page-type/module",
   slug: "courses-query",
-  definition: "the `great-course` pages the store holds, indexed by the catalogue id each has",
+  definition: "how code finds the page that holds each course from The Great Courses",
   code: "ts",
   decisions: [
     {
@@ -13,5 +13,5 @@ export const coursesQuery = {
     },
   ],
   createdAt: "2026-09-03T04:14:46.233Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:18:26.045Z",
 } as const satisfies Module
