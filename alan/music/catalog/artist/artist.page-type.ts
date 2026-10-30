@@ -4,7 +4,7 @@ export const artist = {
   id: "01a06243-144b-7013-99b2-e1b52805e43b",
   type: "page-type/page-type",
   slug: "artist",
-  definition: "a musician whose work Alan keeps",
+  definition: "a person or a group that makes songs Alan keeps",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "artist" },
     { partOfSpeech: "part-of-speech/noun", spelling: "artists" },
@@ -19,5 +19,5 @@ export const artist = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T13:15:58.411Z",
-  updatedAt: "2026-09-22T00:11:08.000Z",
+  updatedAt: "2026-10-30T16:15:53.582Z",
 } as const satisfies PageType
