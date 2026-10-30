@@ -20,7 +20,7 @@ export const weeklyEnds = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is the soonest window still ahead of the moment asked in.",
+      statement: "The number is the soonest window still ahead of the moment asked in.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -28,18 +28,18 @@ export const weeklyEnds = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No account with a window ahead is no reading rather than a wait of zero.",
+      statement: "No account with a window ahead is no number rather than a wait of zero.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The color this reading takes is the color the weekly usage reading is shown in.",
+      statement: "The color this number takes is the color the weekly usage number is shown in.",
     },
 
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here caches a reading or decides when a reading is taken.",
+      statement: "Nothing here caches a number or decides when a number is taken.",
     },
   ],
   createdAt: "2026-09-02T20:09:28.102Z",
-  updatedAt: "2026-10-30T15:57:25.167Z",
+  updatedAt: "2026-10-30T17:18:28.954Z",
 } as const satisfies Readout
