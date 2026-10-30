@@ -4,7 +4,7 @@ export const supervisorClaudeConfig = {
   id: "01a0683e-3dbe-7012-8f94-55170087009a",
   type: "page-type/module",
   slug: "supervisor-claude-config",
-  definition: "the declared Claude config reconciled into an account's config file",
+  definition: "how code adds the config in akasha to the config file of a model account",
   code: "ts",
   test: "ts",
   decisions: [
@@ -32,5 +32,5 @@ export const supervisorClaudeConfig = {
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-09-24T16:28:05.000Z",
+  updatedAt: "2026-10-30T14:36:58.137Z",
 } as const satisfies Module
