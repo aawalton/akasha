@@ -4,7 +4,8 @@ export const smilingjennyCategorize = {
   id: "01a05bc7-0b84-7700-8d53-60de383bacaa",
   type: "page-type/readout-widget",
   slug: "smilingjenny-categorize",
-  definition: "the tile on Jenny's phone showing how many transactions are unreviewed",
+  definition:
+    "the readout widget on Jenny's phone that shows how many Monarch transactions wait for a person",
   app: "ios-app/smilingjenny",
   component: "ios-component/categorize-ring",
   kind: "CategorizeWidget",
@@ -17,5 +18,5 @@ export const smilingjennyCategorize = {
   groups: ["readout-group/categorization"],
   place: 1,
   createdAt: "2026-09-01T07:02:46.404Z",
-  updatedAt: "2026-09-15T16:23:51.000Z",
+  updatedAt: "2026-10-30T16:35:16.840Z",
 } as const satisfies ReadoutWidget
