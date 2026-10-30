@@ -15,6 +15,7 @@ export const surplus = {
     "readout/upkeep-surplus",
     "service-workstation/surplus-fall-notifier",
     "service-workstation/surplus-relay-service",
+    "module/surplus-fall-day",
   ],
   decisions: [
     {
@@ -37,5 +38,5 @@ export const surplus = {
     },
   ],
   createdAt: "2026-09-02T01:36:55.386Z",
-  updatedAt: "2026-09-25T12:36:11.000Z",
+  updatedAt: "2026-10-30T16:37:48.908Z",
 } as const satisfies Domain

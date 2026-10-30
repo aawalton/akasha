@@ -11,9 +11,11 @@ import {
   tierAt,
 } from "akasha/alan/harness/readout/modules/tier/readout-tier.computed-property-module.code.ts"
 import {
-  type Readout,
   readReading,
   readSleepHours,
+} from "akasha/alan/harness/surplus/modules/fall-day/surplus-fall-day.module.code.ts"
+import {
+  type Readout,
   resolveOneReadout,
 } from "akasha/alan/harness/surplus/modules/fall-readout/surplus-fall-readout.module.code.ts"
 import { surplusFallTicking } from "akasha/alan/harness/surplus/modules/fall-ticking/surplus-fall-ticking.module.ts"

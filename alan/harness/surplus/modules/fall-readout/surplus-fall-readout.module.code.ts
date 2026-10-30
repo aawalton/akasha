@@ -9,11 +9,7 @@ import {
   type Rung,
   rungsIn,
 } from "akasha/alan/harness/readout/modules/tier/readout-tier.computed-property-module.code.ts"
-import { sleepIn } from "akasha/alan/harness/sleep/readouts/upkeep-sleep/upkeep-sleep.readout.reading.code.ts"
 import { isTierColor } from "akasha/alan/harness/surplus/modules/fall-tier/surplus-fall-tier.module.code.ts"
-import { surplusIn } from "akasha/alan/harness/surplus/readouts/upkeep-surplus/upkeep-surplus.readout.reading.code.ts"
-import { dayValuesByDate } from "akasha/alan/track/daily/modules/day-reading/day-reading.module.code.ts"
-
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Query } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
@@ -94,16 +90,4 @@ export async function resolveOneReadout(groupSlug: string): Promise<Readout> {
     )
   }
   return { slug, label, rungs: await rungsOf(scaleSlug) }
-}
-
-export async function readReading(day: string): Promise<number | null> {
-  const values = await dayValuesByDate(day)
-  if (values === null) return null
-  return surplusIn(values)
-}
-
-export async function readSleepHours(day: string): Promise<number | null> {
-  const values = await dayValuesByDate(day)
-  if (values === null) return null
-  return sleepIn(values)
 }

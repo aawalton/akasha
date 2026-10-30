@@ -4,7 +4,7 @@ export const surplusFallReadout = {
   id: "01a0697e-ded3-77d5-9cd4-07afe269931b",
   type: "page-type/module",
   slug: "surplus-fall-readout",
-  definition: "the readout of the surplus group, its scale, and the two readings judging a day",
+  definition: "the readout of a readout group with its readout scale",
   code: "ts",
   decisions: [
     {
@@ -26,42 +26,6 @@ export const surplusFallReadout = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Both readings are keys on the day's tracking row.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The day's row is asked for through the funnel's by-date reader.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Neither read composes a query of its own.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "akasha decides a reading's meaning.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The funnel decides where the day is kept.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The surplus reading and the website's surplus tile come off one reducer.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The sleep reading and the website's sleep come off one reducer.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The whole day is asked for rather than keys the day page has nothing for.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A reducer finding nothing answers null rather than zero.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A store refusal is thrown rather than taken as a group holding no readout.",
     },
     {
@@ -70,5 +34,5 @@ export const surplusFallReadout = {
     },
   ],
   createdAt: "2026-09-03T22:58:37.395Z",
-  updatedAt: "2026-09-24T18:02:20.000Z",
+  updatedAt: "2026-10-30T16:37:48.908Z",
 } as const satisfies Module
