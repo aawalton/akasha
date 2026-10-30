@@ -4,18 +4,18 @@ export const spotifyPersonalization = {
   id: "01a06261-dc1d-700b-8dad-bfbcd632cbad",
   type: "page-type/module",
   slug: "spotify-personalization",
-  definition: "the artists and tracks Alan has heard most over a window",
+  definition: "the artists and tracks Alan hears most over a span of time",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A window is the last four weeks or the last six months or the account's whole life.",
+        "A span of time is the last four weeks or the last six months or the account's whole life.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Fifty is the most Spotify gives back for one window.",
+      statement: "Fifty is the most Spotify gives back for one span of time.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -23,9 +23,9 @@ export const spotifyPersonalization = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here compares two windows.",
+      statement: "Nothing here compares two spans of time.",
     },
   ],
   createdAt: "2026-09-02T13:49:35.645Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T17:09:49.132Z",
 } as const satisfies Module
