@@ -4,7 +4,7 @@ export const pageIcon = {
   id: "01a0e7e2-2a04-72ea-9442-507f9e453362",
   type: "page-type/module",
   slug: "page-icon",
-  definition: "the icon a page is drawn with",
+  definition: "how code chooses the icon a website shows for a page",
   code: "ts",
   test: "ts",
   decisions: [
@@ -27,5 +27,5 @@ export const pageIcon = {
     },
   ],
   createdAt: "2026-09-28T11:59:13.924Z",
-  updatedAt: "2026-09-28T11:59:23.000Z",
+  updatedAt: "2026-10-30T16:52:25.336Z",
 } as const satisfies Module
