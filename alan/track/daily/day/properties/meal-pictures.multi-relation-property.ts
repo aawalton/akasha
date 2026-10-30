@@ -5,7 +5,7 @@ export const mealPictures = {
   type: "page-type/multi-relation-property",
   slug: "meal-pictures",
   propertySlug: "meals",
-  definition: "the pictures taken of a day's meals",
+  definition: "the images of the meals Alan eats on a day",
   targetPageType: "page-type/image",
   decisions: [
     {
@@ -19,5 +19,5 @@ export const mealPictures = {
   ],
   types: "ts",
   createdAt: "2026-09-24T14:37:45.666Z",
-  updatedAt: "2026-09-24T14:39:53.000Z",
+  updatedAt: "2026-10-30T16:43:36.713Z",
 } as const satisfies MultiRelationProperty
