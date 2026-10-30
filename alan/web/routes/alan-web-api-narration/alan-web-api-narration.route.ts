@@ -4,7 +4,7 @@ export const alanWebApiNarration = {
   id: "01a10dc9-9fed-722f-898a-e143f70fb633",
   type: "page-type/route",
   slug: "alan-web-api-narration",
-  definition: "a chapter's narration opened for the signed-in person",
+  definition: "how a person starts a narration of a chapter",
   code: "ts",
   urlPath: "api/narration",
   decisions: [
@@ -22,5 +22,5 @@ export const alanWebApiNarration = {
     },
   ],
   createdAt: "2026-10-05T20:37:59.917Z",
-  updatedAt: "2026-10-05T20:38:06.000Z",
+  updatedAt: "2026-10-30T16:58:42.022Z",
 } as const satisfies Route
