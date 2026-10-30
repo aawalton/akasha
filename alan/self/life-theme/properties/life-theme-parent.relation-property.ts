@@ -5,9 +5,9 @@ export const lifeThemeParent = {
   type: "page-type/relation-property",
   slug: "life-theme-parent",
   propertySlug: "life-theme-parent",
-  definition: "this life theme's parent theme",
+  definition: "the life theme above a life theme",
   targetPageType: "page-type/life-theme",
   types: "ts",
   createdAt: "2026-09-03T04:10:11.520Z",
-  updatedAt: "2026-09-22T13:46:30.000Z",
+  updatedAt: "2026-10-30T16:28:08.417Z",
 } as const satisfies RelationProperty
