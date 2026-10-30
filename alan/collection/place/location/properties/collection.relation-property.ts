@@ -5,9 +5,9 @@ export const collection = {
   type: "page-type/relation-property",
   slug: "collection",
   propertySlug: "collection",
-  definition: "the location collection holding a place or an offer",
+  definition: "the location collection that holds a place or an offer",
   targetPageType: "page-type/location-collection",
   types: "ts",
   createdAt: "2026-09-03T04:25:23.451Z",
-  updatedAt: "2026-09-22T14:08:21.000Z",
+  updatedAt: "2026-10-30T15:14:52.791Z",
 } as const satisfies RelationProperty
