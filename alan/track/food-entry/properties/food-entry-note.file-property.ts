@@ -5,9 +5,9 @@ export const foodEntryNote = {
   type: "page-type/file-property",
   slug: "food-entry-note",
   propertySlug: "note",
-  definition: "what was eaten and how a food entry's figures were worked out",
+  definition: "a note that describes something Alan has eaten and how its numbers were found",
   extensions: ["txt"],
   types: "ts",
   createdAt: "2026-09-03T05:00:04.619Z",
-  updatedAt: "2026-09-15T16:56:11.000Z",
+  updatedAt: "2026-10-30T16:47:12.499Z",
 } as const satisfies FileProperty
