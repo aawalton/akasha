@@ -5,7 +5,7 @@ export const streamingHeld = {
   type: "page-type/boolean-property",
   slug: "streaming-held",
   propertySlug: "held",
-  definition: "whether Alan pays for a streaming service now",
+  definition: "whether Alan pays for a streaming service",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -22,5 +22,5 @@ export const streamingHeld = {
   ],
   types: "ts",
   createdAt: "2026-10-28T20:27:56.630Z",
-  updatedAt: "2026-10-28T21:25:13.619Z",
+  updatedAt: "2026-10-30T15:27:46.621Z",
 } as const satisfies BooleanProperty
