@@ -4,7 +4,7 @@ export const domainTreeHanging = {
   id: "01a0b7a0-c25d-7084-bc7a-9ba4b269d516",
   type: "page-type/module",
   slug: "domain-tree-hanging",
-  definition: "the domain tree a set of things is hung on, with every domain holding none left out",
+  definition: "a tree of things by domain",
   code: "ts",
   test: "ts",
   decisions: [
@@ -66,5 +66,5 @@ export const domainTreeHanging = {
     },
   ],
   createdAt: "2026-09-19T03:06:01.181Z",
-  updatedAt: "2026-09-25T18:31:58.000Z",
+  updatedAt: "2026-10-30T15:45:16.128Z",
 } as const satisfies Module
