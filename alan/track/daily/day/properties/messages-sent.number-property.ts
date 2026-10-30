@@ -5,7 +5,7 @@ export const messagesSent = {
   type: "page-type/number-property",
   slug: "messages-sent",
   propertySlug: "sent",
-  definition: "how many messages Alan wrote to a persona on a day",
+  definition: "the number of messages Alan sends to a persona in a day",
   max: null,
   decisions: [
     {
@@ -19,5 +19,5 @@ export const messagesSent = {
   ],
   types: "ts",
   createdAt: "2026-09-08T21:10:24.534Z",
-  updatedAt: "2026-09-22T10:06:45.000Z",
+  updatedAt: "2026-10-30T16:44:16.465Z",
 } as const satisfies NumberProperty
