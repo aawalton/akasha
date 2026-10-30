@@ -4,7 +4,7 @@ export const alanWebApiDeviceSecretMint = {
   id: "01a08836-2978-7ffe-acee-194c3ed73a89",
   type: "page-type/route",
   slug: "alan-web-api-device-secret-mint",
-  definition: "the secret a device carries afterwards",
+  definition: "a new secret for a device",
   code: "ts",
   urlPath: "api/device-secret/mint",
   decisions: [
@@ -22,5 +22,5 @@ export const alanWebApiDeviceSecretMint = {
     },
   ],
   createdAt: "2026-09-09T22:07:26.072Z",
-  updatedAt: "2026-09-22T10:06:01.000Z",
+  updatedAt: "2026-10-30T16:51:38.695Z",
 } as const satisfies Route
