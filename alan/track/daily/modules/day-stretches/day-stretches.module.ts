@@ -4,7 +4,7 @@ export const dayStretches = {
   id: "01a072fc-7da3-70be-b104-0ae0ad022e37",
   type: "page-type/module",
   slug: "day-stretches",
-  definition: "the stretches of Alan's day, taken as rows beside their own day",
+  definition: "how code reads the spans of time in Alan's days",
   code: "ts",
   decisions: [
     {
@@ -83,5 +83,5 @@ export const dayStretches = {
     },
   ],
   createdAt: "2026-09-05T19:12:24.995Z",
-  updatedAt: "2026-09-22T13:46:30.000Z",
+  updatedAt: "2026-10-30T16:48:10.365Z",
 } as const satisfies Module
