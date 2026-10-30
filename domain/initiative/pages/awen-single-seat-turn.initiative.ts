@@ -26,14 +26,25 @@ export const awenSingleSeatTurn = {
     {
       statement: "Gifted: Reborn makes its turns in one seat.",
     },
+    {
+      statement: "A one-seat turn has no pictures step, and its picture recorder never runs.",
+      workingMemory:
+        "Alan: I'd like to drop pictures from the flow, and memory should happen after the full turn is returned to the player, its less critical with a single agent thread.",
+    },
+    {
+      statement:
+        "A one-seat turn's memory is one item for the whole turn, after it reaches player.",
+      workingMemory:
+        "Memory lands where it lands now. A next action sent while it is open waits for it to land, never skipping or racing it. It is timed apart from the turn's time to player.",
+    },
   ],
   constraints: [
     "This initiative only coordinates, and subagents under its sub-initiatives do every implementation.",
     "No turn is taken in gifted-reborn, which is Alan's real save; a clone played by agents tests it.",
-    "Gifted: Reborn is switched only after a clone made a whole turn in one seat.",
+    "Gifted: Reborn is switched only after a clone turn without pictures reaches player and its memory item lands.",
     "Alan's turn still shows its beats, outcome cards and prose as a seat-graph turn shows them.",
     "Alan has approved every directive this initiative needs to land.",
   ],
   createdAt: "2026-10-30T12:00:41.177Z",
-  updatedAt: "2026-10-30T13:13:47.665Z",
+  updatedAt: "2026-10-30T14:29:50.529Z",
 } as const satisfies Initiative
