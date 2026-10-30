@@ -5,9 +5,9 @@ export const words = {
   type: "page-type/number-property",
   slug: "words",
   propertySlug: "words",
-  definition: "how many words one of a unit is worth",
+  definition: "the length of a unit in words",
   max: null,
   types: "ts",
   createdAt: "2026-09-02T20:44:59.872Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T15:19:19.030Z",
 } as const satisfies NumberProperty
