@@ -4,7 +4,7 @@ export const healthSnapshot = {
   id: "01a05c14-b11a-7001-878a-9f73d85a1b3a",
   type: "page-type/module",
   slug: "health-snapshot",
-  definition: "a summary of what an export has, and how that summary reads",
+  definition: "a summary of the Apple Health file",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const healthSnapshot = {
     },
   ],
   createdAt: "2026-09-01T08:27:35.066Z",
-  updatedAt: "2026-09-24T23:05:06.000Z",
+  updatedAt: "2026-10-30T15:41:46.664Z",
 } as const satisfies Module
