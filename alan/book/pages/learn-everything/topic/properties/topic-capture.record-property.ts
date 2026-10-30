@@ -5,7 +5,7 @@ export const topicCapture = {
   type: "page-type/record-property",
   slug: "topic-capture",
   propertySlug: "capture",
-  definition: "the transcript a topic's score was read out of, and how far it was read",
+  definition: "the part of a transcript the score of a topic was read from",
   properties: [
     { pageProperty: "text-property/capture-source", required: true, many: false },
     { pageProperty: "number-property/capture-through-line", required: true, many: false },
@@ -19,5 +19,5 @@ export const topicCapture = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:55:52.026Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:21:32.819Z",
 } as const satisfies RecordProperty
