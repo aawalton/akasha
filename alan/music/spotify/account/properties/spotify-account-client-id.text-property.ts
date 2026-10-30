@@ -5,10 +5,10 @@ export const spotifyAccountClientId = {
   type: "page-type/text-property",
   slug: "spotify-account-client-id",
   propertySlug: "client-id",
-  definition: "what names the application making a call",
+  definition: "the id Spotify gives the client that calls Spotify",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-18T23:30:21.958Z",
-  updatedAt: "2026-09-22T14:07:21.000Z",
+  updatedAt: "2026-10-30T16:30:40.255Z",
 } as const satisfies TextProperty
