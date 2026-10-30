@@ -4,7 +4,7 @@ export const ready = {
   id: "01a076c0-d7f8-7aac-8883-230f77f30349",
   type: "page-type/seat-turn-state",
   slug: "ready",
-  definition: "an agent between turns whose role is on call",
+  definition: "an idle agent whose role is on call",
   color: "color/purple",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const ready = {
     },
   ],
   createdAt: "2026-09-06T12:45:44.824Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:50:50.014Z",
 } as const satisfies SeatTurnState
