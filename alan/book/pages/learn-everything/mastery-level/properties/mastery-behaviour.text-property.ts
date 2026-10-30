@@ -5,7 +5,7 @@ export const masteryBehaviour = {
   type: "page-type/text-property",
   slug: "mastery-behaviour",
   propertySlug: "behaviour",
-  definition: "what Alan does in an interview at a rung",
+  definition: "what Alan does in an interview at a mastery level",
   maxLength: 400,
   nameFormat: null,
   decisions: [
@@ -16,5 +16,5 @@ export const masteryBehaviour = {
   ],
   types: "ts",
   createdAt: "2026-09-06T19:56:03.386Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:57:56.124Z",
 } as const satisfies TextProperty
