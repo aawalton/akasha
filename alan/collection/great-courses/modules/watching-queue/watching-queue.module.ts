@@ -4,7 +4,7 @@ export const watchingQueue = {
   id: "01a15002-1d5e-7b64-80b0-358ca1adf304",
   type: "page-type/module",
   slug: "watching-queue",
-  definition: "the courses left to watch a lecture of today, in the order the view shows them",
+  definition: "the unfinished courses with a lecture for Alan today",
   code: "ts",
   test: "ts",
   decisions: [
@@ -30,5 +30,5 @@ export const watchingQueue = {
     },
   ],
   createdAt: "2026-10-18T17:14:38.301Z",
-  updatedAt: "2026-10-19T16:50:27.976Z",
+  updatedAt: "2026-10-30T15:21:42.174Z",
 } as const satisfies Module
