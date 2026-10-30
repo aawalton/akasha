@@ -5,9 +5,9 @@ export const collectionType = {
   type: "page-type/relation-property",
   slug: "collection-type",
   propertySlug: "collection-type",
-  definition: "the kind of thing a collection gathers",
+  definition: "the kind a collection belongs to",
   targetPageType: "page-type/collection-type",
   types: "ts",
   createdAt: "2026-09-03T21:38:30.568Z",
-  updatedAt: "2026-09-15T16:30:55.000Z",
+  updatedAt: "2026-10-30T15:04:21.728Z",
 } as const satisfies RelationProperty
