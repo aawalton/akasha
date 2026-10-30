@@ -5,6 +5,7 @@ export const temperWeb = {
   type: "page-type/router-app",
   slug: "temper-web",
   definition: "the routes Temper serves to a browser",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "Temper site" }],
   tunnelRoutes: [
     {
       name: "temper",
@@ -400,5 +401,5 @@ export const temperWeb = {
     },
   ],
   createdAt: "2026-09-02T21:23:16.800Z",
-  updatedAt: "2026-10-21T14:12:41.414Z",
+  updatedAt: "2026-10-30T15:59:54.427Z",
 } as const satisfies RouterApp
