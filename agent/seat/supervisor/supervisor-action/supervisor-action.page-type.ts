@@ -4,7 +4,7 @@ export const supervisorAction = {
   id: "01a05ecf-9a12-7710-b385-fd3a09307d1d",
   type: "page-type/page-type",
   slug: "supervisor-action",
-  definition: "a thing a supervisor can be asked to do",
+  definition: "a thing a supervisor does on request",
 
   parts: [
     "module/seat-action",
@@ -40,5 +40,5 @@ export const supervisorAction = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-01T21:10:58.834Z",
-  updatedAt: "2026-10-24T22:00:07.098Z",
+  updatedAt: "2026-10-30T14:34:35.253Z",
 } as const satisfies PageType
