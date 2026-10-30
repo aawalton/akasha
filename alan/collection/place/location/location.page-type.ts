@@ -4,7 +4,7 @@ export const location = {
   id: "01a06583-acfb-78cd-80a3-4b5b464dc8ff",
   type: "page-type/page-type",
   slug: "location",
-  definition: "a place on the map somebody kept",
+  definition: "a place a person keeps",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "location" },
     { partOfSpeech: "part-of-speech/noun", spelling: "locations" },
@@ -67,5 +67,5 @@ export const location = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:25:23.451Z",
-  updatedAt: "2026-09-22T00:11:08.000Z",
+  updatedAt: "2026-10-30T15:13:58.633Z",
 } as const satisfies PageType
