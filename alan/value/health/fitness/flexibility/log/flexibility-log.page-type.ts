@@ -39,7 +39,7 @@ export const flexibilityLog = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading always has a human read of the measurement.",
+      statement: "A measurement always has its value written as text.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -50,5 +50,5 @@ export const flexibilityLog = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T03:37:55.177Z",
-  updatedAt: "2026-10-30T17:14:53.660Z",
+  updatedAt: "2026-10-30T17:15:22.316Z",
 } as const satisfies PageType
