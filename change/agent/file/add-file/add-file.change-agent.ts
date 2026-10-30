@@ -7,7 +7,7 @@ export const addFile = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file",
-  definition: "a body written at a path, judged by the checks a landing runs",
+  definition: "a change that writes a whole file at a path",
   code: "ts",
   test: "ts",
   decisions: [
@@ -56,5 +56,5 @@ export const addFile = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-09-06T18:55:34.459Z",
-  updatedAt: "2026-09-24T15:44:48.000Z",
+  updatedAt: "2026-10-30T17:06:20.536Z",
 } as const satisfies ChangeAgent
