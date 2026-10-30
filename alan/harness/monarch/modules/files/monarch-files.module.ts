@@ -4,7 +4,7 @@ export const monarchFiles = {
   id: "01a0685f-4ed9-7c80-a890-3fdd317a74d0",
   type: "page-type/module",
   slug: "monarch-files",
-  definition: "the Monarch pages inside akasha, read from the checkout rather than from a service",
+  definition: "how code reads the Monarch pages from their files",
   code: "ts",
   decisions: [
     {
@@ -56,5 +56,5 @@ export const monarchFiles = {
     },
   ],
   createdAt: "2026-09-03T17:44:31.705Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:29:01.632Z",
 } as const satisfies Module
