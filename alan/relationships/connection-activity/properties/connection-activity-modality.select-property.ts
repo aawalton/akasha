@@ -5,9 +5,9 @@ export const connectionActivityModality = {
   type: "page-type/select-property",
   slug: "connection-activity-modality",
   propertySlug: "connection-activity-modality",
-  definition: "the senses carrying an activity to him",
+  definition: "how an activity reaches Alan",
   values: ["audio", "digital-presence", "image", "presence", "text"],
   types: "ts",
   createdAt: "2026-09-03T04:37:29.998Z",
-  updatedAt: "2026-09-25T13:01:00.000Z",
+  updatedAt: "2026-10-30T16:24:49.508Z",
 } as const satisfies SelectProperty
