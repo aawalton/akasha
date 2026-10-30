@@ -5,6 +5,10 @@ export const relationProperty = {
   type: "page-type/page-type",
   slug: "relation-property",
   definition: "a page property naming another page",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "relation property" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "relation properties" },
+  ],
   icon: "arrow-up-right",
   parts: ["relation-property/target-page-type"],
   extends: ["page-type/page-property"],
@@ -49,5 +53,5 @@ export const relationProperty = {
   schema: "jsonl",
   shapes: "jsonl",
   createdAt: "2026-08-29T14:49:52.765Z",
-  updatedAt: "2026-09-24T19:54:52.000Z",
+  updatedAt: "2026-10-30T17:05:44.708Z",
 } as const satisfies PageType
