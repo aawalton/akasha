@@ -4,7 +4,7 @@ export const supervisorAgentAction = {
   id: "01a0683e-3dbe-7004-8bbe-59a26d9fc3ec",
   type: "page-type/module",
   slug: "supervisor-agent-action",
-  definition: "a running seat's answer to a restart, a deferred restart or a gateway swap",
+  definition: "how a supervisor handles each supervisor action",
   code: "ts",
   decisions: [
     {
@@ -38,5 +38,5 @@ export const supervisorAgentAction = {
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-10-24T22:00:07.098Z",
+  updatedAt: "2026-10-30T14:42:36.875Z",
 } as const satisfies Module
