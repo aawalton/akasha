@@ -5,9 +5,9 @@ export const identityStatementLevel = {
   type: "page-type/number-property",
   slug: "identity-statement-level",
   propertySlug: "identity-statement-level",
-  definition: "how far along the statement is within its rank",
+  definition: "how far Alan is with an identity statement at its identity statement rank",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:32:47.519Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T16:46:18.792Z",
 } as const satisfies NumberProperty
