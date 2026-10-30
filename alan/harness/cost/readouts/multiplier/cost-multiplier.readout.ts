@@ -14,7 +14,7 @@ export const costMultiplier = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading now is the multiplier the open block is priced at.",
+      statement: "The number this readout shows now is the multiplier the open block is priced at.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -22,15 +22,15 @@ export const costMultiplier = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A block a full level inside the safety level reads zero rather than no reading.",
+      statement: "A block a full level inside the safety level reads zero rather than no number.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No open block is no reading rather than a cost of zero.",
+      statement: "No open block is no number rather than a cost of zero.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An open block missing either level is no reading rather than a cost of zero.",
+      statement: "An open block missing either level is no number rather than a cost of zero.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -42,7 +42,7 @@ export const costMultiplier = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here caches a reading or decides when a reading is taken.",
+      statement: "Nothing here caches a number or decides when a number is taken.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -52,5 +52,5 @@ export const costMultiplier = {
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "open-block",
   createdAt: "2026-09-10T13:57:57.394Z",
-  updatedAt: "2026-10-30T15:32:26.868Z",
+  updatedAt: "2026-10-30T17:17:55.119Z",
 } as const satisfies Readout
