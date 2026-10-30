@@ -10,15 +10,15 @@ export const day = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day counts a set by this edge rather than by matching two dates.",
+      statement: "A day counts an exercise set by this edge rather than by matching two dates.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The day named is the only day a set has, and the instant says when inside that day.",
+        "The day named is the only day an exercise set has, and the instant says when inside that day.",
     },
   ],
   types: "ts",
   createdAt: "2026-09-06T17:34:21.963Z",
-  updatedAt: "2026-10-30T17:06:14.240Z",
+  updatedAt: "2026-10-30T17:21:15.945Z",
 } as const satisfies RelationProperty
