@@ -4,7 +4,7 @@ export const locationCaptureClient = {
   id: "01a06582-6b30-7bd3-9a85-c6ccf0abc52e",
   type: "page-type/module",
   slug: "location-capture-client",
-  definition: "the background location capture the phone runs and flushes to the ingest route",
+  definition: "how the phone sends the positions the phone reports to the website",
   code: "ts",
   decisions: [
     {
@@ -43,5 +43,5 @@ export const locationCaptureClient = {
     },
   ],
   createdAt: "2026-09-03T04:24:01.072Z",
-  updatedAt: "2026-09-27T12:30:19.000Z",
+  updatedAt: "2026-10-30T16:05:27.723Z",
 } as const satisfies Module
