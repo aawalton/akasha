@@ -5,6 +5,10 @@ export const shoppingItem = {
   type: "page-type/page-type",
   slug: "shopping-item",
   definition: "a thing Alan means to buy",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "shopping item" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "shopping items" },
+  ],
   extends: ["page-type/page"],
   parts: ["instant-property/shopping-item-bought-at", "relation-property/shopping-item-store"],
   properties: [
@@ -25,5 +29,5 @@ export const shoppingItem = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-19T13:08:29.054Z",
-  updatedAt: "2026-10-19T13:08:29.054Z",
+  updatedAt: "2026-10-30T15:58:49.919Z",
 } as const satisfies PageType
