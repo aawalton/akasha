@@ -4,7 +4,7 @@ export const widgetTapLink = {
   id: "01a078a5-b8d4-7914-bdf7-41f482a36806",
   type: "page-type/module",
   slug: "widget-tap-link",
-  definition: "the widget and the tap a link names, read off the link's fragment",
+  definition: "how code reads the readout widget and the tap a link carries",
   code: "ts",
   test: "ts",
   decisions: [
@@ -58,5 +58,5 @@ export const widgetTapLink = {
     },
   ],
   createdAt: "2026-09-06T21:35:21.812Z",
-  updatedAt: "2026-09-24T20:32:13.000Z",
+  updatedAt: "2026-10-30T16:06:32.949Z",
 } as const satisfies Module
