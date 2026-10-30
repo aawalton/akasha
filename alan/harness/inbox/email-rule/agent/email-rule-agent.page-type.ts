@@ -4,7 +4,7 @@ export const emailRuleAgent = {
   id: "01a06828-59d3-7dd3-b9b9-fa6dda8d02d4",
   type: "page-type/page-type",
   slug: "email-rule-agent",
-  definition: "an email rule an agent carries out",
+  definition: "an email rule an agent settles",
   extends: ["page-type/email-rule"],
   parts: ["text-property/email-rule-judgement"],
   properties: [{ pageProperty: "text-property/email-rule-judgement", required: true, many: false }],
@@ -32,5 +32,5 @@ export const emailRuleAgent = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:44:30.035Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:37:55.224Z",
 } as const satisfies PageType
