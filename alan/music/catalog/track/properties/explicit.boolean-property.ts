@@ -6,6 +6,7 @@ export const explicit = {
   slug: "explicit",
   propertySlug: "explicit",
   definition: "whether a provider marks a recording as explicit",
+  spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "explicit" }],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -14,5 +15,5 @@ export const explicit = {
   ],
   types: "ts",
   createdAt: "2026-09-15T16:22:18.611Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T17:22:40.718Z",
 } as const satisfies BooleanProperty
