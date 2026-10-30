@@ -4,7 +4,7 @@ export const oauthCallback = {
   id: "01a05bdc-e25c-702d-a46a-b2274662cd6d",
   type: "page-type/module",
   slug: "oauth-callback",
-  definition: "the redirect URI and code a consent callback URL carries",
+  definition: "what code reads from the URL Google sends to the browser after consent",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const oauthCallback = {
     },
   ],
   createdAt: "2026-09-01T07:26:37.660Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:27:59.993Z",
 } as const satisfies Module
