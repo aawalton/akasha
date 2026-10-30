@@ -4,8 +4,7 @@ export const monarchAudibleCredits = {
   id: "01a06866-06f1-7d56-8ec9-2fc9f52bc4eb",
   type: "page-type/module",
   slug: "monarch-audible-credits",
-  definition:
-    "the books Alan spent an Audible credit on, written into Monarch as the budget each moved",
+  definition: "how code writes two Monarch transactions for each book Alan buys from Audible",
   code: "ts",
   decisions: [
     {
@@ -61,5 +60,5 @@ export const monarchAudibleCredits = {
     },
   ],
   createdAt: "2026-09-03T17:51:52.049Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:48:22.389Z",
 } as const satisfies Module
