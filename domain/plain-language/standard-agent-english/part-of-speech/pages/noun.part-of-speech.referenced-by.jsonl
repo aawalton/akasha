@@ -223,6 +223,7 @@
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/credential.common-language-term.ts","id":"01a0caa2-abce-7bb2-b985-38526c85b709"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/cubic-foot.common-language-term.ts","id":"01a18d4e-95c1-7bda-9386-9df6ff1edfcd"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/dealer.common-language-term.ts","id":"01a18d59-bf4c-7085-a04f-42c20a682ae6"}
+{"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/degree.common-language-term.ts","id":"01a18d76-7961-71a4-a791-ec31804f5310"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/device.common-language-term.ts","id":"01a0d5b8-6729-741e-af49-51010e890889"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/difficulty.common-language-term.ts","id":"01a18d59-134a-7231-8d09-2741fe3ed4af"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/disk.common-language-term.ts","id":"01a0d98f-7274-7769-b26c-b2e3c0cf07da"}
@@ -233,6 +234,7 @@
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/electricity.common-language-term.ts","id":"01a18d5f-749c-70d8-83cb-ea1ff1a717a7"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/email-address.common-language-term.ts","id":"01a18d6e-ade6-709d-8829-583788f87755"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/environment-variable.common-language-term.ts","id":"01a18d48-107d-73b3-8b79-1d67652e431c"}
+{"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/equator.common-language-term.ts","id":"01a18d76-7963-7836-887b-23b84a86c07e"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/estimate.common-language-term.ts","id":"01a18d56-e4f4-73ba-af20-609c35c0516f"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/experiment.common-language-term.ts","id":"01a18d49-862b-78fb-8838-dc367fcd5629"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/failure.common-language-term.ts","id":"01a0d8e3-9aa0-7964-9b90-62a0be925a8b"}
@@ -304,6 +306,7 @@
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/power.common-language-term.ts","id":"01a18d4b-b516-7cd9-a878-4d84f77476ab"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/powertrain.common-language-term.ts","id":"01a18d49-ab24-787c-85b0-383efe344f73"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/price.common-language-term.ts","id":"01a18d46-4dd2-710c-b2c8-9aca46321875"}
+{"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/prime-meridian.common-language-term.ts","id":"01a18d76-7963-7b77-a87d-701af4a4dc7e"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/principal.common-language-term.ts","id":"01a18d6c-3c32-7c15-9d3e-23f04524d3aa"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/problem.common-language-term.ts","id":"01a0d90d-7ecc-7646-9f83-aea028100d25"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/program.common-language-term.ts","id":"01a0c982-c1e5-79dd-86e4-d00b46197d8b"}

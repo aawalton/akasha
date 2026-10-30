@@ -5,6 +5,7 @@
 {"propertySlug":"parts","path":"domain/plain-language/standard-agent-english/phrase-kind/phrase-kind.page-type.ts","id":"01a0c576-2e1a-7996-8a94-9a7d80b20c55"}
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/degree-adverb-with-a-determiner-and-a-preposition-phrase-clause.construction.ts","id":"01a18d73-493f-7cfa-9186-31ebf1514fdd"}
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/degree-adverb-with-a-manner-adverb-and-a-clause.construction.ts","id":"01a18d73-4941-7662-9d5f-d00808e2a6f0"}
+{"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/degree-adverb-with-a-measure-and-a-direction.construction.ts","id":"01a18d76-7961-70df-99b2-77a62d3b50af"}
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/degree-adverb-with-an-adjective-and-a-be-clause.construction.ts","id":"01a18d73-4942-7352-ba5b-bd05aa6a5cc8"}
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/degree-adverb-with-an-adjective-and-a-clause.construction.ts","id":"01a0d5ce-a902-7e5a-aa57-7d7f7e4b5594"}
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/free-relative-pronoun-with-a-clause.construction.ts","id":"01a0c68f-6d81-7ca8-948f-a44ea461c351"}
@@ -19,6 +20,7 @@
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/subordinating-conjunction-with-a-clause.construction.ts","id":"01a0d3d1-a8d2-77f1-885c-38b0a2833677"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/be-verb-with-a-negator-and-a-noun-phrase.construction.ts","id":"01a0d987-dcb1-79e7-802f-72d5dcd8b881"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/degree-adverb-with-a-manner-adverb-and-a-clause.construction.ts","id":"01a18d73-4941-7662-9d5f-d00808e2a6f0"}
+{"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/degree-adverb-with-a-measure-and-a-direction.construction.ts","id":"01a18d76-7961-70df-99b2-77a62d3b50af"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/degree-adverb-with-an-adjective-and-a-be-clause.construction.ts","id":"01a18d73-4942-7352-ba5b-bd05aa6a5cc8"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/degree-adverb-with-an-adjective-and-a-clause.construction.ts","id":"01a0d5ce-a902-7e5a-aa57-7d7f7e4b5594"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/domain-definition-as-a-noun-phrase.construction.ts","id":"01a0c5eb-3c5d-7f11-aee5-f7b60653cd40"}
