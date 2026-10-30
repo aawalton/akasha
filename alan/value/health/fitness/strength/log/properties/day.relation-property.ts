@@ -5,7 +5,7 @@ export const day = {
   type: "page-type/relation-property",
   slug: "day",
   propertySlug: "day",
-  definition: "the day a set was performed on",
+  definition: "the day an exercise set was performed on",
   targetPageType: "page-type/day",
   decisions: [
     {
@@ -20,5 +20,5 @@ export const day = {
   ],
   types: "ts",
   createdAt: "2026-09-06T17:34:21.963Z",
-  updatedAt: "2026-10-30T16:42:19.856Z",
+  updatedAt: "2026-10-30T17:06:14.240Z",
 } as const satisfies RelationProperty
