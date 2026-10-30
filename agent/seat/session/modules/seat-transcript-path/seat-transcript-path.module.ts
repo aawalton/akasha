@@ -4,7 +4,7 @@ export const seatTranscriptPath = {
   id: "01a06949-b281-7c83-952b-22f6213b7460",
   type: "page-type/module",
   slug: "seat-transcript-path",
-  definition: "where a seat's transcript file sits, kept beside its page and read back",
+  definition: "the path of the transcript of a seat",
   code: "ts",
   decisions: [
     {
@@ -25,5 +25,5 @@ export const seatTranscriptPath = {
     },
   ],
   createdAt: "2026-09-03T22:00:32.641Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:47:40.595Z",
 } as const satisfies Module
