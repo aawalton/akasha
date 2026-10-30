@@ -5,9 +5,10 @@ export const exerciseExternalLink = {
   type: "page-type/url-property",
   slug: "exercise-external-link",
   propertySlug: "exercise-external-link",
-  definition: "where the movement is described in its own catalogue",
+  definition:
+    "the URL of a strength exercise in the catalogue where the strength exercise comes from",
   maxLength: 200,
   types: "ts",
   createdAt: "2026-09-03T04:19:22.687Z",
-  updatedAt: "2026-09-22T13:54:48.000Z",
+  updatedAt: "2026-10-30T16:43:44.960Z",
 } as const satisfies UrlProperty
