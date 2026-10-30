@@ -5,6 +5,10 @@ export const strengthExercise = {
   type: "page-type/page-type",
   slug: "strength-exercise",
   definition: "a movement Alan can be programmed to perform",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "strength exercise" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "strength exercises" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "boolean-property/is-ballistic",
@@ -100,5 +104,5 @@ export const strengthExercise = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:19:22.687Z",
-  updatedAt: "2026-10-09T11:59:53.497Z",
+  updatedAt: "2026-10-30T16:40:56.935Z",
 } as const satisfies PageType
