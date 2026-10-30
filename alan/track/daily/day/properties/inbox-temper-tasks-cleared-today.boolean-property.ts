@@ -5,8 +5,8 @@ export const inboxTemperTasksClearedToday = {
   type: "page-type/boolean-property",
   slug: "inbox-temper-tasks-cleared-today",
   propertySlug: "inbox-temper-tasks-cleared-today",
-  definition: "whether the game tasks reached empty on a day",
+  definition: "whether the due unfinished temper tasks reached zero on a day",
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-09-15T15:59:02.000Z",
+  updatedAt: "2026-10-30T16:34:00.148Z",
 } as const satisfies BooleanProperty
