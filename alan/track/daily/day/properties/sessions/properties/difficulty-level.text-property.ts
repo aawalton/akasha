@@ -5,7 +5,7 @@ export const difficultyLevel = {
   type: "page-type/text-property",
   slug: "difficulty-level",
   propertySlug: "difficulty-level",
-  definition: "how hard what Alan was doing was on him",
+  definition: "how hard a tracked session is for Alan",
   maxLength: 3,
   nameFormat: null,
   decisions: [
@@ -24,5 +24,5 @@ export const difficultyLevel = {
   ],
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-09-22T14:37:11.000Z",
+  updatedAt: "2026-10-30T16:39:40.725Z",
 } as const satisfies TextProperty
