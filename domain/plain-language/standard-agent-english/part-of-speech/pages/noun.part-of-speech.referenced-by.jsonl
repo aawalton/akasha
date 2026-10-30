@@ -602,6 +602,7 @@
 {"propertySlug":"part-of-speech","path":"page/properties/title.text-property.ts","id":"01a05fac-7582-7694-ae1f-480fe66ea27b"}
 {"propertySlug":"part-of-speech","path":"page/record-property/record-property.page-type.ts","id":"01a04dff-9d7d-7801-928a-feeaaaa1c8f0"}
 {"propertySlug":"part-of-speech","path":"page/type/page-property/page-property.page-type.ts","id":"01a04dff-9d7d-7459-a8c0-e038dc7714c3"}
+{"propertySlug":"part-of-speech","path":"page/type/page-property/properties/property-slug.text-property.ts","id":"01a0539b-2a0f-7187-ba5a-aa8bff23fe15"}
 {"propertySlug":"part-of-speech","path":"page/ui/block-editor/page-ui-block-editor.domain.ts","id":"01a071cf-0a63-7750-ad97-3e1dcf0312b9"}
 {"propertySlug":"part-of-speech","path":"page/view/view.page-type.ts","id":"01a0680d-4d00-7016-9f27-3b8a5d6c4117"}
 {"propertySlug":"part-of-speech","path":"person/email/email.domain.ts","id":"01a0675b-16e0-7215-9513-396b136194b4"}
