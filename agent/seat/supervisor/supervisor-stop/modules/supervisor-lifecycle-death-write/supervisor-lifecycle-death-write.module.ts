@@ -4,7 +4,7 @@ export const supervisorLifecycleDeathWrite = {
   id: "01a06838-5a84-7002-b23a-fa3c1a68a559",
   type: "page-type/module",
   slug: "supervisor-lifecycle-death-write",
-  definition: "whether a supervisor on its way down writes that its seat stopped",
+  definition: "whether a supervisor writes a stop on its seat when the supervisor ends",
   code: "ts",
   test: "ts",
   decisions: [
@@ -30,5 +30,5 @@ export const supervisorLifecycleDeathWrite = {
     },
   ],
   createdAt: "2026-09-03T17:01:58.788Z",
-  updatedAt: "2026-09-24T17:14:21.000Z",
+  updatedAt: "2026-10-30T14:51:38.286Z",
 } as const satisfies Module
