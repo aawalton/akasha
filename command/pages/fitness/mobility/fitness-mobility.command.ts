@@ -11,7 +11,7 @@ export const fitnessMobility = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A joint's mobility reads as a direction from its first numbered reading to its last.",
+        "A joint's mobility reads as a direction from its first numbered measurement to its last.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -23,15 +23,15 @@ export const fitnessMobility = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading with no number takes no part in a direction.",
+      statement: "A measurement with no number takes no part in a direction.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A metric with fewer than two numbered readings has no direction yet.",
+      statement: "A metric with fewer than two numbered measurements has no direction yet.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every metric with a reading is answered, in the order the metrics are named.",
+      statement: "Every metric with a measurement is answered, in the order the metrics are named.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -45,5 +45,5 @@ export const fitnessMobility = {
   name: "mobility",
   arguments: [{ argument: "argument/json" }],
   createdAt: "2026-09-19T00:58:44.982Z",
-  updatedAt: "2026-09-19T00:59:52.000Z",
+  updatedAt: "2026-10-30T17:46:25.172Z",
 } as const satisfies Command
