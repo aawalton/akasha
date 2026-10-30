@@ -4,7 +4,7 @@ export const emberdeepExplicitness = {
   id: "01a0fdae-8b7e-75f5-9a69-1d41a23c2ee3",
   type: "page-type/domain",
   slug: "emberdeep-explicitness",
-  definition: "how the story Emberdeep paces and words its sex",
+  definition: "how the Emberdeep story writes its sex scenes",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -45,5 +45,5 @@ export const emberdeepExplicitness = {
     },
   ],
   createdAt: "2026-10-02T17:34:29.758Z",
-  updatedAt: "2026-10-17T20:51:47.400Z",
+  updatedAt: "2026-10-30T16:43:14.001Z",
 } as const satisfies Domain
