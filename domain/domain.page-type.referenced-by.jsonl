@@ -272,6 +272,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/readout/scale/readout-scale.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/readout/stoplight/stoplight.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/readout/widget/readout-widget.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/readout/widget/widget-gallery/widget-gallery.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/recurrence/recurrence.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/reminder-system/reminder-system.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/rules-engine/field/rules-engine-field.domain.ts","typed":true,"deferred":false}

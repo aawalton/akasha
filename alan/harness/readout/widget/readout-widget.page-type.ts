@@ -33,6 +33,7 @@ export const readoutWidget = {
     "text-property/kind",
     "text-property/opens",
     "url-property/feed",
+    "domain/widget-gallery",
   ],
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "readout widget" },
@@ -164,5 +165,5 @@ export const readoutWidget = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T21:07:57.190Z",
-  updatedAt: "2026-10-30T15:53:23.054Z",
+  updatedAt: "2026-10-30T15:57:54.351Z",
 } as const satisfies PageType
