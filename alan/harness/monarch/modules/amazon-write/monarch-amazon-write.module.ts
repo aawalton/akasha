@@ -4,7 +4,7 @@ export const monarchAmazonWrite = {
   id: "01a06866-06f1-72f6-aae7-817014db4c00",
   type: "page-type/module",
   slug: "monarch-amazon-write",
-  definition: "the Amazon note written onto a transaction, and the order number kept beside it",
+  definition: "how code writes the Amazon note and the purchase number of a Monarch transaction",
   code: "ts",
   decisions: [
     {
@@ -48,5 +48,5 @@ export const monarchAmazonWrite = {
     },
   ],
   createdAt: "2026-09-03T17:51:52.049Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:46:23.154Z",
 } as const satisfies Module
