@@ -4,7 +4,7 @@ export const supervisorSpawnSettings = {
   id: "01a06876-abda-7019-8297-ce5c6eed4030",
   type: "page-type/module",
   slug: "supervisor-spawn-settings",
-  definition: "the settings from which an agent spawn is composed and with which it is written out",
+  definition: "how code reads the agent settings a seat starts with",
   code: "ts",
   test: "ts",
   decisions: [
@@ -36,5 +36,5 @@ export const supervisorSpawnSettings = {
     },
   ],
   createdAt: "2026-09-03T18:10:02.842Z",
-  updatedAt: "2026-09-24T16:36:00.000Z",
+  updatedAt: "2026-10-30T14:49:38.377Z",
 } as const satisfies Module
