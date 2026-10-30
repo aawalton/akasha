@@ -5,7 +5,7 @@ export const buildInputTreeHash = {
   type: "page-type/text-property",
   slug: "build-input-tree-hash",
   propertySlug: "build-input-tree-hash",
-  definition: "the hash of everything a build reads, which says whether a cut is owed",
+  definition: "the hash of the files a mobile cut was built from",
   maxLength: 64,
   nameFormat: null,
   decisions: [
@@ -16,5 +16,5 @@ export const buildInputTreeHash = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:42:47.583Z",
-  updatedAt: "2026-09-22T14:34:11.000Z",
+  updatedAt: "2026-10-30T15:47:11.353Z",
 } as const satisfies TextProperty
