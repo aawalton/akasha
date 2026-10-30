@@ -7,7 +7,8 @@ export const renamePagePropertyPropertySlug = {
   changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/page-property",
   changeTargetSubtype: "change-target-subtype/page-property-property-slug",
-  definition: "a property's key spelled anew on that property's page and on every page with it",
+  definition:
+    "a change that changes the property slug of a property on every page with that property",
   takesAtMost: true,
   code: "ts",
   test: "ts",
@@ -42,5 +43,5 @@ export const renamePagePropertyPropertySlug = {
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
   createdAt: "2026-09-08T15:24:07.623Z",
-  updatedAt: "2026-09-22T10:07:38.000Z",
+  updatedAt: "2026-10-30T17:04:13.915Z",
 } as const satisfies ChangeAgent
