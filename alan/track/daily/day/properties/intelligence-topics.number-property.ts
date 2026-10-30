@@ -5,7 +5,7 @@ export const intelligenceTopics = {
   type: "page-type/number-property",
   slug: "intelligence-topics",
   propertySlug: "intelligence-topics",
-  definition: "the learn-everything topics a day's commits added or changed",
+  definition: "the learn everything topics the commits of a day change",
   max: null,
   decisions: [
     {
@@ -28,5 +28,5 @@ export const intelligenceTopics = {
   ],
   types: "ts",
   createdAt: "2026-09-06T21:03:13.117Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:36:04.314Z",
 } as const satisfies NumberProperty
