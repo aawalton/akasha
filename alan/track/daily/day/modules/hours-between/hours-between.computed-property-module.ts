@@ -4,7 +4,7 @@ export const hoursBetween = {
   id: "01a0821f-8bbc-7772-a9fa-052b5f4ffb2b",
   type: "page-type/computed-property-module",
   slug: "hours-between",
-  definition: "the hours from one instant to another",
+  definition: "the hours between two instants",
   code: "ts",
   test: "ts",
   decisions: [
@@ -18,5 +18,5 @@ export const hoursBetween = {
     },
   ],
   createdAt: "2026-09-08T17:45:00.604Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:33:41.345Z",
 } as const satisfies ComputedPropertyModule
