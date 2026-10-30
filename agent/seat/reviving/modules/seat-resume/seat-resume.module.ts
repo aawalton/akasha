@@ -4,7 +4,7 @@ export const seatResume = {
   id: "01a069cb-0380-75c8-b903-b90fa293edf7",
   type: "page-type/module",
   slug: "seat-resume",
-  definition: "a seat put back on the session it was bound to, live or stopped",
+  definition: "a seat restarted on its Claude Code session",
   code: "ts",
   test: "ts",
   decisions: [
@@ -79,5 +79,5 @@ export const seatResume = {
     },
   ],
   createdAt: "2026-09-04T00:21:47.520Z",
-  updatedAt: "2026-10-28T01:19:55.522Z",
+  updatedAt: "2026-10-30T14:38:27.453Z",
 } as const satisfies Module
