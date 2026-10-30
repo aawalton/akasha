@@ -83,7 +83,7 @@ export const giftedTrialNala = {
     },
     {
       fact: "Her Status opens as words she reads in her mind, though she has no eyes to see with.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial-nala"],
     },
     {
       fact: "Her Status shows no Name, a Locked Class, and no Skills in her three empty Skill slots.",
@@ -199,5 +199,5 @@ export const giftedTrialNala = {
     },
   ],
   createdAt: "2026-10-30T13:47:19.494Z",
-  updatedAt: "2026-10-30T13:47:19.494Z",
+  updatedAt: "2026-10-30T14:30:42.604Z",
 } as const satisfies Lore
