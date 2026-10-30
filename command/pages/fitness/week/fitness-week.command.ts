@@ -18,7 +18,8 @@ export const fitnessWeek = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A set counts toward a total only where that set was taken near failure.",
+      statement:
+        "An exercise set counts toward a total only where that exercise set was taken near failure.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -26,15 +27,15 @@ export const fitnessWeek = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A warmup set counts toward no total.",
+      statement: "A warmup exercise set counts toward no total.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A set stating no effort counts toward no total.",
+      statement: "An exercise set stating no effort counts toward no total.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A set counts once toward every muscle its movement names as primary.",
+      statement: "An exercise set counts once toward every muscle its movement names as primary.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -46,7 +47,8 @@ export const fitnessWeek = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A muscle with no set in the week is answered as none rather than left out.",
+      statement:
+        "A muscle with no exercise set in the week is answered as none rather than left out.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -66,7 +68,8 @@ export const fitnessWeek = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The answer says how many sets the week held and how many were passed over.",
+      statement:
+        "The answer says how many exercise sets the week held and how many were passed over.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -80,5 +83,5 @@ export const fitnessWeek = {
   name: "week",
   arguments: [{ argument: "argument/json" }],
   createdAt: "2026-09-18T23:34:12.917Z",
-  updatedAt: "2026-09-18T23:37:17.000Z",
+  updatedAt: "2026-10-30T17:30:57.895Z",
 } as const satisfies Command
