@@ -4,7 +4,7 @@ export const inboxesEmail = {
   id: "01a06230-b155-7d69-9e39-eb26b5607d9e",
   type: "page-type/readout",
   slug: "inboxes-email",
-  definition: "how near Alan's mail came to empty today",
+  definition: "the lowest number of messages in Alan's email inbox today",
   label: "Email",
   unit: "messages",
   scale: "readout-scale/inbox-count",
@@ -44,5 +44,5 @@ export const inboxesEmail = {
   ],
   carriedTo: ["router-app/alan-web"],
   createdAt: "2026-09-02T12:55:53.429Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-30T15:38:26.786Z",
 } as const satisfies Readout
