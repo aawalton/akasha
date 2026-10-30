@@ -5,7 +5,7 @@ export const runsAfter = {
   type: "page-type/multi-relation-property",
   slug: "runs-after",
   propertySlug: "runs-after",
-  definition: "a change generator whose edits this one sees",
+  definition: "a change generator that writes what this change generator reads",
   targetPageType: "page-type/change-generator",
   decisions: [
     {
@@ -19,5 +19,5 @@ export const runsAfter = {
   ],
   types: "ts",
   createdAt: "2026-09-24T19:20:19.021Z",
-  updatedAt: "2026-09-24T19:20:35.000Z",
+  updatedAt: "2026-10-30T17:04:13.320Z",
 } as const satisfies MultiRelationProperty
