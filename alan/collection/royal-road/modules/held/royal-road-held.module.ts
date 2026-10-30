@@ -4,7 +4,7 @@ export const royalRoadHeld = {
   id: "01a0de39-997f-7b79-bb3d-5d29d2b906dc",
   type: "page-type/module",
   slug: "royal-road-held",
-  definition: "the royal road chapters already filed, and the second copies among them",
+  definition: "how code finds the pages that hold chapters from Royal Road",
   code: "ts",
   decisions: [
     {
@@ -42,5 +42,5 @@ export const royalRoadHeld = {
     },
   ],
   createdAt: "2026-09-26T14:58:31.935Z",
-  updatedAt: "2026-09-28T19:43:24.000Z",
+  updatedAt: "2026-10-30T15:22:40.078Z",
 } as const satisfies Module
