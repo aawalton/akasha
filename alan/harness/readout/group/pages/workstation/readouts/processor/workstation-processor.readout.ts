@@ -15,7 +15,7 @@ export const workstationProcessor = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is the share of processor time that was not idle between two takes.",
+      statement: "The number is the share of processor time that was not idle between two takes.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -27,12 +27,11 @@ export const workstationProcessor = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Two takes between which no processor time passed are no reading rather than zero.",
+      statement: "Two takes between which no processor time passed are no number rather than zero.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A counter line that does not parse is no reading rather than zero.",
+      statement: "A counter line that does not parse is no number rather than zero.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -44,7 +43,7 @@ export const workstationProcessor = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here decides when a reading is taken.",
+      statement: "Nothing here decides when a number is taken.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -52,5 +51,5 @@ export const workstationProcessor = {
     },
   ],
   createdAt: "2026-09-14T14:49:32.465Z",
-  updatedAt: "2026-10-30T16:22:53.185Z",
+  updatedAt: "2026-10-30T17:20:58.289Z",
 } as const satisfies Readout
