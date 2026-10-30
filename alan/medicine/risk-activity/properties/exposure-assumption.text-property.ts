@@ -5,10 +5,10 @@ export const exposureAssumption = {
   type: "page-type/text-property",
   slug: "exposure-assumption",
   propertySlug: "exposure-assumption",
-  definition: "what an activity's figures rest on that no source gave",
+  definition: "what a risk activity's numbers assume where no published work gives a number",
   maxLength: 1000,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-10-28T19:07:15.170Z",
-  updatedAt: "2026-10-28T19:07:15.170Z",
+  updatedAt: "2026-10-30T16:11:59.051Z",
 } as const satisfies TextProperty
