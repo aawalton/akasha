@@ -4,7 +4,7 @@ export const monarchReadingService = {
   id: "01a05b42-a2d3-7d02-b6b1-5faa28a7bdba",
   type: "page-type/service-workstation",
   slug: "monarch-reading-service",
-  definition: "the service taking Monarch's unreviewed count onto its readout",
+  definition: "the service that counts the Monarch transactions that wait for a person",
   enabled: true,
   needsSecrets: true,
   systemd: {
@@ -28,5 +28,5 @@ export const monarchReadingService = {
     },
   ],
   createdAt: "2026-09-01T04:38:08.851Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-30T15:51:37.172Z",
 } as const satisfies ServiceWorkstation
