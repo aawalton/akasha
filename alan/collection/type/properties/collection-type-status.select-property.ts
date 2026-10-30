@@ -5,7 +5,7 @@ export const collectionTypeStatus = {
   type: "page-type/select-property",
   slug: "collection-type-status",
   propertySlug: "collection-type-status",
-  definition: "how far a person has got with gathering a kind of thing at all",
+  definition: "whether a person works through a kind of collection",
   values: ["done", "not-doing", "someday-maybe"],
   decisions: [
     {
@@ -16,5 +16,5 @@ export const collectionTypeStatus = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:17:17.056Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:17:59.259Z",
 } as const satisfies SelectProperty
