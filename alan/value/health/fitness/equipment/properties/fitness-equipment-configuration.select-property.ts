@@ -5,7 +5,8 @@ export const fitnessEquipmentConfiguration = {
   type: "page-type/select-property",
   slug: "fitness-equipment-configuration",
   propertySlug: "configuration",
-  definition: "how many of a piece there are and whether its load moves",
+  definition:
+    "whether a piece of fitness equipment comes in a pair or with a weight Alan can change",
   values: ["pair", "single", "adjustable", "n-a"],
   decisions: [
     {
@@ -15,5 +16,5 @@ export const fitnessEquipmentConfiguration = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:51:17.317Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:47:44.896Z",
 } as const satisfies SelectProperty
