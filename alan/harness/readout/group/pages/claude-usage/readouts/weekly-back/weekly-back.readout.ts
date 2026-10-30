@@ -4,7 +4,7 @@ export const weeklyBack = {
   id: "01a063bd-a526-795d-b845-b6fb54c9ef34",
   type: "page-type/readout",
   slug: "weekly-back",
-  definition: "how long until a spent weekly allowance returns",
+  definition: "the time until the next seven-day window ends for a model account at its limit",
   label: "7d back",
   unit: "h",
   minuteUnit: "m",
@@ -37,5 +37,5 @@ export const weeklyBack = {
     },
   ],
   createdAt: "2026-09-02T20:09:28.102Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-30T15:57:02.464Z",
 } as const satisfies Readout
