@@ -5,7 +5,7 @@ export const notifications = {
   type: "page-type/page-property-entry",
   slug: "notifications",
   propertySlug: "notifications",
-  definition: "something pushed at a person rather than waiting for them to look",
+  definition: "a notification sent to a person",
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "text-property/notification-body", required: false, many: false },
@@ -48,5 +48,5 @@ export const notifications = {
   ],
   types: "ts",
   createdAt: "2026-07-10T03:42:57.228Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:53:11.852Z",
 } as const satisfies PagePropertyEntry
