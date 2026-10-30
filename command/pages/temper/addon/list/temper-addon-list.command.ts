@@ -4,7 +4,7 @@ export const temperAddonList = {
   id: "01a0603c-c1ca-7749-a8e8-ffbbcbf15e84",
   type: "page-type/command",
   slug: "temper-addon-list",
-  definition: "the command naming every addon source folder the checkout has",
+  definition: "the command naming every folder of addon code the checkout has",
   code: "ts",
   test: "ts",
 
@@ -33,5 +33,5 @@ export const temperAddonList = {
   name: "list",
   arguments: [{ argument: "argument/json" }, { argument: "argument/code-root" }],
   createdAt: "2026-09-02T03:49:49.642Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:18:42.068Z",
 } as const satisfies Command
