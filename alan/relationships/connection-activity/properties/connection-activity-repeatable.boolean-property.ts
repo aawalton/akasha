@@ -5,8 +5,8 @@ export const connectionActivityRepeatable = {
   type: "page-type/boolean-property",
   slug: "connection-activity-repeatable",
   propertySlug: "connection-activity-repeatable",
-  definition: "whether it keeps paying when he does it again",
+  definition: "whether an activity counts each time Alan does the activity",
   types: "ts",
   createdAt: "2026-09-03T04:37:29.998Z",
-  updatedAt: "2026-09-25T13:01:00.000Z",
+  updatedAt: "2026-10-30T16:25:37.313Z",
 } as const satisfies BooleanProperty
