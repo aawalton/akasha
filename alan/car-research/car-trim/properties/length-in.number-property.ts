@@ -5,9 +5,9 @@ export const lengthIn = {
   type: "page-type/number-property",
   slug: "length-in",
   propertySlug: "length-in",
-  definition: "how long the car is nose to tail, in inches",
+  definition: "the length of a car in inches",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:41:52.218Z",
-  updatedAt: "2026-09-21T18:42:37.000Z",
+  updatedAt: "2026-10-30T14:51:30.093Z",
 } as const satisfies NumberProperty
