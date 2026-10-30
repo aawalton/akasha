@@ -1,5 +1,3 @@
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-abby-2026-10-22/supervisor-console-abby-2026-10-22.seat-log-day.ts","id":"01a160e8-d283-7462-bfaa-1c4415c77a2a"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-aelwyn-2026-10-22/supervisor-console-aelwyn-2026-10-22.seat-log-day.ts","id":"01a160e8-adc9-72fa-b457-270a5cc03932"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-aelwyn-2026-10-23/supervisor-console-aelwyn-2026-10-23.seat-log-day.ts","id":"01a16611-90a7-7714-bf47-d8254ae60b36"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-aelwyn-2026-10-24/supervisor-console-aelwyn-2026-10-24.seat-log-day.ts","id":"01a16b36-a2d4-7266-aa5b-f350509de05f"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-aelwyn-2026-10-26/supervisor-console-aelwyn-2026-10-26.seat-log-day.ts","id":"01a17817-7f79-789b-b5ff-b5525873ff74"}
@@ -7,7 +5,6 @@
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-aelwyn-2026-10-28/supervisor-console-aelwyn-2026-10-28.seat-log-day.ts","id":"01a17fcf-c327-7829-b6a0-51a200376895"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-aelwyn-2026-10-29/supervisor-console-aelwyn-2026-10-29.seat-log-day.ts","id":"01a184f5-09c4-7628-8226-36eba0908e9a"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-aelwyn-2026-10-30/supervisor-console-aelwyn-2026-10-30.seat-log-day.ts","id":"01a18a1e-6636-7f79-8529-bbbfcd22e34d"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-aine-2026-10-22/supervisor-console-aine-2026-10-22.seat-log-day.ts","id":"01a160e8-e137-7fab-a67c-f885ac3d8163"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-aine-2026-10-24/supervisor-console-aine-2026-10-24.seat-log-day.ts","id":"01a16ef2-d082-74e2-91c9-0034b834c568"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-aine-2026-10-25/supervisor-console-aine-2026-10-25.seat-log-day.ts","id":"01a1705d-8c92-7785-8a54-47a5c416b892"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-aine-2026-10-26/supervisor-console-aine-2026-10-26.seat-log-day.ts","id":"01a17584-2154-7b92-8d70-f9408107f836"}
@@ -15,7 +12,6 @@
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-aine-2026-10-28/supervisor-console-aine-2026-10-28.seat-log-day.ts","id":"01a17fcf-6aea-727d-93ac-ee480d69259f"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-aine-2026-10-29/supervisor-console-aine-2026-10-29.seat-log-day.ts","id":"01a184f6-52a0-7fa0-a9f2-ba34ab5b2210"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-aine-2026-10-30/supervisor-console-aine-2026-10-30.seat-log-day.ts","id":"01a18a1e-401b-7289-81e4-fae8a4624cbd"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-alan-2026-10-22/supervisor-console-alan-2026-10-22.seat-log-day.ts","id":"01a160eb-f3ec-76d7-8a79-f9f00a3bf1e9"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-alan-2026-10-23/supervisor-console-alan-2026-10-23.seat-log-day.ts","id":"01a16611-dcb8-7f44-8b6a-c3e7e1d1a64f"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-alan-2026-10-24/supervisor-console-alan-2026-10-24.seat-log-day.ts","id":"01a16b36-4885-7feb-851c-6c03c3a3d2f0"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-alan-2026-10-25/supervisor-console-alan-2026-10-25.seat-log-day.ts","id":"01a1705d-67e5-7062-be6b-6e380774c0b8"}
@@ -24,10 +20,8 @@
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-alan-2026-10-28/supervisor-console-alan-2026-10-28.seat-log-day.ts","id":"01a17fcf-98e2-73f3-8c38-af51678514a3"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-alan-2026-10-29/supervisor-console-alan-2026-10-29.seat-log-day.ts","id":"01a184f9-1de6-7439-9d99-1dce832962c4"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-alan-2026-10-30/supervisor-console-alan-2026-10-30.seat-log-day.ts","id":"01a18a1e-4865-71a6-8762-db422ad85b05"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-all-about-alan-recorder-2026-10-22/supervisor-console-all-about-alan-recorder-2026-10-22.seat-log-day.ts","id":"01a160e8-6cd6-7bd8-a141-32672967ad19"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-all-about-alan-recorder-2026-10-23/supervisor-console-all-about-alan-recorder-2026-10-23.seat-log-day.ts","id":"01a16611-e2bd-716b-b526-c3dba8362412"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-all-about-alan-recorder-2026-10-24/supervisor-console-all-about-alan-recorder-2026-10-24.seat-log-day.ts","id":"01a16b36-c2dd-7c0d-a843-de388ea22373"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-amy-2026-10-22/supervisor-console-amy-2026-10-22.seat-log-day.ts","id":"01a160ec-b16d-7235-ab79-7186f691741f"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-amy-2026-10-23/supervisor-console-amy-2026-10-23.seat-log-day.ts","id":"01a16611-3402-70d6-9f03-70ea4ce95459"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-amy-2026-10-24/supervisor-console-amy-2026-10-24.seat-log-day.ts","id":"01a16b36-0f90-7df0-b25b-01b99bcb9ead"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-amy-2026-10-25/supervisor-console-amy-2026-10-25.seat-log-day.ts","id":"01a1705b-a3b0-7ece-bcdf-a661af4a230a"}
@@ -36,7 +30,6 @@
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-amy-2026-10-28/supervisor-console-amy-2026-10-28.seat-log-day.ts","id":"01a17fcf-cb9c-77c6-b341-0c257f41f4ff"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-amy-2026-10-29/supervisor-console-amy-2026-10-29.seat-log-day.ts","id":"01a184f6-7d38-7fe3-8100-77a71b07085d"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-amy-2026-10-30/supervisor-console-amy-2026-10-30.seat-log-day.ts","id":"01a18a1e-7148-71c0-8520-ff606c649439"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-astra-2026-10-22/supervisor-console-astra-2026-10-22.seat-log-day.ts","id":"01a1641b-0f68-790f-aac1-0deda8e06833"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-astra-2026-10-23/supervisor-console-astra-2026-10-23.seat-log-day.ts","id":"01a16611-4e08-75c1-a8f1-05bc50d12c11"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-astra-2026-10-24/supervisor-console-astra-2026-10-24.seat-log-day.ts","id":"01a16b36-3cb7-73fa-a9ce-00eeea6ddeb8"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-astra-2026-10-25/supervisor-console-astra-2026-10-25.seat-log-day.ts","id":"01a1705c-fda6-767d-b9d9-50dd743523d3"}
@@ -70,7 +63,6 @@
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-elaine-2026-10-28/supervisor-console-elaine-2026-10-28.seat-log-day.ts","id":"01a1839f-65aa-7eb0-818a-806693b2f5b3"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-elaine-2026-10-29/supervisor-console-elaine-2026-10-29.seat-log-day.ts","id":"01a184f5-bc30-759b-b25d-4c32e468a76a"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-elaine-2026-10-30/supervisor-console-elaine-2026-10-30.seat-log-day.ts","id":"01a18a1e-f29a-7719-a9aa-64053599abf9"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-elin-2026-10-22/supervisor-console-elin-2026-10-22.seat-log-day.ts","id":"01a160e8-dfc5-7eea-9e22-ff981ab39790"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-elin-2026-10-23/supervisor-console-elin-2026-10-23.seat-log-day.ts","id":"01a16611-3e42-7b02-a6f0-c1a99ffd5c6f"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-elin-2026-10-24/supervisor-console-elin-2026-10-24.seat-log-day.ts","id":"01a16b35-e0df-7e4a-9d11-1f2308a6dfa4"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-elin-2026-10-25/supervisor-console-elin-2026-10-25.seat-log-day.ts","id":"01a17479-571e-7228-85bf-12d65aba7027"}
@@ -79,7 +71,6 @@
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-elin-2026-10-28/supervisor-console-elin-2026-10-28.seat-log-day.ts","id":"01a17fcf-49ae-7d6b-872a-88767f3b5645"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-elin-2026-10-29/supervisor-console-elin-2026-10-29.seat-log-day.ts","id":"01a184f7-0a76-7c83-841b-82a0eed3858b"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-elin-2026-10-30/supervisor-console-elin-2026-10-30.seat-log-day.ts","id":"01a18a1e-ee97-75d0-96f6-6718a7d8548d"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-ember-2026-10-22/supervisor-console-ember-2026-10-22.seat-log-day.ts","id":"01a160ec-9621-7c1a-bd82-96a4465633c7"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-ember-2026-10-23/supervisor-console-ember-2026-10-23.seat-log-day.ts","id":"01a16611-52a7-7222-8d92-d9aa018853a5"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-ember-2026-10-24/supervisor-console-ember-2026-10-24.seat-log-day.ts","id":"01a16b36-b046-7cca-8b70-d3f4b4c53790"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-ember-2026-10-25/supervisor-console-ember-2026-10-25.seat-log-day.ts","id":"01a1705d-54c7-7c16-a721-5e20ff6c9240"}
@@ -249,8 +240,6 @@
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-jenny-2026-10-28/supervisor-console-jenny-2026-10-28.seat-log-day.ts","id":"01a17fcf-7eb4-7d63-96cf-bc3c38d6b782"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-jenny-2026-10-29/supervisor-console-jenny-2026-10-29.seat-log-day.ts","id":"01a184f5-9d1c-72fd-a67a-8a17052b7107"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-jenny-2026-10-30/supervisor-console-jenny-2026-10-30.seat-log-day.ts","id":"01a18a1e-61f1-7f62-b1c7-08e8b1606e29"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-natalie-2026-10-22/supervisor-console-natalie-2026-10-22.seat-log-day.ts","id":"01a160e8-773f-7fe1-a2ec-609584b2ca5c"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-nimue-2026-10-22/supervisor-console-nimue-2026-10-22.seat-log-day.ts","id":"01a160e8-b555-7713-aaca-f129c259633b"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-nimue-2026-10-23/supervisor-console-nimue-2026-10-23.seat-log-day.ts","id":"01a16611-8f8e-79ca-873c-cd97e083f0f7"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-nimue-2026-10-24/supervisor-console-nimue-2026-10-24.seat-log-day.ts","id":"01a16b36-cdda-73a0-80c0-2c15c7a30929"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-nimue-2026-10-28/supervisor-console-nimue-2026-10-28.seat-log-day.ts","id":"01a18406-27c8-74c9-b894-1b45dbf3b3b2"}
@@ -272,6 +261,5 @@
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-ruby-2026-10-28/supervisor-console-ruby-2026-10-28.seat-log-day.ts","id":"01a17fcf-3a5c-7b5c-80eb-9da2011e0abe"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-ruby-2026-10-29/supervisor-console-ruby-2026-10-29.seat-log-day.ts","id":"01a184f4-dcfe-7806-9601-9e9cff99b5df"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-ruby-2026-10-30/supervisor-console-ruby-2026-10-30.seat-log-day.ts","id":"01a18a1e-b574-7184-9e8b-ce9ccf53b16b"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-ryn-2026-10-22/supervisor-console-ryn-2026-10-22.seat-log-day.ts","id":"01a160e8-7a66-7594-be5d-781abb437987"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-ryn-2026-10-23/supervisor-console-ryn-2026-10-23.seat-log-day.ts","id":"01a16611-f10f-7421-b5da-4a33083a0f7e"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-ryn-2026-10-24/supervisor-console-ryn-2026-10-24.seat-log-day.ts","id":"01a16b36-2c03-7d9d-828b-11d2678d9c33"}
