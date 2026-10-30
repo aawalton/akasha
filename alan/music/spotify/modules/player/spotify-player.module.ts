@@ -4,7 +4,7 @@ export const spotifyPlayer = {
   id: "01a06261-dc1d-7008-b575-b9785f2015e8",
   type: "page-type/module",
   slug: "spotify-player",
-  definition: "what is playing on Alan's devices and what is asked of them",
+  definition: "the music Spotify plays on Alan's devices",
   code: "ts",
   test: "ts",
   decisions: [
@@ -34,5 +34,5 @@ export const spotifyPlayer = {
     },
   ],
   createdAt: "2026-09-02T13:49:35.645Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:23:20.442Z",
 } as const satisfies Module
