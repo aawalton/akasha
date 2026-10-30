@@ -4,8 +4,7 @@ export const agentRestartNoticeDecide = {
   id: "01a0686d-9d5e-7007-a87f-ae0387e800f7",
   type: "page-type/module",
   slug: "agent-restart-notice-decide",
-  definition:
-    "what a restarting seat is told, and whether it is told on the spawn line or the rail",
+  definition: "how code chooses the notice and the route for an agent restarted in a seat",
   code: "ts",
   test: "ts",
   decisions: [
@@ -27,5 +26,5 @@ export const agentRestartNoticeDecide = {
     },
   ],
   createdAt: "2026-09-03T18:00:09.310Z",
-  updatedAt: "2026-09-24T15:55:39.000Z",
+  updatedAt: "2026-10-30T14:39:10.928Z",
 } as const satisfies Module
