@@ -4,7 +4,7 @@ export const lectureProgress = {
   id: "01a15000-e667-769d-bcb3-6bca5f9587c4",
   type: "page-type/module",
   slug: "lecture-progress",
-  definition: "how far through its lectures a course's page counts Alan",
+  definition: "how code counts the lectures Alan watches in a course",
   code: "ts",
   test: "ts",
   decisions: [
@@ -47,5 +47,5 @@ export const lectureProgress = {
     },
   ],
   createdAt: "2026-10-18T17:13:18.694Z",
-  updatedAt: "2026-10-19T22:08:38.837Z",
+  updatedAt: "2026-10-30T15:19:01.651Z",
 } as const satisfies Module
