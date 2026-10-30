@@ -4,7 +4,7 @@ export const upkeepCapacity = {
   id: "01a06230-614a-7c46-9fba-3be28e181ca4",
   type: "page-type/readout",
   slug: "upkeep-capacity",
-  definition: "how much stress capacity Alan has in hand",
+  definition: "the hours of stress capacity Alan has",
   label: "Capacity",
   unit: "hours",
   scale: "readout-scale/capacity-hours",
@@ -73,5 +73,5 @@ export const upkeepCapacity = {
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "day-row-and-stretches",
   createdAt: "2026-09-02T12:55:32.938Z",
-  updatedAt: "2026-10-20T11:12:19.064Z",
+  updatedAt: "2026-10-30T15:29:43.221Z",
 } as const satisfies Readout
