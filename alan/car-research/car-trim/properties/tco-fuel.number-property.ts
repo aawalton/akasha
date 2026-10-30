@@ -5,9 +5,10 @@ export const tcoFuel = {
   type: "page-type/number-property",
   slug: "tco-fuel",
   propertySlug: "tco-fuel",
-  definition: "what fuel and charging are reckoned to cost over those years, in dollars",
+  definition:
+    "an estimate of the dollars an owner spends on fuel and electricity over the years of ownership",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:43:15.131Z",
-  updatedAt: "2026-09-21T18:44:23.000Z",
+  updatedAt: "2026-10-30T15:14:07.887Z",
 } as const satisfies NumberProperty
