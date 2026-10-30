@@ -4,7 +4,7 @@ export const costColor = {
   id: "01a08b96-95c4-7a57-9ee3-efab04e522fc",
   type: "page-type/module",
   slug: "cost-color",
-  definition: "the color a cost multiplier is drawn in, read with the surplus in hours",
+  definition: "how code chooses the color of a cost from the cost and the surplus hours",
   code: "ts",
   test: "ts",
   decisions: [
@@ -81,5 +81,5 @@ export const costColor = {
     },
   ],
   createdAt: "2026-09-10T13:51:36.900Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:33:44.871Z",
 } as const satisfies Module
