@@ -4,8 +4,7 @@ export const subagentPageAsking = {
   id: "01a0d6cf-cc39-7c30-868c-f29c9adff316",
   type: "page-type/module",
   slug: "subagent-page-asking",
-  definition:
-    "a landing of a subagent's page asked for without loading the program that lands the page",
+  definition: "how code starts the program that writes a subagent page",
   code: "ts",
   test: "ts",
   decisions: [
@@ -53,5 +52,5 @@ export const subagentPageAsking = {
     },
   ],
   createdAt: "2026-09-25T04:25:37.593Z",
-  updatedAt: "2026-09-25T14:25:50.000Z",
+  updatedAt: "2026-10-30T14:50:52.233Z",
 } as const satisfies Module
