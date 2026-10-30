@@ -11,7 +11,7 @@ export const assisted = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An assisted set moves the share of bodyweight the movement carries less its weight.",
+        "An assisted exercise set moves the share of bodyweight the movement carries less its weight.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -20,5 +20,5 @@ export const assisted = {
   ],
   types: "ts",
   createdAt: "2026-10-09T11:59:53.497Z",
-  updatedAt: "2026-10-30T17:05:14.254Z",
+  updatedAt: "2026-10-30T17:24:06.990Z",
 } as const satisfies BooleanProperty
