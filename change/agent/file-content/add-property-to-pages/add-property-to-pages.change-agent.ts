@@ -7,7 +7,7 @@ export const addPropertyToPages = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
-  definition: "a value put under a key on each page a line names",
+  definition: "a change that adds values to a property of the pages lines name",
   code: "ts",
   test: "ts",
   decisions: [
@@ -53,5 +53,5 @@ export const addPropertyToPages = {
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
   createdAt: "2026-09-22T00:04:16.345Z",
-  updatedAt: "2026-09-27T15:43:57.000Z",
+  updatedAt: "2026-10-30T17:09:56.331Z",
 } as const satisfies ChangeAgent
