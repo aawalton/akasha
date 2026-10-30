@@ -5,9 +5,9 @@ export const legsVolumeLimitFactor = {
   type: "page-type/number-property",
   slug: "legs-volume-limit-factor",
   propertySlug: "legs-volume-limit-factor",
-  definition: "what a legs day multiplies the day's pound limit by",
+  definition: "the number that multiplies the pound limit of a day that trains the legs",
   max: null,
   types: "ts",
   createdAt: "2026-10-17T12:30:23.466Z",
-  updatedAt: "2026-10-17T12:30:23.466Z",
+  updatedAt: "2026-10-30T16:52:56.468Z",
 } as const satisfies NumberProperty
