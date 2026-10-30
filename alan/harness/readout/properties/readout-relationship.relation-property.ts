@@ -5,7 +5,7 @@ export const readoutRelationship = {
   type: "page-type/relation-property",
   slug: "readout-relationship",
   propertySlug: "relationship",
-  definition: "the relationship whose stretches a reading counts",
+  definition: "the relationship a readout measures",
   targetPageType: "page-type/relationship",
   decisions: [
     {
@@ -19,5 +19,5 @@ export const readoutRelationship = {
   ],
   types: "ts",
   createdAt: "2026-10-13T13:51:16.159Z",
-  updatedAt: "2026-10-13T13:51:16.159Z",
+  updatedAt: "2026-10-30T16:12:24.286Z",
 } as const satisfies RelationProperty
