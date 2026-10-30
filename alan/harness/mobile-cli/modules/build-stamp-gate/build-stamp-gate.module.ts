@@ -4,7 +4,8 @@ export const buildStampGate = {
   id: "01a05cee-e560-7095-8d3c-c3c7cef4babf",
   type: "page-type/module",
   slug: "build-stamp-gate",
-  definition: "the shell that refuses an upload whose binaries do not have this cut's commit",
+  definition:
+    "the shell script that fails a mobile cut where a program carries no commit or another commit",
   code: "ts",
   test: "ts",
   decisions: [
@@ -30,5 +31,5 @@ export const buildStampGate = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:24:43.427Z",
 } as const satisfies Module
