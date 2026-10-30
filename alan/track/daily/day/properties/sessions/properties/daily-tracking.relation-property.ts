@@ -10,10 +10,11 @@ export const dailyTracking = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch names its day by that day's id rather than by that day's address.",
+      statement:
+        "A tracked session names its day by that day's id rather than by that day's address.",
     },
   ],
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-10-30T16:39:29.166Z",
+  updatedAt: "2026-10-30T17:47:54.247Z",
 } as const satisfies RelationProperty
