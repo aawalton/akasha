@@ -7,7 +7,7 @@ export const removePageType = {
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page-type",
-  definition: "a page type taken away, by the partial change taking a page type away",
+  definition: "a change that removes a page type",
   code: "ts",
   test: "ts",
   decisions: [
@@ -40,5 +40,5 @@ export const removePageType = {
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
   createdAt: "2026-09-06T19:37:46.688Z",
-  updatedAt: "2026-09-22T10:07:38.000Z",
+  updatedAt: "2026-10-30T17:10:59.916Z",
 } as const satisfies ChangeAgent
