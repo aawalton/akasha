@@ -5,9 +5,9 @@ export const nhtsaOverallStars = {
   type: "page-type/number-property",
   slug: "nhtsa-overall-stars",
   propertySlug: "nhtsa-overall-stars",
-  definition: "how many stars the highway safety administration gave the car overall",
+  definition: "the score NHTSA gives a car trim for safety",
   max: 5,
   types: "ts",
   createdAt: "2026-09-21T18:42:44.690Z",
-  updatedAt: "2026-09-21T18:44:23.000Z",
+  updatedAt: "2026-10-30T15:39:45.230Z",
 } as const satisfies NumberProperty
