@@ -4,7 +4,7 @@ export const gmailDrafts = {
   id: "01a05c0e-3730-79a1-884f-5caf37ea35cf",
   type: "page-type/module",
   slug: "gmail-drafts",
-  definition: "a mail written and kept unsent",
+  definition: "how code keeps an unsent email in Gmail",
   code: "ts",
   test: "ts",
   decisions: [
@@ -18,5 +18,5 @@ export const gmailDrafts = {
     },
   ],
   createdAt: "2026-09-01T08:20:30.640Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:17:08.954Z",
 } as const satisfies Module
