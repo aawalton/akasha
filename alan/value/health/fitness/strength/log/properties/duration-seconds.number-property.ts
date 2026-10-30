@@ -5,9 +5,9 @@ export const durationSeconds = {
   type: "page-type/number-property",
   slug: "duration-seconds",
   propertySlug: "duration-seconds",
-  definition: "how long the set ran, where it is counted in time rather than repetitions",
+  definition: "the number of seconds a set takes",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:21:48.925Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T16:44:23.307Z",
 } as const satisfies NumberProperty
