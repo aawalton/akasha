@@ -4,7 +4,7 @@ export const chapterWriteAnswering = {
   id: "01a0e971-8b9b-767a-b780-c99d738ea190",
   type: "page-type/module",
   slug: "chapter-write-answering",
-  definition: "what a route answers when Alan starts the next chapter of a written story",
+  definition: "how a route responds when Alan starts the next chapter of a written story",
   code: "ts",
   decisions: [
     {
@@ -25,5 +25,5 @@ export const chapterWriteAnswering = {
     },
   ],
   createdAt: "2026-09-28T19:15:27.771Z",
-  updatedAt: "2026-09-28T19:15:48.000Z",
+  updatedAt: "2026-10-30T16:58:19.062Z",
 } as const satisfies Module
