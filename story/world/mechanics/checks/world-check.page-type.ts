@@ -61,7 +61,17 @@ export const worldCheck = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A check's code and its test read a page's address off that page's slug by importing the page.",
+        "A check's code and its test name a page by importing that page, never by spelling its address.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A check's code reads the pages of the character a reading names off the index, importing none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "So a check copied to a clone, settled by its source's code, reads the clone's pages.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -94,5 +104,5 @@ export const worldCheck = {
   schema: "jsonl",
   loadedExport: ["settled", "added", "next"],
   createdAt: "2026-09-26T14:17:37.836Z",
-  updatedAt: "2026-10-30T15:03:32.748Z",
+  updatedAt: "2026-10-30T16:28:50.282Z",
 } as const satisfies PageType
