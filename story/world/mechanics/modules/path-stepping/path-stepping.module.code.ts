@@ -15,8 +15,6 @@ import {
 import { characterSkill } from "akasha/story/world/mechanics/skills/character-skill/character-skill.page-type.ts"
 import { skillTierSteps } from "akasha/story/world/mechanics/skills/properties/skill-tier-steps.number-property.ts"
 import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
-import { gifted } from "akasha/story/world/pages/gifted/gifted.world.ts"
-import { giftedUnallocatedStats } from "akasha/story/world/pages/gifted/mechanics/metrics/resources/unallocated-stats/gifted-unallocated-stats.page-type.ts"
 import { z } from "zod"
 
 export const BASIC_TIERS = [10, 25, 50, 100, 250, 500, 1000, 2500, 5000, 10000]
@@ -50,8 +48,6 @@ const DORMANT = "dormant"
 const WORLD = "world"
 
 const TIER_STEPS = exportedAs(skillTierSteps.propertySlug)
-
-const UNALLOCATED = giftedUnallocatedStats.slug.slice(`${gifted.slug}-`.length)
 
 export const SPEED = {
   talented: z.number().int().min(0).optional(),
@@ -183,22 +179,34 @@ function ownerIndexed(address: string): string | null {
   return [...owners].toSorted((one, two) => slugOf(two).length - slugOf(one).length)[0] ?? null
 }
 
-function statsIndexed(character: string): string {
-  const root = akashaRoot()
-  const said = addressIn(character)
-  const page = said.kind === "qualified" ? pageValue(root, said.pageTypeSlug, said.slug) : null
-  const world = page === null ? null : textAt(page, WORLD)
-  const type = world === null ? giftedUnallocatedStats.slug : `${slugOf(world)}-${UNALLOCATED}`
-  for (const one of valuesOfType(root, type)) {
-    const slug = textAt(one.value, SLUG)
-    if (slug !== null && one.value[CHARACTER] === character) return addressOf(type, slug)
-  }
-  return addressOf(type, slugOf(character))
+export type StatsKind = { readonly kind: string; readonly world: string }
+
+export function statsKindIn(world: string | null, stats: StatsKind): string {
+  const own = `${stats.world}-`
+  if (world === null || !stats.kind.startsWith(own)) return stats.kind
+  return `${world}-${stats.kind.slice(own.length)}`
 }
 
-export const PATHS_INDEXED: PathReach = {
-  heldAt: heldIndexed,
-  heldBy: heldByIndexed,
-  ownerOf: ownerIndexed,
-  statsOf: statsIndexed,
+function statsIndexed(stats: StatsKind): (character: string) => string {
+  return (character) => {
+    const root = akashaRoot()
+    const said = addressIn(character)
+    const page = said.kind === "qualified" ? pageValue(root, said.pageTypeSlug, said.slug) : null
+    const world = page === null ? null : textAt(page, WORLD)
+    const type = statsKindIn(world === null ? null : slugOf(world), stats)
+    for (const one of valuesOfType(root, type)) {
+      const slug = textAt(one.value, SLUG)
+      if (slug !== null && one.value[CHARACTER] === character) return addressOf(type, slug)
+    }
+    return addressOf(type, slugOf(character))
+  }
+}
+
+export function pathsIndexed(stats: StatsKind): PathReach {
+  return {
+    heldAt: heldIndexed,
+    heldBy: heldByIndexed,
+    ownerOf: ownerIndexed,
+    statsOf: statsIndexed(stats),
+  }
 }

@@ -8,15 +8,19 @@ import {
   heldNamed,
   ONE_SPEED,
   oneSpeed,
-  PATHS_INDEXED,
   type PathReach,
+  pathsIndexed,
   SPEED,
   sped,
 } from "akasha/story/world/mechanics/modules/path-stepping/path-stepping.module.code.ts"
 import { characterSkill } from "akasha/story/world/mechanics/skills/character-skill/character-skill.page-type.ts"
+import { gifted } from "akasha/story/world/pages/gifted/gifted.world.ts"
+import { giftedUnallocatedStats } from "akasha/story/world/pages/gifted/mechanics/metrics/resources/unallocated-stats/gifted-unallocated-stats.page-type.ts"
 import { giftedPathOfBasicNumeracy } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-basic-numeracy.world-skill.ts"
 import { giftedPathOfLinguisticsEnglish } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-linguistics-english.world-skill.ts"
 import { z } from "zod"
+
+const PATHS_INDEXED = pathsIndexed({ kind: giftedUnallocatedStats.slug, world: gifted.slug })
 
 const KNOWN_STEPS = 3
 

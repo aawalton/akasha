@@ -8,17 +8,21 @@ import {
   heldNamed,
   ONE_SPEED,
   oneSpeed,
-  PATHS_INDEXED,
   type PathReach,
+  pathsIndexed,
   SPEED,
   type Speed,
   sped,
   unallocated,
 } from "akasha/story/world/mechanics/modules/path-stepping/path-stepping.module.code.ts"
 import { characterSkill } from "akasha/story/world/mechanics/skills/character-skill/character-skill.page-type.ts"
+import { gifted } from "akasha/story/world/pages/gifted/gifted.world.ts"
+import { giftedUnallocatedStats } from "akasha/story/world/pages/gifted/mechanics/metrics/resources/unallocated-stats/gifted-unallocated-stats.page-type.ts"
 import { giftedPathOfSoulstealing } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-soulstealing.world-skill.ts"
 import { giftedPathOfTheCompletionist } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-the-completionist.world-skill.ts"
 import { z } from "zod"
+
+const PATHS_INDEXED = pathsIndexed({ kind: giftedUnallocatedStats.slug, world: gifted.slug })
 
 const COMPLETED = { basic: 10, elite: 40 }
 

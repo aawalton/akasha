@@ -1,4 +1,5 @@
-{"propertySlug":"import","fileName":"gifted.world.ts","path":"story/world/mechanics/modules/path-stepping/path-stepping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"gifted.world.ts","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-practice.world-check.settling.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"gifted.world.ts","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-steps-earned.world-check.settling.code.ts","typed":false,"deferred":false}
 {"propertySlug":"lore-about","path":"story/world/pages/gifted/lore/gifted-adventurers.lore.ts","id":"01a17eda-ae7d-7221-b602-91220a9ecea2"}
 {"propertySlug":"lore-about","path":"story/world/pages/gifted/lore/gifted-aether.lore.ts","id":"01a17eda-ae7e-7f71-abbc-5f07d882b894"}
 {"propertySlug":"lore-about","path":"story/world/pages/gifted/lore/gifted-customs.lore.ts","id":"01a17eda-ae7e-704a-9617-a679f5951d9a"}

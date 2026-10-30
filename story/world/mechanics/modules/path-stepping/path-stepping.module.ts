@@ -4,7 +4,7 @@ export const pathStepping = {
   id: "01a18d0a-be56-741d-8d62-a97f46fc55da",
   type: "page-type/module",
   slug: "path-stepping",
-  definition: "what a Path a character holds in the gifted world earns and what its Tiers pay",
+  definition: "what a Path a character holds earns and what its Tiers pay",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -32,7 +32,16 @@ export const pathStepping = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A character's Unallocated Stats are its world's unallocated stats page stating that character.",
+        "A check names the page type its own world keeps Unallocated Stats in, with that world.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A character's Unallocated Stats are the page of its world's type of that name stating it.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here names one world or imports a page of one.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -41,5 +50,5 @@ export const pathStepping = {
     },
   ],
   createdAt: "2026-10-30T13:40:53.973Z",
-  updatedAt: "2026-10-30T16:25:30.084Z",
+  updatedAt: "2026-10-30T16:28:17.320Z",
 } as const satisfies Module

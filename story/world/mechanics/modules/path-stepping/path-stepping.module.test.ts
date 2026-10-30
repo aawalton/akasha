@@ -3,11 +3,22 @@ import {
   basicPaid,
   oneSpeed,
   sped,
+  statsKindIn,
 } from "akasha/story/world/mechanics/modules/path-stepping/path-stepping.module.code.ts"
 
 const MIND = "metric-character-stat/probe-nala-mental"
 
-const STATS = "gifted-unallocated-stats/probe-nala"
+const STATS = "probe-world-unallocated-stats/probe-nala"
+
+test("a character's Unallocated Stats are its own world's type of the name the check gives", () => {
+  const stats = { kind: "probe-world-unallocated-stats", world: "probe-world" }
+  expect(statsKindIn("probe-world", stats)).toBe("probe-world-unallocated-stats")
+  expect(statsKindIn("pr-world", stats)).toBe("pr-world-unallocated-stats")
+  expect(statsKindIn("probe-world-two-world", stats)).toBe(
+    "probe-world-two-world-unallocated-stats"
+  )
+  expect(statsKindIn(null, stats)).toBe("probe-world-unallocated-stats")
+})
 
 test("a Basic Path's Tiers pay its attribute a point each, past the eighth", () => {
   expect(basicPaid(MIND, STATS, 0, 3)).toEqual([{ page: MIND, key: "value", by: 3 }])
