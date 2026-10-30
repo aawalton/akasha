@@ -46,7 +46,7 @@ export const giftedTrialWorldWomb = {
     },
     {
       fact: "By touch the womb is warm fluid, a soft wall close on every side, and the cord at her belly.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial-nala"],
     },
     {
       fact: "Curled tight, the body cannot sit up; it can only shift, stretch a little and kick.",
@@ -54,5 +54,5 @@ export const giftedTrialWorldWomb = {
     },
   ],
   createdAt: "2026-10-30T13:47:19.494Z",
-  updatedAt: "2026-10-30T14:21:53.153Z",
+  updatedAt: "2026-10-30T14:25:06.023Z",
 } as const satisfies Place
