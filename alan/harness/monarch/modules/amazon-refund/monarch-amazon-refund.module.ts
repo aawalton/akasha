@@ -4,7 +4,7 @@ export const monarchAmazonRefund = {
   id: "01a06863-ac0c-71ae-9a80-431ca793b133",
   type: "page-type/module",
   slug: "monarch-amazon-refund",
-  definition: "an Amazon refund read out of the refund mail Amazon sends",
+  definition: "how code reads an Amazon refund from the email Amazon sends",
   code: "ts",
   decisions: [
     {
@@ -37,5 +37,5 @@ export const monarchAmazonRefund = {
     },
   ],
   createdAt: "2026-09-03T17:49:17.708Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:44:28.053Z",
 } as const satisfies Module
