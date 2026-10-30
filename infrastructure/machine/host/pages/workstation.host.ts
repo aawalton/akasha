@@ -5,7 +5,8 @@ export const workstation = {
   type: "page-type/host",
   slug: "workstation",
   definition: "Alan's Linux desktop",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "workstation" }],
   title: "Workstation",
   createdAt: "2026-09-03T04:39:50.863Z",
-  updatedAt: "2026-09-15T17:10:29.000Z",
+  updatedAt: "2026-10-30T16:11:39.090Z",
 } as const satisfies Host
