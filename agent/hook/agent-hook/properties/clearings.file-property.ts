@@ -5,7 +5,7 @@ export const clearings = {
   type: "page-type/file-property",
   slug: "clearings",
   propertySlug: "clearings",
-  definition: "the times a hook removes an agent's readings",
+  definition: "the times a hook removes the list of files read by an agent",
   extensions: ["jsonl"],
   runsFileLength: false,
   generated: true,
@@ -33,5 +33,5 @@ export const clearings = {
   ],
   types: "ts",
   createdAt: "2026-09-13T19:32:56.788Z",
-  updatedAt: "2026-09-25T18:01:52.000Z",
+  updatedAt: "2026-10-30T16:45:21.786Z",
 } as const satisfies FileProperty
