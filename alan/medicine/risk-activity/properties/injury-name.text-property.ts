@@ -5,10 +5,10 @@ export const injuryName = {
   type: "page-type/text-property",
   slug: "injury-name",
   propertySlug: "injury",
-  definition: "the name of an injury an activity can cause",
+  definition: "the name of an injury a risk activity can cause",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-10-28T18:23:14.375Z",
-  updatedAt: "2026-10-28T18:23:14.375Z",
+  updatedAt: "2026-10-30T16:05:07.986Z",
 } as const satisfies TextProperty
