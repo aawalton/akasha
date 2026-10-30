@@ -4,7 +4,7 @@ export const changeChecked = {
   id: "01a0725c-56f6-7761-b210-d08f0ff70c22",
   type: "page-type/change-kind",
   slug: "change-checked",
-  definition: "a change a program composed and the checks judge",
+  definition: "a change made by a program for the checks to judge",
   runsChecks: true,
   writerOwesReading: false,
   readersOweReading: false,
@@ -32,5 +32,5 @@ export const changeChecked = {
     },
   ],
   createdAt: "2026-09-05T16:17:29.334Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T17:06:11.691Z",
 } as const satisfies ChangeKind
