@@ -186,6 +186,25 @@ test("a story of a world stating no testing is cloned into a world that states t
   expect(answer.report).toContain("gameMaster\taine-game-master-probe")
 })
 
+test("a file beside a page is copied with no id, and a page is handed one", async () => {
+  const secrets = `${WORLD}lore/test-world-hall.lore.secrets.jsonl`
+  const besides: Reach = {
+    ...REACH,
+    committedUnder: () => [PLACE_AT, secrets],
+    textOf: (root, path) => (path === secrets ? '{"secret":"x"}\n' : REACH.textOf(root, path)),
+  }
+  const landed: Landed[] = []
+  await storyClone(["--story", "test-story", "--as", "probe"], GIVEN, landingInto(landed), besides)
+  const given = (landed[0]?.asked ?? []).map((one) => one.given as Record<string, unknown>)
+  const beside = given.find(
+    (one) => one["at"] === `${CLONED}lore/probe-world-hall.lore.secrets.jsonl`
+  )
+  const place = given.find((one) => one["at"] === `${CLONED}places/probe-world-hall.place.ts`)
+  expect(beside).toBeDefined()
+  expect(beside?.["id"]).toBeUndefined()
+  expect(place?.["id"]).toBe(MINTED)
+})
+
 test("a slug held already is refused, and nothing lands", async () => {
   const landed: Landed[] = []
   const answer = await storyClone(

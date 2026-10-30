@@ -133,6 +133,10 @@ type Planned = {
   readonly folder: string
 }
 
+function isPage(at: string): boolean {
+  return at.endsWith(PAGE_FILE) && !isCode(at)
+}
+
 function rank(at: string): number {
   if (at.endsWith(PAGE_TYPE_FILE)) return 0
   return isCode(at) ? 2 : 1
@@ -147,7 +151,7 @@ function partsAsked(
 ): readonly Asking[] {
   const asked: Asking[] = []
   for (const path of sources) {
-    if (isCode(path) || !path.endsWith(PAGE_FILE)) continue
+    if (!isPage(path)) continue
     const value = reach.valueOf(root, path)
     const address = value === null ? null : addressOf(value)
     if (address === null) continue
@@ -211,9 +215,9 @@ function planned(
   )
   const added: Asking[] = copies.map((one) => ({
     at: ADD_FILE,
-    given: isCode(one.at)
-      ? { at: one.at, body: one.body }
-      : { at: one.at, body: one.body, id: reach.minted() },
+    given: isPage(one.at)
+      ? { at: one.at, body: one.body, id: reach.minted() }
+      : { at: one.at, body: one.body },
   }))
   const parts = partsAsked(
     root,
