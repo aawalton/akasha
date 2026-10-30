@@ -10,7 +10,7 @@ export const cost = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is the multiplier the block's safety and difficulty price it at.",
+      statement: "The number is the multiplier the block's safety and difficulty price it at.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -18,5 +18,5 @@ export const cost = {
     },
   ],
   createdAt: "2026-09-10T13:57:30.393Z",
-  updatedAt: "2026-10-30T16:01:47.222Z",
+  updatedAt: "2026-10-30T17:10:36.739Z",
 } as const satisfies ReadoutGroup
