@@ -4,7 +4,7 @@ export const codeEditorDataInterface = {
   id: "01a07235-8d02-729e-880d-47af61f83714",
   type: "page-type/page-type",
   slug: "code-editor-data-interface",
-  definition: "what a part of the editor draws, held where that part reads it",
+  definition: "what a part of the code editor shows",
   extends: ["page-type/domain"],
   parts: [
     "code-editor-data-interface/agent-tree",
@@ -132,5 +132,5 @@ export const codeEditorDataInterface = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-05T15:35:07.266Z",
-  updatedAt: "2026-10-18T13:46:11.572Z",
+  updatedAt: "2026-10-30T15:38:51.083Z",
 } as const satisfies PageType
