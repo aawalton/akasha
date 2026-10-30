@@ -10,9 +10,9 @@ export const saturdayLegs20260725C0759e62SingleLegGluteBridgeSet1 = {
   note: "20 total (10/side), bodyweight, 2s top hold. Limiter = LATERAL HIP STABILIZERS (glute medius) on the working side, not glute max. Relevant to squat instability and to unilateral load tolerance.",
   reps: 20,
   rpe: 7,
-  sessionSlug: "saturday-legs-2026-07-25-c0759e62",
+  workoutSlug: "saturday-legs-2026-07-25-c0759e62",
   day: "day/day-2026-07-25",
   setNumber: 1,
   createdAt: "2026-07-25T13:35:46.081Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

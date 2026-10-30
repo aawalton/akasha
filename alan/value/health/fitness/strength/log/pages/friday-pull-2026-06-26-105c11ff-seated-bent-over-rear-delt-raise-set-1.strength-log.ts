@@ -10,10 +10,10 @@ export const fridayPull20260626105c11ffSeatedBentOverRearDeltRaiseSet1 = {
   note: "pinky-lead, strict. RPE8 (harder than 6/23's RPE7 — rear delts pre-fatigued from heavy rows). Solid working set",
   reps: 15,
   rpe: 8,
-  sessionSlug: "friday-pull-2026-06-26-105c11ff",
+  workoutSlug: "friday-pull-2026-06-26-105c11ff",
   day: "day/day-2026-06-26",
   setNumber: 1,
   weight: 10,
   createdAt: "2026-06-26T19:03:40.519Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

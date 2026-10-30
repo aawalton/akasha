@@ -10,9 +10,9 @@ export const fridayPull2026070350a5aaeaPushupsSet1 = {
   note: "Hands FLAT — best pushup form ever (normally on fists, wrists too stiff). 1 more good rep in tank, not 2.",
   reps: 10,
   rpe: 8,
-  sessionSlug: "friday-pull-2026-07-03-50a5aaea",
+  workoutSlug: "friday-pull-2026-07-03-50a5aaea",
   day: "day/day-2026-07-03",
   setNumber: 1,
   createdAt: "2026-07-03T18:16:09.705Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

@@ -10,10 +10,10 @@ export const tuesdayPull2026062327175e57SeatedBentOverRearDeltRaiseSet2 = {
   note: "jumped to 10lb DB; 7/10, strong rear-delt squeeze",
   reps: 15,
   rpe: 7,
-  sessionSlug: "tuesday-pull-2026-06-23-27175e57",
+  workoutSlug: "tuesday-pull-2026-06-23-27175e57",
   day: "day/day-2026-06-23",
   setNumber: 2,
   weight: 10,
   createdAt: "2026-06-23T18:34:11.858Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

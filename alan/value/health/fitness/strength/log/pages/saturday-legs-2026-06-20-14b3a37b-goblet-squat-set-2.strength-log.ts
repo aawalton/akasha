@@ -10,10 +10,10 @@ export const saturdayLegs2026062014b3a37bGobletSquatSet2 = {
   note: "legs strong from hiking; easy strength-wise — limiter is energy/conditioning, not load",
   reps: 10,
   rpe: 4,
-  sessionSlug: "saturday-legs-2026-06-20-14b3a37b",
+  workoutSlug: "saturday-legs-2026-06-20-14b3a37b",
   day: "day/day-2026-06-20",
   setNumber: 2,
   weight: 30,
   createdAt: "2026-06-20T16:45:30.678Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

@@ -10,10 +10,10 @@ export const fridayPull20260626105c11ffBentOverTwoDumbbellRowSet1 = {
   note: "warmup, easy/clean 2/10",
   reps: 10,
   rpe: 2,
-  sessionSlug: "friday-pull-2026-06-26-105c11ff",
+  workoutSlug: "friday-pull-2026-06-26-105c11ff",
   day: "day/day-2026-06-26",
   setNumber: 1,
   weight: 15,
   createdAt: "2026-06-26T18:55:38.172Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

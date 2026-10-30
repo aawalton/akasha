@@ -10,10 +10,10 @@ export const sundayRest202606289367f37cDumbbellRearLungeSet1 = {
   note: "20 total (10/leg), 20lb pair — bumped from 15lb pair @ same RPE5 on 6/24. Progression stuck cleanly; load landed, still room. Side-DB hold keeps arms out → legs are the limiter.",
   reps: 20,
   rpe: 5,
-  sessionSlug: "sunday-rest-2026-06-28-9367f37c",
+  workoutSlug: "sunday-rest-2026-06-28-9367f37c",
   day: "day/day-2026-06-28",
   setNumber: 1,
   weight: 20,
   createdAt: "2026-06-28T16:10:42.114Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

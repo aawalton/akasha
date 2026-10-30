@@ -9,10 +9,10 @@ export const thursdayPush20260625Bc9bc790InclineDumbbellPressSet1 = {
   isWarmup: false,
   note: "45deg, ribs down/braced; muscle fatigue triceps to elbow, no joint pain. Target hit (was 8).",
   reps: 12,
-  sessionSlug: "thursday-push-2026-06-25-bc9bc790",
+  workoutSlug: "thursday-push-2026-06-25-bc9bc790",
   day: "day/day-2026-06-25",
   setNumber: 1,
   weight: 25,
   createdAt: "2026-06-25T21:30:12.088Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

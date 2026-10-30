@@ -10,10 +10,10 @@ export const saturdayLegs2026062014b3a37bGobletReverseLungeSet1 = {
   note: "alternating, 20 total (10/leg); breathing now — conditioning cost as expected",
   reps: 20,
   rpe: 6,
-  sessionSlug: "saturday-legs-2026-06-20-14b3a37b",
+  workoutSlug: "saturday-legs-2026-06-20-14b3a37b",
   day: "day/day-2026-06-20",
   setNumber: 1,
   weight: 25,
   createdAt: "2026-06-20T16:48:52.925Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

@@ -9,9 +9,9 @@ export const fridayPull2026070350a5aaeaHamstringStretchSet1 = {
   durationSeconds: 60,
   exercise: "strength-exercise/hamstring-stretch",
   note: "~30s/side supine. Both sides felt fine — no notable L/R gap today. Low back kept out of it.",
-  sessionSlug: "friday-pull-2026-07-03-50a5aaea",
+  workoutSlug: "friday-pull-2026-07-03-50a5aaea",
   day: "day/day-2026-07-03",
   setNumber: 1,
   createdAt: "2026-07-03T18:33:59.152Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

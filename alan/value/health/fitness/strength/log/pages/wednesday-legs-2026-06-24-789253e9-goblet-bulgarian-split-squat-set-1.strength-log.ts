@@ -9,10 +9,10 @@ export const wednesdayLegs20260624789253e9GobletBulgarianSplitSquatSet1 = {
   isWarmup: false,
   reps: 16,
   rpe: 8,
-  sessionSlug: "wednesday-legs-2026-06-24-789253e9",
+  workoutSlug: "wednesday-legs-2026-06-24-789253e9",
   day: "day/day-2026-06-24",
   setNumber: 1,
   weight: 20,
   createdAt: "2026-06-24T16:54:44.677Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

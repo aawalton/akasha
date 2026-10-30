@@ -10,9 +10,9 @@ export const fridayPull2026070350a5aaeaPushupsSet2 = {
   note: "Fast tempo, hands slightly forward of standard. Limiting factor = wrists, not chest. Flat palms held both sets.",
   reps: 8,
   rpe: 8,
-  sessionSlug: "friday-pull-2026-07-03-50a5aaea",
+  workoutSlug: "friday-pull-2026-07-03-50a5aaea",
   day: "day/day-2026-07-03",
   setNumber: 2,
   createdAt: "2026-07-03T18:19:13.994Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

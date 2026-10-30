@@ -10,10 +10,10 @@ export const saturdayLegs20260725C0759e62GobletBulgarianSplitSquatSet2 = {
   note: "Set 2. LIMITER = RIGHT KNEE, peri-patellar (around the kneecap), NOT muscular. Right is his more restricted side (tighter R hamstring, lower R SLR). Ended loaded lunge work for the day; rear lunge skipped as same-pattern knee load. Follow up on sensation quality + swelling.",
   reps: 12,
   rpe: 7,
-  sessionSlug: "saturday-legs-2026-07-25-c0759e62",
+  workoutSlug: "saturday-legs-2026-07-25-c0759e62",
   day: "day/day-2026-07-25",
   setNumber: 2,
   weight: 20,
   createdAt: "2026-07-25T13:42:52.291Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

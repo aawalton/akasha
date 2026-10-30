@@ -24,7 +24,7 @@ export const strengthLog = {
     "relation-property/exercise",
     "select-property/activity-type",
     "text-property/note",
-    "text-property/session-slug",
+    "text-property/workout-slug",
     "relation-property/gym",
   ],
   properties: [
@@ -37,7 +37,7 @@ export const strengthLog = {
     { pageProperty: "text-property/note", required: false, many: false },
     { pageProperty: "number-property/reps", required: false, many: false },
     { pageProperty: "number-property/rpe", required: false, many: false },
-    { pageProperty: "text-property/session-slug", required: true, many: false },
+    { pageProperty: "text-property/workout-slug", required: true, many: false },
     { pageProperty: "relation-property/day", required: true, many: false },
     { pageProperty: "number-property/set-number", required: true, many: false },
     { pageProperty: "number-property/weight", required: false, many: false },
@@ -87,5 +87,5 @@ export const strengthLog = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:21:48.924Z",
-  updatedAt: "2026-10-30T17:20:32.765Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies PageType

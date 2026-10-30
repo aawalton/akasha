@@ -9,9 +9,9 @@ export const fridayPull2026070350a5aaeaCatStretchSet1 = {
   durationSeconds: 120,
   exercise: "strength-exercise/cat-stretch",
   note: "10 slow cat-cows, felt good — sore low/upper back moving well",
-  sessionSlug: "friday-pull-2026-07-03-50a5aaea",
+  workoutSlug: "friday-pull-2026-07-03-50a5aaea",
   day: "day/day-2026-07-03",
   setNumber: 1,
   createdAt: "2026-07-03T18:13:39.578Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

@@ -10,10 +10,10 @@ export const sundayRest202606289367f37cGobletSquatSet1 = {
   note: "Primer, controlled, full depth — easy/trivial bilateral (matches the 30lb=trivial pattern; legs never the cap).",
   reps: 15,
   rpe: 4,
-  sessionSlug: "sunday-rest-2026-06-28-9367f37c",
+  workoutSlug: "sunday-rest-2026-06-28-9367f37c",
   day: "day/day-2026-06-28",
   setNumber: 1,
   weight: 30,
   createdAt: "2026-06-28T15:57:01.876Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

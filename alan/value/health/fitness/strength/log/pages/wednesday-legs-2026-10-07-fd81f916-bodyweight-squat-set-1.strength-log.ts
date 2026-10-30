@@ -10,9 +10,9 @@ export const wednesdayLegs20261007Fd81f916BodyweightSquatSet1 = {
   note: "heels elevated, about a foot from the ground, right knee fine",
   reps: 10,
   rpe: 4,
-  sessionSlug: "wednesday-legs-2026-10-07-fd81f916",
+  workoutSlug: "wednesday-legs-2026-10-07-fd81f916",
   day: "day/day-2026-10-07",
   setNumber: 1,
   createdAt: "2026-10-07T10:04:23.713Z",
-  updatedAt: "2026-10-07T10:11:25.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

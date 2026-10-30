@@ -10,9 +10,9 @@ export const fridayPull2026070350a5aaeaBodyweightReverseLungeSet2 = {
   note: "Round 2, 20 total. Same difficulty as round 1 — engine held, no fade.",
   reps: 20,
   rpe: 6,
-  sessionSlug: "friday-pull-2026-07-03-50a5aaea",
+  workoutSlug: "friday-pull-2026-07-03-50a5aaea",
   day: "day/day-2026-07-03",
   setNumber: 2,
   createdAt: "2026-07-03T18:31:45.192Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

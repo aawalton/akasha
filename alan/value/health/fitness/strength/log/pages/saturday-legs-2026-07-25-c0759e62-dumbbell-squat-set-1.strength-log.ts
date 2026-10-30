@@ -10,10 +10,10 @@ export const saturdayLegs20260725C0759e62DumbbellSquatSet1 = {
   note: "Front-racked pair of 30s (elbows out, palms forward, DBs on front delts). Limiter was LOWER BACK, not legs: heels lifted at the bottom, forcing a forward pitch. Root cause = ankle dorsiflexion restriction, not strength. Retest heel-elevated.",
   reps: 9,
   rpe: 8,
-  sessionSlug: "saturday-legs-2026-07-25-c0759e62",
+  workoutSlug: "saturday-legs-2026-07-25-c0759e62",
   day: "day/day-2026-07-25",
   setNumber: 1,
   weight: 60,
   createdAt: "2026-07-25T13:30:34.763Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

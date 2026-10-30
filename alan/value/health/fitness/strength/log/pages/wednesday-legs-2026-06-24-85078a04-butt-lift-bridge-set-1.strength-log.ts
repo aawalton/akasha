@@ -9,9 +9,9 @@ export const wednesdayLegs2026062485078a04ButtLiftBridgeSet1 = {
   isWarmup: false,
   note: "movement snack 8, glute bridge",
   reps: 20,
-  sessionSlug: "wednesday-legs-2026-06-24-85078a04",
+  workoutSlug: "wednesday-legs-2026-06-24-85078a04",
   day: "day/day-2026-06-24",
   setNumber: 1,
   createdAt: "2026-06-24T23:35:13.855Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

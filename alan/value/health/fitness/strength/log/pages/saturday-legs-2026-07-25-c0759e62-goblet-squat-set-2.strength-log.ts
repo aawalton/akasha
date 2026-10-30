@@ -10,10 +10,10 @@ export const saturdayLegs20260725C0759e62GobletSquatSet2 = {
   note: "3s eccentric + 1s pause tempo. Limiting factor was ARMS/hold, not legs — goblet position caps leg loading via anterior hold fatigue.",
   reps: 15,
   rpe: 6,
-  sessionSlug: "saturday-legs-2026-07-25-c0759e62",
+  workoutSlug: "saturday-legs-2026-07-25-c0759e62",
   day: "day/day-2026-07-25",
   setNumber: 2,
   weight: 30,
   createdAt: "2026-07-25T13:26:51.419Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

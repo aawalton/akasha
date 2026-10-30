@@ -8,11 +8,11 @@ import type { IsWarmup } from "akasha/alan/value/health/fitness/strength/log/pro
 import type { Note } from "akasha/alan/value/health/fitness/strength/log/properties/note.text-property.types.ts"
 import type { Reps } from "akasha/alan/value/health/fitness/strength/log/properties/reps.number-property.types.ts"
 import type { Rpe } from "akasha/alan/value/health/fitness/strength/log/properties/rpe.number-property.types.ts"
-import type { SessionSlug } from "akasha/alan/value/health/fitness/strength/log/properties/session-slug.text-property.types.ts"
 import type { SetNumber } from "akasha/alan/value/health/fitness/strength/log/properties/set-number.number-property.types.ts"
 import type { SetPerformedAt } from "akasha/alan/value/health/fitness/strength/log/properties/set-performed-at.instant-property.types.ts"
 import type { SetVolume } from "akasha/alan/value/health/fitness/strength/log/properties/set-volume.computed-property.types.ts"
 import type { Weight } from "akasha/alan/value/health/fitness/strength/log/properties/weight.number-property.types.ts"
+import type { WorkoutSlug } from "akasha/alan/value/health/fitness/strength/log/properties/workout-slug.text-property.types.ts"
 import type { Page } from "akasha/page/page.page-type.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 
@@ -26,7 +26,7 @@ export type StrengthLog = Page & {
   note?: Note
   reps?: Reps
   rpe?: Rpe
-  sessionSlug: SessionSlug
+  workoutSlug: WorkoutSlug
   day: Day
   setNumber: SetNumber
   weight?: Weight

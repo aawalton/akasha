@@ -10,11 +10,11 @@ export const mondayPush2026092197a19268AdvancedKettlebellWindmillSet1 = {
   note: "eight reps each side",
   reps: 8,
   rpe: 3,
-  sessionSlug: "monday-push-2026-09-21-97a19268",
+  workoutSlug: "monday-push-2026-09-21-97a19268",
   day: "day/day-2026-09-21",
   setNumber: 1,
   weight: 5,
   setPerformedAt: "2026-09-21T14:20:22.000Z",
   createdAt: "2026-09-21T14:20:28.309Z",
-  updatedAt: "2026-09-21T14:20:36.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

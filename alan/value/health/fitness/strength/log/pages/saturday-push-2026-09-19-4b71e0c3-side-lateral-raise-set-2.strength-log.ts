@@ -10,11 +10,11 @@ export const saturdayPush202609194b71e0c3SideLateralRaiseSet2 = {
   note: "fourteen were asked for and twelve came",
   reps: 12,
   rpe: 9,
-  sessionSlug: "saturday-push-2026-09-19-4b71e0c3",
+  workoutSlug: "saturday-push-2026-09-19-4b71e0c3",
   day: "day/day-2026-09-19",
   setNumber: 2,
   weight: 10,
   setPerformedAt: "2026-09-19T17:01:42.000Z",
   createdAt: "2026-09-19T17:01:48.562Z",
-  updatedAt: "2026-09-19T17:02:12.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

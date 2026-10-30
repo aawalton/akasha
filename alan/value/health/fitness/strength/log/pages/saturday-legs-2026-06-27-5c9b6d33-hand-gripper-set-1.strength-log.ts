@@ -10,10 +10,10 @@ export const saturdayLegs202606275c9b6d33HandGripperSet1 = {
   note: "10 each hand, equal L/R; gripper resistance 10 lb (device range 10-132)",
   reps: 20,
   rpe: 4,
-  sessionSlug: "saturday-legs-2026-06-27-5c9b6d33",
+  workoutSlug: "saturday-legs-2026-06-27-5c9b6d33",
   day: "day/day-2026-06-27",
   setNumber: 1,
   weight: 10,
   createdAt: "2026-06-27T19:59:22.111Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

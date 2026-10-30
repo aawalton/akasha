@@ -10,10 +10,10 @@ export const saturdayLegs20260725C0759e62GobletBulgarianSplitSquatSet1 = {
   note: "12 total (6/side), held at 20 rather than the prescribed 20->25 jump: 22 days without loading (see #16062). Longer front-foot stance to reduce ankle dorsiflexion demand.",
   reps: 12,
   rpe: 7,
-  sessionSlug: "saturday-legs-2026-07-25-c0759e62",
+  workoutSlug: "saturday-legs-2026-07-25-c0759e62",
   day: "day/day-2026-07-25",
   setNumber: 1,
   weight: 20,
   createdAt: "2026-07-25T13:39:16.679Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

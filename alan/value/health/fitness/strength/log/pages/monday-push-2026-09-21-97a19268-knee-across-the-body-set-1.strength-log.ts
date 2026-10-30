@@ -10,10 +10,10 @@ export const mondayPush2026092197a19268KneeAcrossTheBodySet1 = {
   exercise: "strength-exercise/knee-across-the-body",
   isWarmup: false,
   note: "forty-five seconds each side",
-  sessionSlug: "monday-push-2026-09-21-97a19268",
+  workoutSlug: "monday-push-2026-09-21-97a19268",
   day: "day/day-2026-09-21",
   setNumber: 1,
   setPerformedAt: "2026-09-21T14:35:36.000Z",
   createdAt: "2026-09-21T14:35:42.834Z",
-  updatedAt: "2026-09-21T14:35:50.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

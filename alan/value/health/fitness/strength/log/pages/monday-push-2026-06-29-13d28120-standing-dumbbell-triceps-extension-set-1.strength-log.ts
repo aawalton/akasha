@@ -9,10 +9,10 @@ export const mondayPush2026062913d28120StandingDumbbellTricepsExtensionSet1 = {
   isWarmup: false,
   reps: 10,
   rpe: 8,
-  sessionSlug: "monday-push-2026-06-29-13d28120",
+  workoutSlug: "monday-push-2026-06-29-13d28120",
   day: "day/day-2026-06-29",
   setNumber: 1,
   weight: 15,
   createdAt: "2026-06-29T17:55:54.696Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

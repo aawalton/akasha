@@ -10,9 +10,9 @@ export const fridayPull2026070350a5aaeaSingleLegGluteBridgeSet1 = {
   note: "20 total (10/side). ZERO low-back grumbles. Limiting factor = supporting-knee stability, especially RIGHT — matches right-side stability pattern from Bulgarians.",
   reps: 20,
   rpe: 6,
-  sessionSlug: "friday-pull-2026-07-03-50a5aaea",
+  workoutSlug: "friday-pull-2026-07-03-50a5aaea",
   day: "day/day-2026-07-03",
   setNumber: 1,
   createdAt: "2026-07-03T18:27:22.505Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

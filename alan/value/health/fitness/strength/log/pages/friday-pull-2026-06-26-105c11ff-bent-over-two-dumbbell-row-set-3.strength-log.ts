@@ -10,10 +10,10 @@ export const fridayPull20260626105c11ffBentOverTwoDumbbellRowSet3 = {
   note: "REP PR (was 30x12 @RPE8 on 6/23). Felt it a bit in lower back + neck — stabilizer/position fatigue at high reps, not lat failure",
   reps: 17,
   rpe: 7,
-  sessionSlug: "friday-pull-2026-06-26-105c11ff",
+  workoutSlug: "friday-pull-2026-06-26-105c11ff",
   day: "day/day-2026-06-26",
   setNumber: 3,
   weight: 30,
   createdAt: "2026-06-26T18:59:01.809Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

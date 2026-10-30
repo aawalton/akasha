@@ -10,10 +10,10 @@ export const sundayRest202606289367f37cSingleLegGluteBridgeSet1 = {
   note: "20 total (10/leg) BW, RPE7 — up from RPE6 on 6/24 (pre-fatigued finisher after the full leg block). Zero spinal load, back-friendly posterior flush after the sore-back RDL. Glutes firing well.",
   reps: 20,
   rpe: 7,
-  sessionSlug: "sunday-rest-2026-06-28-9367f37c",
+  workoutSlug: "sunday-rest-2026-06-28-9367f37c",
   day: "day/day-2026-06-28",
   setNumber: 1,
   weight: 0,
   createdAt: "2026-06-28T16:22:50.317Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

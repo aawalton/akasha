@@ -10,10 +10,10 @@ export const wednesdayLegs20261007Fd81f916CalfStretchHandsAgainstWallSet1 = {
   exercise: "strength-exercise/calf-stretch-hands-against-wall",
   isWarmup: false,
   note: "forty-five seconds each side, back knee slightly bent",
-  sessionSlug: "wednesday-legs-2026-10-07-fd81f916",
+  workoutSlug: "wednesday-legs-2026-10-07-fd81f916",
   day: "day/day-2026-10-07",
   setNumber: 1,
   setPerformedAt: "2026-10-07T10:14:00.000Z",
   createdAt: "2026-10-07T10:14:57.432Z",
-  updatedAt: "2026-10-07T10:15:00.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

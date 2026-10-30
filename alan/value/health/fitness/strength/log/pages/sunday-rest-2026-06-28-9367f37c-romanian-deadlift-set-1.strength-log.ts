@@ -10,10 +10,10 @@ export const sundayRest202606289367f37cRomanianDeadliftSet1 = {
   note: "Accidental 20 (meant 10), 20lb pair. LOW-BACK is the limiter again (consistent) — back a bit sore but explicitly NOT strained. Held position through 20 reps. Stop adding hinge volume from here; pivot to upright unilateral + back-friendly posterior to spare the low back.",
   reps: 20,
   rpe: 6,
-  sessionSlug: "sunday-rest-2026-06-28-9367f37c",
+  workoutSlug: "sunday-rest-2026-06-28-9367f37c",
   day: "day/day-2026-06-28",
   setNumber: 1,
   weight: 20,
   createdAt: "2026-06-28T16:16:40.607Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

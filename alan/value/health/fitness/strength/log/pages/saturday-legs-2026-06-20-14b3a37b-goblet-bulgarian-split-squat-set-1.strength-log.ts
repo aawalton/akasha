@@ -10,10 +10,10 @@ export const saturdayLegs2026062014b3a37bGobletBulgarianSplitSquatSet1 = {
   note: "16 total (8/leg), rear foot elevated; shaking through most reps but held good form, paused a few times for balance",
   reps: 16,
   rpe: 8,
-  sessionSlug: "saturday-legs-2026-06-20-14b3a37b",
+  workoutSlug: "saturday-legs-2026-06-20-14b3a37b",
   day: "day/day-2026-06-20",
   setNumber: 1,
   weight: 25,
   createdAt: "2026-06-20T17:03:01.300Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

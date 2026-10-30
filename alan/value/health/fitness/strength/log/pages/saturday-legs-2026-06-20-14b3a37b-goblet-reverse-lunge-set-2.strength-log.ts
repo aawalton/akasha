@@ -10,10 +10,10 @@ export const saturdayLegs2026062014b3a37bGobletReverseLungeSet2 = {
   note: "Goblet reverse lunge (catalog lacks exact name): 16 total (8/side), consistent pace, knee gently touched carpet each rep — good depth",
   reps: 16,
   rpe: 8,
-  sessionSlug: "saturday-legs-2026-06-20-14b3a37b",
+  workoutSlug: "saturday-legs-2026-06-20-14b3a37b",
   day: "day/day-2026-06-20",
   setNumber: 2,
   weight: 25,
   createdAt: "2026-06-20T16:56:28.469Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

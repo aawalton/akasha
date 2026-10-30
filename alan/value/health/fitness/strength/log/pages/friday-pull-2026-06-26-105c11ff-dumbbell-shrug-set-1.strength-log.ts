@@ -10,10 +10,10 @@ export const fridayPull20260626105c11ffDumbbellShrugSet1 = {
   note: "bumped 20→25lb, pause-squeeze top no roll. RPE7, slowed last rep. Progression landed — 25 is the new working weight",
   reps: 15,
   rpe: 7,
-  sessionSlug: "friday-pull-2026-06-26-105c11ff",
+  workoutSlug: "friday-pull-2026-06-26-105c11ff",
   day: "day/day-2026-06-26",
   setNumber: 1,
   weight: 25,
   createdAt: "2026-06-26T19:07:47.766Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

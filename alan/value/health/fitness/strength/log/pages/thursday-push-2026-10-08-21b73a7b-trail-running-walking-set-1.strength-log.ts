@@ -10,9 +10,9 @@ export const thursdayPush2026100821b73a7bTrailRunningWalkingSet1 = {
   exercise: "strength-exercise/trail-running-walking",
   isWarmup: true,
   note: "about an hour's walk to the rec center",
-  sessionSlug: "thursday-push-2026-10-08-21b73a7b",
+  workoutSlug: "thursday-push-2026-10-08-21b73a7b",
   day: "day/day-2026-10-08",
   setNumber: 1,
   createdAt: "2026-10-08T11:58:14.277Z",
-  updatedAt: "2026-10-08T11:58:16.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

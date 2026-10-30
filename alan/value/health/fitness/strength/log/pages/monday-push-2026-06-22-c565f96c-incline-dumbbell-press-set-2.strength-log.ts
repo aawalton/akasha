@@ -9,10 +9,10 @@ export const mondayPush20260622C565f96cInclineDumbbellPressSet2 = {
   isWarmup: false,
   note: "stopped at 8; confirming feel — ~2 in reserve vs near-limit",
   reps: 8,
-  sessionSlug: "monday-push-2026-06-22-c565f96c",
+  workoutSlug: "monday-push-2026-06-22-c565f96c",
   day: "day/day-2026-06-22",
   setNumber: 2,
   weight: 25,
   createdAt: "2026-06-22T21:10:35.820Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

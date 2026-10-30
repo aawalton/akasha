@@ -9,10 +9,10 @@ export const mondayPush2026092197a19268ElbowsBackSet1 = {
   durationSeconds: 45,
   exercise: "strength-exercise/elbows-back",
   isWarmup: false,
-  sessionSlug: "monday-push-2026-09-21-97a19268",
+  workoutSlug: "monday-push-2026-09-21-97a19268",
   day: "day/day-2026-09-21",
   setNumber: 1,
   setPerformedAt: "2026-09-21T14:34:20.000Z",
   createdAt: "2026-09-21T14:34:25.709Z",
-  updatedAt: "2026-09-21T14:34:33.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog

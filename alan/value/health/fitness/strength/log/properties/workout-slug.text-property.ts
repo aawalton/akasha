@@ -1,10 +1,10 @@
 import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
 
-export const sessionSlug = {
+export const workoutSlug = {
   id: "01a06580-66fd-7412-a20a-d678614e0121",
   type: "page-type/text-property",
-  slug: "session-slug",
-  propertySlug: "session-slug",
+  slug: "workout-slug",
+  propertySlug: "workout-slug",
   definition: "the workout an exercise set belongs to",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
@@ -24,5 +24,5 @@ export const sessionSlug = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:21:48.925Z",
-  updatedAt: "2026-10-30T17:22:56.003Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies TextProperty

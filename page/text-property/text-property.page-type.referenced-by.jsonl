@@ -228,7 +228,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/value/health/fitness/flexibility/log/properties/mobility-reading-value-text.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/properties/exercise-external-id.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/value/health/fitness/strength/log/properties/note.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/value/health/fitness/strength/log/properties/session-slug.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/value/health/fitness/strength/log/properties/workout-slug.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"check/refusal/properties/refusal-text.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/container-recipe/properties/recipe-repository.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/error/errors-core/runtime-error/properties/error-app.text-property.ts","typed":true,"deferred":false}

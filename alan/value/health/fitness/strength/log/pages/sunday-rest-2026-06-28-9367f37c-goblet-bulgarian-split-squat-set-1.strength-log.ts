@@ -10,10 +10,10 @@ export const sundayRest202606289367f37cGobletBulgarianSplitSquatSet1 = {
   note: "16 total (8/leg), 20lb goblet — L RPE6 / R RPE8, RIGHT balance-limited. EXACT match to 6/24 (L6/R8). The day's peak/edge-finder; right side remains his weaker/tighter/less-stable link (lines up with right-hamstring-tighter + right-tighter forward fold). Upright goblet hold spared the sore low back.",
   reps: 16,
   rpe: 8,
-  sessionSlug: "sunday-rest-2026-06-28-9367f37c",
+  workoutSlug: "sunday-rest-2026-06-28-9367f37c",
   day: "day/day-2026-06-28",
   setNumber: 1,
   weight: 20,
   createdAt: "2026-06-28T16:20:34.204Z",
-  updatedAt: "2026-09-19T01:48:01.000Z",
+  updatedAt: "2026-10-30T17:43:48.642Z",
 } as const satisfies StrengthLog
