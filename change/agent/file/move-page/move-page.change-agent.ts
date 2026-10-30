@@ -7,7 +7,7 @@ export const movePage = {
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page",
-  definition: "a page and the files beside that page moved into another folder",
+  definition: "a change that moves a page and the files of that page into another folder",
   code: "ts",
   test: "ts",
   decisions: [
@@ -52,5 +52,5 @@ export const movePage = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-09-06T20:57:52.878Z",
-  updatedAt: "2026-09-24T15:08:28.000Z",
+  updatedAt: "2026-10-30T17:08:47.672Z",
 } as const satisfies ChangeAgent
