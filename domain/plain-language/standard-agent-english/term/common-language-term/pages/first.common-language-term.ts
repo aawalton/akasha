@@ -5,7 +5,10 @@ export const first = {
   type: "page-type/common-language-term",
   slug: "first",
   definition: "coming before every other",
-  spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "first" }],
+  spellings: [
+    { partOfSpeech: "part-of-speech/adjective", spelling: "first" },
+    { partOfSpeech: "part-of-speech/time-adverb", spelling: "first" },
+  ],
   createdAt: "2026-10-30T14:54:07.178Z",
-  updatedAt: "2026-10-30T14:54:07.178Z",
+  updatedAt: "2026-10-30T17:18:49.823Z",
 } as const satisfies CommonLanguageTerm

@@ -11,6 +11,7 @@
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/degree-adverb-with-an-adjective-and-a-clause.construction.ts","id":"01a0d5ce-a902-7e5a-aa57-7d7f7e4b5594"}
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/free-relative-pronoun-with-a-clause.construction.ts","id":"01a0c68f-6d81-7ca8-948f-a44ea461c351"}
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/free-relative-pronoun-with-a-joined-proper-noun-clause.construction.ts","id":"01a18d78-0943-7136-bbae-9a2a7476f88c"}
+{"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/free-relative-pronoun-with-a-time-adverb-past-tense-and-a-noun-phrase-clause.construction.ts","id":"01a18dd2-43e8-7649-9707-0556f7b191a3"}
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/free-relative-pronoun-with-a-time-adverb-past-tense-and-a-preposition-phrase-clause.construction.ts","id":"01a18dc5-91bf-7c79-aaab-284963c538b7"}
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/noun-group-alone.construction.ts","id":"01a0c57f-2d90-7475-a1a4-587ac08f0ec0"}
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/noun-group-with-a-determiner.construction.ts","id":"01a0c58c-287b-70be-abf3-05d84f4c124b"}
@@ -29,6 +30,7 @@
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/domain-definition-as-a-noun-phrase.construction.ts","id":"01a0c5eb-3c5d-7f11-aee5-f7b60653cd40"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/domain-definition-with-a-conjunction.construction.ts","id":"01a0c617-c18d-7c76-9c87-57bd9c9b5235"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/free-relative-pronoun-with-a-clause.construction.ts","id":"01a0c68f-6d81-7ca8-948f-a44ea461c351"}
+{"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/free-relative-pronoun-with-a-time-adverb-past-tense-and-a-noun-phrase-clause.construction.ts","id":"01a18dd2-43e8-7649-9707-0556f7b191a3"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/have-verb-with-a-past-participle-and-a-noun-phrase.construction.ts","id":"01a18d70-5d17-7537-aea2-d76a10448e19"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-for-to-clause.construction.ts","id":"01a0d57c-f7ff-726a-9c6f-2649d55c91cf"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-time-conjunction-and-a-clause.construction.ts","id":"01a15545-f558-764a-8aac-1d735492d4e0"}
