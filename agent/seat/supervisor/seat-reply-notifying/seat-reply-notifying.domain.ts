@@ -4,7 +4,7 @@ export const seatReplyNotifying = {
   id: "01a16f80-7143-783f-ba97-16653fa64c74",
   type: "page-type/domain",
   slug: "seat-reply-notifying",
-  definition: "a seat's reply pushed to the persons the seat answers to",
+  definition: "the last message of a seat's agent sent to the people of the seat",
   parts: ["module/reply-notify-poll"],
   decisions: [
     {
@@ -33,5 +33,5 @@ export const seatReplyNotifying = {
     },
   ],
   createdAt: "2026-10-24T20:00:51.010Z",
-  updatedAt: "2026-10-24T20:00:51.010Z",
+  updatedAt: "2026-10-30T14:40:01.858Z",
 } as const satisfies Domain
