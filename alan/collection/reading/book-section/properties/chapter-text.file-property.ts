@@ -5,9 +5,9 @@ export const chapterText = {
   type: "page-type/file-property",
   slug: "chapter-text",
   propertySlug: "chapter-text",
-  definition: "the prose of a part of a book",
+  definition: "the words of a part of a book",
   extensions: ["md"],
   types: "ts",
   createdAt: "2026-09-03T04:36:39.632Z",
-  updatedAt: "2026-10-30T15:17:25.092Z",
+  updatedAt: "2026-10-30T15:19:45.003Z",
 } as const satisfies FileProperty
