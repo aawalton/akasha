@@ -4,7 +4,7 @@ export const alanWebAppleAppSiteAssociation = {
   id: "01a0bbaa-1f47-7bfa-b982-1825d476f17e",
   type: "page-type/route",
   slug: "alan-web-apple-app-site-association",
-  definition: "what Apple reads before it lets a link reach the app",
+  definition: "the file Apple reads before a link opens the iOS app",
   code: "ts",
   urlPath: ".well-known/apple-app-site-association",
   decisions: [
@@ -41,5 +41,5 @@ export const alanWebAppleAppSiteAssociation = {
     },
   ],
   createdAt: "2026-09-19T21:54:43.655Z",
-  updatedAt: "2026-09-24T18:50:10.000Z",
+  updatedAt: "2026-10-30T17:04:52.034Z",
 } as const satisfies Route
