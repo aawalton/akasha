@@ -8,7 +8,8 @@ export const care = {
   spellings: [
     { partOfSpeech: "part-of-speech/verb", spelling: "care" },
     { partOfSpeech: "part-of-speech/verb", spelling: "cares" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "care" },
   ],
   createdAt: "2026-09-25T13:07:32.473Z",
-  updatedAt: "2026-09-25T15:41:48.000Z",
+  updatedAt: "2026-10-30T16:56:10.091Z",
 } as const satisfies CommonLanguageTerm
