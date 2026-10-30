@@ -4,7 +4,7 @@ export const refusalTree = {
   id: "01a0d943-723d-7e6e-af8c-80ae7cbaf242",
   type: "page-type/code-editor-data-interface",
   slug: "refusal-tree",
-  definition: "the rows the refusals panel draws",
+  definition: "the rows the editor shows in its tree of refusals",
   code: "ts",
   cooldownMilliseconds: 10000,
   decisions: [
@@ -18,5 +18,5 @@ export const refusalTree = {
     },
   ],
   createdAt: "2026-09-25T15:51:11.165Z",
-  updatedAt: "2026-09-25T17:55:37.000Z",
+  updatedAt: "2026-10-30T16:55:35.162Z",
 } as const satisfies CodeEditorDataInterface
