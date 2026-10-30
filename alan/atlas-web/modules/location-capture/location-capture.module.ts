@@ -4,7 +4,7 @@ export const locationCapture = {
   id: "01a06582-6b30-7826-936e-11f37187f8d8",
   type: "page-type/module",
   slug: "location-capture",
-  definition: "a location the plugin reports turned into a point and held in a buffer",
+  definition: "how code keeps the positions the phone reports in a list",
   code: "ts",
   test: "ts",
   decisions: [
@@ -26,5 +26,5 @@ export const locationCapture = {
     },
   ],
   createdAt: "2026-09-03T04:24:01.072Z",
-  updatedAt: "2026-09-24T19:54:17.000Z",
+  updatedAt: "2026-10-30T16:04:58.358Z",
 } as const satisfies Module
