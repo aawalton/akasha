@@ -4,7 +4,7 @@ export const sampleIdentity = {
   id: "01a05bc7-9129-7002-ab78-700980114edd",
   type: "page-type/module",
   slug: "sample-identity",
-  definition: "what tells one health reading from another",
+  definition: "the identity of a health sample",
   code: "ts",
   decisions: [
     {
@@ -26,5 +26,5 @@ export const sampleIdentity = {
     },
   ],
   createdAt: "2026-09-01T07:03:20.617Z",
-  updatedAt: "2026-09-24T23:05:06.000Z",
+  updatedAt: "2026-10-30T15:29:15.197Z",
 } as const satisfies Module
