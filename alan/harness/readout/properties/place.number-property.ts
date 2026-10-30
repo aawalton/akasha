@@ -5,9 +5,9 @@ export const place = {
   type: "page-type/number-property",
   slug: "place",
   propertySlug: "place",
-  definition: "where a thing sits among those shown with it",
+  definition: "where a readout sits among the other readouts of its group",
   max: null,
   types: "ts",
   createdAt: "2026-08-30T20:05:28.035Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T16:09:09.770Z",
 } as const satisfies NumberProperty
