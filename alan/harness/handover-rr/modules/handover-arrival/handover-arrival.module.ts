@@ -4,7 +4,7 @@ export const handoverArrival = {
   id: "01a0bb44-e843-7fb1-8970-cb9a34941050",
   type: "page-type/module",
   slug: "handover-arrival",
-  definition: "taking a code at a peripheral's landing path, and sending a stranger off to get one",
+  definition: "how a website takes a contributor through a handover",
   code: "ts",
   decisions: [
     {
@@ -26,5 +26,5 @@ export const handoverArrival = {
     },
   ],
   createdAt: "2026-09-19T20:04:10.435Z",
-  updatedAt: "2026-09-22T14:37:11.000Z",
+  updatedAt: "2026-10-30T15:49:30.076Z",
 } as const satisfies Module
