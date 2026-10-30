@@ -4,7 +4,7 @@ export const signIn = {
   id: "01a08306-c2ad-71ec-bdd7-449e1708d6ea",
   type: "page-type/route",
   slug: "sign-in",
-  definition: "where a player is sent off to alanwalton.com to be signed in",
+  definition: "how a person signs in at alanwalton.com",
   code: "ts",
   urlPath: "sign-in",
   decisions: [
@@ -18,5 +18,5 @@ export const signIn = {
     },
   ],
   createdAt: "2026-09-08T21:57:33.485Z",
-  updatedAt: "2026-09-19T21:31:00.000Z",
+  updatedAt: "2026-10-30T15:55:36.714Z",
 } as const satisfies Route
