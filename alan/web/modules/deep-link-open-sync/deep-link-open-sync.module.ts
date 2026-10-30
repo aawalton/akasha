@@ -4,7 +4,7 @@ export const deepLinkOpenSync = {
   id: "01a0655d-dab8-7c58-8569-1c6e3295591b",
   type: "page-type/module",
   slug: "deep-link-open-sync",
-  definition: "a link the native shell was opened by, carried into the router",
+  definition: "how code shows the page at the path of a link that opens the native shell",
   code: "tsx",
   decisions: [
     {
@@ -60,5 +60,5 @@ export const deepLinkOpenSync = {
     },
   ],
   createdAt: "2026-09-03T03:44:04.792Z",
-  updatedAt: "2026-09-24T21:01:04.000Z",
+  updatedAt: "2026-10-30T16:59:55.486Z",
 } as const satisfies Module
