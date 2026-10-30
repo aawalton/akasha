@@ -239,6 +239,20 @@ test("a source whose code imports a page of that story is refused, and nothing l
   expect(landed.length).toBe(0)
 })
 
+test("a clone its landing refuses names each page and property, and answers no commit", async () => {
+  const over = `\`${CLONED}lore/probe-world-hall.lore.ts\` would not match its page type — \`lore-facts lore-fact\` runs to 104 characters, over the length of 100`
+  const refusing = async () => await Promise.resolve({ refusals: [over], code: 65 } as never)
+  const answer = await storyClone(
+    ["--story", "test-story", "--as", "probe"],
+    GIVEN,
+    refusing,
+    REACH
+  )
+  expect(answer.code).not.toBe(0)
+  expect(answer.refusals.join("\n")).toContain(over)
+  expect(answer.report.join("\n")).not.toContain("commit")
+})
+
 test("a slug that is no lower kebab case is refused", async () => {
   const landed: Landed[] = []
   const answer = await storyClone(

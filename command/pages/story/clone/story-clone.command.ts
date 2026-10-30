@@ -49,6 +49,14 @@ export const storyClone = {
       decisionKind: "decision-kind/departure",
       statement: "A copied file beside a page, such as a lore page's secrets, is handed no id.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A clone whose renaming leaves text past its limit is refused, and nothing lands.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal names each page and property, rather than the text being shortened.",
+    },
   ],
   name: "clone",
   arguments: [
@@ -56,5 +64,5 @@ export const storyClone = {
     { argument: "argument/clone-as", required: true },
   ],
   createdAt: "2026-10-27T21:16:37.415Z",
-  updatedAt: "2026-10-30T13:46:06.723Z",
+  updatedAt: "2026-10-30T14:07:39.251Z",
 } as const satisfies Command
