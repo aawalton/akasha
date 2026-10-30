@@ -5,6 +5,10 @@ export const syncRun = {
   type: "page-type/page-type",
   slug: "sync-run",
   definition: "a run that imports pages from a place outside akasha",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "sync run" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "sync runs" },
+  ],
   parts: [
     "instant-property/run-completed-at",
     "instant-property/run-started-at",
@@ -48,5 +52,5 @@ export const syncRun = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:59:17.001Z",
-  updatedAt: "2026-10-30T15:10:43.618Z",
+  updatedAt: "2026-10-30T16:57:39.971Z",
 } as const satisfies PageType
