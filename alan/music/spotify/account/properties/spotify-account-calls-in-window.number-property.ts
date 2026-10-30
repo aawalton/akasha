@@ -5,7 +5,7 @@ export const spotifyAccountCallsInWindow = {
   type: "page-type/number-property",
   slug: "spotify-account-calls-in-window",
   propertySlug: "calls-in-window",
-  definition: "how many calls the open window has spent",
+  definition: "how many calls are counted against the account in the current span of time",
   max: 100000,
   decisions: [
     {
@@ -19,5 +19,5 @@ export const spotifyAccountCallsInWindow = {
   ],
   types: "ts",
   createdAt: "2026-09-18T23:30:53.990Z",
-  updatedAt: "2026-09-18T23:34:28.000Z",
+  updatedAt: "2026-10-30T16:30:24.655Z",
 } as const satisfies NumberProperty
