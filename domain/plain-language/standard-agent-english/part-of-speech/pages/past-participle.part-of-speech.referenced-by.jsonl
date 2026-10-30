@@ -1,6 +1,7 @@
 {"propertySlug":"part-of-speech","path":"agent/message/agent-message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}
 {"propertySlug":"part-of-speech","path":"alan/collection/place/location/properties/visited.boolean-property.ts","id":"01a06583-acfb-7283-afd9-4e61dda0b062"}
 {"propertySlug":"part-of-speech","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}
+{"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/absorb.common-language-term.ts","id":"01a18da5-6e23-74c1-9c62-56be62a5fb98"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/arrange.common-language-term.ts","id":"01a0d908-f9d3-77bf-9a7b-05070b4de132"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/ask.common-language-term.ts","id":"01a155c8-7446-7b6f-94ff-59e92bbbc1b6"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/assume.common-language-term.ts","id":"01a18d5d-d24b-79f7-8b67-803bcc112e50"}
@@ -73,6 +74,7 @@
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/summarize.common-language-term.ts","id":"01a0d448-7978-70f2-8ad1-416d1d55bdbf"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/tap.common-language-term.ts","id":"01a18d86-9eed-7112-a1dd-0c342c5cf667"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/teach.common-language-term.ts","id":"01a18d4a-5755-7911-a234-6927810babd3"}
+{"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/treat.common-language-term.ts","id":"01a18da5-6e25-750b-888d-0f75bd6d2771"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/trust.common-language-term.ts","id":"01a18d46-c403-7a12-98f5-d1471d26012c"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/use.common-language-term.ts","id":"01a0d57a-2034-78a8-89c8-2193c67baae1"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/wear.common-language-term.ts","id":"01a18da4-f95a-7ceb-97df-cdd95dbb5726"}
