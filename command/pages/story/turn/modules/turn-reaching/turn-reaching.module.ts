@@ -105,9 +105,18 @@ export const turnReaching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A one-seat notice of a turn at world-builder or game-master names the world builder's lore.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No seat-graph notice names the world builder's lore.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A fold leaves out a file that already holds what the fold would write.",
     },
   ],
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-30T12:14:50.803Z",
+  updatedAt: "2026-10-30T19:44:49.406Z",
 } as const satisfies Module

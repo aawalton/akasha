@@ -249,6 +249,39 @@ test("a one-seat story's notice reaches its game master seat alone, as it reads 
   ])
 })
 
+const HELD = "world/lore/secret.lore.secrets.jsonl"
+
+const HELD_SAID = `\n\nThese lore pages are the world builder's, and yours to read as well:\n- \`${HELD}\``
+
+function holding(oneSeat: boolean, into = seen()): Reach {
+  return {
+    ...pushingReach(into, []),
+    storyOf: () => ({ title: "The Saga", master: MASTER, oneSeat }),
+    heldLore: () => [HELD],
+  }
+}
+
+test("a one-seat notice at world-builder or game-master names the world builder's lore", async () => {
+  const into = seen()
+  const after: Told = { report: [], faults: [] }
+  for (const status of ["world-builder", "game-master", "player"] as const) {
+    await noticesSent(holding(true, into), ROOT, GAME, MASTER, AT, status, after)
+  }
+  expect(into.notices[0]).toBe(`${MASTER}: ${noticeOf(AT, "world-builder")}${HELD_SAID}`)
+  expect(into.notices[1]).toBe(`${MASTER}: ${noticeOf(AT, "game-master")}${HELD_SAID}`)
+  expect(into.notices[2]).toBe(`${MASTER}: ${noticeOf(AT, "player")}`)
+})
+
+test("a seat-graph notice names none of the world builder's lore to any seat", async () => {
+  const into = seen()
+  const after: Told = { report: [], faults: [] }
+  for (const status of ["world-builder", "game-master"] as const) {
+    await noticesSent(holding(false, into), ROOT, GAME, MASTER, AT, status, after)
+  }
+  expect(into.notices).toHaveLength(6)
+  expect(into.notices.some((one) => one.includes(HELD))).toBe(false)
+})
+
 test("a story stating nothing of its seating tells every seat a notice reaches now", async () => {
   const into = seen()
   const after: Told = { report: [], faults: [] }

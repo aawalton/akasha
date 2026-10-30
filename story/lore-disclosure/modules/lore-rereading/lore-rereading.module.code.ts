@@ -8,9 +8,16 @@ import {
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { lore } from "akasha/story/lore/lore.page-type.ts"
 import { place } from "akasha/story/lore/place/place.page-type.ts"
-import { withholdingFor } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
+import {
+  withheldIn,
+  withholdingFor,
+} from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 
 const LORE_KINDS: readonly string[] = [lore.slug, place.slug]
+
+const STORIES = "/stories/"
+
+const HELD_OPENING = "These lore pages are the world builder's, and yours to read as well:"
 
 function bodyIdAt(root: string, path: string): string | null {
   try {
@@ -39,4 +46,16 @@ export function changedLoreFor(root: string, agentId: string): readonly string[]
 export function changedLoreOfSeat(root: string, name: string): readonly string[] {
   const agentId = listedAt(root, seat.slug, name)[0]?.id
   return agentId === undefined ? [] : changedLoreFor(root, agentId)
+}
+
+export function heldLoreOf(root: string, turn: string): readonly string[] {
+  const at = turn.indexOf(STORIES)
+  if (at < 1) return []
+  const world = `${turn.slice(0, at)}/`
+  return withheldIn(root).filter((one) => one.startsWith(world))
+}
+
+export function heldLoreSaid(held: readonly string[]): string {
+  if (held.length === 0) return ""
+  return ["", "", HELD_OPENING, ...held.map((one) => `- \`${one}\``)].join("\n")
 }

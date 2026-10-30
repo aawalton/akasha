@@ -4,6 +4,8 @@ import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.m
 import {
   changedLoreFor,
   changedLoreOfSeat,
+  heldLoreOf,
+  heldLoreSaid,
 } from "akasha/story/lore-disclosure/modules/lore-rereading/lore-rereading.module.code.ts"
 import {
   PLACE_AT,
@@ -75,4 +77,22 @@ test("a place page is lore, and a seat is found by its name", () => {
   readNow(root, OTHER_SEAT, TOLD_AT)
   rewritten(root, PLACE_AT)
   expect(changedLoreOfSeat(root, "other")).toEqual([PLACE_AT])
+})
+
+const TURN_AT = "story/world/pages/held/stories/played/saga/turns/saga-01.story-turn-played.ts"
+
+test("the world builder's lore of a turn's world is every withheld page under that world", () => {
+  const root = toldWorld(scratch)
+  const held = heldLoreOf(root, TURN_AT)
+  expect(held).toContain(LORE_AT)
+  expect(held).not.toContain(TOLD_AT)
+  expect(heldLoreOf(root, TURN_AT.replace("/held/", "/other/"))).toEqual([])
+  expect(heldLoreOf(root, "saga-01.story-turn-played.ts")).toEqual([])
+})
+
+test("the world builder's lore is said as a section of its own, and nothing is said of none", () => {
+  expect(heldLoreSaid([LORE_AT])).toBe(
+    `\n\nThese lore pages are the world builder's, and yours to read as well:\n- \`${LORE_AT}\``
+  )
+  expect(heldLoreSaid([])).toBe("")
 })

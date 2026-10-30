@@ -69,7 +69,11 @@ import {
   putting,
   taking,
 } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
-import { changedLoreOfSeat } from "akasha/story/lore-disclosure/modules/lore-rereading/lore-rereading.module.code.ts"
+import {
+  changedLoreOfSeat,
+  heldLoreOf,
+  heldLoreSaid,
+} from "akasha/story/lore-disclosure/modules/lore-rereading/lore-rereading.module.code.ts"
 import { storyRecorderInstructions } from "akasha/story/recorder/properties/story-recorder-instructions.file-property.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import { storyReviewerInstructions } from "akasha/story/reviewer/properties/story-reviewer-instructions.file-property.ts"
@@ -88,6 +92,7 @@ import {
   STEP_SENDER,
   TURN,
   type TurnStep,
+  WORLD_BUILDER,
   WRITER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import {
@@ -178,6 +183,7 @@ export type Reach = {
     values: Readonly<Record<string, unknown>>
   ) => LoreGathered
   readonly changedLore: (root: string, seat: string) => readonly string[]
+  readonly heldLore?: (root: string, turn: string) => readonly string[]
   readonly writtenOn: (root: string, turn: Turn) => readonly string[]
   readonly readyPushed: ReadyPushing
   readonly backlogKept?: (story: string) => Promise<BacklogKept>
@@ -199,6 +205,8 @@ export type Rewinding = Reach & {
 }
 
 export type Told = { readonly report: string[]; readonly faults: string[] }
+
+const HELD_STEPS: readonly TurnStep[] = [WORLD_BUILDER, GAME_MASTER]
 
 export async function noticesSent(
   reach: Reach,
@@ -225,10 +233,13 @@ export async function noticesSent(
   const cast = status === WRITER && toRead.length > 0 ? `\n\n${loreLine(toRead, noun)}` : ""
   const story = reach.storyOf(root, game)
   const intent = status === GAME_MASTER ? intentLine(story?.intent) : ""
-  for (const to of noticedOf(master, game, story?.oneSeat === true)) {
+  const oneSeat = story?.oneSeat === true
+  const holds = oneSeat && HELD_STEPS.includes(status)
+  const held = holds ? heldLoreSaid(reach.heldLore?.(root, turn) ?? []) : ""
+  for (const to of noticedOf(master, game, oneSeat)) {
     const said = noticeOf(turn, status, reach.changedLore(root, to), noun, repairs)
     const more = to === master ? `${toMaster}${intent}` : ""
-    const why = await reach.notify(to, `${said}${cast}${more}`)
+    const why = await reach.notify(to, `${said}${held}${cast}${more}`)
     if (why === null) after.report.push(`told\t${to}`)
     else after.faults.push(`\`${to}\` was not told the ${noun} moved: ${why}`)
   }
@@ -356,6 +367,7 @@ export const REACHED: Reach = {
   alerted: alanAlerted,
   loreGathered,
   changedLore: changedLoreOfSeat,
+  heldLore: heldLoreOf,
   writtenOn: writtenIndexed,
   readyPushed: readyNotified,
   backlogKept: (story) => backlogKept(story),
