@@ -7,7 +7,7 @@ export const removeEveryPageOfAType = {
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page",
-  definition: "every page of a page type taken away, each with the files beside it",
+  definition: "a change that removes every page of a page type and the files of those pages",
   takesAtMost: true,
   code: "ts",
   test: "ts",
@@ -61,5 +61,5 @@ export const removeEveryPageOfAType = {
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
   createdAt: "2026-09-08T15:57:32.848Z",
-  updatedAt: "2026-09-22T10:08:50.000Z",
+  updatedAt: "2026-10-30T17:07:54.322Z",
 } as const satisfies ChangeAgent
