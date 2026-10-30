@@ -5,6 +5,7 @@ export const macbook = {
   type: "page-type/host",
   slug: "macbook",
   definition: "Alan's Apple laptop",
+  spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "MacBook" }],
   title: "MacBook",
   address: "100.64.0.2",
   loginUser: "walton",
@@ -26,5 +27,5 @@ export const macbook = {
     },
   ],
   createdAt: "2026-09-03T04:39:50.863Z",
-  updatedAt: "2026-09-24T22:55:08.000Z",
+  updatedAt: "2026-10-30T15:46:30.925Z",
 } as const satisfies Host
