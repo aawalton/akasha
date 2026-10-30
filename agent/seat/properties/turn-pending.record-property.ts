@@ -5,7 +5,7 @@ export const turnPending = {
   type: "page-type/record-property",
   slug: "turn-pending",
   propertySlug: "turn-pending",
-  definition: "what a seat is waiting on before its turn is done",
+  definition: "what a seat waits on",
   properties: [
     { pageProperty: "boolean-property/compacting", required: true, many: false },
     { pageProperty: "boolean-property/live-shell", required: true, many: false },
@@ -20,5 +20,5 @@ export const turnPending = {
   ],
   types: "ts",
   createdAt: "2026-08-30T19:19:32.447Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:38:43.235Z",
 } as const satisfies RecordProperty
