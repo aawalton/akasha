@@ -4,7 +4,7 @@ export const alanRequestsWeb = {
   id: "01a0c537-ba4f-70c8-8138-07fe3a3ea045",
   type: "page-type/router-app",
   slug: "alan-requests-web",
-  definition: "the routes the Requests site serves to a browser",
+  definition: "the website where people open feature requests",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "Requests site" }],
   tunnelRoutes: [
     {
@@ -71,5 +71,5 @@ export const alanRequestsWeb = {
     },
   ],
   createdAt: "2026-09-21T18:25:58.863Z",
-  updatedAt: "2026-10-30T15:59:23.537Z",
+  updatedAt: "2026-10-30T16:24:34.860Z",
 } as const satisfies RouterApp
