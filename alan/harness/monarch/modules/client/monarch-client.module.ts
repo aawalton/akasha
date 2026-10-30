@@ -4,7 +4,7 @@ export const monarchClient = {
   id: "01a06863-264d-79d8-8aef-9cdb6f51a8ba",
   type: "page-type/module",
   slug: "monarch-client",
-  definition: "Monarch's own GraphQL API, turned into the shapes this harness names",
+  definition: "how code reads rows from Monarch",
   code: "ts",
   decisions: [
     {
@@ -73,5 +73,5 @@ export const monarchClient = {
     },
   ],
   createdAt: "2026-09-03T17:48:43.469Z",
-  updatedAt: "2026-09-22T13:22:14.000Z",
+  updatedAt: "2026-10-30T15:38:24.391Z",
 } as const satisfies Module
