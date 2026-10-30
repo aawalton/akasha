@@ -4,7 +4,7 @@ export const readerAccess = {
   id: "01a0c503-1fee-74f8-8460-00ac5c1b90d6",
   type: "page-type/module",
   slug: "reader-access",
-  definition: "whether the reader a site read may read a page type",
+  definition: "whether the person at a browser can reach a page type",
   code: "ts",
   test: "ts",
   decisions: [
@@ -47,5 +47,5 @@ export const readerAccess = {
     },
   ],
   createdAt: "2026-09-21T17:28:31.470Z",
-  updatedAt: "2026-10-24T17:05:19.492Z",
+  updatedAt: "2026-10-30T16:15:22.380Z",
 } as const satisfies Module
