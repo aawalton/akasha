@@ -4,7 +4,7 @@ export const fitnessCooldown = {
   id: "01a0bab8-8a7a-78db-bb48-a6667b1f8812",
   type: "page-type/command",
   slug: "fitness-cooldown",
-  definition: "the stretch to hold next, once Alan says the bout is over",
+  definition: "the next stretch Alan holds after a workout",
   code: "ts",
   test: "ts",
   parts: ["module/cooling", "module/kit-loading"],
@@ -49,6 +49,6 @@ export const fitnessCooldown = {
   ],
   name: "cooldown",
   arguments: [{ argument: "argument/gym" }, { argument: "argument/json" }],
-  updatedAt: "2026-10-30T17:25:07.896Z",
+  updatedAt: "2026-10-30T17:41:46.501Z",
   createdAt: "2026-09-19T17:30:51.386Z",
 } as const satisfies Command
