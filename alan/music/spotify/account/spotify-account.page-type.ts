@@ -4,7 +4,7 @@ export const spotifyAccount = {
   id: "01a0b6dc-93a1-71ed-a64b-4bd0ff99df66",
   type: "page-type/page-type",
   slug: "spotify-account",
-  definition: "the music commands' Spotify account",
+  definition: "the Spotify account the music commands use",
   extends: ["page-type/page"],
   parts: [
     "instant-property/spotify-account-retry-allowed-at",
@@ -76,5 +76,5 @@ export const spotifyAccount = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-18T23:31:44.161Z",
-  updatedAt: "2026-09-22T13:45:29.000Z",
+  updatedAt: "2026-10-30T16:30:01.817Z",
 } as const satisfies PageType
