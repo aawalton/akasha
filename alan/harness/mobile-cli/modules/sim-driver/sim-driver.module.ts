@@ -4,7 +4,7 @@ export const simDriver = {
   id: "01a05cee-e560-7b19-818c-dae87acdf7de",
   type: "page-type/module",
   slug: "sim-driver",
-  definition: "opening an appium session on the sim and landing its webview on an app route",
+  definition: "how code opens an app in a simulator at a route through Appium",
   code: "ts",
   test: "ts",
   decisions: [
@@ -56,5 +56,5 @@ export const simDriver = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-21T01:01:01.000Z",
+  updatedAt: "2026-10-30T16:28:30.899Z",
 } as const satisfies Module
