@@ -4,7 +4,7 @@ export const capacityReading = {
   id: "01a069ba-b018-7b6b-b9a6-18cd82bd54b3",
   type: "page-type/module",
   slug: "capacity-reading",
-  definition: "the stress capacity Alan's stretches leave him, kept on the capacity readout",
+  definition: "how code reads Alan's stress capacity for the capacity readout",
   code: "ts",
   decisions: [
     {
@@ -120,5 +120,5 @@ export const capacityReading = {
     },
   ],
   createdAt: "2026-09-04T00:03:57.592Z",
-  updatedAt: "2026-10-22T14:49:38.971Z",
+  updatedAt: "2026-10-30T15:31:39.524Z",
 } as const satisfies Module
