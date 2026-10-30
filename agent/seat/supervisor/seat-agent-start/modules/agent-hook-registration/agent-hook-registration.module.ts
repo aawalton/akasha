@@ -4,7 +4,7 @@ export const agentHookRegistration = {
   id: "01a069ca-e863-7000-a1ae-b2d92e543dd0",
   type: "page-type/module",
   slug: "agent-hook-registration",
-  definition: "what the agent hook pages register with a client at spawn",
+  definition: "how code makes the hooks a seat runs from the agent hook pages",
   code: "ts",
   test: "ts",
   decisions: [
@@ -54,5 +54,5 @@ export const agentHookRegistration = {
     },
   ],
   createdAt: "2026-09-04T00:21:40.579Z",
-  updatedAt: "2026-09-24T16:36:00.000Z",
+  updatedAt: "2026-10-30T14:36:28.133Z",
 } as const satisfies Module
