@@ -5,9 +5,9 @@ export const proofStatus = {
   type: "page-type/select-property",
   slug: "proof-status",
   propertySlug: "proof-status",
-  definition: "how far an attempt has been taken",
+  definition: "how far Alan has written a proof",
   values: ["draft", "complete", "abandoned"],
   types: "ts",
   createdAt: "2026-09-03T04:20:41.000Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:44:29.210Z",
 } as const satisfies SelectProperty
