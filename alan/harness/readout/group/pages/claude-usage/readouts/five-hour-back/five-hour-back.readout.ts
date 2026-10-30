@@ -4,7 +4,7 @@ export const fiveHourBack = {
   id: "01a063bd-a526-7d2a-b1f5-8375b86d19ff",
   type: "page-type/readout",
   slug: "five-hour-back",
-  definition: "how long until a spent five-hour allowance returns",
+  definition: "the time until the next five-hour window ends for a model account at its limit",
   label: "5h back",
   unit: "h",
   minuteUnit: "m",
@@ -37,5 +37,5 @@ export const fiveHourBack = {
     },
   ],
   createdAt: "2026-09-02T20:09:28.102Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-30T15:56:26.876Z",
 } as const satisfies Readout
