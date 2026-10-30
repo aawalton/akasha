@@ -28,7 +28,15 @@ export const draftTyping = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A page the draft adds is judged at landing, since values generated then are not stated yet.",
+        "A page the draft adds is judged when drafted, excusing the values its landing generates.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mechanical landing runs no check, so a page it adds is judged here or nowhere.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page the draft moves is not judged as a page the draft adds.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -37,5 +45,5 @@ export const draftTyping = {
     },
   ],
   createdAt: "2026-09-28T20:36:37.636Z",
-  updatedAt: "2026-09-28T20:36:45.000Z",
+  updatedAt: "2026-10-30T14:03:50.980Z",
 } as const satisfies Module

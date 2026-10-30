@@ -20,7 +20,9 @@ export type Generated = {
   readonly watches: string | null
 }
 
-export function generatedProperties(shadow: Shadow): ReadonlyMap<string, Generated> {
+export function generatedProperties(
+  shadow: Pick<Shadow, "index" | "pageOf">
+): ReadonlyMap<string, Generated> {
   const found = new Map<string, Generated>()
   for (const one of shadow.index.everyOfType(GENERATOR_KIND)) {
     const page = shadow.pageOf(one.path)

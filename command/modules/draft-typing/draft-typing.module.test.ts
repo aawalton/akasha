@@ -64,11 +64,32 @@ test("an edit kept earlier is replayed before the new one is judged", () => {
   expect(mistypedAfter(bodyOf, [grown(101), more], [more], judge)).toHaveLength(1)
 })
 
-test("a page the draft adds is left to the landing's check", () => {
-  const added: FileChange = {
-    kind: "add",
-    path: "lore/new.lore.ts",
-    content: `["${"X".repeat(101)}"]`,
+const NEW_AT = "lore/new.lore.ts"
+
+function adding(by: number): FileChange {
+  return { kind: "add", path: NEW_AT, content: `["${"X".repeat(by)}"]` }
+}
+
+test("a page the draft adds is judged, naming the path and the reason", () => {
+  const said = mistypedAfter(bodyOf, [adding(101)], [adding(101)], judge)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toStartWith(`\`${NEW_AT}\` would not match its page type — `)
+  expect(said[0]).toContain("over the length of 100")
+  expect(mistypedAfter(bodyOf, [adding(100)], [adding(100)], judge)).toEqual([])
+})
+
+test("a page the draft adds is judged with the values its landing generates excused", () => {
+  const handed: (readonly string[])[] = []
+  const noting: Judge = (paths, read, added) => {
+    handed.push([...(added ?? [])])
+    return judge(paths, read)
   }
-  expect(mistypedAfter(bodyOf, [added], [added], judge)).toEqual([])
+  mistypedAfter(bodyOf, [adding(1), grown(1)], [adding(1), grown(1)], noting)
+  expect(handed.at(-1)).toEqual([NEW_AT])
+})
+
+test("a page the draft moves is not judged as a page it adds", () => {
+  const moved: FileChange = { kind: "move", pathFrom: AT, pathTo: NEW_AT }
+  const had = holding(BODY.replace("[]", `["${"X".repeat(101)}"]`))
+  expect(mistypedAfter(had, [moved], [moved], judge)).toEqual([])
 })

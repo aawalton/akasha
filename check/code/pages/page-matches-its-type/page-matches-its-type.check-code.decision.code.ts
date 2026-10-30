@@ -115,7 +115,10 @@ function reasonsAt(
   ]
 }
 
-export function refusalsIn(commit: Commit): readonly Judged[] {
+export function refusalsIn(
+  commit: Commit,
+  excusedAt: (path: string) => ReadonlySet<string> = () => NOTHING
+): readonly Judged[] {
   const over: Paged = { ...commit, index: pagesHeldOver(commit.index) }
   const pageTypes = over.index.pageTypesIn()
   const judging: Judging = {
@@ -132,7 +135,9 @@ export function refusalsIn(commit: Commit): readonly Judged[] {
     walked.add(path)
     const text = commit.read(path)
     if (text === null) continue
-    for (const reason of reasonsAt(judging, path, text, NOTHING)) judged.push({ path, reason })
+    for (const reason of reasonsAt(judging, path, text, excusedAt(path))) {
+      judged.push({ path, reason })
+    }
   }
   return judged
 }
