@@ -5,7 +5,7 @@ export const restDays = {
   type: "page-type/select-property",
   slug: "rest-days",
   propertySlug: "rest-days",
-  definition: "the days of the week on which a readout is drawn blue whatever its reading",
+  definition: "the days a readout is always blue",
   values: ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
   decisions: [
     {
@@ -23,5 +23,5 @@ export const restDays = {
   ],
   types: "ts",
   createdAt: "2026-10-18T14:00:54.435Z",
-  updatedAt: "2026-10-18T14:00:54.435Z",
+  updatedAt: "2026-10-30T16:12:58.801Z",
 } as const satisfies SelectProperty
