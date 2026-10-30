@@ -5,7 +5,7 @@ export const trackArtist = {
   type: "page-type/record-property",
   slug: "track-artist",
   propertySlug: "track-artist",
-  definition: "an artist a provider credits on a track",
+  definition: "an artist that Spotify shows for a track",
   properties: [
     { pageProperty: "relation-property/credited-artist", required: false, many: false },
     { pageProperty: "text-property/artist-name", required: false, many: false },
@@ -44,5 +44,5 @@ export const trackArtist = {
   ],
   types: "ts",
   createdAt: "2026-09-15T16:41:23.500Z",
-  updatedAt: "2026-09-24T20:31:48.000Z",
+  updatedAt: "2026-10-30T16:18:07.848Z",
 } as const satisfies RecordProperty
