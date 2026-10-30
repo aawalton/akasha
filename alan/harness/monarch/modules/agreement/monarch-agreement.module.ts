@@ -4,7 +4,7 @@ export const monarchAgreement = {
   id: "01a06863-ac0b-7070-8802-ece61d5b73b6",
   type: "page-type/module",
   slug: "monarch-agreement",
-  definition: "our copy of Monarch counted against Monarch, and where the two part",
+  definition: "how code counts the Monarch transactions in akasha against Monarch",
   code: "ts",
   decisions: [
     {
@@ -52,5 +52,5 @@ export const monarchAgreement = {
     },
   ],
   createdAt: "2026-09-03T17:49:17.707Z",
-  updatedAt: "2026-09-24T18:46:16.000Z",
+  updatedAt: "2026-10-30T15:35:42.299Z",
 } as const satisfies Module
