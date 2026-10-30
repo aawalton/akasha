@@ -5,9 +5,9 @@ export const towingCapacityLb = {
   type: "page-type/number-property",
   slug: "towing-capacity-lb",
   propertySlug: "towing-capacity-lb",
-  definition: "how much the car may tow behind it, in pounds",
+  definition: "the pounds a car trim can tow",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:43:45.699Z",
-  updatedAt: "2026-09-21T18:44:23.000Z",
+  updatedAt: "2026-10-30T15:44:54.781Z",
 } as const satisfies NumberProperty
