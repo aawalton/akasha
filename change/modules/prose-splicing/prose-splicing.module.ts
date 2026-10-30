@@ -4,7 +4,7 @@ export const proseSplicing = {
   id: "01a09c37-a726-75c9-9295-675c73b2ee02",
   type: "page-type/module",
   slug: "prose-splicing",
-  definition: "the edits restating the prose passages a page's body states",
+  definition: "how code changes the prose of a page in its body",
   code: "ts",
   test: "ts",
   decisions: [
@@ -79,5 +79,5 @@ export const proseSplicing = {
     },
   ],
   createdAt: "2026-09-13T19:21:28.102Z",
-  updatedAt: "2026-09-22T10:09:40.000Z",
+  updatedAt: "2026-10-30T17:25:29.919Z",
 } as const satisfies Module
