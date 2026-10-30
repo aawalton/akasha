@@ -57,6 +57,9 @@ const PHASE_ROW = z.looseObject({
   wallMs: z.number(),
   waitMs: z.number().optional(),
   workMs: z.number().optional(),
+  step: z.string().optional(),
+  beat: z.number().optional(),
+  stepMs: z.number().optional(),
 })
 
 export type PhaseRow = z.infer<typeof PHASE_ROW>
@@ -70,6 +73,8 @@ export type Ended = {
   readonly phase: string
   readonly seat: string
   readonly endedAt: number
+  readonly step?: string
+  readonly beat?: number
 }
 
 function msOf(said: string): number {
@@ -90,19 +95,36 @@ function ofThisTurn(one: PhaseRow, run: string, madeAt: number | null): boolean 
   return one.runId === run && (madeAt === null || msOf(one.endedAt) >= madeAt)
 }
 
+function latestEndOf(
+  rows: readonly PhaseRow[],
+  run: string,
+  madeAt: number | null,
+  counted: (one: PhaseRow) => boolean
+): number | null {
+  let found: number | null = null
+  for (const one of rows) {
+    if (!ofThisTurn(one, run, madeAt) || one.phase === PLAYER || !counted(one)) continue
+    const ended = msOf(one.endedAt)
+    if (found === null || ended > found) found = ended
+  }
+  return found ?? madeAt
+}
+
 export function startedAtOf(
   rows: readonly PhaseRow[],
   run: string,
   phase: string,
   madeAt: number | null
 ): number | null {
-  let found: number | null = null
-  for (const one of rows) {
-    if (!ofThisTurn(one, run, madeAt) || one.phase === phase || one.phase === PLAYER) continue
-    const ended = msOf(one.endedAt)
-    if (found === null || ended > found) found = ended
-  }
-  return found ?? madeAt
+  return latestEndOf(rows, run, madeAt, (one) => one.phase !== phase)
+}
+
+function steppedOf(rows: readonly PhaseRow[], ended: Ended) {
+  if (ended.step === undefined) return {}
+  const from = latestEndOf(rows, ended.run, ended.madeAt, () => true)
+  const timed = from !== null && from <= ended.endedAt ? { stepMs: ended.endedAt - from } : {}
+  const beat = ended.beat === undefined ? {} : { beat: ended.beat }
+  return { step: ended.step, ...beat, ...timed }
 }
 
 function rowOf(ended: Ended, from: number, pickedUp: number | null): PhaseRow {
@@ -189,7 +211,8 @@ export function phaseEnded(
   if (player !== null) written.push(player)
   const from = startedAtOf(rows, ended.run, ended.phase, ended.madeAt)
   if (from !== null && from <= ended.endedAt) {
-    written.push(rowOf(ended, from, pickedUpIn(since(from), ended.run, from)))
+    const row = rowOf(ended, from, pickedUpIn(since(from), ended.run, from))
+    written.push({ ...row, ...steppedOf(rows, ended) })
   }
   for (const one of written) recorded(root, page, `${JSON.stringify(one)}\n`, ENTRIES)
   return written

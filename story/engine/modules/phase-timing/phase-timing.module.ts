@@ -57,6 +57,24 @@ export const phaseTiming = {
       statement: "A phase no transcript line names says no waiting and no working.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A row of a one-seat turn also names the checklist step it ended, and the beat where there is one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A step starts where the latest row of the same run ended, of any phase, or at the run's making.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row naming a step keeps its phase and its phase's time as any other row does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row of a seat-graph turn names no step.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A phase that cannot be written refuses nothing it ends.",
     },
@@ -75,5 +93,5 @@ export const phaseTiming = {
     },
   ],
   createdAt: "2026-09-28T18:27:12.495Z",
-  updatedAt: "2026-09-28T18:41:13.000Z",
+  updatedAt: "2026-10-30T12:44:50.858Z",
 } as const satisfies Module

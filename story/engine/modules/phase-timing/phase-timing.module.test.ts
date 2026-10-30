@@ -103,6 +103,39 @@ test("an ended phase is written beside the story's page, with the player's phase
   expect(rowsAt(root, PAGE).map((one) => one.phase)).toEqual(["recorders", PLAYER, "world-builder"])
 })
 
+test("a step is timed from the step before it, of any phase, while its phase keeps its own time", () => {
+  const root = scratch.rootFor("phase-timing-")
+  mkdirSync(join(root, "story/the-saga"), { recursive: true })
+  const stepped = (phase: string, to: number, step: string, beat?: number): Ended => ({
+    ...ended(phase, to),
+    step,
+    ...(beat === undefined ? {} : { beat }),
+  })
+  phaseEnded(root, PAGE, stepped("world-builder", 10, "lore"), () => null)
+  phaseEnded(root, PAGE, stepped("game-master", 30, "beats"), () => null)
+  phaseEnded(root, PAGE, stepped("beats", 50, "changes", 1), () => null)
+  const wrote = phaseEnded(root, PAGE, stepped("beats", 80, "prose", 1), () => null)
+  expect(wrote.map((one) => [one.phase, one.wallMs, one.step, one.beat, one.stepMs])).toEqual([
+    ["beats", 50 * SECOND, "prose", 1, 30 * SECOND],
+  ])
+  const steps = rowsAt(root, PAGE).map((one) => [one.step, one.stepMs])
+  expect(steps).toEqual([
+    ["lore", 10 * SECOND],
+    ["beats", 20 * SECOND],
+    ["changes", 20 * SECOND],
+    ["prose", 30 * SECOND],
+  ])
+})
+
+test("a row naming no step is written with no step and no step time", () => {
+  const root = scratch.rootFor("phase-timing-")
+  mkdirSync(join(root, "story/the-saga"), { recursive: true })
+  const [wrote] = phaseEnded(root, PAGE, ended("world-builder", 10), () => null)
+  expect(Object.keys(wrote ?? {}).toSorted()).toEqual(
+    ["endedAt", "phase", "ran", "ranAt", "runId", "story", "wallMs"].toSorted()
+  )
+})
+
 test("a phase whose run holds no start and no making is written nowhere", () => {
   const root = scratch.rootFor("phase-timing-")
   mkdirSync(join(root, "story/the-saga"), { recursive: true })
