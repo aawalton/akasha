@@ -4,7 +4,7 @@ export const supervisorAdopt = {
   id: "01a0683e-3dbe-7001-8d52-13b4652ba83e",
   type: "page-type/module",
   slug: "supervisor-adopt",
-  definition: "a Claude child taken over from a prior supervisor or spawned fresh",
+  definition: "how code keeps the Claude Code process of a seat when a new supervisor starts",
   code: "ts",
   decisions: [
     {
@@ -25,5 +25,5 @@ export const supervisorAdopt = {
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-09-24T16:36:00.000Z",
+  updatedAt: "2026-10-30T14:36:44.457Z",
 } as const satisfies Module
