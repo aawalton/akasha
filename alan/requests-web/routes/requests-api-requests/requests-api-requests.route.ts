@@ -4,7 +4,7 @@ export const requestsApiRequests = {
   id: "01a0c54b-6eaf-7e6f-9ed5-6b1d7145650a",
   type: "page-type/route",
   slug: "requests-api-requests",
-  definition: "a contributor's post opening or boosting a feature request",
+  definition: "what a contributor asks the Requests site to do to a feature request",
   code: "ts",
   urlPath: "api/requests",
   decisions: [
@@ -34,5 +34,5 @@ export const requestsApiRequests = {
     },
   ],
   createdAt: "2026-09-21T18:47:30.223Z",
-  updatedAt: "2026-09-22T13:56:56.000Z",
+  updatedAt: "2026-10-30T16:21:54.690Z",
 } as const satisfies Route
