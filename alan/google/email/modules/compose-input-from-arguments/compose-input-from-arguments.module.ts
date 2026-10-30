@@ -4,7 +4,7 @@ export const composeInputFromArguments = {
   id: "01a0658e-2bf5-7000-bebe-fd0c97b225b3",
   type: "page-type/module",
   slug: "compose-input-from-arguments",
-  definition: "a composition built from an email command's arguments",
+  definition: "how code makes an email from a command's arguments",
   code: "ts",
   decisions: [
     {
@@ -29,5 +29,5 @@ export const composeInputFromArguments = {
     },
   ],
   createdAt: "2026-09-03T04:36:51.317Z",
-  updatedAt: "2026-09-22T14:07:21.000Z",
+  updatedAt: "2026-10-30T15:10:06.745Z",
 } as const satisfies Module
