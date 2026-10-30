@@ -4,7 +4,7 @@ export const atlasApiPlacesAdd = {
   id: "01a0883b-b4dd-7183-8f6a-4afc210a6fc8",
   type: "page-type/route",
   slug: "atlas-api-places-add",
-  definition: "the location page a reader keeps a found place as",
+  definition: "the location page that keeps a place someone found",
   code: "ts",
   urlPath: "api/alan/collections/places/add",
   decisions: [
@@ -34,5 +34,5 @@ export const atlasApiPlacesAdd = {
     },
   ],
   createdAt: "2026-09-09T22:13:29.437Z",
-  updatedAt: "2026-09-25T03:15:46.000Z",
+  updatedAt: "2026-10-30T14:46:09.224Z",
 } as const satisfies Route
