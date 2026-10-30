@@ -4,7 +4,7 @@ export const monarchApply = {
   id: "01a06867-e5ed-7dbd-9dc1-7068e19aad4f",
   type: "page-type/module",
   slug: "monarch-apply",
-  definition: "a rule's decision written onto the transaction it decided",
+  definition: "how code writes the Monarch category of a category rule on a Monarch transaction",
   code: "ts",
   decisions: [
     {
@@ -37,5 +37,5 @@ export const monarchApply = {
     },
   ],
   createdAt: "2026-09-03T17:53:54.669Z",
-  updatedAt: "2026-09-22T00:47:01.000Z",
+  updatedAt: "2026-10-30T15:40:05.133Z",
 } as const satisfies Module
