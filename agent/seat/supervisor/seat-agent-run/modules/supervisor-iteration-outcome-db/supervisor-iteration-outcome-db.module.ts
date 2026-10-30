@@ -4,7 +4,7 @@ export const supervisorIterationOutcomeDb = {
   id: "01a06838-5a84-7001-a522-1f0b3c183f21",
   type: "page-type/module",
   slug: "supervisor-iteration-outcome-db",
-  definition: "a call the supervisor gives up waiting on rather than waits out",
+  definition: "the limit on the time a supervisor waits for a call",
   code: "ts",
   test: "ts",
   decisions: [
@@ -47,5 +47,5 @@ export const supervisorIterationOutcomeDb = {
     },
   ],
   createdAt: "2026-09-03T17:01:58.788Z",
-  updatedAt: "2026-09-24T17:03:50.000Z",
+  updatedAt: "2026-10-30T14:53:22.791Z",
 } as const satisfies Module
