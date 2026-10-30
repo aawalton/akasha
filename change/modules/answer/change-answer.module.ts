@@ -4,7 +4,7 @@ export const changeAnswer = {
   id: "01a07721-531c-732a-a072-2842893f0584",
   type: "page-type/module",
   slug: "change-answer",
-  definition: "the edits a change answers rather than writes",
+  definition: "how code holds the edits a change makes",
   code: "ts",
   test: "ts",
   decisions: [
@@ -238,6 +238,6 @@ export const changeAnswer = {
       statement: "Nothing here reads the disk or writes to the disk.",
     },
   ],
-  updatedAt: "2026-10-08T16:01:39.680Z",
+  updatedAt: "2026-10-30T17:40:31.938Z",
   createdAt: "2026-09-06T14:31:07.804Z",
 } as const satisfies Module
