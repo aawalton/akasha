@@ -19,11 +19,11 @@ export const surplusFallNotifying = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Where the day sits is the readout's reading now.",
+      statement: "Where the day sits is the readout's number now.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading below the open is a fall.",
+      statement: "A number below the open is a fall.",
     },
 
     {
@@ -41,12 +41,12 @@ export const surplusFallNotifying = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading that recovers and falls again says nothing the second time.",
+      statement: "A surplus that recovers and falls again says nothing the second time.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The readout and its scale and the day's reading are read on the tick rather than compiled in.",
+        "The readout and its scale and the day's number are read on the tick rather than compiled in.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -87,5 +87,5 @@ export const surplusFallNotifying = {
     },
   ],
   createdAt: "2026-09-03T17:56:43.735Z",
-  updatedAt: "2026-10-30T16:13:28.703Z",
+  updatedAt: "2026-10-30T17:27:43.991Z",
 } as const satisfies Module
