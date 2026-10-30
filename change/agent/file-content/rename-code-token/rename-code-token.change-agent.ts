@@ -7,7 +7,7 @@ export const renameCodeToken = {
   changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",
-  definition: "a name a code file declares renamed wherever it reaches, exported or not",
+  definition: "a change that renames a name in a code file and in every file that uses that name",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -45,5 +45,5 @@ export const renameCodeToken = {
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
   createdAt: "2026-09-06T14:21:48.342Z",
-  updatedAt: "2026-09-22T08:56:59.000Z",
+  updatedAt: "2026-10-30T17:04:19.351Z",
 } as const satisfies ChangeAgent
