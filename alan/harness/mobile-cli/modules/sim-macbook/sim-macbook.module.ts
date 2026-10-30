@@ -4,7 +4,7 @@ export const simMacbook = {
   id: "01a05cee-e560-774c-8033-bd5fef37e8aa",
   type: "page-type/module",
   slug: "sim-macbook",
-  definition: "bringing appium and a booted simulator up on the remote macbook",
+  definition: "how code starts Appium and a simulator on Alan's MacBook",
   code: "ts",
   test: "ts",
   decisions: [
@@ -36,5 +36,5 @@ export const simMacbook = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:28:44.290Z",
 } as const satisfies Module
