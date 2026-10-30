@@ -4,7 +4,7 @@ export const alanWebApiSeatImage = {
   id: "01a0d49f-ffe0-7a3c-9a82-45a6c09b5b3a",
   type: "page-type/route",
   slug: "alan-web-api-seat-image",
-  definition: "an image the signed-in person attaches to a message from a seat's page",
+  definition: "an image a person adds to a message on the page of a seat",
   code: "ts",
   urlPath: "api/seat/image",
   decisions: [
@@ -39,5 +39,5 @@ export const alanWebApiSeatImage = {
     },
   ],
   createdAt: "2026-09-24T18:14:10.656Z",
-  updatedAt: "2026-10-24T17:06:52.994Z",
+  updatedAt: "2026-10-30T17:00:06.329Z",
 } as const satisfies Route
