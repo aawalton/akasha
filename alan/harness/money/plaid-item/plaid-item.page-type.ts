@@ -4,7 +4,7 @@ export const plaidItem = {
   id: "01a15468-5c70-70b1-88a1-29c199686e8f",
   type: "page-type/page-type",
   slug: "plaid-item",
-  definition: "a bank Alan linked through Plaid on keys of his own",
+  definition: "a bank Alan links with his own account at Plaid",
   extends: ["page-type/page"],
   parts: [
     "text-property/plaid-item-access-token",
@@ -52,5 +52,5 @@ export const plaidItem = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-19T13:44:47.983Z",
-  updatedAt: "2026-10-19T13:44:47.983Z",
+  updatedAt: "2026-10-30T16:00:16.291Z",
 } as const satisfies PageType
