@@ -114,6 +114,7 @@
 {"propertySlug":"part-of-speech","path":"alan/harness/sleep/sleep.domain.ts","id":"01a06220-ef8c-735b-b8a1-1cb4507d71b0"}
 {"propertySlug":"part-of-speech","path":"alan/harness/surplus/surplus.domain.ts","id":"01a05fc3-145a-7fb1-9715-e7a44e378f74"}
 {"propertySlug":"part-of-speech","path":"alan/medicine/cause-of-death/cause-of-death.page-type.ts","id":"01a183bc-e758-7df8-8861-f179dcfa60a1"}
+{"propertySlug":"part-of-speech","path":"alan/medicine/cause-of-death/properties/risk-factors.record-property.ts","id":"01a183bf-b6a1-759f-a922-0ec5b86d0856"}
 {"propertySlug":"part-of-speech","path":"alan/medicine/disability-adjusted-micromort/disability-adjusted-micromort.domain.ts","id":"01a183a4-f946-79a4-afdf-acaf51103b71"}
 {"propertySlug":"part-of-speech","path":"alan/medicine/risk-activity/risk-activity.page-type.ts","id":"01a183bc-e759-73c8-991d-7117b5f7bcfb"}
 {"propertySlug":"part-of-speech","path":"alan/music/catalog/artist/artist.page-type.ts","id":"01a06243-144b-7013-99b2-e1b52805e43b"}
