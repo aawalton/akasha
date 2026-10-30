@@ -5,7 +5,7 @@ export const colorFrom = {
   type: "page-type/relation-property",
   slug: "color-from",
   propertySlug: "color-from",
-  definition: "the readout whose value gives the color of a readout",
+  definition: "the readout whose number gives the color of a readout",
   targetPageType: "page-type/readout",
   decisions: [
     {
@@ -19,5 +19,5 @@ export const colorFrom = {
   ],
   types: "ts",
   createdAt: "2026-09-02T20:09:28.102Z",
-  updatedAt: "2026-10-30T16:09:20.836Z",
+  updatedAt: "2026-10-30T16:21:56.138Z",
 } as const satisfies RelationProperty
