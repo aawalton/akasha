@@ -69,6 +69,7 @@
 {"propertySlug":"part-of-speech","path":"alan/collection/watching/season/season.page-type.ts","id":"01a06599-ee09-7003-a52a-e6a01a72f7da"}
 {"propertySlug":"part-of-speech","path":"alan/collection/watching/show/show.page-type.ts","id":"01a06599-ee09-7002-9418-3960f44ce6b4"}
 {"propertySlug":"part-of-speech","path":"alan/collection/watching/streaming-service/streaming-service.page-type.ts","id":"01a18432-af59-73c1-8d06-a86e15104dd5"}
+{"propertySlug":"part-of-speech","path":"alan/couples-therapy/couples-call/couples-call.domain.ts","id":"01a16fae-6058-7358-ac29-7067f314d048"}
 {"propertySlug":"part-of-speech","path":"alan/eso/eso.domain.ts","id":"01a0675b-16ea-77df-9153-bac46e026794"}
 {"propertySlug":"part-of-speech","path":"alan/google/calendar/calendar-event/calendar-event.domain.ts","id":"01a18d69-df65-7002-93c4-eab56dda74b4"}
 {"propertySlug":"part-of-speech","path":"alan/harness/capacity/capacity.domain.ts","id":"01a06230-614e-7825-b4af-dd84fd42f0ce"}

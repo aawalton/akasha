@@ -5,6 +5,10 @@ export const couplesCall = {
   type: "page-type/domain",
   slug: "couples-call",
   definition: "a phone call Alan and Jenny hold with a live-model therapist",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "couples call" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "couples calls" },
+  ],
   parts: ["module/couples-call-audio", "module/couples-call-brief", "module/couples-call-room"],
   decisions: [
     {
@@ -56,5 +60,5 @@ export const couplesCall = {
     },
   ],
   createdAt: "2026-10-24T20:51:01.335Z",
-  updatedAt: "2026-10-24T23:00:24.852Z",
+  updatedAt: "2026-10-30T15:25:29.355Z",
 } as const satisfies Domain
