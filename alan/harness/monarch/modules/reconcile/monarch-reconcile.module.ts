@@ -4,8 +4,7 @@ export const monarchReconcile = {
   id: "01a06865-ecc3-7dce-83d7-64dbed1ee5a2",
   type: "page-type/module",
   slug: "monarch-reconcile",
-  definition:
-    "our copy weighed against what Monarch listed, and what Monarch no longer lists retired",
+  definition: "how code removes each Monarch transaction Monarch removes",
   code: "ts",
   decisions: [
     {
@@ -37,5 +36,5 @@ export const monarchReconcile = {
     },
   ],
   createdAt: "2026-09-03T17:51:45.347Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:43:40.971Z",
 } as const satisfies Module
