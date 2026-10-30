@@ -4,7 +4,7 @@ export const readingInFlight = {
   id: "01a0c54e-ace3-73fc-853c-2f33dfe5c8f7",
   type: "page-type/module",
   slug: "reading-in-flight",
-  definition: "the reader every page read under a request answers",
+  definition: "who each page under a request is read for",
   code: "ts",
   test: "ts",
   decisions: [
@@ -47,5 +47,5 @@ export const readingInFlight = {
     },
   ],
   createdAt: "2026-09-21T18:51:02.755Z",
-  updatedAt: "2026-09-22T13:57:00.000Z",
+  updatedAt: "2026-10-30T15:34:48.682Z",
 } as const satisfies Module
