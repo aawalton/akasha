@@ -4,7 +4,7 @@ export const alanWebApiSeatVoice = {
   id: "01a11b35-8c5b-7131-a1a2-2976f365503f",
   type: "page-type/route",
   slug: "alan-web-api-seat-voice",
-  definition: "a short-lived token for talking to a seat by voice",
+  definition: "a token for speech between a person and a seat",
   code: "ts",
   urlPath: "api/seat/voice",
   decisions: [
@@ -31,5 +31,5 @@ export const alanWebApiSeatVoice = {
     },
   ],
   createdAt: "2026-10-08T11:10:56.603Z",
-  updatedAt: "2026-10-08T11:53:13.000Z",
+  updatedAt: "2026-10-30T17:02:19.290Z",
 } as const satisfies Route
