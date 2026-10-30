@@ -30,7 +30,11 @@ export const supervisorClaudeConfig = {
       decisionKind: "decision-kind/departure",
       statement: "That folder is found by walking up rather than by folders counted up.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An inherited child keeps the config file the prior supervisor reconciled.",
+    },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-10-30T14:36:58.137Z",
+  updatedAt: "2026-10-30T15:47:18.583Z",
 } as const satisfies Module

@@ -14,6 +14,7 @@ export const seatAgentStart = {
     "module/supervisor-agent-settings",
     "module/supervisor-child-exit-decide",
     "module/supervisor-child-spawn",
+    "module/supervisor-claude-spawn",
     "module/supervisor-env",
     "module/supervisor-interactive-spawn",
     "module/supervisor-seat-defaults",
@@ -22,5 +23,5 @@ export const seatAgentStart = {
     "module/supervisor-spawn-settings",
   ],
   createdAt: "2026-09-13T20:16:05.502Z",
-  updatedAt: "2026-09-24T16:52:21.000Z",
+  updatedAt: "2026-10-30T15:47:18.583Z",
 } as const satisfies Domain

@@ -7,8 +7,8 @@ import type { AgentProcess } from "akasha/agent/seat/supervisor/modules/supervis
 import { resolveMcpConfig } from "akasha/agent/seat/supervisor/seat-agent-mcp/modules/supervisor-mcp/supervisor-mcp.module.code.ts"
 import type { CarriedAgentName } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
 import type { ClearRebindDeps } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
-import type { spawnClaudeChild } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
 import { processCleanup } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"
+import type { spawnClaudeChild } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-claude-spawn/supervisor-claude-spawn.module.code.ts"
 import {
   disallowedToolsForLaunch,
   resolveSubagentDefinitions,

@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
 import type { ProcLivenessEntry } from "akasha/agent/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import type { InheritedProc } from "akasha/agent/seat/supervisor/modules/supervisor-types/supervisor-types.module.code.ts"
-import type { spawnClaudeChild } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
 import {
   type ChildSpawnSeams,
   SPAWNED_FRESH,
   spawnOrAdoptChild,
 } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-spawn/supervisor-child-spawn.module.code.ts"
+import type { spawnClaudeChild } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-claude-spawn/supervisor-claude-spawn.module.code.ts"
 
 const AGENT = "01a0683e-3dbe-7010-8b9f-e1ca56441ef8"
 

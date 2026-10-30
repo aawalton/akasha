@@ -10,8 +10,8 @@ import {
   adoptInheritedProc,
   InheritedPidDeadError,
   type resolveClaudeHandoff,
-  spawnClaudeChild,
 } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
+import { spawnClaudeChild } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-claude-spawn/supervisor-claude-spawn.module.code.ts"
 import { sweepSubagentPagesOf } from "akasha/agent/subagent/modules/pages-sweeping/subagent-pages-sweeping.module.code.ts"
 import { enforceMemoryGuard } from "akasha/infrastructure/kernel/modules/memory-guard/memory-guard.module.code.ts"
 

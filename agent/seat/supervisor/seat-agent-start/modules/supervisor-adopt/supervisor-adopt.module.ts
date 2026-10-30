@@ -15,15 +15,12 @@ export const supervisorAdopt = {
       decisionKind: "decision-kind/departure",
       statement: "A child whose liveness cannot be read is recovered with a fresh resuming spawn.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An inherited child keeps the config file the prior supervisor reconciled.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "An adopted child is reaped by waiting on its pid rather than by a spawn handle.",
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-10-30T14:36:44.457Z",
+  updatedAt: "2026-10-30T15:47:18.583Z",
 } as const satisfies Module

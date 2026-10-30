@@ -12,10 +12,7 @@ import {
   setOAuthProxyHandle,
   setRestoreConsoleHandle,
 } from "akasha/agent/seat/supervisor/modules/supervisor-state/supervisor-state.module.code.ts"
-import {
-  reconcileAgentBootFiles,
-  resolveClaudeHandoff,
-} from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
+import { resolveClaudeHandoff } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
 import { createAgent } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
 import {
   AGENT_LAUNCH_OPENED,
@@ -27,6 +24,7 @@ import {
   stateSeatDefaults,
 } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"
 import { selectAccountAndWriteCredential } from "akasha/agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.code.ts"
+import { reconcileAgentBootFiles } from "akasha/agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"
 import { claimSeatSupervision } from "akasha/agent/seat/supervisor/supervisor-start/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
 import type {
   InteractiveBootArgs,
