@@ -4,7 +4,7 @@ export const appLayoutLoading = {
   id: "01a0655e-d39b-7415-b913-3146ff8bfa28",
   type: "page-type/module",
   slug: "app-layout-loading",
-  definition: "what the signed-in layout loads before it is drawn",
+  definition: "what code reads before alanwalton.com shows its menu",
   code: "ts",
   decisions: [
     {
@@ -43,5 +43,5 @@ export const appLayoutLoading = {
     },
   ],
   createdAt: "2026-09-03T03:45:08.507Z",
-  updatedAt: "2026-10-24T23:08:38.639Z",
+  updatedAt: "2026-10-30T16:57:51.946Z",
 } as const satisfies Module
