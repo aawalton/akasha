@@ -7,9 +7,10 @@ export const giftedPolish00007 = {
   unit: "unit/words",
   partOfCollections: ["story-played/gifted-polish"],
   position: 7,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I go still and listen to the deep voice repeating its few sounds, trying to hold onto the shape of them.",
+  lore: ["place/gifted-polish-world-womb"],
   createdAt: "2026-10-30T18:58:38.827Z",
-  updatedAt: "2026-10-30T18:58:38.827Z",
+  updatedAt: "2026-10-30T18:59:27.723Z",
 } as const satisfies StoryTurnPlayed
