@@ -4,7 +4,7 @@ export const securityHeaders = {
   id: "01a05c48-deeb-7008-8b99-8ccaf9ccafa6",
   type: "page-type/module",
   slug: "security-headers",
-  definition: "the content security policy and the fixed headers built for a response",
+  definition: "the response headers a router app sends for safety",
   code: "ts",
   decisions: [
     {
@@ -25,5 +25,5 @@ export const securityHeaders = {
     },
   ],
   createdAt: "2026-09-01T09:24:34.667Z",
-  updatedAt: "2026-10-08T11:20:08.000Z",
+  updatedAt: "2026-10-30T15:37:26.425Z",
 } as const satisfies Module
