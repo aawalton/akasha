@@ -4,7 +4,7 @@ export const supervisorCompactPoll = {
   id: "01a0c57f-1c55-7ed6-9031-b6487631c187",
   type: "page-type/module",
   slug: "supervisor-compact-poll",
-  definition: "a seat asked to compact on the beat that finds it idle past the ceiling",
+  definition: "how code asks a seat to compact",
   code: "ts",
   test: "ts",
   decisions: [
@@ -44,5 +44,5 @@ export const supervisorCompactPoll = {
     },
   ],
   createdAt: "2026-09-21T19:43:57.013Z",
-  updatedAt: "2026-09-24T17:36:54.000Z",
+  updatedAt: "2026-10-30T14:45:10.925Z",
 } as const satisfies Module
