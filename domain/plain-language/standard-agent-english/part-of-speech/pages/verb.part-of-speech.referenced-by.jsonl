@@ -146,6 +146,7 @@
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/write.common-language-term.ts","id":"01a0d435-bdab-783b-b4e0-3afede58019f"}
 {"propertySlug":"parts","path":"domain/plain-language/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/degree-adverb-with-a-determiner-a-noun-run-and-a-clause.construction.ts","id":"01a18dbe-e385-78b5-b4a5-01521b305d23"}
+{"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-proper-noun-degree-adverb-and-a-preposition-phrase-clause.construction.ts","id":"01a18dc8-7fb6-76ac-a350-015dd4d1fd82"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/verb-alone.construction.ts","id":"01a0c9a2-e37e-7d7c-8d71-3d06a13a96b5"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/verb-with-a-manner-adverb-and-a-preposition-phrase.construction.ts","id":"01a18d74-b29a-781e-88f6-09fe12f75cf9"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/verb-with-a-noun-phrase-and-a-manner-adverb.construction.ts","id":"01a1559d-e2e3-7f1c-8f28-b627ec13d9a7"}
