@@ -4,7 +4,7 @@ export const gmailAttachments = {
   id: "01a05c0e-3730-7187-8180-c05ac035233c",
   type: "page-type/module",
   slug: "gmail-attachments",
-  definition: "the files hanging off a mail message, listed, fetched and made",
+  definition: "how code handles the files an email carries",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const gmailAttachments = {
     },
   ],
   createdAt: "2026-09-01T08:20:30.640Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:11:38.615Z",
 } as const satisfies Module
