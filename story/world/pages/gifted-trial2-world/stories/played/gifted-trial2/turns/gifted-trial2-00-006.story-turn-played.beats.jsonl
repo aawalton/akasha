@@ -7,4 +7,4 @@
 {"beat":7,"event":"Window: New Path - Path of Eavesdropping.","at":"2026-10-28T09:15:00.000Z","changes":[{"page":"character-skill/gifted-trial2-nala-path-of-eavesdropping","note":"New Path shown: Path of Eavesdropping","key":"unrevealed","from":true,"to":false},{"page":"character-skill/gifted-trial2-nala-path-of-eavesdropping","note":"Eavesdropping practice: +5 steps with Talented 100 (0 → 5)","key":"experience","from":0,"to":5,"outcome":2}]}
 {"beat":8,"event":"Her mother says something soft; the man laughs, and the woman says kerith again.","changes":[]}
 {"beat":9,"event":"A heavy hand presses on the wall beside her: the man's, laid flat on her mother's belly.","changes":[]}
-{"beat":10,"event":"The talk stops. All three fall quiet, the hand still pressing, as if waiting on her."}
+{"beat":10,"event":"The talk stops. All three fall quiet, the hand still pressing, as if waiting on her.","changes":[]}
