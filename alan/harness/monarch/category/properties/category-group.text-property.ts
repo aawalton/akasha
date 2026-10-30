@@ -5,10 +5,10 @@ export const categoryGroup = {
   type: "page-type/text-property",
   slug: "category-group",
   propertySlug: "category-group",
-  definition: "the heading under which Monarch files a category",
+  definition: "the name of the group that holds a Monarch category",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T16:11:27.616Z",
-  updatedAt: "2026-09-22T14:07:21.000Z",
+  updatedAt: "2026-10-30T15:48:37.239Z",
 } as const satisfies TextProperty
