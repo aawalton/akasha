@@ -5,7 +5,7 @@ export const matchValues = {
   type: "page-type/text-property",
   slug: "match-values",
   propertySlug: "values",
-  definition: "the values a clause weighs against a transaction",
+  definition: "the values a category rule looks for",
   maxLength: 200,
   nameFormat: null,
   decisions: [
@@ -16,5 +16,5 @@ export const matchValues = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:13:47.392Z",
-  updatedAt: "2026-09-22T13:58:57.000Z",
+  updatedAt: "2026-10-30T15:45:15.583Z",
 } as const satisfies TextProperty
