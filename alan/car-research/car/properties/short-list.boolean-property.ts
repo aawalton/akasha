@@ -5,8 +5,8 @@ export const shortList = {
   type: "page-type/boolean-property",
   slug: "short-list",
   propertySlug: "short-list",
-  definition: "whether this stayed on the list of what Alan would buy",
+  definition: "whether Alan's short list holds a car",
   types: "ts",
   createdAt: "2026-09-03T04:48:02.248Z",
-  updatedAt: "2026-09-15T15:59:02.000Z",
+  updatedAt: "2026-10-30T15:04:15.144Z",
 } as const satisfies BooleanProperty
