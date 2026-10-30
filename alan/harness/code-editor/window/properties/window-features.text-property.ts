@@ -5,7 +5,7 @@ export const windowFeatures = {
   type: "page-type/text-property",
   slug: "window-features",
   propertySlug: "features",
-  definition: "the document holding what a window last observed of each of its features",
+  definition: "the text a code editor window writes about its features",
   maxLength: 20000,
   nameFormat: null,
   decisions: [
@@ -40,5 +40,5 @@ export const windowFeatures = {
   ],
   types: "ts",
   createdAt: "2026-09-14T19:15:36.759Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:38:14.143Z",
 } as const satisfies TextProperty
