@@ -5,9 +5,9 @@ export const runSeq = {
   type: "page-type/number-property",
   slug: "run-seq",
   propertySlug: "run-seq",
-  definition: "the place a pull takes in the order pulls were written",
+  definition: "the position of a run among the runs written",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T17:47:25.668Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T15:12:45.982Z",
 } as const satisfies NumberProperty
