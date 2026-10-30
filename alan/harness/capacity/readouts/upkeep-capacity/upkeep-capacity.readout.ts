@@ -17,7 +17,7 @@ export const upkeepCapacity = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is the sum of the day's stretches.",
+      statement: "The number this readout shows is the sum of the day's stretches.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -34,11 +34,11 @@ export const upkeepCapacity = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch beginning after the moment the reading is taken ran no hours.",
+      statement: "A stretch beginning after the moment the number is taken ran no hours.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A capacity below zero is a reading.",
+      statement: "A capacity below zero is a number this readout shows.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -58,12 +58,12 @@ export const upkeepCapacity = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "That bound is the bound the reach taking the reading carries.",
+      statement: "That bound is the bound the reach taking the number carries.",
     },
 
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here caches a reading or decides when a reading is taken.",
+      statement: "Nothing here caches a number or decides when a number is taken.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -73,5 +73,5 @@ export const upkeepCapacity = {
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "day-row-and-stretches",
   createdAt: "2026-09-02T12:55:32.938Z",
-  updatedAt: "2026-10-30T15:29:43.221Z",
+  updatedAt: "2026-10-30T17:14:23.751Z",
 } as const satisfies Readout
