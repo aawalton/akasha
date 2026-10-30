@@ -4,7 +4,7 @@ export const causeOfDeath = {
   id: "01a183bc-e758-7df8-8861-f179dcfa60a1",
   type: "page-type/page-type",
   slug: "cause-of-death",
-  definition: "a cause of death the health model weighs for Alan",
+  definition: "a kind of death that akasha counts for Alan",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "cause of death" },
     { partOfSpeech: "part-of-speech/noun", spelling: "causes of death" },
@@ -53,5 +53,5 @@ export const causeOfDeath = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-28T18:19:17.719Z",
-  updatedAt: "2026-10-28T18:22:21.854Z",
+  updatedAt: "2026-10-30T16:08:02.046Z",
 } as const satisfies PageType
