@@ -4,8 +4,8 @@ export const supervisorSelfIdentity = {
   id: "01a06876-abda-7015-b513-59a7d4a87a69",
   type: "page-type/module",
   slug: "supervisor-self-identity",
-  definition: "the agent id the supervisor acts under, held so it can change",
+  definition: "the current agent id a supervisor runs under",
   code: "ts",
   createdAt: "2026-09-03T18:10:02.842Z",
-  updatedAt: "2026-09-24T17:08:49.000Z",
+  updatedAt: "2026-10-30T14:51:20.708Z",
 } as const satisfies Module
