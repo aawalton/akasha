@@ -5,7 +5,7 @@ export const completedTasks = {
   type: "page-type/page-property-entry",
   slug: "completed-tasks",
   propertySlug: "completed-tasks",
-  definition: "every round of a to-do finished on a day, one to a line",
+  definition: "every time a to-do was done on a day",
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "instant-property/completed-at", required: true, many: false },
@@ -20,5 +20,5 @@ export const completedTasks = {
   ],
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-09-22T18:56:50.000Z",
+  updatedAt: "2026-10-30T16:35:03.851Z",
 } as const satisfies PagePropertyEntry
