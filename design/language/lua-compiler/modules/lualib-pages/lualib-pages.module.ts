@@ -4,7 +4,7 @@ export const lualibPages = {
   id: "01a0818b-cd49-79f1-95e9-0b5ce73c5bb7",
   type: "page-type/module",
   slug: "lualib-pages",
-  definition: "the source file each lualib page names, in place of the file a tsconfig scan finds",
+  definition: "the code file each lualib page names, in place of the file a tsconfig scan finds",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -140,5 +140,5 @@ export const lualibPages = {
     },
   ],
   createdAt: "2026-09-08T15:03:38.057Z",
-  updatedAt: "2026-09-24T22:34:00.000Z",
+  updatedAt: "2026-10-30T16:01:33.831Z",
 } as const satisfies Module
