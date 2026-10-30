@@ -4,7 +4,7 @@ export const alanAuthProvider = {
   id: "01a0655d-dab8-75b5-b6b9-521ef16cadd1",
   type: "page-type/module",
   slug: "alan-auth-provider",
-  definition: "the signed-in account held for every component below it",
+  definition: "how code starts the page store of alanwalton.com for a person",
   code: "tsx",
   test: "tsx",
   decisions: [
@@ -39,5 +39,5 @@ export const alanAuthProvider = {
     },
   ],
   createdAt: "2026-09-03T03:44:04.792Z",
-  updatedAt: "2026-09-26T17:29:17.000Z",
+  updatedAt: "2026-10-30T16:56:54.763Z",
 } as const satisfies Module
