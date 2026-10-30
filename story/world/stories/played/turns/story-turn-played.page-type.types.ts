@@ -9,6 +9,8 @@ import type { StepStatus } from "akasha/story/chapter/properties/step-status.rel
 import type { Turn } from "akasha/story/turn/turn.page-type.types.ts"
 import type { Characters } from "akasha/story/world/characters/properties/characters.multi-relation-property.types.ts"
 import type { Roleplayed } from "akasha/story/world/stories/played/properties/roleplayed.boolean-property.types.ts"
+import type { ChecklistBeat } from "akasha/story/world/stories/played/turns/properties/checklist-beat.number-property.types.ts"
+import type { ChecklistStep } from "akasha/story/world/stories/played/turns/properties/checklist-step.text-property.types.ts"
 import type { CoverAfter } from "akasha/story/world/stories/played/turns/properties/cover-after.text-property.types.ts"
 import type { MemoryOwed } from "akasha/story/world/stories/played/turns/properties/memory-owed.boolean-property.types.ts"
 import type { Outcomes } from "akasha/story/world/stories/played/turns/properties/outcomes.file-property.types.ts"
@@ -33,4 +35,6 @@ export type StoryTurnPlayed = Turn & {
   roleplayed?: Roleplayed
   interruptsAt?: TurnInterruptsAt
   memoryOwed?: MemoryOwed
+  checklistStep?: ChecklistStep
+  checklistBeat?: ChecklistBeat
 }

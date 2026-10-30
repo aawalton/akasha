@@ -32,6 +32,8 @@ export const storyTurnPlayed = {
     "module/turn-remembering",
     "instant-property/turn-interrupts-at",
     "boolean-property/memory-owed",
+    "text-property/checklist-step",
+    "number-property/checklist-beat",
   ],
   properties: [
     { pageProperty: "file-property/outcomes", required: false, many: false, default: "jsonl" },
@@ -70,6 +72,18 @@ export const storyTurnPlayed = {
     { pageProperty: "boolean-property/roleplayed", required: false, many: false },
     { pageProperty: "instant-property/turn-interrupts-at", required: false, many: false },
     { pageProperty: "boolean-property/memory-owed", required: false, many: false },
+    {
+      pageProperty: "text-property/checklist-step",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "number-property/checklist-beat",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
   ],
   decisions: [
     {
@@ -197,5 +211,5 @@ export const storyTurnPlayed = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T00:47:51.415Z",
-  updatedAt: "2026-10-30T15:23:27.205Z",
+  updatedAt: "2026-10-30T18:14:22.833Z",
 } as const satisfies PageType

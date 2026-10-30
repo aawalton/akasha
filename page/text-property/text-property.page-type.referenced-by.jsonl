@@ -513,6 +513,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/played/properties/action-draft.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/played/properties/cover-reroll-refused.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/played/properties/turn-undo-refused.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/played/turns/properties/checklist-step.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/played/turns/properties/cover-after.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/played/turns/properties/turn-action.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/read/properties/external-tags.text-property.ts","typed":true,"deferred":false}
