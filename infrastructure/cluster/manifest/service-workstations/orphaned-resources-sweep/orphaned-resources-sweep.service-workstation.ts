@@ -4,7 +4,7 @@ export const orphanedResourcesSweep = {
   id: "01a06829-0194-7184-8190-2c4c599798bd",
   type: "page-type/service-workstation",
   slug: "orphaned-resources-sweep",
-  definition: "the service saying which live cluster resources no source manifest names",
+  definition: "the service saying which live cluster resources no manifest in the repository names",
   enabled: true,
   needsSecrets: true,
   systemd: {
@@ -41,5 +41,5 @@ export const orphanedResourcesSweep = {
     },
   ],
   createdAt: "2026-09-03T16:45:12.980Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-30T16:10:36.331Z",
 } as const satisfies ServiceWorkstation
