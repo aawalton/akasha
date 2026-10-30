@@ -5,9 +5,9 @@ export const relativeRiskCentral = {
   type: "page-type/number-property",
   slug: "relative-risk-central",
   propertySlug: "relative-risk-central",
-  definition: "the central estimate of a relative risk",
+  definition: "the main estimate of a relative risk",
   max: null,
   types: "ts",
   createdAt: "2026-10-28T18:22:21.854Z",
-  updatedAt: "2026-10-28T18:22:21.854Z",
+  updatedAt: "2026-10-30T16:15:14.604Z",
 } as const satisfies NumberProperty
