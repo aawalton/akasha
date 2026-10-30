@@ -5,7 +5,7 @@ export const watchable = {
   type: "page-type/computed-property",
   slug: "watchable",
   propertySlug: "watchable",
-  definition: "whether Alan can watch what is left of a collection on a service he holds",
+  definition: "whether Alan can watch a remaining part of a collection on a service Alan holds",
   holds: "boolean",
   code: "ts",
   test: "ts",
@@ -46,5 +46,5 @@ export const watchable = {
   ],
   types: "ts",
   createdAt: "2026-10-28T20:44:37.102Z",
-  updatedAt: "2026-10-28T21:43:25.354Z",
+  updatedAt: "2026-10-30T15:08:03.324Z",
 } as const satisfies ComputedProperty
