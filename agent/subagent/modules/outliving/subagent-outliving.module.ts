@@ -4,7 +4,8 @@ export const subagentOutliving = {
   id: "01a08ccb-9a38-710f-a8a6-92cf91ee1cfc",
   type: "page-type/module",
   slug: "subagent-outliving",
-  definition: "the subagents whose last record predates the start of the client hosting them",
+  definition:
+    "how code finds the subagents that stop before the program that runs their seat starts",
   code: "ts",
   test: "ts",
   decisions: [
@@ -72,5 +73,5 @@ export const subagentOutliving = {
     },
   ],
   createdAt: "2026-09-10T19:29:08.664Z",
-  updatedAt: "2026-10-04T16:41:33.000Z",
+  updatedAt: "2026-10-30T14:47:28.219Z",
 } as const satisfies Module
