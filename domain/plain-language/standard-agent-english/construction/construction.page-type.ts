@@ -61,6 +61,9 @@ export const construction = {
     "construction/verb-with-a-noun-phrase-and-a-manner-adverb",
     "construction/be-verb-with-a-negator-and-a-past-participle",
     "construction/have-verb-with-a-past-participle-and-a-noun-phrase",
+    "construction/degree-adverb-with-a-manner-adverb-and-a-clause",
+    "construction/degree-adverb-with-an-adjective-and-a-be-clause",
+    "construction/degree-adverb-with-a-determiner-and-a-preposition-phrase-clause",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -92,5 +95,5 @@ export const construction = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-21T19:39:38.477Z",
-  updatedAt: "2026-10-30T15:31:53.748Z",
+  updatedAt: "2026-10-30T15:35:05.275Z",
 } as const satisfies PageType
