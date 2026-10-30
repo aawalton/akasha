@@ -4,7 +4,7 @@ export const stateWriting = {
   id: "01a09ca3-cbe9-7489-b97b-135b73b4be8a",
   type: "page-type/module",
   slug: "state-writing",
-  definition: "what the editor draws written where the editor reads it",
+  definition: "how code writes what the editor shows to the file the editor reads",
   code: "ts",
   test: "ts",
   decisions: [
@@ -35,5 +35,5 @@ export const stateWriting = {
     },
   ],
   createdAt: "2026-09-13T21:19:35.401Z",
-  updatedAt: "2026-09-15T19:37:34.000Z",
+  updatedAt: "2026-10-30T15:37:21.136Z",
 } as const satisfies Module
