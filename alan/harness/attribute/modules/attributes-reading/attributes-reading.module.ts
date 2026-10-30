@@ -10,11 +10,11 @@ export const attributesReading = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The readings are taken on the workstation with the checkout.",
+      statement: "The numbers are taken on the workstation with the checkout.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each reading is kept beside the readout that reading was taken for.",
+      statement: "Each number is kept beside the readout that number was taken for.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -69,23 +69,23 @@ export const attributesReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only a source that could not be read leaves its readings untaken.",
+      statement: "Only a source that could not be read leaves its numbers untaken.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each readout is named as soon as that readout's reading is kept.",
+      statement: "Each readout is named as soon as that readout's number is kept.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run that kept a reading exits 0.",
+      statement: "A run that kept a number exits 0.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run that kept no reading exits 2.",
+      statement: "A run that kept no number exits 2.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run of this file takes the seven readings.",
+      statement: "A run of this file takes the seven numbers.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -102,7 +102,7 @@ export const attributesReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading of an attribute no such readout counts is named rather than kept.",
+      statement: "A number for an attribute no such readout counts is named rather than kept.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -119,13 +119,13 @@ export const attributesReading = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Importing this file takes no reading.",
+      statement: "Importing this file takes no number.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here decides when a reading is due.",
+      statement: "Nothing here decides when a number is due.",
     },
   ],
   createdAt: "2026-09-04T00:05:30.403Z",
-  updatedAt: "2026-10-30T16:24:43.287Z",
+  updatedAt: "2026-10-30T17:11:52.236Z",
 } as const satisfies Module
