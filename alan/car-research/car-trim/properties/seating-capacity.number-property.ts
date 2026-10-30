@@ -5,9 +5,9 @@ export const seatingCapacity = {
   type: "page-type/number-property",
   slug: "seating-capacity",
   propertySlug: "seating-capacity",
-  definition: "how many people the car seats",
+  definition: "the number of people the car carries",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:42:53.443Z",
-  updatedAt: "2026-09-21T18:44:23.000Z",
+  updatedAt: "2026-10-30T14:58:39.753Z",
 } as const satisfies NumberProperty
