@@ -4,7 +4,7 @@ export const attributeLuck = {
   id: "01a0a6a4-999a-78a0-b884-c0e9a6de0787",
   type: "page-type/readout",
   slug: "attribute-luck",
-  definition: "the points Alan earned on a day for the rejections he risked",
+  definition: "the points Alan earns on a day for the rejections Alan risks",
   label: "LCK",
   unit: "points",
   scale: "readout-scale/attribute-points",
@@ -40,5 +40,5 @@ export const attributeLuck = {
   ],
   carriedTo: ["router-app/alan-web"],
   createdAt: "2026-09-15T19:56:40.218Z",
-  updatedAt: "2026-10-20T11:10:21.943Z",
+  updatedAt: "2026-10-30T14:51:15.967Z",
 } as const satisfies Readout
