@@ -5,7 +5,7 @@ export const loadOrder = {
   type: "page-type/module",
   slug: "load-order",
   definition:
-    "the names a statement reads from outside its body as it loads, and what runs above a declaration",
+    "how code finds the code that runs above a piece of code that reads a name its file does not hold",
   code: "ts",
   test: "ts",
   decisions: [
@@ -73,5 +73,5 @@ export const loadOrder = {
     },
   ],
   createdAt: "2026-09-21T19:59:07.846Z",
-  updatedAt: "2026-09-21T22:01:09.000Z",
+  updatedAt: "2026-10-30T17:44:55.481Z",
 } as const satisfies Module
