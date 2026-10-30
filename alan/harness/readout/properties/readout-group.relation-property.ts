@@ -5,9 +5,9 @@ export const readoutGroup = {
   type: "page-type/relation-property",
   slug: "readout-group",
   propertySlug: "group",
-  definition: "the group a readout is drawn in",
+  definition: "the group a readout is shown in",
   targetPageType: "page-type/readout-group",
   types: "ts",
   createdAt: "2026-10-18T13:28:15.838Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-30T16:11:45.129Z",
 } as const satisfies RelationProperty
