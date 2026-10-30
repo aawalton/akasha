@@ -7,8 +7,7 @@ export const movePropertyValue = {
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
-  definition:
-    "a value carried into place in the list a page property holds, judged by the checks a landing runs",
+  definition: "a change that moves a value to another place in the list a property of a page holds",
   code: "ts",
   test: "ts",
   decisions: [
@@ -66,5 +65,5 @@ export const movePropertyValue = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-09-12T10:21:49.743Z",
-  updatedAt: "2026-09-29T02:24:41.000Z",
+  updatedAt: "2026-10-30T17:03:50.725Z",
 } as const satisfies ChangeAgent
