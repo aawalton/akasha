@@ -5,7 +5,7 @@ export const collectionProgressedAt = {
   type: "page-type/instant-property",
   slug: "collection-progressed-at",
   propertySlug: "progressed-at",
-  definition: "the instant a collection's own progress last changed",
+  definition: "the last time the length of a collection without its parts that is done changes",
   generator: "generator-kind/progressed-instant",
   decisions: [
     {
@@ -15,5 +15,5 @@ export const collectionProgressedAt = {
   ],
   types: "ts",
   createdAt: "2026-10-18T16:19:16.055Z",
-  updatedAt: "2026-10-18T16:19:16.055Z",
+  updatedAt: "2026-10-30T15:16:20.184Z",
 } as const satisfies InstantProperty
