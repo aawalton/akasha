@@ -5,7 +5,7 @@ export const motifId = {
   type: "page-type/text-property",
   slug: "motif-id",
   propertySlug: "motif-id",
-  definition: "a motif's Lichess theme",
+  definition: "the name a part of chess has in chess puzzles",
   maxLength: 100,
   nameFormat: null,
   decisions: [
@@ -16,5 +16,5 @@ export const motifId = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-22T22:39:48.000Z",
+  updatedAt: "2026-10-30T15:10:23.653Z",
 } as const satisfies TextProperty
