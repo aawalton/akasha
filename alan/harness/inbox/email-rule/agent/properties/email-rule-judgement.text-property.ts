@@ -5,7 +5,7 @@ export const emailRuleJudgement = {
   type: "page-type/text-property",
   slug: "email-rule-judgement",
   propertySlug: "judgement",
-  definition: "what an agent reaching a rule's mail is told to do with it",
+  definition: "what an email rule asks an agent to do with each email that matches the rule",
   maxLength: 500,
   nameFormat: null,
   decisions: [
@@ -20,5 +20,5 @@ export const emailRuleJudgement = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:48:50.375Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:38:59.376Z",
 } as const satisfies TextProperty
