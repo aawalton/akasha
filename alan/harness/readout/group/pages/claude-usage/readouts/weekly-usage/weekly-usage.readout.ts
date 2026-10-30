@@ -4,7 +4,7 @@ export const weeklyUsage = {
   id: "01a063bd-a526-7a12-97a4-531aa40ead14",
   type: "page-type/readout",
   slug: "weekly-usage",
-  definition: "how much of the weekly Claude allowance the pool has spent",
+  definition: "the percent of their limits the model accounts spend in their seven-day windows",
   label: "Weekly Usage",
   unit: "%",
   drawnAs: "number",
@@ -40,5 +40,5 @@ export const weeklyUsage = {
     },
   ],
   createdAt: "2026-09-02T20:09:28.102Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-30T15:58:01.286Z",
 } as const satisfies Readout
