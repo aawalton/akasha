@@ -5,10 +5,10 @@ export const chessSource = {
   type: "page-type/text-property",
   slug: "chess-source",
   propertySlug: "source",
-  definition: "a game's source",
+  definition: "where a game comes from",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-22T13:44:11.000Z",
+  updatedAt: "2026-10-30T15:15:19.144Z",
 } as const satisfies TextProperty
