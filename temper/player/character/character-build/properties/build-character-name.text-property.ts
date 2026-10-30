@@ -5,7 +5,7 @@ export const buildCharacterName = {
   type: "page-type/text-property",
   slug: "build-character-name",
   propertySlug: "character-name",
-  definition: "the name of this build's character",
+  definition: "the name of this character build's character",
   maxLength: 100,
   nameFormat: null,
   decisions: [
@@ -21,5 +21,5 @@ export const buildCharacterName = {
   ],
   types: "ts",
   createdAt: "2026-09-15T13:33:09.536Z",
-  updatedAt: "2026-09-22T14:00:30.000Z",
+  updatedAt: "2026-10-30T16:37:26.174Z",
 } as const satisfies TextProperty
