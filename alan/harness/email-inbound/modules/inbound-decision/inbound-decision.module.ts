@@ -4,7 +4,7 @@ export const inboundDecision = {
   id: "01a05bcd-25e4-7b6c-9b1e-0ebb793da0e0",
   type: "page-type/module",
   slug: "inbound-decision",
-  definition: "what becomes of an arriving email",
+  definition: "how code chooses where a new email goes",
   code: "ts",
   test: "ts",
   decisions: [
@@ -24,5 +24,5 @@ export const inboundDecision = {
     },
   ],
   createdAt: "2026-09-01T07:09:26.372Z",
-  updatedAt: "2026-10-25T19:22:27.284Z",
+  updatedAt: "2026-10-30T15:47:11.254Z",
 } as const satisfies Module
