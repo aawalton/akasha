@@ -4,7 +4,7 @@ export const spotifyReleases = {
   id: "01a09c6f-017f-70b7-a662-48904bec6460",
   type: "page-type/module",
   slug: "spotify-releases",
-  definition: "the albums an artist put out, and the tracks one of those albums holds",
+  definition: "an artist's albums and the tracks each album holds",
   code: "ts",
   test: "ts",
   decisions: [
@@ -34,5 +34,5 @@ export const spotifyReleases = {
     },
   ],
   createdAt: "2026-09-13T20:21:55.711Z",
-  updatedAt: "2026-09-24T19:42:40.000Z",
+  updatedAt: "2026-10-30T16:24:23.169Z",
 } as const satisfies Module
