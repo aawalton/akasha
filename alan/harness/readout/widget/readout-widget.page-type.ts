@@ -4,7 +4,7 @@ export const readoutWidget = {
   id: "01a05480-1c86-7e95-b799-63b1c0152f62",
   type: "page-type/page-type",
   slug: "readout-widget",
-  definition: "a tile a person places on a phone",
+  definition: "a part of the screen of a phone that shows readouts",
   parts: [
     "instant-property/last-tapped-at",
     "number-property/taps",
@@ -165,5 +165,5 @@ export const readoutWidget = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T21:07:57.190Z",
-  updatedAt: "2026-10-30T15:57:54.351Z",
+  updatedAt: "2026-10-30T16:03:48.145Z",
 } as const satisfies PageType
