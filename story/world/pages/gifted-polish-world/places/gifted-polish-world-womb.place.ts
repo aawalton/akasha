@@ -120,7 +120,15 @@ export const giftedPolishWorldWomb = {
       fact: "After the deep voice stopped, the woman above said 'Sa-vo-reth' back softly, stroking the belly.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
     },
+    {
+      fact: "The mother hums a slow, rocking tune, the same few lines over, with no words to it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Since the leader named the demon, the mother hums 'Sa-vo-reth' into her tune now and then.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-30T18:34:02.178Z",
-  updatedAt: "2026-10-30T19:33:17.937Z",
+  updatedAt: "2026-10-30T19:47:18.779Z",
 } as const satisfies Place
