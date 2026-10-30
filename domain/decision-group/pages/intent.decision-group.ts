@@ -5,6 +5,10 @@ export const intent = {
   type: "page-type/decision-group",
   slug: "intent",
   definition: "a decision that does not hold yet",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "intent" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "intents" },
+  ],
   directives: [
     {
       directiveKind: "directive-kind/rule",
@@ -19,5 +23,5 @@ export const intent = {
     },
   ],
   createdAt: "2026-08-29T15:09:32.952Z",
-  updatedAt: "2026-09-15T18:30:47.000Z",
+  updatedAt: "2026-10-30T15:42:34.269Z",
 } as const satisfies DecisionGroup

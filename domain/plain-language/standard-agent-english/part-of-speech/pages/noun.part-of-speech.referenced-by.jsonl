@@ -170,6 +170,7 @@
 {"propertySlug":"part-of-speech","path":"design/technology/mcp/server/mcp-server.domain.ts","id":"01a0d46d-1c69-7e88-b265-f0d743ac677a"}
 {"propertySlug":"part-of-speech","path":"domain/context/context.domain.ts","id":"01a04f50-2a7e-7000-a43d-22ce4657c379"}
 {"propertySlug":"part-of-speech","path":"domain/decision-group/pages/condition.decision-group.ts","id":"01a04e11-9f98-7a6f-b350-aa5c445ac764"}
+{"propertySlug":"part-of-speech","path":"domain/decision-group/pages/intent.decision-group.ts","id":"01a04e11-9f98-71e8-b821-77545c6be68e"}
 {"propertySlug":"part-of-speech","path":"domain/decision-kind/pages/gap.decision-kind.ts","id":"01a04e11-9f98-7835-9710-117a527c190d"}
 {"propertySlug":"part-of-speech","path":"domain/domain.page-type.ts","id":"01a049c8-3ead-7c52-9ab6-88767954ed5f"}
 {"propertySlug":"part-of-speech","path":"domain/finding/finding.page-type.ts","id":"01a04bc5-f8c3-758c-b460-da70df03bb96"}
