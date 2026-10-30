@@ -5,7 +5,7 @@ export const exerciseCategory = {
   type: "page-type/select-property",
   slug: "exercise-category",
   propertySlug: "exercise-category",
-  definition: "the broad training discipline the movement belongs to",
+  definition: "the kind of training a strength exercise belongs to",
   values: [
     "cardio",
     "olympic-weightlifting",
@@ -17,5 +17,5 @@ export const exerciseCategory = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:19:22.687Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:42:41.137Z",
 } as const satisfies SelectProperty
