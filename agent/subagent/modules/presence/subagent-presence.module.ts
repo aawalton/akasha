@@ -4,7 +4,7 @@ export const subagentPresence = {
   id: "01a0598f-18dd-77f7-94be-779f0df14af9",
   type: "page-type/module",
   slug: "subagent-presence",
-  definition: "a subagent's page put up while it works and taken away when it is done",
+  definition: "how code keeps a page for each subagent at work",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -361,5 +361,5 @@ export const subagentPresence = {
     },
   ],
   createdAt: "2026-08-31T20:42:25.373Z",
-  updatedAt: "2026-10-04T16:41:33.000Z",
+  updatedAt: "2026-10-30T14:48:58.615Z",
 } as const satisfies Module
