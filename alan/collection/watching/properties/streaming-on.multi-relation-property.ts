@@ -5,7 +5,7 @@ export const streamingOn = {
   type: "page-type/multi-relation-property",
   slug: "streaming-on",
   propertySlug: "streaming-on",
-  definition: "a service a collection streams on in the United States",
+  definition: "a streaming service that has a collection in Alan's country",
   targetPageType: "page-type/streaming-service",
   decisions: [
     {
@@ -39,5 +39,5 @@ export const streamingOn = {
   ],
   types: "ts",
   createdAt: "2026-10-25T19:20:15.125Z",
-  updatedAt: "2026-10-29T14:12:28.309Z",
+  updatedAt: "2026-10-30T15:19:26.754Z",
 } as const satisfies MultiRelationProperty
