@@ -4,7 +4,7 @@ export const healthImportReading = {
   id: "01a05c14-b11a-7005-9108-0d098d5f3aa7",
   type: "page-type/module",
   slug: "health-import-reading",
-  definition: "what an import run says about itself once it is done",
+  definition: "the summary of a run that imports health samples",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const healthImportReading = {
     },
   ],
   createdAt: "2026-09-01T08:27:35.066Z",
-  updatedAt: "2026-09-24T23:05:06.000Z",
+  updatedAt: "2026-10-30T15:38:53.997Z",
 } as const satisfies Module
