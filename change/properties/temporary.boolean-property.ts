@@ -5,7 +5,7 @@ export const temporary = {
   type: "page-type/boolean-property",
   slug: "temporary",
   propertySlug: "temporary",
-  definition: "whether what a change writes is meant to be taken away again",
+  definition: "whether what a change writes is removed again",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -22,5 +22,5 @@ export const temporary = {
   ],
   types: "ts",
   createdAt: "2026-09-10T15:16:43.908Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T17:38:18.059Z",
 } as const satisfies BooleanProperty
