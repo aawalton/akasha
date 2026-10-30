@@ -5,10 +5,10 @@ export const recurrence = {
   type: "page-type/text-property",
   slug: "recurrence",
   propertySlug: "recurrence",
-  definition: "the rule bringing a to-do round again",
+  definition: "the rule that brings a to-do again",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T16:37:40.933Z",
 } as const satisfies TextProperty
