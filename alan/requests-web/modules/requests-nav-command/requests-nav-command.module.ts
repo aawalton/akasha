@@ -4,7 +4,7 @@ export const requestsNavCommand = {
   id: "01a0c537-baaa-710a-91ba-8d1a3c37ca13",
   type: "page-type/module",
   slug: "requests-nav-command",
-  definition: "the commands offered beside the Requests site's navigation items",
+  definition: "how code adds each choice of the menu of the Requests site to the command palette",
   code: "tsx",
   decisions: [
     {
@@ -13,5 +13,5 @@ export const requestsNavCommand = {
     },
   ],
   createdAt: "2026-09-21T18:25:58.954Z",
-  updatedAt: "2026-09-27T12:19:22.000Z",
+  updatedAt: "2026-10-30T16:26:42.280Z",
 } as const satisfies Module
