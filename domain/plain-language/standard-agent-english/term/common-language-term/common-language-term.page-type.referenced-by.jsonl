@@ -354,6 +354,7 @@
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/risk.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/road.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/row.common-language-term.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/rsync.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/rule.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/run.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/rust.common-language-term.ts","typed":true,"deferred":false}
