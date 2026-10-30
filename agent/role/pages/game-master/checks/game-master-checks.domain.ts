@@ -4,7 +4,7 @@ export const gameMasterChecks = {
   id: "01a17f23-4e3a-7054-8bdd-b03cec0e4e5f",
   type: "page-type/domain",
   slug: "game-master-checks",
-  definition: "how a game master's turns are settled by its story's checks",
+  definition: "how a game master settles each story turn with world checks",
   directives: [
     {
       directiveKind: "directive-kind/rule",
@@ -49,5 +49,5 @@ export const gameMasterChecks = {
     },
   ],
   createdAt: "2026-10-27T20:53:02.649Z",
-  updatedAt: "2026-10-27T20:56:51.485Z",
+  updatedAt: "2026-10-30T15:24:17.488Z",
 } as const satisfies Domain
