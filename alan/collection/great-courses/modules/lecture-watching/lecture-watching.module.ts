@@ -4,7 +4,7 @@ export const lectureWatching = {
   id: "01a15011-354f-78d6-82ec-0a858c39f46c",
   type: "page-type/module",
   slug: "lecture-watching",
-  definition: "a Great Courses page watched through, at speed, with each lecture recorded",
+  definition: "how the extension handles the video player on the website of The Great Courses",
   code: "ts",
   test: "ts",
   runsInABrowser: true,
@@ -89,5 +89,5 @@ export const lectureWatching = {
     },
   ],
   createdAt: "2026-10-18T17:31:07.469Z",
-  updatedAt: "2026-10-28T17:42:32.692Z",
+  updatedAt: "2026-10-30T15:19:36.414Z",
 } as const satisfies Module
