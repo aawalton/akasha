@@ -5,9 +5,9 @@ export const clientSeq = {
   type: "page-type/number-property",
   slug: "client-seq",
   propertySlug: "client-seq",
-  definition: "the count this device gave the trace, rising by one for each it takes",
+  definition: "the number of locations a device reports before a location",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T21:38:23.028Z",
-  updatedAt: "2026-09-21T19:18:52.000Z",
+  updatedAt: "2026-10-30T16:46:18.609Z",
 } as const satisfies NumberProperty
