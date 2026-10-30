@@ -1,3 +1,4 @@
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import {
   listedAt,
   valueByPath,
@@ -11,7 +12,6 @@ import {
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 import { metricCharacterStat } from "akasha/story/world/mechanics/metrics/metric-character/attribute/stat/metric-character-stat.page-type.ts"
 import type { Rolled } from "akasha/story/world/mechanics/modules/dice-reading/dice-reading.module.code.ts"
 import {
@@ -23,12 +23,8 @@ import {
 import { characterSkill } from "akasha/story/world/mechanics/skills/character-skill/character-skill.page-type.ts"
 import { skillTierSteps } from "akasha/story/world/mechanics/skills/properties/skill-tier-steps.number-property.ts"
 import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
-import { giftedRebornNala } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/characters/gifted-reborn-nala.character-player.ts"
-import { giftedRebornNalaAether } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/metrics/stats/gifted-reborn-nala-aether.metric-character-stat.ts"
-import { giftedRebornNalaCoordination } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/metrics/stats/gifted-reborn-nala-coordination.metric-character-stat.ts"
-import { giftedRebornNalaMental } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/metrics/stats/gifted-reborn-nala-mental.metric-character-stat.ts"
-import { giftedRebornNalaStamina } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/metrics/stats/gifted-reborn-nala-stamina.metric-character-stat.ts"
-import { giftedRebornNalaStrength } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/metrics/stats/gifted-reborn-nala-strength.metric-character-stat.ts"
+import { worldStatGroup } from "akasha/story/world/mechanics/stat-groups/world-stat-group.page-type.ts"
+import { giftedBasicAttributes } from "akasha/story/world/pages/gifted/mechanics/stat-groups/gifted-basic-attributes.world-stat-group.ts"
 
 const BASIC_TIERS = [10, 25, 50, 100, 250, 500, 1000, 2500, 5000, 10000]
 
@@ -64,15 +60,22 @@ const UNREVEALED = "unrevealed"
 
 const TIER_STEPS = exportedAs(skillTierSteps.propertySlug)
 
-const NALA = `${characterPlayer.slug}/${giftedRebornNala.slug}`
+const VALUE = "value"
+
+const STAT_GROUP = "statGroup"
+
+const DISPLAY_ORDER = "displayOrder"
 
 type Held = { readonly slug: string; readonly value: Value }
 
 type Path = { readonly title: string; readonly tierSteps: readonly number[] }
 
+type Attribute = { readonly slug: string; readonly value: number }
+
 type Reach = {
   readonly skillsOf: (character: string) => readonly Held[]
   readonly pathOf: (skill: string) => Path | null
+  readonly attributesOf: (character: string) => readonly Attribute[]
 }
 
 function kindBonus(kind: Kind, experience: number): number {
@@ -108,17 +111,28 @@ function pathIndexed(skill: string): Path | null {
   return { title, tierSteps }
 }
 
-const INDEXED: Reach = { skillsOf: skillsHeld, pathOf: pathIndexed }
+function groupTitled(root: string, group: string): string | null {
+  const found = listedAt(root, worldStatGroup.slug, slugOf(group))[0]
+  const value = found === undefined ? null : valueByPath(root, found.path)
+  return value === null ? null : textAt(value, TITLE)
+}
 
-const ATTRIBUTES = [
-  giftedRebornNalaStrength,
-  giftedRebornNalaStamina,
-  giftedRebornNalaCoordination,
-  giftedRebornNalaMental,
-  giftedRebornNalaAether,
-]
+function attributesHeld(character: string): readonly Attribute[] {
+  const root = akashaRoot()
+  const found: { readonly held: Attribute; readonly order: number }[] = []
+  for (const one of valuesOfType(root, metricCharacterStat.slug)) {
+    const slug = textAt(one.value, SLUG)
+    const value = numberAt(one.value, VALUE)
+    const group = textAt(one.value, STAT_GROUP)
+    if (slug === null || value === null || group === null) continue
+    if (one.value[CHARACTER] !== character) continue
+    if (groupTitled(root, group) !== giftedBasicAttributes.title) continue
+    found.push({ held: { slug, value }, order: numberAt(one.value, DISPLAY_ORDER) ?? 0 })
+  }
+  return found.toSorted((one, two) => one.order - two.order).map((one) => one.held)
+}
 
-const OWNED = `${giftedRebornNala.slug}-`
+const INDEXED: Reach = { skillsOf: skillsHeld, pathOf: pathIndexed, attributesOf: attributesHeld }
 
 type Termed = { readonly answered: Term } | { readonly refused: string }
 
@@ -136,10 +150,19 @@ function pathTerm(said: string, skills: readonly Held[], reach: Reach): Term | n
   return { from: path.title, by: kindBonus(kind, numberAt(held.value, EXPERIENCE) ?? 0) }
 }
 
-function attributeTerm(said: string): Term | null {
-  const stat = ATTRIBUTES.find((one) => addressOf(metricCharacterStat.slug, one.slug) === said)
+function ownedName(character: string, slug: string): string {
+  const owned = `${slugOf(character)}-`
+  return slug.startsWith(owned) ? slug.slice(owned.length) : slug
+}
+
+function attributeTerm(
+  said: string,
+  character: string,
+  attributes: readonly Attribute[]
+): Term | null {
+  const stat = attributes.find((one) => addressOf(metricCharacterStat.slug, one.slug) === said)
   if (stat === undefined) return null
-  const name = stat.slug.slice(OWNED.length)
+  const name = ownedName(character, stat.slug)
   const from = `${name.charAt(0).toUpperCase()}${name.slice(1)}`
   return { from, by: Math.floor((stat.value - ATTRIBUTE_WHOLE) / ATTRIBUTE_SHARE) }
 }
@@ -150,7 +173,9 @@ function listed(type: string, slugs: readonly string[]): string {
 
 function termOf(character: string, reach: Reach): (named: Named) => Termed {
   return (named) =>
-    named.skill === undefined ? statOf(named) : pathOf(named.skill, character, reach)
+    named.skill === undefined
+      ? statOf(named, character, reach)
+      : pathOf(named.skill, character, reach)
 }
 
 function pathOf(said: string, character: string, reach: Reach): Termed {
@@ -167,17 +192,22 @@ function pathOf(said: string, character: string, reach: Reach): Termed {
   return { refused: `\`${said}\` is no Path an act names; say one of ${crafts}` }
 }
 
-function statOf(named: Named): Termed {
+function statOf(named: Named, character: string, reach: Reach): Termed {
   const said = named.stat ?? ""
-  const term = attributeTerm(said)
+  const attributes = reach.attributesOf(character)
+  const term = attributeTerm(said, character, attributes)
   if (term !== null) return { answered: term }
   const basic = listed(
     metricCharacterStat.slug,
-    ATTRIBUTES.map((one) => one.slug)
+    attributes.map((one) => one.slug)
   )
   return { refused: `\`${said}\` is no Basic Attribute; say one of ${basic}` }
 }
 
+function characterIn(reading: unknown): string {
+  return isRecord(reading) ? (textAt(reading, CHARACTER) ?? "") : ""
+}
+
 export function settled(reading: unknown, roll: Rolled | null, reach: Reach = INDEXED): Settled {
-  return tieredSettled(reading, roll, termOf(NALA, reach))
+  return tieredSettled(reading, roll, termOf(characterIn(reading), reach))
 }

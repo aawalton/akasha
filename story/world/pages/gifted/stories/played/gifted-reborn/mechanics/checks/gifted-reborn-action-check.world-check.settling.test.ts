@@ -10,12 +10,18 @@ import { giftedPathOfExceptionalism } from "akasha/story/world/pages/gifted/mech
 import { giftedPathOfTheCompletionist } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-the-completionist.world-skill.ts"
 import { giftedRebornNala } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/characters/gifted-reborn-nala.character-player.ts"
 import { settled } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-action-check.world-check.settling.code.ts"
+import { giftedRebornNalaAether } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/metrics/stats/gifted-reborn-nala-aether.metric-character-stat.ts"
+import { giftedRebornNalaCoordination } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/metrics/stats/gifted-reborn-nala-coordination.metric-character-stat.ts"
 import { giftedRebornNalaMental } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/metrics/stats/gifted-reborn-nala-mental.metric-character-stat.ts"
 import { giftedRebornNalaShadow } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/metrics/stats/gifted-reborn-nala-shadow.metric-character-stat.ts"
+import { giftedRebornNalaStamina } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/metrics/stats/gifted-reborn-nala-stamina.metric-character-stat.ts"
+import { giftedRebornNalaStrength } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/metrics/stats/gifted-reborn-nala-strength.metric-character-stat.ts"
 
 const EVEN = { total: 92, crit: false, fumble: false }
 
 const NALA = `${characterPlayer.slug}/${giftedRebornNala.slug}`
+
+const PROBE = `${characterPlayer.slug}/probe-nala`
 
 const ACT = { character: NALA, actionDifficulty: `${actionDifficulty.slug}/${medium.slug}` }
 
@@ -25,19 +31,48 @@ const HELD = "gifted-reborn-nala-a-path"
 
 const WALKED = { ...ACT, skill: `${characterSkill.slug}/${HELD}` }
 
-function holding(path: (typeof PATHS)[number], experience: number, unrevealed = false) {
+const BASIC = [
+  giftedRebornNalaStrength,
+  giftedRebornNalaStamina,
+  giftedRebornNalaCoordination,
+  giftedRebornNalaMental,
+  giftedRebornNalaAether,
+].map((one) => ({ slug: one.slug, value: one.value }))
+
+const PROBED = [
+  { slug: "probe-nala-strength", value: 100 },
+  { slug: "probe-nala-mental", value: 120 },
+]
+
+function attributed(character: string) {
+  return character === NALA ? BASIC : character === PROBE ? PROBED : []
+}
+
+const UNSKILLED = { skillsOf: () => [], pathOf: () => null, attributesOf: attributed }
+
+function statOf(slug: string): string {
+  return `${metricCharacterStat.slug}/${slug}`
+}
+
+function holding(
+  path: (typeof PATHS)[number],
+  experience: number,
+  unrevealed = false,
+  owner = NALA
+) {
   const value = {
-    character: NALA,
+    character: owner,
     skill: `${worldSkill.slug}/${path.slug}`,
     experience,
     unrevealed,
   }
   return {
-    skillsOf: (character: string) => (character === NALA ? [{ slug: HELD, value }] : []),
+    skillsOf: (character: string) => (character === owner ? [{ slug: HELD, value }] : []),
     pathOf: (skill: string) => {
       const found = PATHS.find((one) => `${worldSkill.slug}/${one.slug}` === skill)
       return found === undefined ? null : { title: found.title, tierSteps: found.tierSteps }
     },
+    attributesOf: attributed,
   }
 }
 
@@ -65,9 +100,9 @@ test("a Path not yet opened is no craft an act names", () => {
 })
 
 test("a Basic Attribute alone adds half of what it is over a hundred", () => {
-  const act = { ...ACT, stat: `${metricCharacterStat.slug}/${giftedRebornNalaMental.slug}` }
+  const act = { ...ACT, stat: statOf(giftedRebornNalaMental.slug) }
   const by = Math.floor((giftedRebornNalaMental.value - 100) / 2)
-  expect(settled(act, EVEN)).toMatchObject({
+  expect(settled(act, EVEN, UNSKILLED)).toMatchObject({
     answered: { score: by, terms: [{ from: "Mental", by }] },
   })
 })
@@ -76,7 +111,29 @@ test("an Elite Path is no craft an act names", () => {
   expect(settled(WALKED, EVEN, holding(giftedPathOfExceptionalism, 600))).toHaveProperty("refused")
 })
 
-test("an Attribute that is not Basic is refused", () => {
-  const shadow = `${metricCharacterStat.slug}/${giftedRebornNalaShadow.slug}`
-  expect(settled({ ...ACT, stat: shadow }, EVEN)).toHaveProperty("refused")
+test("an Attribute that is not Basic is refused, naming the five Basic Attributes in order", () => {
+  const shadow = statOf(giftedRebornNalaShadow.slug)
+  const basic = BASIC.map((one) => `\`${statOf(one.slug)}\``).join(", ")
+  expect(settled({ ...ACT, stat: shadow }, EVEN, UNSKILLED)).toEqual({
+    refused: `\`${shadow}\` is no Basic Attribute; say one of ${basic}`,
+  })
+})
+
+test("another story's character is settled against its own pages, never against Nala's", () => {
+  const probed = { ...ACT, character: PROBE, stat: statOf("probe-nala-mental") }
+  expect(settled(probed, EVEN, UNSKILLED)).toMatchObject({
+    answered: { score: 10, terms: [{ from: "Mental", by: 10 }] },
+  })
+  const nalas = { ...probed, stat: statOf(giftedRebornNalaMental.slug) }
+  const own = PROBED.map((one) => `\`${statOf(one.slug)}\``).join(", ")
+  expect(settled(nalas, EVEN, UNSKILLED)).toEqual({
+    refused: `\`${nalas.stat}\` is no Basic Attribute; say one of ${own}`,
+  })
+  const walked = { ...WALKED, character: PROBE }
+  expect(settled(walked, EVEN, holding(giftedPathOfEndurance, 60, false, PROBE))).toMatchObject({
+    answered: { terms: [{ from: giftedPathOfEndurance.title, by: 15 }] },
+  })
+  expect(settled(WALKED, EVEN, holding(giftedPathOfEndurance, 60, false, PROBE))).toHaveProperty(
+    "refused"
+  )
 })
