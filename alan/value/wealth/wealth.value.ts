@@ -4,7 +4,7 @@ export const wealth = {
   id: "019eb7d1-032b-73d1-bb88-07b4625d5fb9",
   type: "page-type/value",
   slug: "wealth",
-  definition: "Alan's personal sovereignty: the capacity to hold the systems running his life",
+  definition: "Alan's freedom from the limits of the world",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "wealth" }],
   label: "Wealth",
   description:
@@ -15,5 +15,5 @@ export const wealth = {
   scale: "readout-scale/green-day-units",
   groups: ["readout-group/values"],
   createdAt: "2026-06-11T17:53:08.907Z",
-  updatedAt: "2026-10-30T16:44:42.346Z",
+  updatedAt: "2026-10-30T16:47:48.344Z",
 } as const satisfies Value
