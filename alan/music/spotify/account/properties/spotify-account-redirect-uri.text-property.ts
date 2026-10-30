@@ -5,10 +5,10 @@ export const spotifyAccountRedirectUri = {
   type: "page-type/text-property",
   slug: "spotify-account-redirect-uri",
   propertySlug: "redirect-uri",
-  definition: "where consent is handed back to after a sign-in",
+  definition: "the link Spotify sends a person to when the person gives consent",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-18T23:30:36.740Z",
-  updatedAt: "2026-09-18T23:34:28.000Z",
+  updatedAt: "2026-10-30T16:31:08.292Z",
 } as const satisfies TextProperty
