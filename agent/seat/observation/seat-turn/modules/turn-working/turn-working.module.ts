@@ -84,7 +84,7 @@ export const turnWorking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch of transcript holding no answer leaves the turn reading unchanged.",
+      statement: "A part of a transcript holding no answer leaves the turn reading unchanged.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -165,5 +165,5 @@ export const turnWorking = {
     },
   ],
   createdAt: "2026-09-03T18:15:02.021Z",
-  updatedAt: "2026-10-28T19:48:45.674Z",
+  updatedAt: "2026-10-30T17:48:33.616Z",
 } as const satisfies Module
