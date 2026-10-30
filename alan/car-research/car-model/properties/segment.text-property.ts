@@ -5,10 +5,10 @@ export const segment = {
   type: "page-type/text-property",
   slug: "segment",
   propertySlug: "segment",
-  definition: "the model's size and price bracket",
+  definition: "the size and price tier of a car model",
   maxLength: 20,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:50:05.893Z",
-  updatedAt: "2026-09-22T13:54:40.000Z",
+  updatedAt: "2026-10-30T14:47:18.994Z",
 } as const satisfies TextProperty
