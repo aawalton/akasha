@@ -5,6 +5,10 @@ export const handler = {
   type: "page-type/role",
   slug: "handler",
   definition: "an agent that handles the messages sent to a person",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "handler" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "handlers" },
+  ],
   onCall: true,
   decisions: [
     {
@@ -54,5 +58,5 @@ export const handler = {
     },
   ],
   createdAt: "2026-08-30T17:44:10.794Z",
-  updatedAt: "2026-10-19T12:21:21.072Z",
+  updatedAt: "2026-10-30T16:22:30.074Z",
 } as const satisfies Role
