@@ -4,7 +4,7 @@ export const readoutReading = {
   id: "01a057f9-873e-7390-9635-32012c10d149",
   type: "page-type/module",
   slug: "readout-reading",
-  definition: "the reading a readout last took, kept beside its page",
+  definition: "how code keeps the last number a readout takes in a file in the folder of its page",
   code: "ts",
   test: "ts",
   decisions: [
@@ -128,5 +128,5 @@ export const readoutReading = {
     },
   ],
   createdAt: "2026-08-31T13:19:26.014Z",
-  updatedAt: "2026-10-20T11:20:59.038Z",
+  updatedAt: "2026-10-30T16:03:48.074Z",
 } as const satisfies Module
