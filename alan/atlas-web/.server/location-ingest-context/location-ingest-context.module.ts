@@ -4,7 +4,7 @@ export const locationIngestContext = {
   id: "01a06582-6b30-7b6f-93b3-2403a3c2ade4",
   type: "page-type/module",
   slug: "location-ingest-context",
-  definition: "whether a location ingest carries a reader atlas knows",
+  definition: "whether a request that sends locations has a person the website knows",
   code: "ts",
   decisions: [
     {
@@ -17,5 +17,5 @@ export const locationIngestContext = {
     },
   ],
   createdAt: "2026-09-03T04:24:01.072Z",
-  updatedAt: "2026-09-20T23:52:12.000Z",
+  updatedAt: "2026-10-30T14:50:12.191Z",
 } as const satisfies Module
