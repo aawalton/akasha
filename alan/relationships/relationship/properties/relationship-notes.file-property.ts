@@ -5,9 +5,9 @@ export const relationshipNotes = {
   type: "page-type/file-property",
   slug: "relationship-notes",
   propertySlug: "relationship-notes",
-  definition: "what Alan keeps written about this person",
+  definition: "what Alan writes about this person",
   extensions: ["txt"],
   types: "ts",
   createdAt: "2026-09-03T04:44:04.194Z",
-  updatedAt: "2026-09-25T13:01:00.000Z",
+  updatedAt: "2026-10-30T16:29:53.511Z",
 } as const satisfies FileProperty
