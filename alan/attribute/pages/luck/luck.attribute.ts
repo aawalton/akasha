@@ -4,7 +4,7 @@ export const luck = {
   id: "01a06841-a19b-775f-8183-8af74871a217",
   type: "page-type/attribute",
   slug: "luck",
-  definition: "what Alan has built by inviting rejection",
+  definition: "the capacity Alan has from the rejections Alan asks for",
   pointUnit: "one rejection attempted",
   code: "ts",
   test: "ts",
@@ -44,5 +44,5 @@ export const luck = {
     },
   ],
   createdAt: "2026-09-03T17:12:06.811Z",
-  updatedAt: "2026-09-18T15:12:18.000Z",
+  updatedAt: "2026-10-30T14:46:15.677Z",
 } as const satisfies Attribute
