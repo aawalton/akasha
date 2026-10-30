@@ -5,9 +5,9 @@ export const traceLatitude = {
   type: "page-type/number-property",
   slug: "trace-latitude",
   propertySlug: "latitude",
-  definition: "how far north or south of the equator the trace was taken",
+  definition: "how many degrees north of the equator a device is",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T21:38:23.028Z",
-  updatedAt: "2026-09-21T19:18:52.000Z",
+  updatedAt: "2026-10-30T16:48:34.005Z",
 } as const satisfies NumberProperty
