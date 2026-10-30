@@ -45,7 +45,7 @@ function isNullish(ref: IR.BasicExpression<Json>): BoolExpr {
 function constFalse(alias: string): BoolExpr {
   return inArray(propRef([alias, "id"]), lit([]))
 }
-export function constTrue(alias: string): BoolExpr {
+function constTrue(alias: string): BoolExpr {
   return not(constFalse(alias))
 }
 

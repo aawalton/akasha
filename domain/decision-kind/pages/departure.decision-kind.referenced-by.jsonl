@@ -3812,6 +3812,7 @@
 {"propertySlug":"decision-kind","path":"page/ui-store/query/modules/related-pipeline/related-pipeline.module.ts","id":"01a0c5fc-c478-7997-a120-966993c5a392"}
 {"propertySlug":"decision-kind","path":"page/ui-store/query/modules/sort-resolve/sort-resolve.module.ts","id":"01a05b69-4550-734f-b117-9948906f14a9"}
 {"propertySlug":"decision-kind","path":"page/ui-store/query/modules/view-match/view-match.module.ts","id":"01a05b69-4551-75ff-b040-d348271da6aa"}
+{"propertySlug":"decision-kind","path":"page/ui-store/query/modules/view-pipeline/view-pipeline.module.ts","id":"01a05b69-4552-769b-b58a-70a14d2f7cb3"}
 {"propertySlug":"decision-kind","path":"page/ui/cache/modules/listing-readiness/listing-readiness.module.ts","id":"01a0e1b5-3737-7636-9d4d-147e23ec7960"}
 {"propertySlug":"decision-kind","path":"page/ui/cache/modules/tanstack-live/tanstack-live.module.ts","id":"01a05cba-9cbc-7f0a-9fe4-2beece336d54"}
 {"propertySlug":"decision-kind","path":"page/ui/cache/modules/use-query/use-query.module.ts","id":"01a05cce-25ec-7536-86c6-340adc946098"}

@@ -1,6 +1,7 @@
-import { type Collection, createLiveQueryCollection } from "@tanstack/db"
+import type { Collection } from "@tanstack/db"
 import { instantIn } from "akasha/code/type/narrowing/modules/instant-in/instant-in.module.code.ts"
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
+import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type { PageWhere } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import {
@@ -10,11 +11,7 @@ import {
   attributesOf,
   type PageRow,
 } from "akasha/page/ui-store/collection/modules/page-row/page-row.module.code.ts"
-import {
-  type BoolExpr,
-  conditionToExpr,
-  constTrue,
-} from "akasha/page/ui-store/query/modules/condition-expr/condition-expr.module.code.ts"
+
 import type { UseViewQueryOptions } from "akasha/page/ui-store/query/modules/options/options.module.code.ts"
 import {
   classifyKey,
@@ -30,7 +27,6 @@ import {
 } from "akasha/page/ui-store/query/modules/view-match/view-match.module.code.ts"
 
 const LOCAL_VIEW_QUERY_LIMIT = 10_000
-const ALIAS = "p"
 const noop = (): undefined => {}
 const PAGE_TYPE_SLUG = "page-type"
 
@@ -121,13 +117,44 @@ function deriveRichDocumentKeys(ctx: ViewResolveCtx): ReadonlySet<string> {
   return keys
 }
 
-function baseScope(options: UseViewQueryOptions): BoolExpr {
-  if (options.crossType === true) return constTrue(ALIAS)
-  const typeExpr = conditionToExpr({ key: "pageTypeId", eq: options.pageTypeId }, ALIAS)
-  if (typeExpr === null) {
-    throw new Error("view-pipeline: base scope predicate failed to lower")
+export function kindsUnder(all: readonly PageRow[], typeId: string): ReadonlySet<string> {
+  const idOf = new Map<string, string>()
+  const aboveOf = new Map<string, readonly string[]>()
+  for (const row of all) {
+    if (!isPageTypeRow(row)) continue
+    const held = asPageRecord(row)
+    if (typeof held.id !== "string" || typeof held.slug !== "string") continue
+    idOf.set(`${PAGE_TYPE_SLUG}/${held.slug}`, held.id)
+    aboveOf.set(held.id, stringsIn(attributesOf(row).extends))
   }
-  return typeExpr
+  const kinds = new Set<string>([typeId])
+  for (const start of aboveOf.keys()) {
+    const seen = new Set<string>()
+    const walking = [start]
+    while (walking.length > 0) {
+      const at = walking.pop()
+      if (at === undefined || seen.has(at)) continue
+      if (at === typeId) {
+        kinds.add(start)
+        break
+      }
+      seen.add(at)
+      for (const one of aboveOf.get(at) ?? []) {
+        const above = idOf.get(one)
+        if (above !== undefined) walking.push(above)
+      }
+    }
+  }
+  return kinds
+}
+
+function scoped(rows: readonly PageRow[], options: UseViewQueryOptions): readonly PageRow[] {
+  if (options.crossType === true) return rows
+  const kinds = kindsUnder(rows, options.pageTypeId)
+  return rows.filter((row) => {
+    const typed = asPageRecord(row).page_type_id
+    return typeof typed === "string" && kinds.has(typed)
+  })
 }
 
 function instantOverlay(row: PageRow, instantKeys: readonly string[]): ResolvedOverlay {
@@ -190,21 +217,13 @@ export function createViewPipeline(
 
   const materializedKeys = collectMaterializedKeys(options)
 
-  const live = createLiveQueryCollection({
-    startSync: true,
-    query: (q) =>
-      q
-        .from({ p: collection })
-        .where(() => baseScope(options))
-        .select(({ p }) => ({ ...p })),
-  })
-
   const read = (): ViewResult => {
-    const ctx = buildViewResolveCtx(snapshot(), options)
+    const all = snapshot()
+    const ctx = buildViewResolveCtx(all, options)
     const instantKeys = deriveInstantKeys(ctx)
     const contentKeys = deriveContentKeys(ctx)
     const richDocumentKeys = deriveRichDocumentKeys(ctx)
-    const base = asPageRowList(live.toArray)
+    const base = scoped(all, options)
     const filtered =
       filters.length === 0
         ? base
@@ -227,15 +246,11 @@ export function createViewPipeline(
   return {
     read,
     subscribe: (cb) => {
-      const subBase = live.subscribeChanges(() => cb())
       const subAll = collection.subscribeChanges(() => cb())
       return () => {
-        subBase.unsubscribe()
         subAll.unsubscribe()
       }
     },
-    dispose: () => {
-      live.cleanup()
-    },
+    dispose: noop,
   }
 }
