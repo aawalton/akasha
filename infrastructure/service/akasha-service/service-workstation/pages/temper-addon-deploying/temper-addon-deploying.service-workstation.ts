@@ -4,7 +4,8 @@ export const temperAddonDeploying = {
   id: "01a095be-957a-70aa-93ff-0845e49c8f73",
   type: "page-type/service-workstation",
   slug: "temper-addon-deploying",
-  definition: "the service putting the temper addon kind up once a commit changes its source",
+  definition:
+    "the service putting a Temper addon up once a commit changes what that addon is built from",
   enabled: true,
   systemd: {
     schedule: "*:*:00",
@@ -28,5 +29,5 @@ export const temperAddonDeploying = {
     },
   ],
   createdAt: "2026-09-12T13:11:30.426Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-30T16:15:10.049Z",
 } as const satisfies ServiceWorkstation
