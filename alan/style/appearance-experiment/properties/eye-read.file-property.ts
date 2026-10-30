@@ -5,7 +5,7 @@ export const eyeRead = {
   type: "page-type/file-property",
   slug: "eye-read",
   propertySlug: "eye-read",
-  definition: "how the try read to the persona watching it",
+  definition: "how the thing Alan wears looks to the persona",
   extensions: ["txt"],
   decisions: [
     {
@@ -15,5 +15,5 @@ export const eyeRead = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:42:47.583Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:31:00.037Z",
 } as const satisfies FileProperty
