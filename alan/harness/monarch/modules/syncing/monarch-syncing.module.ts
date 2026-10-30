@@ -4,7 +4,7 @@ export const monarchSyncing = {
   id: "01a0686a-7a57-7488-a53f-a41a698c4316",
   type: "page-type/module",
   slug: "monarch-syncing",
-  definition: "the whole of Monarch copied and the copy compared against it",
+  definition: "how a service writes every Monarch record into akasha",
   code: "ts",
   decisions: [
     {
@@ -44,5 +44,5 @@ export const monarchSyncing = {
     },
   ],
   createdAt: "2026-09-03T17:56:43.735Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:42:04.454Z",
 } as const satisfies Module
