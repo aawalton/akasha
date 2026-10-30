@@ -13,12 +13,6 @@ export const awenOneSeatStatusLine = {
     "A page is seen on alanwalton.com, never on atlas.alanwalton.com.",
   ],
   createdAt: "2026-10-30T18:07:48.290Z",
-  updatedAt: "2026-10-30T18:07:53.882Z",
-  intentStack: [
-    {
-      statement: "A one-seat turn's status line names the checklist step its seat is on.",
-      workingMemory:
-        "Alan's next Gifted turn is the first one-seat turn he sees, and the action bar says 'The writer and recorders are working…' for it.",
-    },
-  ],
+  updatedAt: "2026-10-30T18:54:21.495Z",
+  intentStack: [],
 } as const satisfies Initiative
