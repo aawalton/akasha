@@ -164,6 +164,7 @@
 {"propertySlug":"part-of-speech","path":"design/game/drive/drive.page-type.ts","id":"01a06746-de46-7a10-980b-3134872d9f6b"}
 {"propertySlug":"part-of-speech","path":"design/interface/color/color.page-type.ts","id":"01a06575-c2a9-766f-8f09-da30cc969637"}
 {"propertySlug":"part-of-speech","path":"design/interface/design-interface.domain.ts","id":"01a08d8d-8ba8-7079-a696-0ed96689e240"}
+{"propertySlug":"part-of-speech","path":"design/interface/primitive/modules/command-palette/command-palette.module.ts","id":"01a05be9-d4c2-7a60-bb20-12f071968480"}
 {"propertySlug":"part-of-speech","path":"design/interface/system/ring/ring.domain.ts","id":"01a0655b-9cdd-73ae-8a72-25ca95f9932b"}
 {"propertySlug":"part-of-speech","path":"design/persona/kindling/kindling.page-type.ts","id":"01a0de58-8f8e-71ce-a84d-60383cecae28"}
 {"propertySlug":"part-of-speech","path":"design/technology/mcp/mcp.domain.ts","id":"01a065a0-1408-780c-8dcb-6f6ea9f7d7fd"}
