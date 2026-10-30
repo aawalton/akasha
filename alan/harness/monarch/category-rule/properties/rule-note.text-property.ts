@@ -5,10 +5,10 @@ export const ruleNote = {
   type: "page-type/text-property",
   slug: "rule-note",
   propertySlug: "rule-note",
-  definition: "what a rule is about, where its clauses do not say",
+  definition: "a note about a category rule",
   maxLength: 300,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T16:13:47.392Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:46:34.898Z",
 } as const satisfies TextProperty
