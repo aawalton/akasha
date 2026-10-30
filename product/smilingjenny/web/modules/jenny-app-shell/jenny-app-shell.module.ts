@@ -4,7 +4,7 @@ export const jennyAppShell = {
   id: "01a06558-c2cc-700a-89e3-27c5e622acc4",
   type: "page-type/module",
   slug: "jenny-app-shell",
-  definition: "the frame Jenny's pages are drawn inside, with the way out of the session",
+  definition: "the menu the pages of smilingjenny.me show",
   code: "tsx",
   decisions: [
     {
@@ -25,5 +25,5 @@ export const jennyAppShell = {
     },
   ],
   createdAt: "2026-09-03T03:38:30.988Z",
-  updatedAt: "2026-09-27T11:47:03.000Z",
+  updatedAt: "2026-10-30T16:23:52.051Z",
 } as const satisfies Module
