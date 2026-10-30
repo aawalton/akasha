@@ -4,7 +4,7 @@ export const notifying = {
   id: "01a06a00-6837-71bf-b475-d3320bf5baab",
   type: "page-type/module",
   slug: "notifying",
-  definition: "sending a person a notification, credited to whoever asked for it",
+  definition: "how code sends a notification to a person for the code that asks",
   code: "ts",
   decisions: [
     {
@@ -37,5 +37,5 @@ export const notifying = {
     },
   ],
   createdAt: "2026-09-04T01:20:06.711Z",
-  updatedAt: "2026-09-22T00:47:01.000Z",
+  updatedAt: "2026-10-30T15:52:59.297Z",
 } as const satisfies Module
