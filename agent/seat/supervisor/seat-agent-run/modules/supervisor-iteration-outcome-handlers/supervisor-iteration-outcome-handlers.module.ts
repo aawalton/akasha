@@ -4,7 +4,7 @@ export const supervisorIterationOutcomeHandlers = {
   id: "01a06871-3115-700b-b125-962ed5e09687",
   type: "page-type/module",
   slug: "supervisor-iteration-outcome-handlers",
-  definition: "what a restart-now action asks of the loop once the child has gone",
+  definition: "how code handles a request to a supervisor when a process of a seat's agent ends",
   code: "ts",
   decisions: [
     {
@@ -65,5 +65,5 @@ export const supervisorIterationOutcomeHandlers = {
     },
   ],
   createdAt: "2026-09-03T18:04:03.733Z",
-  updatedAt: "2026-10-24T22:00:07.098Z",
+  updatedAt: "2026-10-30T14:53:40.530Z",
 } as const satisfies Module
