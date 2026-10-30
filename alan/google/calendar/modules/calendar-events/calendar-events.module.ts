@@ -4,7 +4,7 @@ export const calendarEvents = {
   id: "01a05c02-c735-7c7d-b0df-e9fdf86fe475",
   type: "page-type/module",
   slug: "calendar-events",
-  definition: "the calendar operations over an event",
+  definition: "the calls that code makes about a calendar event",
   code: "ts",
   test: "ts",
   decisions: [
@@ -34,5 +34,5 @@ export const calendarEvents = {
     },
   ],
   createdAt: "2026-09-01T08:08:01.077Z",
-  updatedAt: "2026-09-22T13:54:40.000Z",
+  updatedAt: "2026-10-30T15:34:46.504Z",
 } as const satisfies Module
