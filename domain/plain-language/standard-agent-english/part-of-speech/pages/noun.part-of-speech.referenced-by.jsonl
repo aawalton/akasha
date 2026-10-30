@@ -159,6 +159,7 @@
 {"propertySlug":"part-of-speech","path":"alan/value/health/fitness/flexibility/flexibility.domain.ts","id":"01a09111-9cc5-7576-83ef-2d6621b37793"}
 {"propertySlug":"part-of-speech","path":"alan/value/health/fitness/gym/gym.page-type.ts","id":"01a11b34-da15-7011-8949-3ef4c4d1539c"}
 {"propertySlug":"part-of-speech","path":"alan/value/health/fitness/strength/exercise/implement/strength-exercise-implement.page-type.ts","id":"01a09412-00c5-7bbd-ba9c-61f0608a646c"}
+{"propertySlug":"part-of-speech","path":"alan/value/health/fitness/strength/exercise/properties/movement-pattern.select-property.ts","id":"01a0657e-2bbf-7dea-b8cd-ef434268cd50"}
 {"propertySlug":"part-of-speech","path":"alan/value/health/fitness/strength/exercise/strength-exercise.page-type.ts","id":"01a0657e-2bbf-7c1f-a05c-77af77f54cbf"}
 {"propertySlug":"part-of-speech","path":"alan/value/health/fitness/strength/log/strength-log.page-type.ts","id":"01a06580-66fc-7e15-9138-eda9b0267961"}
 {"propertySlug":"part-of-speech","path":"alan/value/health/fitness/strength/strength.domain.ts","id":"01a0911d-062d-7eb2-a167-500195a36ae0"}

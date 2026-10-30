@@ -6,6 +6,10 @@ export const movementPattern = {
   slug: "movement-pattern",
   propertySlug: "movement-pattern",
   definition: "the shape of the movement, which is what a session is balanced across",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "movement pattern" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "movement patterns" },
+  ],
   values: [
     "carry",
     "conditioning",
@@ -25,5 +29,5 @@ export const movementPattern = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:19:22.687Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:51:29.719Z",
 } as const satisfies SelectProperty
