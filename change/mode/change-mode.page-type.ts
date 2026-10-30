@@ -5,6 +5,10 @@ export const changeMode = {
   type: "page-type/page-type",
   slug: "change-mode",
   definition: "the act a change makes",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "change mode" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "change modes" },
+  ],
   parts: [
     "change-mode/change-mode-add",
     "change-mode/change-mode-add-if-not-present",
@@ -29,5 +33,5 @@ export const changeMode = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-07T13:52:21.729Z",
-  updatedAt: "2026-09-22T10:07:43.000Z",
+  updatedAt: "2026-10-30T17:42:54.063Z",
 } as const satisfies PageType
