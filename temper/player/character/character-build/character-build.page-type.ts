@@ -5,6 +5,10 @@ export const characterBuild = {
   type: "page-type/page-type",
   slug: "character-build",
   definition: "a saved arrangement of a character's gear, skills and stats",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "character build" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "character builds" },
+  ],
   extends: ["page-type/temper-character-thing"],
   parts: [
     "module/character-build-filing",
@@ -59,5 +63,5 @@ export const characterBuild = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:59:23.240Z",
-  updatedAt: "2026-10-20T15:01:34.603Z",
+  updatedAt: "2026-10-30T16:36:41.594Z",
 } as const satisfies PageType
