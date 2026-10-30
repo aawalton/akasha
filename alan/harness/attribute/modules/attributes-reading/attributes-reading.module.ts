@@ -4,7 +4,7 @@ export const attributesReading = {
   id: "01a069bc-1aa3-790c-bb5e-db2397ad19ed",
   type: "page-type/module",
   slug: "attributes-reading",
-  definition: "the seven attribute points Alan earned today, read and kept on their own readouts",
+  definition: "how code takes today's points of Alan's attributes for their readouts",
   code: "ts",
   test: "ts",
   decisions: [
@@ -127,5 +127,5 @@ export const attributesReading = {
     },
   ],
   createdAt: "2026-09-04T00:05:30.403Z",
-  updatedAt: "2026-10-20T11:10:21.943Z",
+  updatedAt: "2026-10-30T16:24:43.287Z",
 } as const satisfies Module
