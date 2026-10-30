@@ -49,41 +49,43 @@ export const strengthLog = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A set states the bout that set was logged in and names the movement that set was of.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A set states the instant Alan performed it, where that instant was recorded.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A set names the tracked day that set falls on.",
+        "An exercise set states the workout it was logged in and names the movement it was of.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A set logged before instants were kept states no instant, and names only its day.",
+        "An exercise set states the instant Alan performed it, where that instant was recorded.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An exercise set names the tracked day that exercise set falls on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An exercise set logged before instants were kept states no instant, and names only its day.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "A set states no volume of its own.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A set's volume is worked out from the set and the movement and the lifter.",
+      statement: "An exercise set states no volume of its own.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A set timed rather than counted has an activity and a length in place of reps and weight.",
+        "An exercise set's volume is worked out from the exercise set and the movement and the lifter.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An exercise set timed rather than counted has an activity and a length in place of reps and weight.",
     },
     {
       decisionKind: "decision-kind/upkeep",
-      statement: "Every set Alan performs reaches a page.",
+      statement: "Every exercise set Alan performs reaches a page.",
     },
   ],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:21:48.924Z",
-  updatedAt: "2026-10-30T17:02:09.121Z",
+  updatedAt: "2026-10-30T17:20:32.765Z",
 } as const satisfies PageType
