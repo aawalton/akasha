@@ -5,7 +5,7 @@ export const openQuestion = {
   type: "page-type/text-property",
   slug: "open-question",
   propertySlug: "ask",
-  definition: "what is still open about a topic, put as a question",
+  definition: "what a question asks about its topic",
   maxLength: 200,
   nameFormat: null,
   decisions: [
@@ -20,5 +20,5 @@ export const openQuestion = {
   ],
   types: "ts",
   createdAt: "2026-09-06T17:52:45.656Z",
-  updatedAt: "2026-09-22T00:41:39.000Z",
+  updatedAt: "2026-10-30T14:59:10.915Z",
 } as const satisfies TextProperty
