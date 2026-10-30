@@ -6,6 +6,7 @@ export const lowerCamelCase = {
   slug: "lower-camel-case",
   definition:
     "a name format joining words with nothing between, every word but the first starting capital",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "lower camel case" }],
   code: "ts",
   test: "ts",
   decisions: [
@@ -62,5 +63,5 @@ export const lowerCamelCase = {
     },
   ],
   createdAt: "2026-08-29T18:13:57.465Z",
-  updatedAt: "2026-09-25T15:19:11.000Z",
+  updatedAt: "2026-10-30T16:48:47.190Z",
 } as const satisfies NameFormat
