@@ -4,7 +4,8 @@ export const alanwaltonClaudeUsage = {
   id: "01a06420-b259-76b1-aba4-b26ab965fb5b",
   type: "page-type/readout-widget",
   slug: "alanwalton-claude-usage",
-  definition: "the tile on Alan's phone showing how much of the weekly Claude allowance is spent",
+  definition:
+    "the readout widget that shows how much of the limit of the current seven-day window is spent",
   app: "ios-app/alanwalton",
   component: "ios-component/alanwalton-claude-usage-widget",
   kind: "ClaudeUsageWidget",
@@ -17,5 +18,5 @@ export const alanwaltonClaudeUsage = {
   groups: ["readout-group/claude-usage"],
   place: 2,
   createdAt: "2026-09-02T21:57:39.545Z",
-  updatedAt: "2026-09-15T16:23:51.000Z",
+  updatedAt: "2026-10-30T16:12:15.190Z",
 } as const satisfies ReadoutWidget
