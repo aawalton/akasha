@@ -14,7 +14,7 @@ export const prepositionWithAProperNounAndAPrepositionPhrase = {
     "phrase-kind/noun-phrase",
   ],
   admits: ["the time in New York at an instant", "a time that is behind UTC at an instant"],
-  refuses: ["machine in a cluster of servers", "the time in New York at"],
+  refuses: ["the time New York in at an instant", "the time in New York at"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -26,5 +26,5 @@ export const prepositionWithAProperNounAndAPrepositionPhrase = {
     },
   ],
   createdAt: "2026-10-30T16:14:47.468Z",
-  updatedAt: "2026-10-30T16:14:47.468Z",
+  updatedAt: "2026-10-30T16:16:30.436Z",
 } as const satisfies Construction
