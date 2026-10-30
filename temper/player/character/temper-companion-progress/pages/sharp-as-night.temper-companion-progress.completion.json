@@ -1,122 +1,54 @@
 {
   "build": {
-    "mainHandWeaponType": 13,
     "jewelry": {
       "1": {
+        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Focused",
-        "isEmpty": false
+        "displayText": "Focused"
       },
       "2": {
+        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Shattering",
-        "isEmpty": false
+        "displayText": "Shattering"
       },
       "3": {
+        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Shattering",
-        "isEmpty": false
-      }
-    },
-    "armor": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Heavy, Focused",
-        "isEmpty": false
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Heavy, Focused",
-        "isEmpty": false
-      },
-      "3": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Heavy, Focused",
-        "isEmpty": false
-      },
-      "4": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Heavy, Focused",
-        "isEmpty": false
-      },
-      "5": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Heavy, Focused",
-        "isEmpty": false
-      },
-      "6": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Heavy, Focused",
-        "isEmpty": false
-      },
-      "7": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Heavy, Focused",
-        "isEmpty": false
+        "displayText": "Shattering"
       }
     },
     "weapons": {
       "1": {
+        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Ice Staff, Shattering",
-        "isEmpty": false
+        "displayText": "Ice Staff, Shattering"
       },
       "2": {
+        "isEmpty": true,
         "qualityColor": {
           "1": 0.5,
           "2": 0.5,
           "3": 0.5
         },
-        "displayText": "Empty",
-        "isEmpty": true
+        "displayText": "Empty"
       }
     },
-    "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA",
-    "companionId": 8,
     "skillAbilityIds": {
       "1": 152625,
       "2": 186603,
@@ -124,7 +56,75 @@
       "4": 154926,
       "5": 155693,
       "6": 186488
-    }
+    },
+    "armor": {
+      "1": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Focused"
+      },
+      "2": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Focused"
+      },
+      "3": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Focused"
+      },
+      "4": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Focused"
+      },
+      "5": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Focused"
+      },
+      "6": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Focused"
+      },
+      "7": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Focused"
+      }
+    },
+    "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA",
+    "mainHandWeaponType": 13,
+    "companionId": 8
   },
   "targetBuildHash": "AjEAUAaRpGkaRpGkaQkPDxTzqfA",
   "level": 20,
