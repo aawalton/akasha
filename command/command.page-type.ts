@@ -138,6 +138,7 @@ export const command = {
     "module/landing-indexing",
     "module/read-stamping",
     "module/lone-calling",
+    "module/unheld-taking",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",
@@ -230,5 +231,5 @@ export const command = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-29T04:53:12.685Z",
-  updatedAt: "2026-10-28T18:57:02.952Z",
+  updatedAt: "2026-10-30T16:31:35.684Z",
 } as const satisfies PageType

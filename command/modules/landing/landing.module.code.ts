@@ -82,6 +82,7 @@ import {
   writesOutside,
 } from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
 import { allowedThrough } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
+import { takenUnheld } from "akasha/command/modules/unheld-taking/unheld-taking.module.code.ts"
 import { writeFileAtomicSync } from "akasha/file/system/modules/atomic-write/atomic-write.module.code.ts"
 import {
   readingEnded,
@@ -345,10 +346,14 @@ async function landingHeld(
         )
       )
       const lands = new Set(moves.map((one) => one.to))
-      const before = beforeOf(root, base, [
-        ...split.committing.map((one) => one.path),
-        ...moving.committing.flatMap((one) => [one.from, one.to]),
-      ])
+      const before = takenUnheld(
+        root,
+        beforeOf(root, base, [
+          ...split.committing.map((one) => one.path),
+          ...moving.committing.flatMap((one) => [one.from, one.to]),
+        ]),
+        split.committing
+      )
       readingEnded()
       const committing = besideRebased(root, split.committing, wasBeside)
       const folded = new Map(committing.map((one) => [one.path, one]))

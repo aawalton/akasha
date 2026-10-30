@@ -15,6 +15,7 @@ import {
   type Replacing,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { FileMove } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
+import { unheldAt } from "akasha/command/modules/unheld-taking/unheld-taking.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import type { Settling } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
@@ -304,12 +305,13 @@ export function changeOf(
     const body = bodiedOf(root, one, held)
     held.set(body.path, body.body)
   }
+  const taken = new Set(every.flatMap((one) => (one.kind === "remove" ? [one.path] : [])))
   const read = new Map<string, Uint8Array | null>()
   const based = (path: string): Uint8Array | null => {
     const found = read.get(path)
     if (found !== undefined) return found
     if (read.has(path)) return null
-    const body = bodyAt(root, base, path)
+    const body = bodyAt(root, base, path) ?? (taken.has(path) ? unheldAt(root, path) : null)
     read.set(path, body)
     return body
   }

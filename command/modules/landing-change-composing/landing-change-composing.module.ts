@@ -41,6 +41,10 @@ export const landingChangeComposing = {
       statement: "A body no row names is read from the base commit.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A row takes away the body on the tree where the base commit holds none.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a file or commits.",
     },
@@ -118,5 +122,5 @@ export const landingChangeComposing = {
     },
   ],
   createdAt: "2026-09-11T02:28:12.531Z",
-  updatedAt: "2026-10-27T21:05:14.352Z",
+  updatedAt: "2026-10-30T16:31:35.684Z",
 } as const satisfies Module

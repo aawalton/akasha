@@ -498,6 +498,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/modules/landing/landing.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/modules/landing/landing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/modules/path-moving/path-moving.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/modules/unheld-taking/unheld-taking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/modules/value-minting/value-minting.change-generator.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.test.ts","typed":false,"deferred":false}
