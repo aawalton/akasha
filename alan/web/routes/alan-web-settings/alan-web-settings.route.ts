@@ -4,9 +4,9 @@ export const alanWebSettings = {
   id: "01a16f7d-6d4c-79ad-8c5a-3bf9d1451f38",
   type: "page-type/route",
   slug: "alan-web-settings",
-  definition: "the settings a signed-in reader chooses",
+  definition: "the settings a person chooses on alanwalton.com",
   code: "tsx",
   urlPath: "settings",
   createdAt: "2026-10-24T19:57:33.386Z",
-  updatedAt: "2026-10-24T19:57:33.386Z",
+  updatedAt: "2026-10-30T17:00:13.428Z",
 } as const satisfies Route
