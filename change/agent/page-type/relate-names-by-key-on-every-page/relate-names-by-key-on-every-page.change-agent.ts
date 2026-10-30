@@ -8,7 +8,7 @@ export const relateNamesByKeyOnEveryPage = {
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
   definition:
-    "a name made the address of the page listing it under a key, on every page of a page type",
+    "a change that replaces each name in a property with the page that holds that name in a list",
   takesAtMost: true,
   code: "ts",
   test: "ts",
@@ -51,5 +51,5 @@ export const relateNamesByKeyOnEveryPage = {
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
   createdAt: "2026-10-28T20:28:21.567Z",
-  updatedAt: "2026-10-28T20:28:21.567Z",
+  updatedAt: "2026-10-30T17:41:08.706Z",
 } as const satisfies ChangeAgent
