@@ -4,7 +4,7 @@ export const recurrenceShape = {
   id: "01a05c6f-c7c3-732d-8113-3c8b675fd74f",
   type: "page-type/module",
   slug: "recurrence-shape",
-  definition: "what a repeating thing has, and what advancing it answers",
+  definition: "the values that code uses to find the next day in the recurrence of a to-do",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const recurrenceShape = {
     },
   ],
   createdAt: "2026-09-01T10:07:04.643Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:04:40.236Z",
 } as const satisfies Module
