@@ -4,7 +4,7 @@ export const readoutServing = {
   id: "01a05bc9-a678-768f-ba6e-f91fdcf9ec6d",
   type: "page-type/module",
   slug: "readout-serving",
-  definition: "what a route answers when a caller asks for a readout's reading",
+  definition: "how a route responds to a request for the value of a readout",
   code: "ts",
   test: "ts",
   decisions: [
@@ -124,5 +124,5 @@ export const readoutServing = {
     },
   ],
   createdAt: "2026-09-01T07:05:37.144Z",
-  updatedAt: "2026-09-25T16:54:36.000Z",
+  updatedAt: "2026-10-30T16:04:47.078Z",
 } as const satisfies Module
