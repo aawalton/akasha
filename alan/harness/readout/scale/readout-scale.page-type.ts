@@ -18,7 +18,6 @@ export const readoutScale = {
     "readout-scale/capacity-hours",
     "readout-scale/green-day-units",
     "readout-scale/inbox-count",
-    "readout-scale/live-count",
     "readout-scale/safety-level",
     "readout-scale/sleep-hours",
     "readout-scale/surplus-hours",
@@ -63,5 +62,5 @@ export const readoutScale = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T20:05:28.031Z",
-  updatedAt: "2026-10-30T16:05:21.031Z",
+  updatedAt: "2026-10-30T16:17:02.316Z",
 } as const satisfies PageType
