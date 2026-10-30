@@ -15,8 +15,8 @@ export const giftedTrial200006 = {
   lore: ["lore/gifted-trial2-nala", "place/gifted-trial2-world-womb"],
   endsAt: "2026-10-28T09:15:00.000Z",
   createdAt: "2026-10-30T16:43:59.978Z",
-  updatedAt: "2026-10-30T17:00:19.364Z",
-  ownLength: 105,
+  updatedAt: "2026-10-30T17:00:58.227Z",
+  ownLength: 140,
   outcomes: "jsonl",
   characters: ["character-player/gifted-trial2-nala"],
 } as const satisfies StoryTurnPlayed
