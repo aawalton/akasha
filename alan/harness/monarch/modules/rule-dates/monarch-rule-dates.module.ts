@@ -5,7 +5,7 @@ export const monarchRuleDates = {
   type: "page-type/module",
   slug: "monarch-rule-dates",
   definition:
-    "the date and month clauses a rule states, weighed against a transaction and said back in words",
+    "how code matches a Monarch transaction against the days and months of a category rule",
   code: "ts",
   test: "ts",
   decisions: [
@@ -47,5 +47,5 @@ export const monarchRuleDates = {
     },
   ],
   createdAt: "2026-09-03T17:48:43.469Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:44:47.264Z",
 } as const satisfies Module
