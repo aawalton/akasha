@@ -4,7 +4,7 @@ export const seatMessageAsking = {
   id: "01a16ff5-a19c-7277-93d9-bd9ed96ff636",
   type: "page-type/module",
   slug: "seat-message-asking",
-  definition: "how a route finds the person signed in and the seat that person names",
+  definition: "how code finds the person signed in and a seat that person can read",
   code: "ts",
   decisions: [
     {
@@ -29,5 +29,5 @@ export const seatMessageAsking = {
     },
   ],
   createdAt: "2026-10-24T22:08:51.099Z",
-  updatedAt: "2026-10-24T22:37:13.218Z",
+  updatedAt: "2026-10-30T17:02:23.955Z",
 } as const satisfies Module
