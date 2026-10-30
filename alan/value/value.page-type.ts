@@ -4,7 +4,7 @@ export const value = {
   id: "01a06553-f65f-71f6-898f-df18f6561396",
   type: "page-type/page-type",
   slug: "value",
-  definition: "the thing on which a person spends their life",
+  definition: "a thing a life is spent on",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "life value" },
     { partOfSpeech: "part-of-speech/noun", spelling: "life values" },
@@ -77,5 +77,5 @@ export const value = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T03:33:16.511Z",
-  updatedAt: "2026-10-30T16:37:58.585Z",
+  updatedAt: "2026-10-30T16:46:21.297Z",
 } as const satisfies PageType
