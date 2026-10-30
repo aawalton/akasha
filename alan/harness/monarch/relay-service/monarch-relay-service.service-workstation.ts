@@ -4,7 +4,8 @@ export const monarchRelayService = {
   id: "01a05b53-8d92-7100-a247-0189479aee94",
   type: "page-type/service-workstation",
   slug: "monarch-relay-service",
-  definition: "the service carrying the unreviewed reading to the sites that show it",
+  definition:
+    "the service that sends the readings of a Monarch readout to the router apps that show the readout",
   enabled: true,
   needsSecrets: true,
   systemd: {
@@ -14,5 +15,5 @@ export const monarchRelayService = {
     catchUp: false,
   },
   createdAt: "2026-09-01T04:56:37.522Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-30T15:51:48.991Z",
 } as const satisfies ServiceWorkstation
