@@ -5,7 +5,7 @@ export const dispatchedAs = {
   type: "page-type/text-property",
   slug: "dispatched-as",
   propertySlug: "dispatched-as",
-  definition: "the kind of agent a subagent was run as",
+  definition: "the name the agent tool has for the kind of a subagent",
   maxLength: 100,
   nameFormat: null,
   decisions: [
@@ -24,5 +24,5 @@ export const dispatchedAs = {
   ],
   types: "ts",
   createdAt: "2026-08-31T20:18:13.859Z",
-  updatedAt: "2026-09-25T13:42:50.000Z",
+  updatedAt: "2026-10-30T14:50:12.207Z",
 } as const satisfies TextProperty
