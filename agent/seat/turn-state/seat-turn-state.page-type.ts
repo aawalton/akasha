@@ -4,7 +4,11 @@ export const seatTurnState = {
   id: "01a06924-e882-736f-8cac-465ef2b5d799",
   type: "page-type/page-type",
   slug: "seat-turn-state",
-  definition: "what a seat is doing about its turn, and that state's color",
+  definition: "what the agent of a seat is doing",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "turn state" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "turn states" },
+  ],
   extends: ["page-type/domain"],
   parts: [
     "computed-property-module/seat-working",
@@ -43,5 +47,5 @@ export const seatTurnState = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T21:20:21.634Z",
-  updatedAt: "2026-09-29T12:11:54.000Z",
+  updatedAt: "2026-10-30T15:36:43.405Z",
 } as const satisfies PageType
