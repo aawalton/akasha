@@ -23,11 +23,10 @@ export const day20260626 = {
   inboxTasksClearedToday: true,
   inboxTemperTasks: 6,
   inboxTemperTasksClearedToday: false,
-  inboxCalendar: 2,
   inboxCalendarClearedToday: true,
   sessions: "jsonl",
   completedTasks: "jsonl",
   healthSamples: "jsonl",
   createdAt: "2026-06-26T10:00:08.832Z",
-  updatedAt: "2026-10-30T16:53:42.453Z",
+  updatedAt: "2026-10-30T16:54:11.464Z",
 } as const satisfies Day
