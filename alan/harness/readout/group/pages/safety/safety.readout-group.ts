@@ -4,7 +4,7 @@ export const safety = {
   id: "01a05f42-92f5-7003-8df0-f5215872a280",
   type: "page-type/readout-group",
   slug: "safety",
-  definition: "how safe things are where Alan is",
+  definition: "how safe Alan is",
   figureOffScale: true,
   wireKeyName: "habit",
   servedBy: ["route/safety-level", "route/jenny-safety-level"],
@@ -23,5 +23,5 @@ export const safety = {
     },
   ],
   createdAt: "2026-09-01T23:16:33.653Z",
-  updatedAt: "2026-09-25T16:48:43.000Z",
+  updatedAt: "2026-10-30T15:58:41.386Z",
 } as const satisfies ReadoutGroup
