@@ -5,10 +5,10 @@ export const country = {
   type: "page-type/text-property",
   slug: "country",
   propertySlug: "country",
-  definition: "where the make is headquartered",
+  definition: "the country a car make is headquartered in",
   maxLength: 20,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:55:06.621Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:31:09.179Z",
 } as const satisfies TextProperty
