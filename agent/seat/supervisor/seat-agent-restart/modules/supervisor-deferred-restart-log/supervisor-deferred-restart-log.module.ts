@@ -4,7 +4,7 @@ export const supervisorDeferredRestartLog = {
   id: "01a0683e-3dbe-701c-bda1-241e26dc0af9",
   type: "page-type/module",
   slug: "supervisor-deferred-restart-log",
-  definition: "what a deferred restart says while it waits and when it fires",
+  definition: "the log a supervisor writes until an agent in a seat is restarted",
   code: "ts",
   test: "ts",
   decisions: [
@@ -23,5 +23,5 @@ export const supervisorDeferredRestartLog = {
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-09-24T15:55:20.000Z",
+  updatedAt: "2026-10-30T14:41:26.932Z",
 } as const satisfies Module
