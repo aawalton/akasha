@@ -4,7 +4,7 @@ export const spotifyCredentials = {
   id: "01a06261-dc1d-7001-9784-4341766fba01",
   type: "page-type/module",
   slug: "spotify-credentials",
-  definition: "the three secrets behind a Spotify call",
+  definition: "the secrets a Spotify call needs",
   code: "ts",
   test: "ts",
   decisions: [
@@ -30,5 +30,5 @@ export const spotifyCredentials = {
     },
   ],
   createdAt: "2026-09-02T13:49:35.645Z",
-  updatedAt: "2026-09-22T13:54:48.000Z",
+  updatedAt: "2026-10-30T16:19:53.547Z",
 } as const satisfies Module
