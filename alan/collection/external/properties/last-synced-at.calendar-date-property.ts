@@ -5,8 +5,8 @@ export const lastSyncedAt = {
   type: "page-type/calendar-date-property",
   slug: "last-synced-at",
   propertySlug: "last-synced-at",
-  definition: "the day a collection was last read from its source",
+  definition: "the last day a collection was imported",
   types: "ts",
   createdAt: "2026-09-02T20:44:59.872Z",
-  updatedAt: "2026-09-15T16:02:20.000Z",
+  updatedAt: "2026-10-30T15:18:22.537Z",
 } as const satisfies CalendarDateProperty
