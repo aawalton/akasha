@@ -8,7 +8,11 @@ import { picturedFile } from "akasha/command/argument/pages/pictured-file.argume
 import { playedTurn } from "akasha/command/argument/pages/played-turn.argument.ts"
 import { proseFile } from "akasha/command/argument/pages/prose-file.argument.ts"
 import { recorder as recorderArgument } from "akasha/command/argument/pages/recorder.argument.ts"
-import type { Recorder } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
+import {
+  ITEM_ENDING,
+  type Recorder,
+  youAre,
+} from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
 import { storyTurnNext } from "akasha/command/pages/story/turn/next/story-turn-next.command.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { FlowPart } from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.code.ts"
@@ -38,6 +42,7 @@ export type BeatAsking = {
   readonly beat: number
   readonly recorders: readonly Recorder[]
   readonly master: string | null
+  readonly alone?: boolean
 }
 
 function instructionsOf(recorders: readonly Recorder[], slugs: readonly string[]): string {
@@ -102,20 +107,24 @@ function nextCallOf(calledAs: string): string {
   return calledAs.replace(LAST_WORD, storyTurnNext.name)
 }
 
+function endingOf(asked: BeatAsking): readonly string[] {
+  if (asked.alone === true) return [ITEM_ENDING]
+  const ending = `The advance ends this beat, not this seat. Once it lands, run \`${nextCallOf(asked.calledAs)}\` and take up the beat it hands you, whatever messages say. End your turn only once it says no beat is ready for you: the next beat ready for you then comes as a message of its own.`
+  if (asked.master === null) return [ending]
+  return [
+    ending,
+    "",
+    `Where the advance is refused and you cannot mend it yourself, send the game master the refusal word for word with \`akasha seat send --to ${asked.master} --body "<what refused>"\`, then end your turn.`,
+  ]
+}
+
 export function beatPrompt(part: FlowPart, asked: BeatAsking): string {
   const { beat, turn } = asked
   const said = saidFor(part, asked)
   const line = beatsWritten(turn.beats).split("\n")[beat - 1] ?? ""
   const address = `${storyTurnPlayed.slug}/${turn.slug}`
-  const stuck =
-    asked.master === null
-      ? []
-      : [
-          "",
-          `Where the advance is refused and you cannot mend it yourself, send the game master the refusal word for word with \`akasha seat send --to ${asked.master} --body "<what refused>"\`, then end your turn.`,
-        ]
   return [
-    `You are the ${said.who} of ${asked.title}, and you take its turns one beat at a time.`,
+    `${youAre(asked.alone)} the ${said.who} of ${asked.title}, and you take its turns one beat at a time.`,
     "",
     `Beat ${beat} of the turn \`${turn.at}\` is ready for you. Its line in the turn's beats file, as the steps before you left it:`,
     "",
@@ -130,7 +139,6 @@ export function beatPrompt(part: FlowPart, asked: BeatAsking): string {
     "",
     `${asked.calledAs} ${playedTurn.said} ${address} ${beatArgument.said} ${beat} ${said.flags}`,
     "",
-    `The advance ends this beat, not this seat. Once it lands, run \`${nextCallOf(asked.calledAs)}\` and take up the beat it hands you, whatever messages say. End your turn only once it says no beat is ready for you: the next beat ready for you then comes as a message of its own.`,
-    ...stuck,
+    ...endingOf(asked),
   ].join("\n")
 }

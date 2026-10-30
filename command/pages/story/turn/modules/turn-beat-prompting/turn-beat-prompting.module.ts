@@ -31,7 +31,12 @@ export const turnBeatPrompting = {
       decisionKind: "decision-kind/departure",
       statement: "The game master is asked for the refused beat and those after it, and no others.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A one-seat story's beat message is a checklist item, opening and ending as a job's item does.",
+    },
   ],
   createdAt: "2026-10-30T12:49:16.246Z",
-  updatedAt: "2026-10-30T12:49:16.246Z",
+  updatedAt: "2026-10-30T12:50:10.428Z",
 } as const satisfies Module

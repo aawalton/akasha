@@ -87,13 +87,13 @@ const ENDING =
   "The advance ends this job, not this seat: once it lands, wait for your next job. Never end this job in words: words naming the next read do not read it, " +
   "and this seat then sits idle while the turn waits on it. Every output of yours is a tool call until the advance has landed."
 
-const ITEM_ENDING =
+export const ITEM_ENDING =
   "The advance ends this item, not this seat: its answer is the checklist's next item, so take that up at once, whatever messages say. Never end an item in words: words naming the next read do not read it, " +
   "and the turn then waits on this seat. Every output of yours is a tool call until an answer says the turn is at player."
 
 const LAST_WORD = /\S+$/
 
-function youAre(alone: boolean | undefined): string {
+export function youAre(alone: boolean | undefined): string {
   return alone === true ? "For this item, you are" : "You are"
 }
 

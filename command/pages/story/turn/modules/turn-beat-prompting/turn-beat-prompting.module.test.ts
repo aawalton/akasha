@@ -52,6 +52,18 @@ test("the writer is asked for one beat's prose, and each recorder for its own pa
   expect(beatPrompt("pictured", ASKED)).toContain("--recorder picture --pictured-file <path>")
 })
 
+test("a one-seat beat is an item held in the step's role, going straight on and sending no seat", () => {
+  const alone = beatPrompt("prose", { ...ASKED, beat: 1, alone: true })
+  expect(alone).toStartWith("For this item, you are the writer of The Saga")
+  expect(alone).toContain("its answer is the checklist's next item, so take that up at once")
+  expect(alone).not.toContain("akasha story turn next")
+  expect(alone).not.toContain("akasha seat send")
+  const graph = beatPrompt("prose", { ...ASKED, beat: 1 })
+  expect(graph).toStartWith("You are the writer of The Saga")
+  expect(graph).toContain("run `akasha story turn next`")
+  expect(graph).toContain("akasha seat send --to iris-game-master-saga")
+})
+
 test("a refused beat is handed to the game master with its issues, to state again from there", () => {
   const refused = beatsOf(
     { beat: 1, event: "Mara opens the gate.", changes: [] },
