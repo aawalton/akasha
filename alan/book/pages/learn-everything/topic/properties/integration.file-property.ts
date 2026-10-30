@@ -5,9 +5,9 @@ export const integration = {
   type: "page-type/file-property",
   slug: "integration",
   propertySlug: "integration",
-  definition: "the topics Alan connects a topic to, and how strongly",
+  definition: "how well Alan relates a topic to other topics",
   extensions: ["md"],
   types: "ts",
   createdAt: "2026-09-03T04:55:52.026Z",
-  updatedAt: "2026-09-15T16:56:11.000Z",
+  updatedAt: "2026-10-30T16:25:33.955Z",
 } as const satisfies FileProperty
