@@ -4,7 +4,7 @@ export const attributeIntelligence = {
   id: "01a06838-94d9-7c36-b921-4351c8db6033",
   type: "page-type/readout",
   slug: "attribute-intelligence",
-  definition: "the points Alan earned on a day for the learn-everything topics he updated",
+  definition: "the points Alan earns on a day for what Alan learns about the world",
   label: "INT",
   unit: "points",
   scale: "readout-scale/attribute-points",
@@ -41,5 +41,5 @@ export const attributeIntelligence = {
   carriedTo: ["router-app/alan-web"],
   madeFrom: "day-row",
   createdAt: "2026-09-03T17:02:13.721Z",
-  updatedAt: "2026-10-20T11:10:21.943Z",
+  updatedAt: "2026-10-30T14:51:27.935Z",
 } as const satisfies Readout
