@@ -4,7 +4,7 @@ export const supervisorAccountConfig = {
   id: "01a0683e-3dbe-7000-8023-4fb6336e3734",
   type: "page-type/module",
   slug: "supervisor-account-config",
-  definition: "the model, effort, timeouts and windows for spawning a seat",
+  definition: "how code reads the seat conditions a Claude Code process starts with",
   code: "ts",
   decisions: [
     {
@@ -26,5 +26,5 @@ export const supervisorAccountConfig = {
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-09-24T16:11:38.000Z",
+  updatedAt: "2026-10-30T14:45:51.873Z",
 } as const satisfies Module
