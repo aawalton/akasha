@@ -5,7 +5,7 @@ export const topicRelated = {
   type: "page-type/multi-relation-property",
   slug: "topic-related",
   propertySlug: "related",
-  definition: "the topics a topic reaches across to",
+  definition: "the topics a topic relates to",
   targetPageType: "page-type/all-about-alan-topic",
   decisions: [
     {
@@ -19,5 +19,5 @@ export const topicRelated = {
   ],
   types: "ts",
   createdAt: "2026-09-03T03:40:37.941Z",
-  updatedAt: "2026-09-22T14:01:56.000Z",
+  updatedAt: "2026-10-30T15:03:59.235Z",
 } as const satisfies MultiRelationProperty
