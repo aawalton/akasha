@@ -5,7 +5,7 @@ export const performed = {
   type: "page-type/boolean-property",
   slug: "performed",
   propertySlug: "performed",
-  definition: "whether the artist performs the song themselves",
+  definition: "whether the artist of a song performs the song",
   decisions: [
     {
       decisionKind: "decision-kind/upkeep",
@@ -14,5 +14,5 @@ export const performed = {
   ],
   types: "ts",
   createdAt: "2026-09-02T13:15:58.411Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:36:44.772Z",
 } as const satisfies BooleanProperty
