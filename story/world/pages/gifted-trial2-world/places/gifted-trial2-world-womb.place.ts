@@ -58,7 +58,7 @@ export const giftedTrial2WorldWomb = {
     },
     {
       fact: "The man lays a hand on the belly as he talks, and its weight presses in through the wall.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
     },
     {
       fact: "One word comes again and again in their talk: kerith, Helenian for vessel.",
@@ -76,7 +76,31 @@ export const giftedTrial2WorldWomb = {
       fact: "They speak of the birth some five months off, and the rite to greet their demon then.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Three voices came through the walls: her mother's, close and soft, and a man's and a woman's.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
+    },
+    {
+      fact: "The man did most of the talking, slow and pleased; the woman cut in now and then, short and dry.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
+    },
+    {
+      fact: "Not one word the voices spoke was English, and Nala didn't know their language.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
+    },
+    {
+      fact: "One word came back again and again in the voices' talk: kerith.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
+    },
+    {
+      fact: "Nala caught the shape and mood of the talk, never its sense.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
+    },
+    {
+      fact: "The talk stopped, all three voices at once, and the man's hand stayed pressing in.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
+    },
   ],
   createdAt: "2026-10-30T16:36:03.198Z",
-  updatedAt: "2026-10-30T16:47:46.340Z",
+  updatedAt: "2026-10-30T17:08:47.933Z",
 } as const satisfies Place

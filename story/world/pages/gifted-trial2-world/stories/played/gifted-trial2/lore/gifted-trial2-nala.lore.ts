@@ -197,7 +197,11 @@ export const giftedTrial2Nala = {
       fact: "Her Path of Basic Numeracy reached Tier 4, and her window showed Mental +1 again.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
     },
+    {
+      fact: "Listening to the voices, her window showed a new Path: Path of Eavesdropping.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
+    },
   ],
   createdAt: "2026-10-30T16:36:03.198Z",
-  updatedAt: "2026-10-30T16:36:03.198Z",
+  updatedAt: "2026-10-30T17:08:47.933Z",
 } as const satisfies Lore
