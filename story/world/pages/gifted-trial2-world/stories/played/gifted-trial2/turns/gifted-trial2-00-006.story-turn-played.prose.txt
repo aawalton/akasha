@@ -7,3 +7,7 @@ You listen for English and don't hear a word of it. The sounds run together in a
 But one word keeps coming back. The man says it, then your mother, then the man again, the same two sounds each time. Kerith.
 
 The rest slips past you. You can follow the shape of the talk, when a question goes up at its end and when an answer comes down flat, and you can tell they are pleased with something. What any of it means, you can't tell at all.
+
+:::skill
+name: Path of Eavesdropping
+:::

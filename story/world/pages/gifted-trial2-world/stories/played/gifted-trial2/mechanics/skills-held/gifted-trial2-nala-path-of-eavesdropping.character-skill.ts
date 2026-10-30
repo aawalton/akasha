@@ -7,9 +7,9 @@ export const giftedTrial2NalaPathOfEavesdropping = {
   world: "world/gifted-trial2-world",
   character: "character-player/gifted-trial2-nala",
   skill: "world-skill/gifted-trial2-world-path-of-eavesdropping",
-  experience: 0,
-  unrevealed: true,
+  experience: 5,
+  unrevealed: false,
   attribute: "metric-character-stat/gifted-trial2-nala-mental",
   createdAt: "2026-10-30T16:36:03.198Z",
-  updatedAt: "2026-10-30T16:36:03.198Z",
+  updatedAt: "2026-10-30T17:02:46.385Z",
 } as const satisfies CharacterSkill
