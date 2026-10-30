@@ -5,9 +5,9 @@ export const nbPlays = {
   type: "page-type/number-property",
   slug: "nb-plays",
   propertySlug: "nb-plays",
-  definition: "how many times a puzzle was played",
+  definition: "the number of times the players play a puzzle",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T15:12:28.324Z",
 } as const satisfies NumberProperty
