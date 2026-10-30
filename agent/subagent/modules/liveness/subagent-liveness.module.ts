@@ -4,7 +4,7 @@ export const subagentLiveness = {
   id: "01a095c9-cdd5-7d0e-9723-b8cd507adbe8",
   type: "page-type/module",
   slug: "subagent-liveness",
-  definition: "what a seat's transcript says of whether a subagent is still running",
+  definition: "what the transcript of a seat shows about whether a subagent is working",
   code: "ts",
   test: "ts",
   decisions: [
@@ -100,5 +100,5 @@ export const subagentLiveness = {
     },
   ],
   createdAt: "2026-09-12T13:23:45.749Z",
-  updatedAt: "2026-10-04T16:34:55.000Z",
+  updatedAt: "2026-10-30T14:42:14.972Z",
 } as const satisfies Module
