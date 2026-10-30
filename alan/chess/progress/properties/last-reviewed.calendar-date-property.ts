@@ -5,8 +5,8 @@ export const lastReviewed = {
   type: "page-type/calendar-date-property",
   slug: "last-reviewed",
   propertySlug: "last-reviewed",
-  definition: "the day Alan last looked at a part of his chess",
+  definition: "the last day a part of Alan's chess was studied",
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-22T13:47:07.000Z",
+  updatedAt: "2026-10-30T16:23:03.553Z",
 } as const satisfies CalendarDateProperty
