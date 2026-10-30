@@ -4,7 +4,7 @@ export const royalRoadStories = {
   id: "01a0e98e-6a22-7780-b98d-486a37054265",
   type: "page-type/module",
   slug: "royal-road-stories",
-  definition: "the story pages the Royal Road sync reads, restates and makes",
+  definition: "how code writes a story page from Royal Road",
   code: "ts",
   test: "ts",
   decisions: [
@@ -99,5 +99,5 @@ export const royalRoadStories = {
     },
   ],
   createdAt: "2026-09-28T19:46:59.746Z",
-  updatedAt: "2026-10-25T09:55:18.795Z",
+  updatedAt: "2026-10-30T15:22:19.757Z",
 } as const satisfies Module
