@@ -4,7 +4,7 @@ export const introSkipping = {
   id: "01a1891d-850f-73d3-98bd-0781d7d5b89a",
   type: "page-type/module",
   slug: "intro-skipping",
-  definition: "the skip button a streaming page shows, pressed as it appears",
+  definition: "how code uses each button that skips a part of a video a streaming service plays",
   code: "ts",
   test: "ts",
   runsInABrowser: true,
@@ -36,5 +36,5 @@ export const introSkipping = {
     },
   ],
   createdAt: "2026-10-29T19:22:55.630Z",
-  updatedAt: "2026-10-29T19:43:08.608Z",
+  updatedAt: "2026-10-30T15:25:33.745Z",
 } as const satisfies Module
