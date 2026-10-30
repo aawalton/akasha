@@ -5,9 +5,9 @@ export const parentStatement = {
   type: "page-type/relation-property",
   slug: "parent-statement",
   propertySlug: "parent-statement",
-  definition: "this statement's parent statement",
+  definition: "the identity statement above an identity statement",
   targetPageType: "page-type/identity-statement",
   types: "ts",
   createdAt: "2026-09-03T04:32:47.519Z",
-  updatedAt: "2026-09-22T13:45:29.000Z",
+  updatedAt: "2026-10-30T16:34:33.412Z",
 } as const satisfies RelationProperty
