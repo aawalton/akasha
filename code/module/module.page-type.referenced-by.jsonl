@@ -495,6 +495,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/chess/modules/game/chess-game.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/chess/modules/maia/chess-maia.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/chess/modules/move-list/chess-move-list.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/chess/modules/pgn/chess-pgn.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/chess/modules/position/chess-position.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/chess/modules/puzzle-lichess/chess-puzzle-lichess.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/chess/modules/state/chess-state.module.ts","typed":true,"deferred":false}

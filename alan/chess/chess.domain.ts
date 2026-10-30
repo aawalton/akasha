@@ -16,6 +16,7 @@ export const chess = {
     "module/chess-game-record",
     "module/chess-maia",
     "module/chess-move-list",
+    "module/chess-pgn",
     "module/chess-position",
     "module/chess-puzzle-lichess",
     "module/chess-state",
@@ -27,5 +28,5 @@ export const chess = {
     "stylesheet/chess-board-look",
   ],
   createdAt: "2026-09-01T07:31:59.367Z",
-  updatedAt: "2026-09-24T17:57:07.000Z",
+  updatedAt: "2026-10-30T15:30:34.801Z",
 } as const satisfies Domain

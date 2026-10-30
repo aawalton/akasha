@@ -1,5 +1,4 @@
 import {
-  buildPgn,
   detectTerminal,
   type GameEndReason,
   type GamePly,
@@ -10,8 +9,8 @@ import {
   resignationVerdict,
   type TerminalVerdict,
   type Winner,
-  winnerToResult,
 } from "akasha/alan/chess/modules/game/chess-game.module.code.ts"
+import { buildPgn, winnerToResult } from "akasha/alan/chess/modules/pgn/chess-pgn.module.code.ts"
 import type { PositionStatus } from "akasha/alan/chess/modules/position/chess-position.module.code.ts"
 import { fenSideToMove } from "akasha/alan/chess/modules/uci/chess-uci.module.code.ts"
 
