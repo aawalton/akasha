@@ -4,7 +4,7 @@ export const costStoplight = {
   id: "01a08baf-2d7b-7409-962f-a47157e07198",
   type: "page-type/module",
   slug: "cost-stoplight",
-  definition: "the cost answered as a stoplight, colored with the surplus in hours",
+  definition: "how code responds with a stoplight for each cost readout",
   code: "ts",
   test: "ts",
   decisions: [
@@ -164,5 +164,5 @@ export const costStoplight = {
     },
   ],
   createdAt: "2026-09-10T14:18:28.603Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-30T15:35:09.519Z",
 } as const satisfies Module
