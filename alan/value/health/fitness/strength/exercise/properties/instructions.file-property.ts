@@ -5,9 +5,9 @@ export const instructions = {
   type: "page-type/file-property",
   slug: "instructions",
   propertySlug: "instructions",
-  definition: "how a movement is performed, step by step",
+  definition: "the steps a person takes to do a strength exercise",
   extensions: ["txt"],
   types: "ts",
   createdAt: "2026-09-03T04:19:22.688Z",
-  updatedAt: "2026-09-15T16:56:11.000Z",
+  updatedAt: "2026-10-30T16:44:36.125Z",
 } as const satisfies FileProperty
