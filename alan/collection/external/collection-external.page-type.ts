@@ -4,7 +4,7 @@ export const collectionExternal = {
   id: "01a063de-2c60-701b-ab74-7e3436f4abe3",
   type: "page-type/page-type",
   slug: "collection-external",
-  definition: "a collection recorded by a provider outside akasha",
+  definition: "a collection that is held outside akasha",
   parts: [
     "calendar-date-property/last-synced-at",
     "module/external-identity-reading",
@@ -39,5 +39,5 @@ export const collectionExternal = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T20:44:59.872Z",
-  updatedAt: "2026-09-22T13:47:07.000Z",
+  updatedAt: "2026-10-30T15:15:07.106Z",
 } as const satisfies PageType
