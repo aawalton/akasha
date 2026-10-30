@@ -8,7 +8,7 @@ export const infiniteArchiveWeeklyLeaderboard = {
   displayOrder: 14,
   esoCharacterId: "8796093022338107",
   character: "temper-account-character/erin-solstice",
-  dueDate: "2026-10-27",
+  dueDate: "2026-11-03",
   rruleRule: "FREQ=WEEKLY;BYDAY=TU",
   rruleAnchorFromCompletion: false,
   accountPage: "temper-account/alanarre",
@@ -16,7 +16,7 @@ export const infiniteArchiveWeeklyLeaderboard = {
   priority: "p2",
   leaderboardActivity: ["endless-dungeon"],
   effectiveCharacter: "temper-account-character/erin-solstice",
-  lastCompletedAt: "2026-10-25T23:54:52.095Z",
+  lastCompletedAt: "2026-10-30T13:50:43.787Z",
   createdAt: "2026-04-22T12:39:34.017Z",
-  updatedAt: "2026-10-29T19:50:24.636Z",
+  updatedAt: "2026-10-30T13:50:44.142Z",
 } as const satisfies TemperTask
