@@ -107,7 +107,11 @@ export const seatStopping = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A process is the agent's own where the process command line names a supervisor or a client.",
+        "A process is the agent's own where it is a client, or bun running the supervisor or its proxy.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The supervisor and its proxy are read off the paths a seat is launched from.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -119,5 +123,5 @@ export const seatStopping = {
     },
   ],
   createdAt: "2026-09-01T12:47:22.267Z",
-  updatedAt: "2026-10-30T14:36:09.495Z",
+  updatedAt: "2026-10-30T20:25:42.914Z",
 } as const satisfies Module

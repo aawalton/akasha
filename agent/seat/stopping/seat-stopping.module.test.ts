@@ -4,6 +4,10 @@ import { join } from "node:path"
 import { readingIn, recordRead } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { agentPaged } from "akasha/agent/modules/read-record/read-record.module.test-fixtures.ts"
 import {
+  ptyProxyRel,
+  supervisorRel,
+} from "akasha/agent/seat/launching/modules/seat-entry-paths/seat-entry-paths.module.code.ts"
+import {
   isAgentProcess,
   killTarget,
   moving,
@@ -132,14 +136,38 @@ test("force stops a live seat with subagents working", () => {
   ).toEqual({ kind: "allow" })
 })
 
-test("a supervisor and a client are the agent's own processes", () => {
-  expect(isAgentProcess("/usr/bin/bun /repo/tools/supervisor.ts --name athena")).toBe(true)
+const REPO = "/var/home/walton/repos/akasha"
+
+test("a supervisor the bun on the path runs is the agent's own process", () => {
+  expect(
+    isAgentProcess(
+      `/var/home/walton/.bun/bin/bun ${REPO}/${supervisorRel()} -a aawalton ` +
+        "--agent-id 01a17e8c-f01b-764a-b33e-8c55826ca631 --resume"
+    )
+  ).toBe(true)
+})
+
+test("the proxy carrying a supervisor is the agent's own process", () => {
+  expect(
+    isAgentProcess(
+      `bun run ${REPO}/${ptyProxyRel()} -- bun run ${REPO}/${supervisorRel()} -a aawalton`
+    )
+  ).toBe(true)
+})
+
+test("a supervisor bun runs by its path relative to the checkout is the agent's own", () => {
+  expect(isAgentProcess(`bun run ${supervisorRel()} -a aawalton`)).toBe(true)
+})
+
+test("a client is the agent's own process", () => {
   expect(isAgentProcess("claude --dangerously-skip-permissions --model opus")).toBe(true)
 })
 
 test("a process that is neither is not signalled for the seat", () => {
   expect(isAgentProcess("bun /repo/tools/seat-call.ts")).toBe(false)
   expect(isAgentProcess("tmux new-session -d -s athena")).toBe(false)
+  expect(isAgentProcess(`rg run-supervisor ${REPO}/${supervisorRel()}`)).toBe(false)
+  expect(isAgentProcess(`bun test ${REPO}/${supervisorRel()}`)).toBe(false)
 })
 
 test("a seat whose processes all ended is not said to be up", () => {

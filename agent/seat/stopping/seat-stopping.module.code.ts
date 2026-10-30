@@ -1,7 +1,12 @@
 import { existsSync } from "node:fs"
-import { join } from "node:path"
+import { basename, join } from "node:path"
 import { messagesTo } from "akasha/agent/message/modules/file/agent-message-file.module.code.ts"
+import { isClaudeChildCmdline } from "akasha/agent/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import { dropReadings } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import {
+  ptyProxyRel,
+  supervisorRel,
+} from "akasha/agent/seat/launching/modules/seat-entry-paths/seat-entry-paths.module.code.ts"
 import {
   seatPathForName,
   supervisorAlive,
@@ -43,12 +48,23 @@ const PRINCIPAL = "principalSeatName"
 
 const DISPATCHED = "dispatchedAs"
 
-const CLIENT = /\bclaude\b.*--dangerously-skip-permissions/
+const BUN = "bun"
 
-const SUPERVISOR = /^(?:\S*\/)?bun\b.*supervisor\.ts/
+const RUN = "run"
+
+function runsEntry(cmdline: string, entry: string): boolean {
+  const [command, ...rest] = cmdline.split(" ")
+  if (command === undefined || basename(command) !== BUN) return false
+  const script = rest[0] === RUN ? rest[1] : rest[0]
+  return script === entry || (script?.endsWith(`/${entry}`) ?? false)
+}
 
 export function isAgentProcess(cmdline: string): boolean {
-  return CLIENT.test(cmdline) || SUPERVISOR.test(cmdline)
+  return (
+    isClaudeChildCmdline(cmdline) ||
+    runsEntry(cmdline, supervisorRel()) ||
+    runsEntry(cmdline, ptyProxyRel())
+  )
 }
 
 type KillTarget =
