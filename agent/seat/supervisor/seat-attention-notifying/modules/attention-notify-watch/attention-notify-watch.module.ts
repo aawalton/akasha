@@ -4,7 +4,7 @@ export const attentionNotifyWatch = {
   id: "01a183e4-11f8-75e1-84e6-3da7555edc65",
   type: "page-type/module",
   slug: "attention-notify-watch",
-  definition: "a persona seat turning red or yellow shown on the desktop",
+  definition: "how code shows a notification when a persona seat waits",
   code: "ts",
   test: "ts",
   decisions: [
@@ -52,5 +52,5 @@ export const attentionNotifyWatch = {
     },
   ],
   createdAt: "2026-10-28T19:02:04.535Z",
-  updatedAt: "2026-10-28T19:10:24.299Z",
+  updatedAt: "2026-10-30T14:43:35.966Z",
 } as const satisfies Module
