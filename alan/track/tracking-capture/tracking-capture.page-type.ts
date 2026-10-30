@@ -4,7 +4,7 @@ export const trackingCapture = {
   id: "01a06827-ec0b-7fa8-bb0a-ae697d6c6a9e",
   type: "page-type/page-type",
   slug: "tracking-capture",
-  definition: "how something Alan did comes to be an entry",
+  definition: "how a tracking field takes its values",
   extends: ["page-type/domain"],
   parts: [
     "tracking-capture/judgment",
@@ -64,5 +64,5 @@ export const trackingCapture = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:44:01.931Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:50:56.686Z",
 } as const satisfies PageType
