@@ -5,7 +5,7 @@ export const turnState = {
   type: "page-type/computed-property",
   slug: "turn-state",
   propertySlug: "turn-state",
-  definition: "the state a seat's turn is in",
+  definition: "what a seat is doing",
   holds: "relation",
   targetPageType: "page-type/seat-turn-state",
   code: "ts",
@@ -22,5 +22,5 @@ export const turnState = {
   ],
   types: "ts",
   createdAt: "2026-09-25T13:55:15.264Z",
-  updatedAt: "2026-09-25T13:55:23.000Z",
+  updatedAt: "2026-10-30T14:37:51.209Z",
 } as const satisfies ComputedProperty
