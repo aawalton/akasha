@@ -40,7 +40,7 @@ export const readoutScale = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A scale is named by the readings drawn against that scale and belongs to no reading.",
+        "A scale is named by the numbers shown against that scale and belongs to no readout.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -62,5 +62,5 @@ export const readoutScale = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T20:05:28.031Z",
-  updatedAt: "2026-10-30T16:17:02.316Z",
+  updatedAt: "2026-10-30T17:24:19.133Z",
 } as const satisfies PageType
