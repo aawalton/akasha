@@ -4,7 +4,7 @@ export const costReading = {
   id: "01a08b9c-abbc-7be3-b86c-29165739234a",
   type: "page-type/module",
   slug: "cost-reading",
-  definition: "the cost of Alan's open block, taken and kept on the cost readout",
+  definition: "how code keeps the cost of Alan's current block on the cost readout",
   code: "ts",
   decisions: [
     {
@@ -53,5 +53,5 @@ export const costReading = {
     },
   ],
   createdAt: "2026-09-10T13:58:15.740Z",
-  updatedAt: "2026-09-25T17:30:04.000Z",
+  updatedAt: "2026-10-30T15:34:50.716Z",
 } as const satisfies Module
