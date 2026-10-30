@@ -7,7 +7,7 @@ export const renameSpellings = {
   changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content",
-  definition: "a spelling renamed in every file under a folder, whatever kind of file that is",
+  definition: "a change that replaces words with other words in every text file under a folder",
   code: "ts",
   test: "ts",
   decisions: [
@@ -88,5 +88,5 @@ export const renameSpellings = {
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
   createdAt: "2026-09-22T01:03:57.264Z",
-  updatedAt: "2026-09-22T01:06:55.000Z",
+  updatedAt: "2026-10-30T17:05:38.221Z",
 } as const satisfies ChangeAgent
