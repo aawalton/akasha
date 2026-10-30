@@ -4,7 +4,7 @@ export const couplesCallRoom = {
   id: "01a16fae-6059-7fab-b175-27c35a114472",
   type: "page-type/module",
   slug: "couples-call-room",
-  definition: "the call that joins Alan's phone, Jenny's phone and the live-model therapist",
+  definition: "how code brings the model and each spouse's phone into a couples call",
   code: "ts",
   test: "ts",
   decisions: [
@@ -70,5 +70,5 @@ export const couplesCallRoom = {
     },
   ],
   createdAt: "2026-10-24T20:51:01.335Z",
-  updatedAt: "2026-10-25T21:30:55.476Z",
+  updatedAt: "2026-10-30T15:29:58.138Z",
 } as const satisfies Module
