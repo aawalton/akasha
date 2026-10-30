@@ -7,7 +7,8 @@ export const unquoteTextOnEveryPage = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
-  definition: "text held inside quote marks written as the text the quotes spell, on every page",
+  definition:
+    "a change that removes the quotation marks from the text of a property on every page of a page type",
   takesAtMost: true,
   code: "ts",
   decisions: [
@@ -37,5 +38,5 @@ export const unquoteTextOnEveryPage = {
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
   createdAt: "2026-09-27T06:24:32.270Z",
-  updatedAt: "2026-09-27T06:25:17.000Z",
+  updatedAt: "2026-10-30T17:12:22.189Z",
 } as const satisfies ChangeAgent
