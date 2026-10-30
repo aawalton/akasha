@@ -4,7 +4,7 @@ export const monarchUnreviewedTransactions = {
   id: "01a053aa-fc5a-7708-b1fb-780b2ca58893",
   type: "page-type/readout",
   slug: "monarch-unreviewed-transactions",
-  definition: "how many transactions are unreviewed",
+  definition: "how many Monarch transactions wait for a person",
   reading: {},
   label: "Unreviewed",
   unit: "transactions",
@@ -61,5 +61,5 @@ export const monarchUnreviewedTransactions = {
   ],
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   createdAt: "2026-08-30T17:15:09.786Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-30T15:49:19.294Z",
 } as const satisfies Readout
