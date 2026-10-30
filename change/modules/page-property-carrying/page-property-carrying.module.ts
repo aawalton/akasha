@@ -4,7 +4,7 @@ export const pagePropertyCarrying = {
   id: "01a09c81-2511-7a94-a723-347861af2d7a",
   type: "page-type/module",
   slug: "page-property-carrying",
-  definition: "which pages carry a page property's values, and which files beside them hold them",
+  definition: "how code finds the pages and files that hold the values of a page property",
   code: "ts",
   test: "ts",
   decisions: [
@@ -75,5 +75,5 @@ export const pagePropertyCarrying = {
     },
   ],
   createdAt: "2026-09-13T20:41:44.465Z",
-  updatedAt: "2026-09-15T18:21:01.000Z",
+  updatedAt: "2026-10-30T17:20:08.542Z",
 } as const satisfies Module
