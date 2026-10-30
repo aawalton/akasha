@@ -7,9 +7,10 @@ export const giftedTrial200006 = {
   unit: "unit/words",
   partOfCollections: ["story-played/gifted-trial2"],
   position: 6,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I hold very still and strain to make out what the low voices beyond the walls are saying.",
+  lore: ["place/gifted-trial2-world-womb"],
   createdAt: "2026-10-30T16:43:59.978Z",
-  updatedAt: "2026-10-30T16:43:59.978Z",
+  updatedAt: "2026-10-30T16:47:58.686Z",
 } as const satisfies StoryTurnPlayed
