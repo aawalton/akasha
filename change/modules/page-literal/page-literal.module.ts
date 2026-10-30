@@ -4,7 +4,7 @@ export const pageLiteral = {
   id: "01a07958-2f4f-7bd9-b5c2-d794c5150eb9",
   type: "page-type/module",
   slug: "page-literal",
-  definition: "what the parser reads of the object a page's body exports",
+  definition: "how code reads a page's values from its body",
   code: "ts",
   test: "ts",
   decisions: [
@@ -133,5 +133,5 @@ export const pageLiteral = {
     },
   ],
   createdAt: "2026-09-07T00:50:17.551Z",
-  updatedAt: "2026-09-29T02:28:20.000Z",
+  updatedAt: "2026-10-30T17:19:41.046Z",
 } as const satisfies Module
