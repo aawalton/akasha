@@ -96,7 +96,15 @@ export const giftedPolishWorldWomb = {
       fact: "The deep voices moved off talking low, a door thudded, and the woman above began to hum.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
     },
+    {
+      fact: "From now on, the leader with the deep voice says 'Sa-vo-reth' over the belly each morning.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The unborn body can open its mouth and work its tongue, but it makes no sound in the womb.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-30T18:34:02.178Z",
-  updatedAt: "2026-10-30T19:08:54.886Z",
+  updatedAt: "2026-10-30T19:29:28.276Z",
 } as const satisfies Place
