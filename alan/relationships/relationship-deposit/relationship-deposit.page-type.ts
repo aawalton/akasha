@@ -5,6 +5,10 @@ export const relationshipDeposit = {
   type: "page-type/page-type",
   slug: "relationship-deposit",
   definition: "a thing Alan did that put something into a relationship",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "relationship deposit" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "relationship deposits" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "calendar-date-property/relationship-deposit-date",
@@ -50,5 +54,5 @@ export const relationshipDeposit = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:35:40.348Z",
-  updatedAt: "2026-09-25T13:01:00.000Z",
+  updatedAt: "2026-10-30T16:22:16.344Z",
 } as const satisfies PageType
