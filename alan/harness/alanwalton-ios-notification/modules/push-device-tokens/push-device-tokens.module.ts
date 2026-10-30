@@ -4,7 +4,7 @@ export const pushDeviceTokens = {
   id: "01a069b6-bb6b-79f2-adbe-d2024ad66374",
   type: "page-type/module",
   slug: "push-device-tokens",
-  definition: "the devices a person is pushed at, read through this workstation's own service",
+  definition: "how code reads the devices of a person from a service the workstation runs",
   code: "ts",
   decisions: [
     {
@@ -33,5 +33,5 @@ export const pushDeviceTokens = {
     },
   ],
   createdAt: "2026-09-03T23:59:38.347Z",
-  updatedAt: "2026-10-18T13:24:10.292Z",
+  updatedAt: "2026-10-30T16:22:57.945Z",
 } as const satisfies Module
