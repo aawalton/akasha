@@ -4,7 +4,7 @@ export const attributeEndurance = {
   id: "01a06838-945f-7ac6-b3a4-411fa111e195",
   type: "page-type/readout",
   slug: "attribute-endurance",
-  definition: "the points Alan earned on a day for the calories he burned moving",
+  definition: "the points Alan earns on a day for how Alan moves his body",
   label: "END",
   unit: "points",
   scale: "readout-scale/attribute-points",
@@ -44,5 +44,5 @@ export const attributeEndurance = {
   carriedTo: ["router-app/alan-web"],
   madeFrom: "day-row",
   createdAt: "2026-09-03T17:02:13.599Z",
-  updatedAt: "2026-10-20T11:10:21.943Z",
+  updatedAt: "2026-10-30T14:51:07.505Z",
 } as const satisfies Readout
