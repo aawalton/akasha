@@ -4,7 +4,7 @@ export const routerAppServing = {
   id: "01a0c553-29bb-7ff4-8e78-95ff8d8a042e",
   type: "page-type/module",
   slug: "router-app-serving",
-  definition: "how a router app answers a request, and who the request's reader is",
+  definition: "how a router app responds to a request",
   code: "ts",
   test: "ts",
   decisions: [
@@ -79,5 +79,5 @@ export const routerAppServing = {
     },
   ],
   createdAt: "2026-09-21T18:55:56.859Z",
-  updatedAt: "2026-10-24T23:00:24.852Z",
+  updatedAt: "2026-10-30T15:36:29.031Z",
 } as const satisfies Module
