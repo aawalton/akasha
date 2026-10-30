@@ -4,7 +4,7 @@ export const committedPageHolding = {
   id: "01a0d9bd-4dd6-72a2-bb76-f3ecaf808ed4",
   type: "page-type/module",
   slug: "committed-page-holding",
-  definition: "what each page last gave the commit watcher's pictures, held between redraws",
+  definition: "what code keeps from each page between commits",
   code: "ts",
   decisions: [
     {
@@ -83,5 +83,5 @@ export const committedPageHolding = {
     },
   ],
   createdAt: "2026-09-25T18:04:17.238Z",
-  updatedAt: "2026-10-30T14:57:35.245Z",
+  updatedAt: "2026-10-30T15:41:30.046Z",
 } as const satisfies Module
