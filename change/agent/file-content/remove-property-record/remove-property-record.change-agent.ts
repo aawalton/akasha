@@ -7,7 +7,7 @@ export const removePropertyRecord = {
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
-  definition: "a record taken out of a page property, judged by the checks a landing runs",
+  definition: "a change that removes a value from a record property of a page",
   code: "ts",
   test: "ts",
   decisions: [
@@ -41,5 +41,5 @@ export const removePropertyRecord = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-09-08T16:51:47.562Z",
-  updatedAt: "2026-09-22T10:08:09.000Z",
+  updatedAt: "2026-10-30T17:04:02.838Z",
 } as const satisfies ChangeAgent
