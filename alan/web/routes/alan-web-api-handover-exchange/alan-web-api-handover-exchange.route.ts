@@ -4,7 +4,7 @@ export const alanWebApiHandoverExchange = {
   id: "01a0bc7e-8f2d-7d79-ae15-766dd0ad377c",
   type: "page-type/route",
   slug: "alan-web-api-handover-exchange",
-  definition: "the trade of a code and the secret it names for this site's own session",
+  definition: "the sign-in session alanwalton.com gives the iOS app for a code",
   code: "ts",
   urlPath: "api/handover/exchange",
   decisions: [
@@ -30,5 +30,5 @@ export const alanWebApiHandoverExchange = {
     },
   ],
   createdAt: "2026-09-20T01:46:45.933Z",
-  updatedAt: "2026-09-20T01:48:09.000Z",
+  updatedAt: "2026-10-30T16:07:29.442Z",
 } as const satisfies Route
