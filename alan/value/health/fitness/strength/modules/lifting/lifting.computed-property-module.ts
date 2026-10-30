@@ -10,11 +10,12 @@ export const lifting = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "One arithmetic answers what a set moved, wherever that answer is wanted.",
+      statement:
+        "One arithmetic answers what an exercise set moved, wherever that answer is wanted.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A set is worth the load it moves once for each rep.",
+      statement: "An exercise set is worth the load it moves once for each rep.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -26,7 +27,8 @@ export const lifting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An assisted set's load is that share less the weight once for each implement.",
+      statement:
+        "An assisted exercise set's load is that share less the weight once for each implement.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -34,5 +36,5 @@ export const lifting = {
     },
   ],
   createdAt: "2026-09-21T13:38:42.309Z",
-  updatedAt: "2026-10-30T17:12:32.584Z",
+  updatedAt: "2026-10-30T17:23:30.154Z",
 } as const satisfies ComputedPropertyModule
