@@ -5,10 +5,10 @@ export const puzzleThemes = {
   type: "page-type/text-property",
   slug: "puzzle-themes",
   propertySlug: "themes",
-  definition: "the motif a puzzle is built around",
+  definition: "a word that describes a puzzle",
   maxLength: 50,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:09:11.276Z",
 } as const satisfies TextProperty
