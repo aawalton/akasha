@@ -26,6 +26,10 @@ export const actionBarAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A one-seat game's turn made is told to its game master seat alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A turn made waiting on the memory of the turn before is told to no seat yet.",
     },
     {
@@ -93,5 +97,5 @@ export const actionBarAnswering = {
     },
   ],
   createdAt: "2026-09-24T17:47:09.572Z",
-  updatedAt: "2026-10-27T22:10:37.219Z",
+  updatedAt: "2026-10-30T12:22:42.764Z",
 } as const satisfies Module

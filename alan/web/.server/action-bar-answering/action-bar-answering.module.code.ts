@@ -36,7 +36,10 @@ import {
   type TurnMade,
   turnMadeFor,
 } from "akasha/story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts"
-import { noticedOf } from "akasha/story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts"
+import {
+  noticedOf,
+  oneSeatOf,
+} from "akasha/story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts"
 
 const CORS_METHODS = "GET, POST, OPTIONS"
 
@@ -47,6 +50,8 @@ const SEAT_PAGE_TYPE_SLUG = "seat"
 const EXTERNAL_ID = "externalId"
 
 const COORDINATOR_AGENT = "coordinatorAgent"
+
+const TURN_SEATING = "turnSeating"
 
 const SLUG = "slug"
 
@@ -87,6 +92,7 @@ type GameSeat =
       readonly seat: string
       readonly game: string
       readonly person: string | null
+      readonly oneSeat?: true
     }
   | { readonly kind: "no-game" }
   | { readonly kind: "no-seat" }
@@ -114,7 +120,7 @@ async function seatOfGame(gameExternalId: string): Promise<GameSeat> {
   const games = await askingFor({
     pageTypeSlug: GAME_PAGE_TYPE_SLUG,
     where: { [EXTERNAL_ID]: { is: gameExternalId } },
-    keys: [SLUG, EXTERNAL_ID, COORDINATOR_AGENT],
+    keys: [SLUG, EXTERNAL_ID, COORDINATOR_AGENT, TURN_SEATING],
   })
   if ("refused" in games) return { kind: "unread", why: games.refused }
   const game = games.rows[0]
@@ -128,13 +134,20 @@ async function seatOfGame(gameExternalId: string): Promise<GameSeat> {
     keys: [SLUG, PERSONS],
   })
   if ("refused" in seats) return { kind: "unread", why: seats.refused }
-  return gameSeatHeld(seat, slug, seats.rows[0])
+  return gameSeatHeld(seat, slug, seats.rows[0], oneSeatOf(game))
 }
 
-export function gameSeatHeld(seat: string, game: string, held: Row | undefined): GameSeat {
-  if (held === undefined) return { kind: "seated", seat, game, person: ACTION_BAR_PLAYER }
+export function gameSeatHeld(
+  seat: string,
+  game: string,
+  held: Row | undefined,
+  oneSeat = false
+): GameSeat {
+  const alone = oneSeat ? { oneSeat: true as const } : {}
+  if (held === undefined) return { kind: "seated", seat, game, person: ACTION_BAR_PLAYER, ...alone }
   const [person] = stringsIn(held[PERSONS])
-  return { kind: "seated", seat, game, person: person === undefined ? null : slugOf(person) }
+  const of = person === undefined ? null : slugOf(person)
+  return { kind: "seated", seat, game, person: of, ...alone }
 }
 
 async function draftAsked(game: string): Promise<string | null> {
@@ -186,9 +199,9 @@ export function answerFor(request: Request): Answer {
   return (body, status) => Response.json(body, { status, headers: withCors(new Headers(), cors) })
 }
 
-type Gate =
-  | { readonly ok: true; readonly seat: string; readonly game: string }
-  | { readonly ok: false; readonly answered: Response }
+type Gated = { readonly seat: string; readonly game: string; readonly oneSeat: boolean }
+
+type Gate = ({ readonly ok: true } & Gated) | { readonly ok: false; readonly answered: Response }
 
 export type Gating = Pick<ActionBarEffects, "signedIn" | "enrol" | "seatOf">
 
@@ -212,7 +225,7 @@ export async function gateFor(
   if (!enrolled.ok)
     return refuse(enrolled.unread ? NOT_LISTENING : NOT_THE_PLAYER, enrolled.unread ? 503 : 403)
   if (seated.person !== enrolled.personSlug) return refuse(NOT_THE_PLAYER, 403)
-  return { ok: true, seat: seated.seat, game: seated.game }
+  return { ok: true, seat: seated.seat, game: seated.game, oneSeat: seated.oneSeat === true }
 }
 
 export function actionIn(body: unknown): { readonly game: string; readonly text: string } | null {
@@ -243,11 +256,11 @@ async function writtenBy(effects: ActionBarEffects, stated: Stated): Promise<Wri
 
 async function turnMade(
   effects: ActionBarEffects,
-  seat: string,
-  game: string,
+  gated: Gated,
   text: string,
   answer: Answer
 ): Promise<Response> {
+  const { game } = gated
   let made: TurnMade
   try {
     made = await effects.make(game, text)
@@ -259,20 +272,20 @@ async function turnMade(
     console.error(`a turn of ${game} was not made: ${made.why}`)
     return answer({ ok: false, error: NOT_LISTENING }, 503)
   }
-  if (made.waits !== true) void toldOfTurn(effects, seat, game, made)
+  if (made.waits !== true) void toldOfTurn(effects, gated, made)
   return answer({ ok: true, id: made.slug }, 200)
 }
 
 async function toldOfTurn(
   effects: ActionBarEffects,
-  seat: string,
-  game: string,
+  gated: Gated,
   made: { readonly slug: string; readonly at: string; readonly roleplayed: boolean }
 ): Promise<void> {
+  const { seat } = gated
   const body = noticeOf(made.at, WORLD_BUILDER)
   const checked = `${body}${NEWLINE}${NEWLINE}${PROSE_CHECK}`
   await Promise.all(
-    noticedOf(seat, game).map(async (to) => {
+    noticedOf(seat, gated.game, gated.oneSeat).map(async (to) => {
       const told = await writtenBy(effects, {
         to,
         from: STEP_SENDER,
@@ -297,7 +310,7 @@ export async function answerActionBar(
   const gate = await gateFor(effects, request, asked.game, answer)
   if (!gate.ok) return gate.answered
   console.info(SENT_BY_LOG, sentBySaid(gate.game, asked.text, body))
-  const sent = await turnMade(effects, gate.seat, gate.game, asked.text, answer)
+  const sent = await turnMade(effects, gate, asked.text, answer)
   if (sent.ok) await draftSent(effects, gate.game)
   return sent
 }

@@ -171,6 +171,22 @@ test("an action makes the game's next turn and tells every game seat, starting a
   ])
 })
 
+test("a one-seat game's turn is told to its game master seat alone", async () => {
+  expect(gameSeatHeld(SEAT, GAME, undefined, true)).toEqual({
+    kind: "seated",
+    seat: SEAT,
+    game: GAME,
+    person: ACTION_BAR_PLAYER,
+    oneSeat: true,
+  })
+  const { effects, written } = effectsWith({
+    seatOf: async () => gameSeatHeld(MASTER, GAME, undefined, true),
+  })
+  await answerActionBar(asked({ gameExternalId: GAME, text: "I wait" }), effects)
+  const notice = noticeOf(MADE_AT, "world-builder")
+  expect(written.map((one) => [one.to, one.body])).toEqual([[MASTER, notice]])
+})
+
 test("a roleplayed turn's notice to the game's own seat alone ends with the prose check", async () => {
   const { effects, written } = effectsWith({
     seatOf: async () => gameSeatHeld(MASTER, GAME, undefined),
