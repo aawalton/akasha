@@ -50,9 +50,9 @@ export const giftedTrialWorldWomb = {
     },
     {
       fact: "Curled tight, the body cannot sit up; it can only shift, stretch a little and kick.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial-nala"],
     },
   ],
   createdAt: "2026-10-30T13:47:19.494Z",
-  updatedAt: "2026-10-30T14:13:30.130Z",
+  updatedAt: "2026-10-30T14:20:13.328Z",
 } as const satisfies Place
