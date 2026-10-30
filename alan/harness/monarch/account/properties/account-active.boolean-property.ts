@@ -5,8 +5,8 @@ export const accountActive = {
   type: "page-type/boolean-property",
   slug: "account-active",
   propertySlug: "account-active",
-  definition: "whether Monarch still reads an account",
+  definition: "whether Monarch reads a Monarch account",
   types: "ts",
   createdAt: "2026-09-03T16:11:27.616Z",
-  updatedAt: "2026-09-15T15:59:02.000Z",
+  updatedAt: "2026-10-30T15:41:30.690Z",
 } as const satisfies BooleanProperty
