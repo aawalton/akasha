@@ -4,7 +4,7 @@ export const alanWebApiAsk = {
   id: "01a0c6b7-3bf9-7fd2-9dbc-f7137c263122",
   type: "page-type/route",
   slug: "alan-web-api-ask",
-  definition: "the answer to a question Alan's browser puts to the page store",
+  definition: "the reply of the page store to a question a browser asks",
   code: "ts",
   urlPath: "api/ask",
   decisions: [
@@ -18,5 +18,5 @@ export const alanWebApiAsk = {
     },
   ],
   createdAt: "2026-09-22T01:24:52.345Z",
-  updatedAt: "2026-09-22T01:26:22.000Z",
+  updatedAt: "2026-10-30T17:07:21.290Z",
 } as const satisfies Route
