@@ -5,7 +5,7 @@ export const emailRuleMatchComparison = {
   type: "page-type/select-property",
   slug: "email-rule-match-comparison",
   propertySlug: "comparison",
-  definition: "how a clause weighs a piece of mail against what the clause has",
+  definition: "how a condition compares a part of an email with the values of the condition",
   values: [
     "is",
     "is-not",
@@ -33,5 +33,5 @@ export const emailRuleMatchComparison = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:45:38.719Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:47:40.818Z",
 } as const satisfies SelectProperty
