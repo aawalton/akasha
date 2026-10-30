@@ -4,8 +4,7 @@ export const catalogue = {
   id: "01a06579-f3d9-7001-8e82-d6a75a254ea0",
   type: "page-type/module",
   slug: "catalogue",
-  definition:
-    "the Great Courses programme listing fetched and turned into courses and subject shelves",
+  definition: "how code reads the courses and the topics from the website of The Great Courses",
   code: "ts",
   decisions: [
     {
@@ -30,5 +29,5 @@ export const catalogue = {
     },
   ],
   createdAt: "2026-09-03T04:14:46.233Z",
-  updatedAt: "2026-09-24T13:49:58.000Z",
+  updatedAt: "2026-10-30T15:16:22.349Z",
 } as const satisfies Module
