@@ -17,7 +17,8 @@ export const strengthDecline = {
   decisions: [
     {
       decisionKind: "decision-kind/upkeep",
-      statement: "Every movement Alan turns down reaches a page, as every set Alan performs does.",
+      statement:
+        "Every movement Alan turns down reaches a page, as every exercise set Alan performs does.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -25,5 +26,5 @@ export const strengthDecline = {
     },
   ],
   createdAt: "2026-09-19T00:42:16.919Z",
-  updatedAt: "2026-10-30T16:50:49.367Z",
+  updatedAt: "2026-10-30T17:24:31.273Z",
 } as const satisfies PageType
