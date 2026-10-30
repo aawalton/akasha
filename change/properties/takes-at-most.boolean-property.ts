@@ -5,7 +5,7 @@ export const takesAtMost = {
   type: "page-type/boolean-property",
   slug: "takes-at-most",
   propertySlug: "takes-at-most",
-  definition: "whether a change takes a ceiling on a run's page count",
+  definition: "whether a change takes a limit on how many pages a run changes",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -31,5 +31,5 @@ export const takesAtMost = {
   ],
   types: "ts",
   createdAt: "2026-09-11T19:05:05.054Z",
-  updatedAt: "2026-09-24T16:09:53.000Z",
+  updatedAt: "2026-10-30T17:36:19.821Z",
 } as const satisfies BooleanProperty
