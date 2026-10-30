@@ -4,8 +4,8 @@ export const supervisorPrecliffRestart = {
   id: "01a0687c-0429-7000-a370-c288edd7ec33",
   type: "page-type/module",
   slug: "supervisor-precliff-restart",
-  definition: "watching for the point before a limit where a seat is restarted",
+  definition: "how code watches the hours an agent has run",
   code: "ts",
   createdAt: "2026-09-03T18:15:53.129Z",
-  updatedAt: "2026-09-24T15:55:20.000Z",
+  updatedAt: "2026-10-30T14:45:23.356Z",
 } as const satisfies Module
