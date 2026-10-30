@@ -148,7 +148,31 @@ export const giftedTrial2WorldWomb = {
       fact: "Left alone, her mother laid a smaller hand on her belly, just where the man's hand had been.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
     },
+    {
+      fact: "Alone, her mother murmured to her through the walls in the same language, soft and slow.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
+    },
+    {
+      fact: "Between murmurs her mother hummed a few notes of a low tune at a time.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
+    },
+    {
+      fact: "As her mother talked, her small hand on the belly moved round in slow circles.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
+    },
+    {
+      fact: "Murmuring alone, her mother said kerith too, the same two sounds the man made.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
+    },
+    {
+      fact: "Her mother got up and walked, and the womb swayed with every step.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
+    },
+    {
+      fact: "Through a door her mother went in among dozens of voices talking at once, and clattering bowls.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
+    },
   ],
   createdAt: "2026-10-30T16:36:03.198Z",
-  updatedAt: "2026-10-30T17:27:41.313Z",
+  updatedAt: "2026-10-30T17:38:59.735Z",
 } as const satisfies Place
