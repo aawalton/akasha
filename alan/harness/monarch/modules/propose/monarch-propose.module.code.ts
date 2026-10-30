@@ -8,10 +8,8 @@ import {
   loadCategoryRules,
   ruleFolder,
 } from "akasha/alan/harness/monarch/modules/rule-documents/monarch-rule-documents.module.code.ts"
-import {
-  categoryTitles,
-  readFlags,
-} from "akasha/alan/harness/monarch/modules/rule-pages/monarch-rule-pages.module.code.ts"
+import { readFlags } from "akasha/alan/harness/monarch/modules/rule-flags/monarch-rule-flags.module.code.ts"
+import { categoryTitles } from "akasha/alan/harness/monarch/modules/rule-pages/monarch-rule-pages.module.code.ts"
 import type { Rule } from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
 import {
   decide,

@@ -11,10 +11,8 @@ import {
 } from "akasha/alan/harness/monarch/modules/history/monarch-history.module.code.ts"
 import { writeNoteIfEmpty } from "akasha/alan/harness/monarch/modules/notes-write/monarch-notes-write.module.code.ts"
 import { loadCategoryRules } from "akasha/alan/harness/monarch/modules/rule-documents/monarch-rule-documents.module.code.ts"
-import {
-  categoryMonarchId,
-  readFlags,
-} from "akasha/alan/harness/monarch/modules/rule-pages/monarch-rule-pages.module.code.ts"
+import { readFlags } from "akasha/alan/harness/monarch/modules/rule-flags/monarch-rule-flags.module.code.ts"
+import { categoryMonarchId } from "akasha/alan/harness/monarch/modules/rule-pages/monarch-rule-pages.module.code.ts"
 import type {
   Decision,
   Rule,

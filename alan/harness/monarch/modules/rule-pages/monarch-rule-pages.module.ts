@@ -4,7 +4,7 @@ export const monarchRulePages = {
   id: "01a06865-ecc3-732a-af06-7eaca3662b5c",
   type: "page-type/module",
   slug: "monarch-rule-pages",
-  definition: "the category pages a rule names, and a rule tool's flags",
+  definition: "how code finds the page of a Monarch category",
   code: "ts",
   decisions: [
     {
@@ -27,24 +27,7 @@ export const monarchRulePages = {
       decisionKind: "decision-kind/departure",
       statement: "A category named in words resolves only where exactly one page has that title.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An amount sign is positive or negative or nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Any other word is refused.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A value coming before any flag that value could belong to is refused rather than guessed at.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A flag may be given several times and has every value given.",
-    },
   ],
   createdAt: "2026-09-03T17:51:45.347Z",
-  updatedAt: "2026-09-22T13:46:41.000Z",
+  updatedAt: "2026-10-30T15:54:25.282Z",
 } as const satisfies Module

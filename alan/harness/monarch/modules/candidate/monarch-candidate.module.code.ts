@@ -4,10 +4,8 @@ import {
   dateFloorFrom,
   monthListFrom,
 } from "akasha/alan/harness/monarch/modules/rule-dates/monarch-rule-dates.module.code.ts"
-import {
-  categoryIdByName,
-  signFrom,
-} from "akasha/alan/harness/monarch/modules/rule-pages/monarch-rule-pages.module.code.ts"
+import { signFrom } from "akasha/alan/harness/monarch/modules/rule-flags/monarch-rule-flags.module.code.ts"
+import { categoryIdByName } from "akasha/alan/harness/monarch/modules/rule-pages/monarch-rule-pages.module.code.ts"
 import type { Rule } from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
 
 export async function candidateRule(

@@ -995,6 +995,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/modules/rule-dates/monarch-rule-dates.module.ts","id":"01a06863-264d-72d3-8755-d1ae86342ec3"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/modules/rule-describe/monarch-rule-describe.module.ts","id":"01a06865-ecc3-7e80-81ec-7da942f39d07"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/modules/rule-documents/monarch-rule-documents.module.ts","id":"01a06866-06f1-762e-b1c3-4910e1884927"}
+{"propertySlug":"decision-kind","path":"alan/harness/monarch/modules/rule-flags/monarch-rule-flags.module.ts","id":"01a18d84-fc83-788c-b125-c5d40f835860"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/modules/rule-pages/monarch-rule-pages.module.ts","id":"01a06865-ecc3-732a-af06-7eaca3662b5c"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/modules/rules/monarch-rules.module.ts","id":"01a06863-ac0c-70d6-942f-2e0d22cae9d5"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/modules/shape/monarch-shape.module.ts","id":"01a0685f-4ed8-7f56-8b0b-c5eb38474e06"}

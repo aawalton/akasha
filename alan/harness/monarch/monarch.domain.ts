@@ -44,6 +44,7 @@ export const monarch = {
     "module/monarch-rule-dates",
     "module/monarch-rule-describe",
     "module/monarch-rule-documents",
+    "module/monarch-rule-flags",
     "module/monarch-rule-pages",
     "module/monarch-rules",
     "module/monarch-shape",
@@ -173,5 +174,5 @@ export const monarch = {
     },
   ],
   createdAt: "2026-08-30T16:45:07.465Z",
-  updatedAt: "2026-10-09T19:29:15.990Z",
+  updatedAt: "2026-10-30T15:54:25.282Z",
 } as const satisfies Domain

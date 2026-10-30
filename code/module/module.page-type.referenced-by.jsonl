@@ -751,6 +751,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/modules/rule-dates/monarch-rule-dates.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/modules/rule-describe/monarch-rule-describe.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/modules/rule-documents/monarch-rule-documents.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/modules/rule-flags/monarch-rule-flags.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/modules/rule-pages/monarch-rule-pages.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/modules/rules/monarch-rules.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/modules/shape/monarch-shape.module.ts","typed":true,"deferred":false}
