@@ -5,9 +5,9 @@ export const connectionActivityIdent = {
   type: "page-type/number-property",
   slug: "connection-activity-ident",
   propertySlug: "connection-activity-ident",
-  definition: "how much he sees himself in them",
+  definition: "how similar the other person is to Alan",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:37:29.998Z",
-  updatedAt: "2026-09-25T13:01:00.000Z",
+  updatedAt: "2026-10-30T16:30:19.462Z",
 } as const satisfies NumberProperty
