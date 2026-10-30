@@ -5,10 +5,10 @@ export const spotifyAccountClientSecret = {
   type: "page-type/text-property",
   slug: "spotify-account-client-secret",
   propertySlug: "client-secret",
-  definition: "what authorises a call as the application",
+  definition: "the password Spotify gives the client that calls Spotify",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-18T23:30:29.315Z",
-  updatedAt: "2026-09-18T23:34:28.000Z",
+  updatedAt: "2026-10-30T16:30:52.363Z",
 } as const satisfies TextProperty
