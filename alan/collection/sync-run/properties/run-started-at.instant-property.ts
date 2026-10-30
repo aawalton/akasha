@@ -5,8 +5,8 @@ export const runStartedAt = {
   type: "page-type/instant-property",
   slug: "run-started-at",
   propertySlug: "run-started-at",
-  definition: "when a pull began",
+  definition: "when a run starts",
   types: "ts",
   createdAt: "2026-09-03T17:47:25.668Z",
-  updatedAt: "2026-09-15T17:15:46.000Z",
+  updatedAt: "2026-10-30T15:13:49.916Z",
 } as const satisfies InstantProperty
