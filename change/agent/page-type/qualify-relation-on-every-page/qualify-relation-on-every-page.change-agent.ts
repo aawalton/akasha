@@ -7,7 +7,8 @@ export const qualifyRelationOnEveryPage = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
-  definition: "a bare name a key holds made an address, on every page of a page type",
+  definition:
+    "a change that adds the page type to each page name a property holds on every page of a page type",
   takesAtMost: true,
   code: "ts",
   test: "ts",
@@ -78,5 +79,5 @@ export const qualifyRelationOnEveryPage = {
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
   createdAt: "2026-09-14T14:59:31.761Z",
-  updatedAt: "2026-09-24T16:12:47.000Z",
+  updatedAt: "2026-10-30T17:40:29.855Z",
 } as const satisfies ChangeAgent
