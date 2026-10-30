@@ -4,7 +4,7 @@ export const mimeMessage = {
   id: "01a05c0e-372f-78d8-908e-3f8b94dc0ac5",
   type: "page-type/module",
   slug: "mime-message",
-  definition: "an email written out as the bytes a mail server takes",
+  definition: "how code writes the bytes of an email",
   code: "ts",
   decisions: [
     {
@@ -25,5 +25,5 @@ export const mimeMessage = {
     },
   ],
   createdAt: "2026-09-01T08:20:30.639Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:14:07.766Z",
 } as const satisfies Module
