@@ -5,9 +5,9 @@ export const whatItTakes = {
   type: "page-type/file-property",
   slug: "what-it-takes",
   propertySlug: "what-it-takes",
-  definition: "what doing a to-do takes",
+  definition: "the work a to-do takes",
   extensions: ["txt"],
   types: "ts",
   createdAt: "2026-09-03T04:57:44.119Z",
-  updatedAt: "2026-09-15T16:56:11.000Z",
+  updatedAt: "2026-10-30T16:46:08.763Z",
 } as const satisfies FileProperty
