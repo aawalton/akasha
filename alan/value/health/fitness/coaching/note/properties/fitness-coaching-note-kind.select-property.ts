@@ -5,7 +5,7 @@ export const fitnessCoachingNoteKind = {
   type: "page-type/select-property",
   slug: "fitness-coaching-note-kind",
   propertySlug: "kind",
-  definition: "what sort of note this is",
+  definition: "the kind of a note",
   values: [
     "medical-gate",
     "programming-cue",
@@ -16,5 +16,5 @@ export const fitnessCoachingNoteKind = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:15:54.368Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:54:11.476Z",
 } as const satisfies SelectProperty
