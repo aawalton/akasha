@@ -4,7 +4,7 @@ export const requestsPageDetail = {
   id: "01a0c537-bad8-7ed3-8fbf-0f2b74a75fce",
   type: "page-type/route",
   slug: "requests-page-detail",
-  definition: "a page, drawn with its properties",
+  definition: "a page shown with its properties",
   code: "tsx",
   urlPath: ":pageTypeSlug/:pageHrefParam",
   decisions: [
@@ -18,5 +18,5 @@ export const requestsPageDetail = {
     },
   ],
   createdAt: "2026-09-21T18:25:59.000Z",
-  updatedAt: "2026-09-22T10:06:45.000Z",
+  updatedAt: "2026-10-30T16:23:37.173Z",
 } as const satisfies Route
