@@ -5,6 +5,10 @@ export const recordProperty = {
   type: "page-type/page-type",
   slug: "record-property",
   definition: "a page property holding named fields",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "record property" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "record properties" },
+  ],
   icon: "braces",
   extends: ["page-type/page-property"],
   properties: [
@@ -14,5 +18,5 @@ export const recordProperty = {
   schema: "jsonl",
   shapes: "jsonl",
   createdAt: "2026-08-29T14:49:52.765Z",
-  updatedAt: "2026-09-24T19:54:52.000Z",
+  updatedAt: "2026-10-30T17:01:18.842Z",
 } as const satisfies PageType
