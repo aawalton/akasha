@@ -5,7 +5,7 @@ export const toDoSlug = {
   type: "page-type/text-property",
   slug: "to-do-slug",
   propertySlug: "to-do-slug",
-  definition: "the to-do a round finished",
+  definition: "the to-do that was done",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [
@@ -20,5 +20,5 @@ export const toDoSlug = {
   ],
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-09-22T18:40:04.000Z",
+  updatedAt: "2026-10-30T16:42:32.078Z",
 } as const satisfies TextProperty
