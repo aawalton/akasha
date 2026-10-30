@@ -5,7 +5,7 @@ export const locationTraces = {
   type: "page-type/page-property-entry",
   slug: "location-traces",
   propertySlug: "location-traces",
-  definition: "every place Alan's phone put him on a day, one to a line",
+  definition: "every location from Alan's phone on a day",
   parts: [
     "boolean-property/battery-is-charging",
     "boolean-property/is-moving",
@@ -66,5 +66,5 @@ export const locationTraces = {
   ],
   types: "ts",
   createdAt: "2026-09-21T19:17:09.581Z",
-  updatedAt: "2026-09-24T20:05:21.000Z",
+  updatedAt: "2026-10-30T16:41:18.633Z",
 } as const satisfies PagePropertyEntry
