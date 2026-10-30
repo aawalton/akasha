@@ -5,10 +5,10 @@ export const categoryDecidedBy = {
   type: "page-type/text-property",
   slug: "category-decided-by",
   propertySlug: "category-decided-by",
-  definition: "who settled a transaction's category and on what evidence",
+  definition: "the note on how the Monarch category of a Monarch transaction is chosen",
   maxLength: 2000,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T16:12:37.504Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:45:15.641Z",
 } as const satisfies TextProperty
