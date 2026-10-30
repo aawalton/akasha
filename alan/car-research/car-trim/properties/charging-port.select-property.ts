@@ -5,7 +5,7 @@ export const chargingPort = {
   type: "page-type/select-property",
   slug: "charging-port",
   propertySlug: "charging-port",
-  definition: "a trim's charging plug",
+  definition: "the kind of plug a car trim charges through",
   values: ["NACS", "CCS1", "J1772", "CHAdeMO", "none"],
   decisions: [
     {
@@ -15,5 +15,5 @@ export const chargingPort = {
   ],
   types: "ts",
   createdAt: "2026-09-21T18:37:45.324Z",
-  updatedAt: "2026-09-22T13:42:40.000Z",
+  updatedAt: "2026-10-30T15:00:45.529Z",
 } as const satisfies SelectProperty
