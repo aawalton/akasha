@@ -4,7 +4,7 @@ export const hudSceneParse = {
   id: "01a060a4-fa3a-750c-9ca2-1bb7318f8b00",
   type: "page-type/module",
   slug: "hud-scene-parse",
-  definition: "the HUD parts read out of the game's own scene source",
+  definition: "the HUD parts read out of the game's own scene code",
   code: "ts",
   test: "ts",
   decisions: [
@@ -42,5 +42,5 @@ export const hudSceneParse = {
     },
   ],
   createdAt: "2026-09-02T05:43:39.834Z",
-  updatedAt: "2026-09-21T22:10:28.000Z",
+  updatedAt: "2026-10-30T16:19:26.698Z",
 } as const satisfies Module
