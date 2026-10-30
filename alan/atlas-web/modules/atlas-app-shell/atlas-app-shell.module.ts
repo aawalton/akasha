@@ -4,7 +4,7 @@ export const atlasAppShell = {
   id: "01a06582-6b30-7b9f-8dc2-c8502969adf3",
   type: "page-type/module",
   slug: "atlas-app-shell",
-  definition: "Atlas's page frame",
+  definition: "the menu every page of the Atlas app shows",
   code: "tsx",
   decisions: [
     {
@@ -18,5 +18,5 @@ export const atlasAppShell = {
     },
   ],
   createdAt: "2026-09-03T04:24:01.072Z",
-  updatedAt: "2026-09-27T11:44:33.000Z",
+  updatedAt: "2026-10-30T15:41:30.412Z",
 } as const satisfies Module
