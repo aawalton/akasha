@@ -7,7 +7,8 @@ export const unlistPagesUnder = {
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/folder",
   changeTargetSubtype: "change-target-subtype/folder",
-  definition: "every list outside a folder that names a page under it, without that name",
+  definition:
+    "a change that removes the name of each page under a folder from every list outside that folder",
   code: "ts",
   test: "ts",
   decisions: [
@@ -32,5 +33,5 @@ export const unlistPagesUnder = {
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
   createdAt: "2026-10-27T19:24:03.177Z",
-  updatedAt: "2026-10-27T19:24:03.177Z",
+  updatedAt: "2026-10-30T17:00:06.515Z",
 } as const satisfies ChangeAgent
