@@ -4,7 +4,7 @@ export const gmailSchema = {
   id: "01a05c0e-372f-7384-9024-babc64ceccf2",
   type: "page-type/module",
   slug: "gmail-schema",
-  definition: "the shapes Gmail answers in, and what is taken out of them",
+  definition: "the shapes Gmail responds in",
   code: "ts",
   decisions: [
     {
@@ -25,5 +25,5 @@ export const gmailSchema = {
     },
   ],
   createdAt: "2026-09-01T08:20:30.639Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:13:41.146Z",
 } as const satisfies Module
