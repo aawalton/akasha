@@ -128,6 +128,7 @@
 {"propertySlug":"part-of-speech","path":"alan/music/catalog/song/song.page-type.ts","id":"01a06243-144b-7012-9da5-a570a8174672"}
 {"propertySlug":"part-of-speech","path":"alan/music/catalog/track/track.page-type.ts","id":"01a0a57b-23fe-7c3a-92e1-06b28a781b17"}
 {"propertySlug":"part-of-speech","path":"alan/music/choosing/playlist/playlist.page-type.ts","id":"01a0c510-ec49-748c-b793-6c6629cc118b"}
+{"propertySlug":"part-of-speech","path":"alan/music/listening/service-workstations/music-capture/music-capture.service-workstation.ts","id":"01a0c48f-9abd-747d-802b-08b86404c189"}
 {"propertySlug":"part-of-speech","path":"alan/music/music.domain.ts","id":"01a06222-4d01-78f8-8ed6-e3f5ec16f8a3"}
 {"propertySlug":"part-of-speech","path":"alan/prayer/prayer.domain.ts","id":"01a0673a-bc3a-7006-887d-3f201ae6bded"}
 {"propertySlug":"part-of-speech","path":"alan/relationships/relationship-deposit/relationship-deposit.page-type.ts","id":"01a0658d-16bc-7759-82e4-2d059f33ac84"}

@@ -4,7 +4,8 @@ export const musicCapture = {
   id: "01a0c48f-9abd-747d-802b-08b86404c189",
   type: "page-type/service-workstation",
   slug: "music-capture",
-  definition: "the service carrying every play Alan finished into the pages that keep it",
+  definition: "the service that carries each time Alan plays a track from Spotify to akasha",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "music capture" }],
   enabled: true,
   needsSecrets: true,
   systemd: {
@@ -44,5 +45,5 @@ export const musicCapture = {
     },
   ],
   createdAt: "2026-09-21T15:22:20.733Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-30T16:26:06.422Z",
 } as const satisfies ServiceWorkstation
