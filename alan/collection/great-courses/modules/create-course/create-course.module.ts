@@ -4,7 +4,7 @@ export const createCourse = {
   id: "01a06579-f3d9-7005-80a2-939e9bfae257",
   type: "page-type/module",
   slug: "create-course",
-  definition: "a course written as a `great-course` page",
+  definition: "how code writes a page for a new course from The Great Courses",
   code: "ts",
   test: "ts",
   decisions: [
@@ -46,5 +46,5 @@ export const createCourse = {
     },
   ],
   createdAt: "2026-09-03T04:14:46.233Z",
-  updatedAt: "2026-10-18T21:06:56.069Z",
+  updatedAt: "2026-10-30T15:18:43.802Z",
 } as const satisfies Module
