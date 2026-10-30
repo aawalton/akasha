@@ -5,7 +5,7 @@ export const madeFrom = {
   type: "page-type/select-property",
   slug: "made-from",
   propertySlug: "made-from",
-  definition: "which of the opened day's files a readout's reading is made from",
+  definition: "the files of the opened day the number a readout shows is made from",
   values: ["open-block", "day-row", "day-row-and-stretches", "day-row-and-food-entries"],
   decisions: [
     {
@@ -19,5 +19,5 @@ export const madeFrom = {
   ],
   types: "ts",
   createdAt: "2026-09-25T17:19:21.193Z",
-  updatedAt: "2026-09-25T17:19:30.000Z",
+  updatedAt: "2026-10-30T16:19:16.175Z",
 } as const satisfies SelectProperty
