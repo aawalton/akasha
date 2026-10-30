@@ -4,7 +4,7 @@ export const editsKeeping = {
   id: "01a0777c-12c6-7383-a773-c4a635e8720f",
   type: "page-type/module",
   slug: "edits-keeping",
-  definition: "the edits an agent has answered and not landed, appended beside the agent's page",
+  definition: "how code keeps the edits an agent makes in files beside the page of the agent",
   code: "ts",
   test: "ts",
   decisions: [
@@ -177,5 +177,5 @@ export const editsKeeping = {
     },
   ],
   createdAt: "2026-09-06T16:10:15.110Z",
-  updatedAt: "2026-09-25T13:55:50.000Z",
+  updatedAt: "2026-10-30T17:41:29.487Z",
 } as const satisfies Module
