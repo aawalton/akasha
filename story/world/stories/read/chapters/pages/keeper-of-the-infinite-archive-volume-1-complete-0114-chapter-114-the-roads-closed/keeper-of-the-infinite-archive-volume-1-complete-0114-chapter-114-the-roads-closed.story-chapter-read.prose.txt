@@ -1,0 +1,303 @@
+Bart did not immediately summon the Curator.Months ago, hearing that an Archive official had deliberately severed the library’s connections to the outside world would have prompted an immediate confrontation. Now, Bart knew better than to walk into an inquiry armed only with someone else’s accusation even when that someone was Morzath the Undying.
+
+Before he asked the Curator why the roads had been closed, Bart wanted to know what the Archive’s own records could prove.
+
+He turned back to the primary slate on the Patron Services desk.
+
+“System,” Bart ordered. “Show me the closures.”
+
+The interface hesitated. A faint, fractured hum poured out as the Archive reached into damaged, rarely accessed sectors of its historical records.
+
+LEGACY NETWORK STATUS: PARTIALLY RECOVERED
+
+REGISTERED ROUTES: DATA INCOMPLETE
+
+NATURAL FAILURES: CONFIRMED
+
+EXTERNAL SEALING ORDERS: CONFIRMED
+
+INTERNAL CLOSURE ACTIONS: CONFIRMED
+
+RESPONSIBILITY MAP: INCOMPLETE
+
+Gregor leaned over the counter, frowning at the divided categories.
+
+“So everyone was closing things,” Gregor said.
+
+“No,” Bart replied, studying the third line carefully. “Some things broke.”
+
+The distinction mattered, If the old network had come apart around the time of the Ruin, treating that loss as a single event would only obscure what had actually happened. Bart began sorting the surviving route logs into three separate stacks on the display.
+
+He opened the first category: routes with no recorded closure order and no authority signature at all.They hadn't been severed but had simply stopped answering. One day an anchor had carried correspondence, status checks, and transit clearances; the next, the line had gone completely flat.
+
+Bart stared at the timestamps. The pattern was familiar and worse than he remembered.
+
+“We've seen this before,” Bart murmured.
+
+Morzath, standing motionless beside the counter with his gauntleted hands resting on his belt, inclined his horned helm. “The Fae crossings.”
+
+“The first ones weren't closed,” Bart said, recalling the historical records they had uncovered during the Human–Fae border investigation. The northern road had failed before anyone had issued a sealing order, and two more had collapsed while the diplomats were still arguing at the conference table.
+
+Bart looked closer at the dates on the interface and paused.
+
+The Fae crossings had begun failing 9 days before the Ruin.
+
+The network hadn't merely broken because the Archive fell. The outer roads had already been dying while Keeper #4,091 was still the Keeper and his emergency preparations were underway.
+
+“They died,” Gregor said.
+
+Morzath turned his head slightly toward the ex thief. “Roads do not die.”
+
+“But they stopped working forever,” Gregor pointed out.
+
+A brief silence stretched across the entrance hall.
+
+“That is an irritatingly defensible definition,” Morzath conceded.
+
+Bart moved to the second category. These routes had not failed on their own, nor had they been cut by the Archive. They bore external termination markers… seals marked down from the far side of the connection by partner governments, royal ministries, and civic authorities.
+
+Bart pulled up two surviving summaries.
+
+EXTERNAL AUTHORITY: HUMAN SUCCESSOR COMMAND
+
+ACTION: CROSSING SEALED
+
+REASON: EMERGENCY BORDER SECURITY
+
+Beside it sat another entry from three years after the Ruin.
+
+EXTERNAL AUTHORITY: HIGH COUNCIL OF VELLUM
+
+ACTION: TRANSIT WITHDRAWN
+
+REASON: NETWORK INSTABILITY
+
+Bart read through half a dozen more. Not every realm had reacted the same way ,some governments had sealed their anchors the moment neighbouring routes began failing. Some had feared a military invasion or magical contagion. Others had simply stopped trusting the Infinite Archive because the primary facility had gone silent and with only an external continuity desk was answering their mail.
+
+Looking at the dates, Bart realized how terrifying the Archive's collapse must have appeared from the outside.For centuries, dozens of realms and institutions had relied on the Archive’s network as permanent infrastructure. Then routes had begun dropping off the map, portal destinations had grown erratic, and finally the center itself had vanished. No one on the far side of those anchors had known what had happened at the heart of the library, or whether whatever had destroyed it was still spreading along the lines.
+
+Of course they had locked their doors. Gregor rubbed the back of his neck. “So they thought something might come through.”
+
+“Some thought armies would,” Morzath said.
+
+“Were they wrong?” Gregor asked.
+
+Morzath considered the question. “Not universally.”
+
+Bart did not pursue that tangent, he closed the external logs and isolated the final category: closures executed from inside the Archive’s own administrative framework.
+
+The list that remained was much smaller than the others.
+
+INTERNAL CLOSURE AUTHORITY
+
+ROUTES CLOSED: 23
+
+AUTHORITY DISTRIBUTION: PARTIALLY RECOVERED
+
+PRIMARY CLOSURE OFFICER: CURATOR
+
+OTHER AUTHORITIES: REDACTED / LOST / UNRESOLVED
+
+Bart frowned at the screen. The Curator had not been the sole internal authority severing connections, though his title sat beside the majority of the surviving entries.
+
+“23?” Bart asked.
+
+“That number is incomplete,” Morzath said calmly.
+
+Bart now had the baseline he needed. The network hadn't vanished because one person had pulled a lever. It had been a multi-sided collapse: structural failures that had begun even before the Ruin, panicked external lockdowns, and deliberate internal cuts.Now he was ready to ask why those internal cuts had been made. He opened a standard administrative form on his main interface and drafted a proper notice.
+
+CUSTODIAL CONSULTATION REQUEST
+
+SUBJECT: LEGACY ROUTE CLOSURES
+
+BASIS: CONTINUITY HANDOVER REVIEW
+
+Bart tapped the authorization key.He expected a delay, or perhaps a terse written objection.
+
+Instead, the response arrived in less than 10 seconds.Along the eastern wall of the entrance hall, between two tall marble pilasters where only solid stone had existed a moment before, the seam of a doorframe appeared. It was made of dark, unpolished black wood. It had no handle, keyhole or hinges.With a soft, precise click, the black door swung inward.The Curator stepped into the entrance hall.
+
+He wore his immaculate coat and pale gloves, looking entirely unbothered by the summons. The black door closed silently behind him and vanished back into the stone.
+
+Gregor stared at the blank wall. “Can everyone except us make doors do that?” The Curator did not even look at Bart first. He stopped a few paces from the desk, his gaze settling directly on the towering, ash blackened figure standing beside the counter.
+
+“You closed 11 that I was still using,” Morzath said.
+
+“13,” the Curator corrected mildly.
+
+Morzath’s violet eye-flames sharpened. “Two had recovered.”
+
+“Temporarily,” the Curator replied.
+
+Gregor leaned slightly toward Bart and spoke under his breath. “They definitely know each other.”
+
+“Yes, I can see that!” Bart said.
+
+Albert, standing quietly beside his retrieval trolley, gave the Curator a small, polite inclination of his skull, which the Curator returned before turning his attention to the desk.
+
+The Curator looked at the glowing blue table of internal closures on Bart’s interface. He showed no trace of defensiveness.
+
+“I closed routes that should not have remained open,” the Curator said evenly.
+
+“Why?” Bart asked.
+
+“Because connectivity had become a liability.”
+
+Bart gestured toward the slate. “Morzath was using those routes to maintain the Archive’s institutional obligations. Every time one was severed, the continuity service lost contact with another set of claimants.”
+
+“I am aware of what the emergency custodian was doing,” the Curator said. “His mandate was the preservation of commitments. Mine was the preservation of boundaries.”
+
+“Explain the liability,” Bart said. “What makes a road dangerous enough to sever permanently?”
+
+The Curator clasped his gloved hands behind his back.
+
+“You are still thinking of a route as an empty tunnel, Keeper,” the Curator said. “It is not. A road is a relationship between endpoints. It carries trust, authority recognition, and structural alignment.”
+
+He took a half-step closer to the counter.
+
+“When both endpoints are stable, the relationship functions as intended,” the Curator continued. “If one end becomes compromised, structurally damaged, corrupted, or hostile…the other end remains exposed for as long as the relationship exists.”
+
+Bart followed the logic immediately. In a connected system, an open verification channel worked both ways. If an anchor on the far side broke badly enough, whatever had broken it could use the existing permissions to travel backward.
+
+“So Closure wasn't destroying the road,” Bart said slowly.
+
+“Sometimes,” the Curator said.
+
+“And the other times?”
+
+“It was preventing the road from becoming a door.”
+
+The room went very quiet on that revelation. Bart wanted to know more and wanted a specific case. He reached down and tapped the first surviving entry under the Curator’s direct authority.
+
+ROUTE: ARCHIVE LIAISON CHANNEL 4-A
+
+STATUS BEFORE CLOSURE: ACTIVE / ANOMALOUS
+
+TRAFFIC LOG: ROUTINE VERIFICATION RECEIVED
+
+SENDER AUTHORITY: VALID
+
+SENDER INSTITUTION: DESTROYED 11 DAYS PRIOR
+
+ACTION: IMMEDIATE CLOSURE
+
+Bart stared at the 4th and 5th lines.
+
+“The institution was destroyed,” Bart said.
+
+“Completely,” the Curator confirmed.
+
+“And 11 days later, it sent a valid routine verification request along the road.”
+
+“With correct administrative seals,” the Curator said.
+
+“That shouldn't be possible,” Bart said.
+
+“Exactly.”
+
+Bart opened the next record down the list.
+
+ROUTE: DESTINATION 8-C / FORMER PARTNER REALM
+
+STATUS BEFORE CLOSURE: ACTIVE / UNSTABLE
+
+RETURN TRAFFIC: UNSOLICITED
+
+IDENTITY MATCH: FAILED
+
+CLOSURE ORDER: EMERGENCY
+
+AUTHORITY: CURATOR
+
+Gregor frowned at the third line. “Unsolicited what?”
+
+“People,” the Curator said.
+
+Bart looked up from the screen. “People came back through the route?”
+
+“Things using their credentials did,” the Curator said quietly.
+
+Gregor slowly took half a step back from the interface, as though the ancient log records might suddenly spit something into the room.
+
+Bart stared at the record. After the Ruin, the surviving roads had not simply been quiet country lanes waiting for the mail to resume. Dead institutions were still knocking on active routes with valid credentials, and things wearing patron identities were trying to come back through.
+
+“Was this what caused the Ruin?” Bart asked.
+
+“I do not know,” the Curator answered without hesitation.
+
+Bart studied his face. “You don't know?”
+
+“I was not privy to the origin of the catastrophe,” the Curator said. “I only know what occurred in the network as the collapse accelerated afterward. Surviving routes destabilized further. Several began exhibiting recursive or predatory behaviour. I possessed Closure authority and used it.”
+
+“Who instructed you to begin cutting them?” Bart asked.
+
+“No one.”
+
+Bart blinked. “You acted on your own?”
+
+“That was the purpose of my office,” the Curator said.
+
+Morzath shifted beside the counter, the plates of his armour grinding softly.
+
+“You did not consult the continuity service,” Morzath said.
+
+“You would have objected,” the Curator replied.
+
+“Yes but that's not the point”
+
+“And while we debated jurisdictional priority, Destination 8-C would have remained connected to the surviving index,” the Curator said flatly.
+
+Morzath’s violet flames burned cold and steady. “Every road you closed may have stranded someone.”
+
+The Curator met the Undying’s gaze without blinking. “Every road I left open may have endangered someone.”
+
+Bart stood between them, looking from the ancient warlord who had spent decades answering the Archive’s mail to the quiet official who had spent those same decades bricking up the windows.
+
+Continuity and Closure.Neither could keep an institution alive alone.
+
+Bart looked back down at the slate, checking the timestamps of the earliest internal closures against the wider timeline of event RSE-3942.Something in the metadata caught his eye.
+
+The Curator had acted on his own judgment after the Ruin, but the tool he had used to sever entire inter-realm anchors without a Keeper’s approval had not always existed.
+
+“System,” Bart said. “Display the authorization framework for the post-Ruin route closures.”
+
+A new block of text unfolded at the bottom of the screen.
+
+EMERGENCY NETWORK CONTAINMENT PROTOCOL
+
+AUTHORISATION FRAMEWORK: PRE-RUIN
+
+ACTIVATION: POST-DIVERGENCE
+
+KEEPER OVERRIDE: UNAVAILABLE
+
+The Curator had not invented the emergency containment powers during the crisis. The legal and structural mechanism had been built beforehand, removing the requirement for a Keeper’s signature and leaving it ready for the Closure office to use once the Divergence began.
+
+Bart looked up at the Curator. “Was this #4,091?”
+
+“He prepared many things,” the Curator said.
+
+“Did he tell you why?”
+
+“I wasn't privy to all his thoughts.”
+
+Bart looked back at the screen. Every thread they pulled led back to the same deliberate, terrifyingly thorough preparation. Keeper #4,091 had packaged the Archive’s institutional identity for Morzath. He had armed the Curator’s office with autonomous containment authority. He had prepared succession and recovery procedures.And somehow, after all of that, he had still ended up back inside the collapsing Archive with Morzath and Albert.
+
+Bart slowly pieced the timeline together. The Curator knew what had happened to the network as it failed. Albert knew what had happened inside the Archive at the end.But there was still a gap.The period between Keeper #4,091 sending the continuity package and the Divergence beginning.
+
+Bart turned away from the Curator and looked directly at Morzath.
+
+“The continuity package reached you before the Ruin.”
+
+“Yes,” Morzath replied.
+
+“And Keeper #4,091?”
+
+Morzath said nothing.
+
+Bart stepped closer.
+
+“Where was he?”
+
+Morzath’s violet flames did not flicker.
+
+“With me.”

@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg006868Lightweight = {
     },
   ],
   createdAt: "2026-10-28T16:29:15.598Z",
-  updatedAt: "2026-10-28T16:29:15.598Z",
+  updatedAt: "2026-10-30T18:25:47.878Z",
+  ownProgress: 3593,
+  progressedAt: "2026-10-30T18:25:47.878Z",
 } as const satisfies StoryChapterRead

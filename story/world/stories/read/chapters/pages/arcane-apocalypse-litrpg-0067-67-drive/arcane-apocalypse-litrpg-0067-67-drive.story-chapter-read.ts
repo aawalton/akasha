@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg006767Drive = {
     },
   ],
   createdAt: "2026-10-28T16:29:15.598Z",
-  updatedAt: "2026-10-28T16:29:15.598Z",
+  updatedAt: "2026-10-30T18:25:47.878Z",
+  ownProgress: 4272,
+  progressedAt: "2026-10-30T18:25:47.878Z",
 } as const satisfies StoryChapterRead
