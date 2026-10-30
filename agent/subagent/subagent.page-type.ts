@@ -4,7 +4,7 @@ export const subagent = {
   id: "01a05978-f2e1-78e7-9017-ab14c5c1d79b",
   type: "page-type/page-type",
   slug: "subagent",
-  definition: "an agent a seat runs with the Agent tool",
+  definition: "an agent a seat runs with the agent tool",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "subagent" },
     { partOfSpeech: "part-of-speech/noun", spelling: "subagents" },
@@ -246,5 +246,5 @@ export const subagent = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-31T20:18:13.857Z",
-  updatedAt: "2026-09-25T14:28:05.000Z",
+  updatedAt: "2026-10-30T14:39:09.591Z",
 } as const satisfies PageType
