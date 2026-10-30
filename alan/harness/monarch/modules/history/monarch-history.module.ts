@@ -4,7 +4,7 @@ export const monarchHistory = {
   id: "01a06866-06f1-7379-8907-207d1cc99b42",
   type: "page-type/module",
   slug: "monarch-history",
-  definition: "our copy of Monarch taken as the rows weighing a rule",
+  definition: "how code reads the Monarch transactions a category rule is checked against",
   code: "ts",
   decisions: [
     {
@@ -49,5 +49,5 @@ export const monarchHistory = {
     },
   ],
   createdAt: "2026-09-03T17:51:52.049Z",
-  updatedAt: "2026-10-09T19:29:15.990Z",
+  updatedAt: "2026-10-30T15:40:39.941Z",
 } as const satisfies Module
