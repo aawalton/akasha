@@ -5,9 +5,10 @@ export const injuriesPerMillionUnitsHigh = {
   type: "page-type/number-property",
   slug: "injuries-per-million-units-high",
   propertySlug: "injuries-per-million-units-high",
-  definition: "the high end of how many of an injury a million units of an activity cause",
+  definition:
+    "the high estimate of the number of times a million units of a risk activity cause an injury",
   max: null,
   types: "ts",
   createdAt: "2026-10-28T19:19:08.653Z",
-  updatedAt: "2026-10-28T19:19:08.653Z",
+  updatedAt: "2026-10-30T16:10:23.495Z",
 } as const satisfies NumberProperty
