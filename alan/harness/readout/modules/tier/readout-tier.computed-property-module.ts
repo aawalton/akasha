@@ -4,7 +4,7 @@ export const readoutTier = {
   id: "01a05f42-92f5-7001-98d7-66166fa0b0f6",
   type: "page-type/computed-property-module",
   slug: "readout-tier",
-  definition: "how code finds the color the value of a readout reaches on its readout scale",
+  definition: "how code finds the color a readout reaches on its readout scale",
   code: "ts",
   test: "ts",
   decisions: [
@@ -176,5 +176,5 @@ export const readoutTier = {
     },
   ],
   createdAt: "2026-09-01T23:16:33.653Z",
-  updatedAt: "2026-10-30T16:05:24.498Z",
+  updatedAt: "2026-10-30T16:21:01.351Z",
 } as const satisfies ComputedPropertyModule
