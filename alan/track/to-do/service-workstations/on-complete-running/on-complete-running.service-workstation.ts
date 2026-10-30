@@ -4,8 +4,7 @@ export const onCompleteRunning = {
   id: "01a1209a-6265-73c3-8864-89ec6aae13c0",
   type: "page-type/service-workstation",
   slug: "on-complete-running",
-  definition:
-    "the service running each to-do's on-complete code once that to-do is newly completed",
+  definition: "the service that runs a to-do's on-complete code when the to-do is done",
   enabled: true,
   systemd: {
     schedule: "*:*:00",
@@ -27,5 +26,5 @@ export const onCompleteRunning = {
     },
   ],
   createdAt: "2026-10-09T12:19:11.076Z",
-  updatedAt: "2026-10-09T12:19:11.076Z",
+  updatedAt: "2026-10-30T16:47:15.852Z",
 } as const satisfies ServiceWorkstation
