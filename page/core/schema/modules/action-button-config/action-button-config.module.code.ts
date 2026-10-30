@@ -14,5 +14,3 @@ export const actionButtonConfigSchema = z.object({
 })
 
 export type ActionButtonConfig = z.infer<typeof actionButtonConfigSchema>
-
-export const DECLARED_EFFECTS_VERB_ID = "declared-effects"

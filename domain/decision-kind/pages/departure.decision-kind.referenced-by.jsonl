@@ -7223,7 +7223,6 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/target-panel-card/target-panel-card.module.ts","id":"01a0642c-5b82-7888-a925-140adcf25275"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/targeting-badges/targeting-badges.module.ts","id":"01a06421-2523-7b65-804e-4591f14e557d"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/temper-app-shell/temper-app-shell.module.ts","id":"01a06429-76ff-706c-b325-038f0e4a4fb7"}
-{"propertySlug":"decision-kind","path":"temper/web/modules/temper-declared-effects/temper-declared-effects.module.ts","id":"01a0640f-8510-7199-93a8-3fa778720f68"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/temper-handover-site/temper-handover-site.module.ts","id":"01a0bb8f-a5d0-75ce-a592-e0fdb309ce8c"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/temper-pages-resolver/temper-pages-resolver.module.ts","id":"01a0640f-8510-7c72-8ea7-ff3cbcdf74b3"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/temper-query-error-boundary/temper-query-error-boundary.module.ts","id":"01a0e2ef-9f7b-7112-92f7-3db49e72b28f"}

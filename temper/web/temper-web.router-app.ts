@@ -282,7 +282,6 @@ export const temperWeb = {
     "module/targeting-badges",
     "module/temper-app-id",
     "module/temper-app-shell",
-    "module/temper-declared-effects",
     "module/temper-handover-site",
     "module/temper-pages-resolver",
     "module/temper-query-error-boundary",
@@ -401,5 +400,5 @@ export const temperWeb = {
     },
   ],
   createdAt: "2026-09-02T21:23:16.800Z",
-  updatedAt: "2026-10-30T15:59:54.427Z",
+  updatedAt: "2026-10-30T17:34:05.110Z",
 } as const satisfies RouterApp

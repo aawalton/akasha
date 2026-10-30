@@ -1,7 +1,7 @@
 import type { PageDataJSON } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type { ActionButtonConfig } from "akasha/page/core/schema/modules/action-button-config/action-button-config.module.code.ts"
 
-export interface ActionVerbContext {
+interface ActionVerbContext {
   readonly pageId: string
   readonly pageTypeSlug: string
   readonly data: PageDataJSON
@@ -9,7 +9,7 @@ export interface ActionVerbContext {
   readonly config: ActionButtonConfig
 }
 
-export type ActionVerbHandler = (ctx: ActionVerbContext) => void | Promise<void>
+type ActionVerbHandler = (ctx: ActionVerbContext) => void | Promise<void>
 
 interface ActionPresentation {
   readonly label?: string
