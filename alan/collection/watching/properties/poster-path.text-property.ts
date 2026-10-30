@@ -5,7 +5,7 @@ export const posterPath = {
   type: "page-type/text-property",
   slug: "poster-path",
   propertySlug: "poster-path",
-  definition: "the path to the artwork representing a collection",
+  definition: "the path to the main image of a collection",
   maxLength: 100,
   nameFormat: null,
   decisions: [
@@ -16,5 +16,5 @@ export const posterPath = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:49:41.897Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-30T15:16:41.408Z",
 } as const satisfies TextProperty
