@@ -4,7 +4,7 @@ export const sweepStrayProcesses = {
   id: "01a09cee-2585-7d35-b95e-24ea1f6ace82",
   type: "page-type/service-workstation",
   slug: "sweep-stray-processes",
-  definition: "the service ending every process left running by a subagent that has returned",
+  definition: "the service that ends the processes of every subagent that is done",
   enabled: true,
   systemd: {
     schedule: "*:0/5",
@@ -124,5 +124,5 @@ export const sweepStrayProcesses = {
     },
   ],
   createdAt: "2026-09-13T22:40:48.005Z",
-  updatedAt: "2026-10-20T20:33:03.235Z",
+  updatedAt: "2026-10-30T14:36:51.695Z",
 } as const satisfies ServiceWorkstation
