@@ -5,10 +5,10 @@ export const finePrint = {
   type: "page-type/text-property",
   slug: "fine-print",
   propertySlug: "fine-print",
-  definition: "what the offer does not cover",
+  definition: "the limits on the offer",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:27:14.757Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:10:06.583Z",
 } as const satisfies TextProperty
