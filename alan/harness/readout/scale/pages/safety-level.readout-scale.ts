@@ -4,11 +4,11 @@ export const safetyLevel = {
   id: "01a05f42-92f5-7002-8664-c64ed3b1dcd2",
   type: "page-type/readout-scale",
   slug: "safety-level",
-  definition: "how safe things are, counted in levels",
+  definition: "how safe Alan feels",
   redAt: 1,
   yellowAt: 2,
   greenAt: 3,
   blueAt: 4,
   createdAt: "2026-09-01T23:16:33.653Z",
-  updatedAt: "2026-09-15T16:23:31.000Z",
+  updatedAt: "2026-10-30T16:08:55.348Z",
 } as const satisfies ReadoutScale
