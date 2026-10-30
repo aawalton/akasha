@@ -4,7 +4,7 @@ export const values = {
   id: "01a06553-f660-780a-9cc7-a675d664e202",
   type: "page-type/readout-group",
   slug: "values",
-  definition: "the progress Alan makes on each value in a day",
+  definition: "the progress Alan makes on each life value in a day",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -17,5 +17,5 @@ export const values = {
     },
   ],
   createdAt: "2026-09-03T03:33:16.512Z",
-  updatedAt: "2026-10-30T16:00:19.388Z",
+  updatedAt: "2026-10-30T16:32:59.308Z",
 } as const satisfies ReadoutGroup
