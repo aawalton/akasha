@@ -4,7 +4,7 @@ export const supervisorAgentSettings = {
   id: "01a069bf-b8ea-7512-b82f-c386bd4270c4",
   type: "page-type/module",
   slug: "supervisor-agent-settings",
-  definition: "the settings document a seat spawns on, with the hooks akasha declares merged in",
+  definition: "how code adds the hooks of akasha to the agent settings a seat starts with",
   code: "ts",
   test: "ts",
   decisions: [
@@ -71,5 +71,5 @@ export const supervisorAgentSettings = {
     },
   ],
   createdAt: "2026-09-04T00:09:27.530Z",
-  updatedAt: "2026-09-25T16:48:18.000Z",
+  updatedAt: "2026-10-30T14:49:25.218Z",
 } as const satisfies Module
