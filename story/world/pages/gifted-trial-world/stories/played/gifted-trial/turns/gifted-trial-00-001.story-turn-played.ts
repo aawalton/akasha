@@ -16,6 +16,6 @@ export const giftedTrial00001 = {
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/holdings", "story-reviewer/scene"],
   endsAt: "2026-10-28T09:05:00.000Z",
   createdAt: "2026-10-30T14:11:30.185Z",
-  updatedAt: "2026-10-30T14:55:20.798Z",
-  ownLength: 616,
+  updatedAt: "2026-10-30T14:55:30.597Z",
+  ownLength: 617,
 } as const satisfies StoryTurnPlayed
