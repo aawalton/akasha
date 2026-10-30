@@ -4,7 +4,7 @@ export const deviceSecretSync = {
   id: "01a0655d-dab9-7b76-a767-7101666ee41b",
   type: "page-type/module",
   slug: "device-secret-sync",
-  definition: "the device secret minted and kept in the shell's keychain",
+  definition: "how code makes the device secret the native shell keeps",
   code: "tsx",
   test: "tsx",
   decisions: [
@@ -106,5 +106,5 @@ export const deviceSecretSync = {
     },
   ],
   createdAt: "2026-09-03T03:44:04.793Z",
-  updatedAt: "2026-09-25T15:38:36.000Z",
+  updatedAt: "2026-10-30T17:00:22.031Z",
 } as const satisfies Module
