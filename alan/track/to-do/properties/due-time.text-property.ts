@@ -5,10 +5,10 @@ export const dueTime = {
   type: "page-type/text-property",
   slug: "due-time",
   propertySlug: "due-time",
-  definition: "the time of day a to-do comes due",
+  definition: "the time of day a to-do is due",
   maxLength: 20,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:57:44.119Z",
-  updatedAt: "2026-09-15T17:18:57.000Z",
+  updatedAt: "2026-10-30T16:43:27.206Z",
 } as const satisfies TextProperty
