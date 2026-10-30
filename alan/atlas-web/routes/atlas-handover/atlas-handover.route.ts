@@ -4,7 +4,7 @@ export const atlasHandover = {
   id: "01a0bb46-6945-7bae-a6c8-2735a79228a2",
   type: "page-type/route",
   slug: "atlas-handover",
-  definition: "where a reader arrives from alanwalton.com carrying a code",
+  definition: "the path a browser opens with a code from alanwalton.com",
   code: "ts",
   urlPath: "handover",
   decisions: [
@@ -19,5 +19,5 @@ export const atlasHandover = {
     },
   ],
   createdAt: "2026-09-19T20:05:48.997Z",
-  updatedAt: "2026-09-19T20:40:08.000Z",
+  updatedAt: "2026-10-30T14:46:59.850Z",
 } as const satisfies Route
