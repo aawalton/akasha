@@ -5,9 +5,10 @@ export const tcoMaintenance = {
   type: "page-type/number-property",
   slug: "tco-maintenance",
   propertySlug: "tco-maintenance",
-  definition: "what keeping the car serviced is reckoned to cost over those years, in dollars",
+  definition:
+    "an estimate of the dollars an owner spends on maintenance of the car over the years of ownership",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:43:23.453Z",
-  updatedAt: "2026-09-21T18:44:23.000Z",
+  updatedAt: "2026-10-30T15:16:29.097Z",
 } as const satisfies NumberProperty
