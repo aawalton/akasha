@@ -4,7 +4,7 @@ export const readoutBody = {
   id: "01a05e63-1c18-7baa-a113-890ebfb04463",
   type: "page-type/module",
   slug: "readout-body",
-  definition: "the shape a reading takes on the wire to the surface drawing it",
+  definition: "the shape a readout takes over the network to the screen that shows the readout",
   code: "ts",
   decisions: [
     {
@@ -31,5 +31,5 @@ export const readoutBody = {
     },
   ],
   createdAt: "2026-09-01T19:12:28.696Z",
-  updatedAt: "2026-09-24T18:56:30.000Z",
+  updatedAt: "2026-10-30T16:02:43.057Z",
 } as const satisfies Module
