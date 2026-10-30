@@ -5,7 +5,7 @@ export const monarchAgree = {
   type: "page-type/module",
   slug: "monarch-agree",
   definition:
-    "the rules' two paths to a neighbourhood weighed against each other over the live history",
+    "how code finds whether the paths the category rules take match over the Monarch transactions",
   code: "ts",
   decisions: [
     {
@@ -48,5 +48,5 @@ export const monarchAgree = {
     },
   ],
   createdAt: "2026-09-03T17:53:54.669Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:41:35.125Z",
 } as const satisfies Module
