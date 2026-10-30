@@ -16,7 +16,7 @@ export const dungeonOfKnowledgeComplete = {
   author: "timewalk",
   grade: "A",
   following: true,
-  publicationStatus: "completed",
+  publicationStatus: "ongoing",
   externalTags: [
     "LitRPG",
     "Progression",
@@ -35,5 +35,5 @@ export const dungeonOfKnowledgeComplete = {
   unit: "unit/words",
   prose: "txt",
   createdAt: "2026-09-03T04:18:50.402Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-30T09:23:15.012Z",
 } as const satisfies StoryRead
