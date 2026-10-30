@@ -5,10 +5,10 @@ export const icd10Codes = {
   type: "page-type/text-property",
   slug: "icd10-codes",
   propertySlug: "icd10-codes",
-  definition: "an ICD-10 code a death from a cause is counted under",
+  definition: "an ICD-10 code that deaths from a cause of death are counted under",
   maxLength: 20,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-10-28T18:22:21.854Z",
-  updatedAt: "2026-10-28T18:22:21.854Z",
+  updatedAt: "2026-10-30T16:11:58.042Z",
 } as const satisfies TextProperty
