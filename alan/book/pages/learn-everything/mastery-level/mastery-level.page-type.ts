@@ -4,7 +4,11 @@ export const masteryLevel = {
   id: "01a0784a-cdb9-75af-be55-75cc37d93123",
   type: "page-type/page-type",
   slug: "mastery-level",
-  definition: "a rung on a topic's mastery scale",
+  definition: "a step in how Alan knows a learn everything topic",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "mastery level" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "mastery levels" },
+  ],
   extends: ["page-type/domain"],
   parts: [
     "mastery-level/doctor",
@@ -45,5 +49,5 @@ export const masteryLevel = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-06T19:56:03.385Z",
-  updatedAt: "2026-09-22T13:47:07.000Z",
+  updatedAt: "2026-10-30T14:53:46.646Z",
 } as const satisfies PageType
