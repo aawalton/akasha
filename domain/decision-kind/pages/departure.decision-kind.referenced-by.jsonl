@@ -2998,6 +2998,7 @@
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/relative-determiner.part-of-speech.ts","id":"01a18d7e-1614-7978-8225-8029f9c60d7e"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/relative-pronoun.part-of-speech.ts","id":"01a0d428-a4ce-76be-a860-ad6dfb3fb3b5"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/subordinating-conjunction.part-of-speech.ts","id":"01a0d3d1-8abe-70e6-930c-7ba6f7040d74"}
+{"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/time-adverb.part-of-speech.ts","id":"01a18dc3-91cf-7bb7-82da-79a99fbe760a"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/time-conjunction.part-of-speech.ts","id":"01a15545-f559-77d9-9643-d807e61f60d0"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/verb.part-of-speech.ts","id":"01a0c677-ca51-7407-b1ca-e2a16319c088"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
