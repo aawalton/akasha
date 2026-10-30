@@ -5,9 +5,9 @@ export const feed = {
   type: "page-type/url-property",
   slug: "feed",
   propertySlug: "feed",
-  definition: "where a widget fetches the readings it draws",
+  definition: "the link a readout widget reads for its readings",
   maxLength: 100,
   types: "ts",
   createdAt: "2026-08-30T21:07:57.194Z",
-  updatedAt: "2026-09-15T16:36:47.000Z",
+  updatedAt: "2026-10-30T16:04:39.906Z",
 } as const satisfies UrlProperty
