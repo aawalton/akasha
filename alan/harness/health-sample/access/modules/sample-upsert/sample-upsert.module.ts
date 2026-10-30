@@ -4,7 +4,7 @@ export const sampleUpsert = {
   id: "01a05bc7-9129-7006-bbd4-12ab615a3223",
   type: "page-type/module",
   slug: "sample-upsert",
-  definition: "health readings landed on the day page for each reading's starting ESO day",
+  definition: "how code writes each health sample under the day that health sample starts in",
   code: "ts",
   test: "ts",
   decisions: [
@@ -87,5 +87,5 @@ export const sampleUpsert = {
     },
   ],
   createdAt: "2026-09-01T07:03:20.617Z",
-  updatedAt: "2026-09-24T23:05:06.000Z",
+  updatedAt: "2026-10-30T15:31:02.156Z",
 } as const satisfies Module
