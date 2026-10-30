@@ -4,7 +4,7 @@ export const flexibilityLog = {
   id: "01a06558-36e9-75e2-bcf3-ce91fd6e945b",
   type: "page-type/page-type",
   slug: "flexibility-log",
-  definition: "a measurement of how far a joint moved on a day",
+  definition: "a measurement of Alan's flexibility on a day",
   extends: ["page-type/page"],
   parts: [
     "calendar-date-property/mobility-reading-date",
@@ -50,5 +50,5 @@ export const flexibilityLog = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T03:37:55.177Z",
-  updatedAt: "2026-09-22T10:05:53.000Z",
+  updatedAt: "2026-10-30T16:49:41.260Z",
 } as const satisfies PageType
