@@ -4,7 +4,7 @@ export const pictureAnswering = {
   id: "01a09c61-a5d9-766a-9d6d-662757fe1a24",
   type: "page-type/module",
   slug: "picture-answering",
-  definition: "what a route answers when a phone sends a picture in for its person's handler",
+  definition: "how a route responds to an image a phone sends to the handler of its person",
   code: "ts",
   test: "ts",
   decisions: [
@@ -59,5 +59,5 @@ export const pictureAnswering = {
     },
   ],
   createdAt: "2026-09-13T20:07:20.281Z",
-  updatedAt: "2026-09-24T18:56:50.000Z",
+  updatedAt: "2026-10-30T16:52:48.472Z",
 } as const satisfies Module
