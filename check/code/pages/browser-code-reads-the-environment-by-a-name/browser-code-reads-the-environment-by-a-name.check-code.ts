@@ -5,7 +5,7 @@ export const browserCodeReadsTheEnvironmentByAName = {
   type: "page-type/check-code",
   slug: "browser-code-reads-the-environment-by-a-name",
   definition:
-    "the check refusing a bundled router app module reaching the environment by a key or a Next name",
+    "whether the code a browser runs reads each environment variable by a name written in the code",
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: true,
@@ -158,5 +158,5 @@ export const browserCodeReadsTheEnvironmentByAName = {
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 45 },
   createdAt: "2026-09-10T23:54:00.146Z",
-  updatedAt: "2026-09-19T04:48:48.000Z",
+  updatedAt: "2026-10-30T17:43:01.141Z",
 } as const satisfies CheckCode
