@@ -4,7 +4,7 @@ export const pagePropertySplicing = {
   id: "01a09c57-fd55-7dd2-8750-4e82ff215d07",
   type: "page-type/module",
   slug: "page-property-splicing",
-  definition: "the edits writing a page's properties, their values and the records they hold",
+  definition: "how code writes the edits that change a page's properties",
   code: "ts",
   test: "ts",
   decisions: [
@@ -91,5 +91,5 @@ export const pagePropertySplicing = {
     },
   ],
   createdAt: "2026-09-13T19:56:47.317Z",
-  updatedAt: "2026-09-19T03:12:38.000Z",
+  updatedAt: "2026-10-30T17:20:44.172Z",
 } as const satisfies Module
