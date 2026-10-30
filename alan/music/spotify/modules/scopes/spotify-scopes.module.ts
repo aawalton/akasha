@@ -4,7 +4,7 @@ export const spotifyScopes = {
   id: "01a06261-dc1d-7005-9e93-d5c9f5bf2239",
   type: "page-type/module",
   slug: "spotify-scopes",
-  definition: "what Alan consents to when he authorises this client",
+  definition: "the consent Alan gives the music commands",
   code: "ts",
   test: "ts",
   decisions: [
@@ -26,5 +26,5 @@ export const spotifyScopes = {
     },
   ],
   createdAt: "2026-09-02T13:49:35.645Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:24:50.844Z",
 } as const satisfies Module
