@@ -5,6 +5,10 @@ export const monarchAccount = {
   type: "page-type/page-type",
   slug: "monarch-account",
   definition: "a balance, whether it is money held or money owed",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "Monarch account" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "Monarch accounts" },
+  ],
   extends: ["page-type/monarch-record"],
   parts: [
     "boolean-property/account-active",
@@ -49,5 +53,5 @@ export const monarchAccount = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:11:27.616Z",
-  updatedAt: "2026-09-24T18:46:36.000Z",
+  updatedAt: "2026-10-30T15:40:33.939Z",
 } as const satisfies PageType
