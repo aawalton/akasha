@@ -5,10 +5,10 @@ export const plaidItemClientId = {
   type: "page-type/text-property",
   slug: "plaid-item-client-id",
   propertySlug: "client-id",
-  definition: "what names Alan's Plaid team to Plaid",
+  definition: "the id of Alan's account at Plaid",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-10-19T13:44:47.983Z",
-  updatedAt: "2026-10-19T13:44:47.983Z",
+  updatedAt: "2026-10-30T16:01:08.995Z",
 } as const satisfies TextProperty
