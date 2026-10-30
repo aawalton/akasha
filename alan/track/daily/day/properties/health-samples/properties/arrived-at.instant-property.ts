@@ -5,8 +5,8 @@ export const arrivedAt = {
   type: "page-type/instant-property",
   slug: "arrived-at",
   propertySlug: "arrived-at",
-  definition: "when a reading reached us, which is not when it was taken",
+  definition: "the instant a measurement reached akasha",
   types: "ts",
   createdAt: "2026-09-02T07:17:38.448Z",
-  updatedAt: "2026-09-15T17:15:46.000Z",
+  updatedAt: "2026-10-30T16:36:19.877Z",
 } as const satisfies InstantProperty
