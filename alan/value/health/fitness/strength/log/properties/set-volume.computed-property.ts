@@ -11,15 +11,16 @@ export const setVolume = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A set is worth the load that set moves once for each rep.",
+      statement: "An exercise set is worth the load that exercise set moves once for each rep.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The load a set moves counts the weight once for each implement held.",
+      statement: "The load an exercise set moves counts the weight once for each implement held.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The load a set moves counts the share of the bodyweight the exercise has.",
+      statement:
+        "The load an exercise set moves counts the share of the bodyweight the exercise has.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -32,27 +33,30 @@ export const setVolume = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The movement is reached by the address the set names rather than by a slug.",
+      statement:
+        "The movement is reached by the address the exercise set names rather than by a slug.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A set's volume is not rounded.",
+      statement: "An exercise set's volume is not rounded.",
     },
     {
       decisionKind: "decision-kind/stopgap",
-      statement: "A field the set states nothing for counts as nought rather than refusing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A set is worth the load it moved, whether that set warmed Alan up or worked him.",
+      statement:
+        "A field the exercise set states nothing for counts as nought rather than refusing.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A set carrying no load and a set counting no rep come out at nought on the arithmetic alone.",
+        "An exercise set is worth the load it moved, whether it warmed Alan up or worked him.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An exercise set carrying no load or counting no rep comes out at nought on the arithmetic alone.",
     },
   ],
   types: "ts",
   createdAt: "2026-09-06T17:37:22.361Z",
-  updatedAt: "2026-10-30T17:11:31.598Z",
+  updatedAt: "2026-10-30T17:22:27.006Z",
 } as const satisfies ComputedProperty
