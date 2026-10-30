@@ -262,8 +262,11 @@ function fromBeat(
   if (handed.kind === "review") return reviewedOn(flow, caller, handed, review)
   const found = partOf(handed)
   if ("refused" in found) return found
-  if (caller.role !== found.role) {
-    return { refused: `${STEP_OF[found.part]} hands in this part, from a ${found.role} seat` }
+  const alone = held.oneSeat === true
+  const role = alone ? gameMasterRole.slug : found.role
+  if (caller.role !== role) {
+    const who = alone ? "a one-seat story's game master" : STEP_OF[found.part]
+    return { refused: `${who} hands in this part, from a ${role} seat` }
   }
   const beat = beatOf(handed)
   const unready = readyRefused(flow, found.part, beat)
@@ -376,9 +379,8 @@ function reviewedOn(
 ): Advanced {
   const { reviewer, issues } = handed
   const held = review.held
-  if (caller.role !== reviewerRole.slug) {
-    return { refused: `a review is handed in from a ${reviewerRole.slug} seat` }
-  }
+  const role = held.oneSeat === true ? gameMasterRole.slug : reviewerRole.slug
+  if (caller.role !== role) return { refused: `a review is handed in from a ${role} seat` }
   if (!review.reviewers.includes(reviewer)) {
     return { refused: `\`${reviewer}\` is no story reviewer` }
   }

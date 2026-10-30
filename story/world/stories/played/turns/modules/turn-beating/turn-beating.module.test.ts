@@ -202,6 +202,53 @@ test("a restatement moving a beat before the refused one, or naming another beat
   )
 })
 
+function alone(flow: Beats, more: Parameters<typeof heldAt>[1] = {}) {
+  return heldAt("beats", { flow, beats: flow.beats.length, oneSeat: true, ...more })
+}
+
+test("a one-seat story's game master hands in each step's part of a beat, as its seat would", () => {
+  const changed = movedOf(advanced(alone(STATED), MASTER, numbers(1, { changes: [GAIN] }), TWO))
+  expect([changed.flow?.changes, changed.landsKept]).toEqual([[GAIN], true])
+  const numbered = beatsOf({ beat: 1, event: "One.", changes: [] }, { beat: 2, event: "Two." })
+  const told = movedOf(advanced(alone(numbered), MASTER, { ...PROSE, beat: 1 }, TWO))
+  expect(told.flow?.prose).toEqual([{ beat: 1, prose: "Mara opens the gate." }])
+  const remembering = { kind: "record", recorder: "memory", beat: 1 } as const
+  const written = beatsOf({ beat: 1, event: "One.", changes: [], prose: "One told." })
+  expect(movedOf(advanced(alone(written), MASTER, remembering, TWO)).flow?.none).toContainEqual({
+    beat: 1,
+    part: "memory",
+  })
+})
+
+test("a one-seat story's game master hands in the reviews, each reviewed once", () => {
+  const whole = beatsOf({
+    beat: 1,
+    event: "One.",
+    prose: "One told.",
+    changes: [],
+    memory: [],
+    pictured: [],
+  })
+  const review = { kind: "review", reviewer: VOICE, issues: ["beat 1: too quick"] } as const
+  const held = alone(whole, { reviewedBy: [continuity.slug] })
+  const noted = movedOf(advanced(held, MASTER, review, TWO))
+  expect([noted.status, noted.notes]).toEqual(["player", ["beat 1: too quick"]])
+  const again = alone(whole, { reviewedBy: [VOICE] })
+  expect(refusalOf(advanced(again, MASTER, review, TWO))).toContain("reviewed this turn already")
+})
+
+test("a one-seat story's beat is refused from any seat but its game master's", () => {
+  for (const caller of [WRITER, RECORDER, REVIEWER]) {
+    expect(refusalOf(advanced(alone(STATED), caller, numbers(1), TWO))).toContain(
+      "waits on the game-master seat"
+    )
+  }
+  const early = numbers(2)
+  expect(refusalOf(advanced(alone(STATED), MASTER, early, TWO))).toContain(
+    "beat 1 is the beat ready for the `mechanics` recorder"
+  )
+})
+
 test("a beat named off the beats status is refused", () => {
   const said = advanced(heldAt("writer"), WRITER, { ...PROSE, beat: 1 }, TWO)
   expect(refusalOf(said)).toContain("only while a turn is at beats")

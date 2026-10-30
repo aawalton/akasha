@@ -31,6 +31,10 @@ export const turnBeating = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A one-seat story's game master seat hands in every part of a beat, reviews too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An entry naming another beat than the one handed in is refused.",
     },
     {
@@ -110,5 +114,5 @@ export const turnBeating = {
     },
   ],
   createdAt: "2026-10-27T19:42:57.720Z",
-  updatedAt: "2026-10-28T15:26:39.416Z",
+  updatedAt: "2026-10-30T12:13:03.416Z",
 } as const satisfies Module
