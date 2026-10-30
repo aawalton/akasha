@@ -77,6 +77,26 @@ export const giftedTrial2WorldWomb = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "At four months a hard kick reaches a hand on the belly as a small, sharp thump.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The cult takes a kick against a leader's hand as its demon answering him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Answered so, the man laughs aloud, and the women lay their own hands on the belly to feel it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The man speaks to the child through the belly in Helenian, slow and warm, calling it kerith.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The mother hums a low tune over her belly after a kick, the one she hums each night.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Three voices came through the walls: her mother's, close and soft, and a man's and a woman's.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
     },
@@ -102,5 +122,5 @@ export const giftedTrial2WorldWomb = {
     },
   ],
   createdAt: "2026-10-30T16:36:03.198Z",
-  updatedAt: "2026-10-30T17:08:47.933Z",
+  updatedAt: "2026-10-30T17:10:10.162Z",
 } as const satisfies Place
