@@ -5,7 +5,7 @@ export const topicCoverage = {
   type: "page-type/computed-property",
   slug: "topic-coverage",
   propertySlug: "coverage",
-  definition: "how far Alan has got into a topic and all beneath it",
+  definition: "how far Alan has learned a topic and every topic under that topic",
   holds: "number",
   code: "ts",
   decisions: [
@@ -51,5 +51,5 @@ export const topicCoverage = {
   ],
   types: "ts",
   createdAt: "2026-09-06T18:21:45.808Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:24:36.176Z",
 } as const satisfies ComputedProperty
