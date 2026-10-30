@@ -4,7 +4,7 @@ export const imessageHost = {
   id: "01a05bc9-4308-7001-a41a-2e92dace6248",
   type: "page-type/module",
   slug: "imessage-host",
-  definition: "the machine holding Alan's iMessage history",
+  definition: "the machine that holds Alan's iMessage messages",
   code: "ts",
   decisions: [
     {
@@ -13,5 +13,5 @@ export const imessageHost = {
     },
   ],
   createdAt: "2026-09-01T07:05:11.688Z",
-  updatedAt: "2026-09-22T13:58:57.000Z",
+  updatedAt: "2026-10-30T15:31:23.355Z",
 } as const satisfies Module
