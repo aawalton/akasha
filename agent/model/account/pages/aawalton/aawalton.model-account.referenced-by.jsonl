@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"aawalton.model-account.ts","path":"agent/seat/modules/akasha-read/seat-akasha-read.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"aawalton.model-account.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"registration-account","path":"agent/seat/pages/aelwyn/aelwyn.seat.ts","id":"01a115b8-3fdb-7000-b6c3-6f3accbd4b13"}
+{"propertySlug":"registration-account","path":"agent/seat/pages/aine/aine.seat.ts","id":"01a18d51-4ffe-7167-8ecf-6e9e9060f53e"}
 {"propertySlug":"registration-account","path":"agent/seat/pages/alan/alan.seat.ts","id":"01a0d3f2-4967-7000-827c-676b6015676c"}
 {"propertySlug":"registration-account","path":"agent/seat/pages/amy/amy.seat.ts","id":"01a18391-9072-7560-b73e-11d032ca1d67"}
 {"propertySlug":"registration-account","path":"agent/seat/pages/astra/astra.seat.ts","id":"01a11bee-f399-7000-a705-fdd4e02d8ca0"}
