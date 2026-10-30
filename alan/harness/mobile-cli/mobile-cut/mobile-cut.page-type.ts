@@ -4,7 +4,7 @@ export const mobileCut = {
   id: "019f5141-c410-7cd1-b491-d017f10e568d",
   type: "page-type/page-type",
   slug: "mobile-cut",
-  definition: "a build of an app, and the state of its source tree",
+  definition: "a version of an app and the commits the version was built from",
   extends: ["page-type/page"],
   parts: [
     "instant-property/cut-at",
@@ -45,5 +45,5 @@ export const mobileCut = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-07-11T12:58:12.368Z",
-  updatedAt: "2026-09-22T13:57:00.000Z",
+  updatedAt: "2026-10-30T15:43:37.116Z",
 } as const satisfies PageType
