@@ -5,10 +5,10 @@ export const mainSha = {
   type: "page-type/text-property",
   slug: "main-sha",
   propertySlug: "main-sha",
-  definition: "a cut's commit of the main repo",
+  definition: "the commit of the main repo a mobile cut was built from",
   maxLength: 40,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T17:42:47.583Z",
-  updatedAt: "2026-09-22T13:46:41.000Z",
+  updatedAt: "2026-10-30T15:46:45.307Z",
 } as const satisfies TextProperty
