@@ -4,7 +4,7 @@ export const locationCollection = {
   id: "01a06589-d12e-7daf-abd1-8fb5c89e9127",
   type: "page-type/page-type",
   slug: "location-collection",
-  definition: "places filed under a name",
+  definition: "places that are kept under a name",
   extends: ["page-type/page"],
   parts: ["file-property/location-collection-description"],
   properties: [
@@ -28,5 +28,5 @@ export const locationCollection = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:32:05.934Z",
-  updatedAt: "2026-09-24T19:52:49.000Z",
+  updatedAt: "2026-10-30T15:07:04.335Z",
 } as const satisfies PageType
