@@ -5,9 +5,9 @@ export const context = {
   type: "page-type/select-property",
   slug: "context",
   propertySlug: "context",
-  definition: "what the reading was taken around",
+  definition: "whether a measurement was made before training or after training",
   values: ["warmup", "cooldown", "standalone"],
   types: "ts",
   createdAt: "2026-09-03T03:37:55.177Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:50:15.385Z",
 } as const satisfies SelectProperty
