@@ -8,7 +8,8 @@ export const eat = {
   spellings: [
     { partOfSpeech: "part-of-speech/verb", spelling: "eat" },
     { partOfSpeech: "part-of-speech/verb", spelling: "eats" },
+    { partOfSpeech: "part-of-speech/past-participle", spelling: "eaten" },
   ],
   createdAt: "2026-09-24T23:28:40.442Z",
-  updatedAt: "2026-09-25T15:41:48.000Z",
+  updatedAt: "2026-10-30T16:45:43.046Z",
 } as const satisfies CommonLanguageTerm
