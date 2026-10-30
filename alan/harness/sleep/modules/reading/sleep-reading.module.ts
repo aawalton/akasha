@@ -4,7 +4,7 @@ export const sleepReading = {
   id: "01a069b3-8f5a-7bff-bb12-ccc087280c99",
   type: "page-type/module",
   slug: "sleep-reading",
-  definition: "the hours Alan slept, taken from his day and kept on the sleep readout",
+  definition: "how code reads the hours of sleep in Alan's current day for a readout",
   code: "ts",
   decisions: [
     {
@@ -78,5 +78,5 @@ export const sleepReading = {
     },
   ],
   createdAt: "2026-09-03T23:56:10.458Z",
-  updatedAt: "2026-10-22T14:49:27.960Z",
+  updatedAt: "2026-10-30T16:01:22.574Z",
 } as const satisfies Module
