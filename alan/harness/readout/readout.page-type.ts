@@ -4,7 +4,7 @@ export const readout = {
   id: "01a05446-e760-7cb2-848b-4fcfc7ed45d4",
   type: "page-type/page-type",
   slug: "readout",
-  definition: "a reading a person is shown",
+  definition: "a number a person is shown",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "readout" },
     { partOfSpeech: "part-of-speech/noun", spelling: "readouts" },
@@ -305,5 +305,5 @@ export const readout = {
   schema: "jsonl",
   loadedExport: ["sampler"],
   createdAt: "2026-08-30T20:05:28.032Z",
-  updatedAt: "2026-10-20T11:13:33.784Z",
+  updatedAt: "2026-10-30T16:15:35.365Z",
 } as const satisfies PageType
