@@ -4,7 +4,7 @@ export const oauthClient = {
   id: "01a06d16-f135-7230-acd8-d3d66ea08433",
   type: "page-type/module",
   slug: "oauth-client",
-  definition: "the Google OAuth client built out of the OAuth2 the caller hands in",
+  definition: "how code makes a Google client from the credentials of a Google call",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const oauthClient = {
     },
   ],
   createdAt: "2026-09-04T15:43:35.221Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:26:02.108Z",
 } as const satisfies Module
