@@ -4,7 +4,7 @@ export const upkeepSleep = {
   id: "01a06220-ef8c-700d-ad60-4cf3f17ae1e3",
   type: "page-type/readout",
   slug: "upkeep-sleep",
-  definition: "how long Alan slept last night",
+  definition: "the hours of sleep in Alan's current day",
   reading: {},
   label: "Sleep",
   unit: "hours",
@@ -45,5 +45,5 @@ export const upkeepSleep = {
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "day-row",
   createdAt: "2026-09-02T12:38:40.780Z",
-  updatedAt: "2026-10-20T11:11:19.161Z",
+  updatedAt: "2026-10-30T16:02:02.038Z",
 } as const satisfies Readout
