@@ -5,9 +5,9 @@ export const greenAt = {
   type: "page-type/number-property",
   slug: "green-at",
   propertySlug: "green-at",
-  definition: "the reading at which a scale turns green",
+  definition: "the number the green part of a readout scale starts at",
   max: null,
   types: "ts",
   createdAt: "2026-08-30T20:14:15.028Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T16:07:12.334Z",
 } as const satisfies NumberProperty
