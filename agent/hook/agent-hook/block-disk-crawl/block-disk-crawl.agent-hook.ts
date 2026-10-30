@@ -4,7 +4,7 @@ export const blockDiskCrawl = {
   id: "01a17fbe-b263-7035-ad25-1b6a2bb0532e",
   type: "page-type/agent-hook",
   slug: "block-disk-crawl",
-  definition: "a refusal of a recursive search over the whole disk or the whole home folder",
+  definition: "a refusal of a search through the whole disk or the whole home folder",
   code: "ts",
   test: "ts",
   runsAt: ["PreToolUse"],
@@ -46,5 +46,5 @@ export const blockDiskCrawl = {
     },
   ],
   createdAt: "2026-10-27T23:42:46.370Z",
-  updatedAt: "2026-10-27T23:42:46.370Z",
+  updatedAt: "2026-10-30T14:48:58.580Z",
 } as const satisfies AgentHook
