@@ -23,6 +23,14 @@ export const turnReaching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A notice of a one-seat story reaches its game master seat alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story read here says whether it makes its turns in one seat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A turn moving to beats is told to no seat, since each step is handed its beats.",
     },
     {
@@ -101,5 +109,5 @@ export const turnReaching = {
     },
   ],
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-27T20:16:56.891Z",
+  updatedAt: "2026-10-30T12:14:50.803Z",
 } as const satisfies Module

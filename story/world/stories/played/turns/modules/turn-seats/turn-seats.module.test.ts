@@ -7,6 +7,7 @@ import {
   coordinatorOf,
   flexOf,
   noticedOf,
+  oneSeatOf,
 } from "akasha/story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts"
 
 const GAME = "the-saga"
@@ -46,6 +47,12 @@ test("a notice reaches the game master, the world builder and the writer of its 
 test("a notice of a one-seat story reaches its game master seat alone", () => {
   expect(noticedOf(MASTER, GAME, true)).toEqual([MASTER])
   expect(noticedOf(MASTER, GAME, false)).toHaveLength(3)
+})
+
+test("a story makes its turns in one seat only where it states `one-seat`", () => {
+  expect(oneSeatOf({ turnSeating: "one-seat" })).toBe(true)
+  expect(oneSeatOf({ turnSeating: "seat-graph" })).toBe(false)
+  expect(oneSeatOf({})).toBe(false)
 })
 
 test("a game master spelling no persona is the only seat a notice reaches", () => {

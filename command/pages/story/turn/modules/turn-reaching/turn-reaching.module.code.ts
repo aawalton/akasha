@@ -90,7 +90,10 @@ import {
   type TurnStep,
   WRITER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
-import { noticedOf } from "akasha/story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts"
+import {
+  noticedOf,
+  oneSeatOf,
+} from "akasha/story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 import { storyChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.ts"
 import {
@@ -142,6 +145,7 @@ export type Story = {
   readonly master: string | null
   readonly proseOnBeats?: boolean
   readonly intent?: string | null
+  readonly oneSeat?: boolean
 }
 
 export type Reach = {
@@ -221,7 +225,7 @@ export async function noticesSent(
   const cast = status === WRITER && toRead.length > 0 ? `\n\n${loreLine(toRead, noun)}` : ""
   const story = reach.storyOf(root, game)
   const intent = status === GAME_MASTER ? intentLine(story?.intent) : ""
-  for (const to of noticedOf(master, game)) {
+  for (const to of noticedOf(master, game, story?.oneSeat === true)) {
     const said = noticeOf(turn, status, reach.changedLore(root, to), noun, repairs)
     const more = to === master ? `${toMaster}${intent}` : ""
     const why = await reach.notify(to, `${said}${cast}${more}`)
@@ -287,9 +291,9 @@ function storyIndexed(root: string, game: string): Story | null {
   return {
     title: textAt(value, TITLE) ?? game,
     master: textAt(value, MASTER),
-
     proseOnBeats: value[PROSE_ON_BEATS] === true,
     intent: textAt(value, INTENT),
+    oneSeat: oneSeatOf(value),
   }
 }
 

@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"turn-seating.select-property.ts","path":"story/world/stories/played/properties/turn-seating.select-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"turn-seating.select-property.types.ts","path":"story/world/stories/played/story-played.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"turn-seating.select-property.types.ts","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
 {"propertySlug":"parts","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}

@@ -215,6 +215,38 @@ test("a move to game-master hands the game master the player's intent, and no ot
   expect(into.notices.at(-1)).not.toContain(INTENT)
 })
 
+test("a one-seat story's notice reaches its game master seat alone, as it reads now", async () => {
+  const into = seen()
+  const reach: Reach = {
+    ...pushingReach(into, []),
+    storyOf: () => ({ title: "The Saga", master: MASTER, oneSeat: true }),
+  }
+  const after: Told = { report: [], faults: [] }
+  for (const status of ["world-builder", "game-master", "writer", "reviewers"] as const) {
+    await noticesSent(reach, ROOT, GAME, MASTER, AT, status, after)
+  }
+  expect(into.notices.map((one) => one.slice(0, one.indexOf(":")))).toEqual([
+    MASTER,
+    MASTER,
+    MASTER,
+    MASTER,
+  ])
+  expect(into.notices[0]).toBe(`${MASTER}: ${noticeOf(AT, "world-builder")}`)
+  expect(after.report).toEqual([
+    `told\t${MASTER}`,
+    `told\t${MASTER}`,
+    `told\t${MASTER}`,
+    `told\t${MASTER}`,
+  ])
+})
+
+test("a story stating nothing of its seating tells every seat a notice reaches now", async () => {
+  const into = seen()
+  const after: Told = { report: [], faults: [] }
+  await noticesSent(pushingReach(into, []), ROOT, GAME, MASTER, AT, "world-builder", after)
+  expect(into.notices).toHaveLength(3)
+})
+
 test("a story whose player wrote no intent hands the game master nothing of one", async () => {
   const into = seen()
   const after: Told = { report: [], faults: [] }

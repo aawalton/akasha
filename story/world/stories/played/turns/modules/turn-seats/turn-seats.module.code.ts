@@ -2,8 +2,17 @@ import { gameMaster } from "akasha/agent/role/pages/game-master/game-master.role
 import { roleplay } from "akasha/agent/role/pages/roleplay.role.ts"
 import { worldBuilder } from "akasha/agent/role/pages/world-builder.role.ts"
 import { writer } from "akasha/agent/role/pages/writer.role.ts"
+import type { TurnSeating } from "akasha/story/world/stories/played/properties/turn-seating.select-property.types.ts"
 
 const FLEX = "flex-"
+
+const TURN_SEATING = "turnSeating"
+
+const ONE_SEAT: TurnSeating = "one-seat"
+
+export function oneSeatOf(story: Readonly<Record<string, unknown>>): boolean {
+  return story[TURN_SEATING] === ONE_SEAT
+}
 
 const COORDINATING: readonly string[] = [gameMaster.slug, roleplay.slug]
 
