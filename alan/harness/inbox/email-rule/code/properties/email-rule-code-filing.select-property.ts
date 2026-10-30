@@ -5,7 +5,7 @@ export const emailRuleCodeFiling = {
   type: "page-type/select-property",
   slug: "email-rule-code-filing",
   propertySlug: "filing",
-  definition: "whether a piece of mail the rule matches leaves the inbox",
+  definition: "whether an email rule removes each email that matches the rule from the inbox",
   values: ["archive", "skip"],
   decisions: [
     {
@@ -19,5 +19,5 @@ export const emailRuleCodeFiling = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:45:38.719Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:40:33.961Z",
 } as const satisfies SelectProperty
