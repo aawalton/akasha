@@ -4,7 +4,7 @@ export const trainingWeek = {
   id: "01a0b6ed-9dd8-7ed5-a746-300f4c03dd98",
   type: "page-type/module",
   slug: "training-week",
-  definition: "the sets a trailing week of training held, counted by muscle and by pattern",
+  definition: "the exercise sets a week holds for each muscle and for each movement pattern",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -35,5 +35,5 @@ export const trainingWeek = {
     },
   ],
   createdAt: "2026-09-18T23:50:20.888Z",
-  updatedAt: "2026-10-30T17:28:53.229Z",
+  updatedAt: "2026-10-30T17:45:01.708Z",
 } as const satisfies Module
