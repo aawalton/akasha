@@ -4,7 +4,7 @@ export const monarchRuleDocuments = {
   id: "01a06866-06f1-762e-b1c3-4910e1884927",
   type: "page-type/module",
   slug: "monarch-rule-documents",
-  definition: "the category rules, read from the pages inside akasha",
+  definition: "how code reads the category rules from their pages",
   code: "ts",
   decisions: [
     {
@@ -52,5 +52,5 @@ export const monarchRuleDocuments = {
     },
   ],
   createdAt: "2026-09-03T17:51:52.049Z",
-  updatedAt: "2026-09-24T18:54:22.000Z",
+  updatedAt: "2026-10-30T15:45:24.484Z",
 } as const satisfies Module
