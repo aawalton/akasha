@@ -4,8 +4,7 @@ export const subagentRecovering = {
   id: "01a08d67-3a64-7f77-bb80-0d2661de12d7",
   type: "page-type/module",
   slug: "subagent-recovering",
-  definition:
-    "what a subagent left beside its page, moved between that page and the seat that dispatched it",
+  definition: "how code moves the files of a subagent between its page and its seat",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -191,5 +190,5 @@ export const subagentRecovering = {
     },
   ],
   createdAt: "2026-09-10T22:19:07.748Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:44:48.871Z",
 } as const satisfies Module
