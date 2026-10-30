@@ -5,7 +5,7 @@ export const focusTags = {
   type: "page-type/select-property",
   slug: "focus-tags",
   propertySlug: "focus-tags",
-  definition: "which training focuses a note reaches",
+  definition: "the kinds of training a note guides",
   values: [
     "push",
     "pull",
@@ -20,5 +20,5 @@ export const focusTags = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:15:54.368Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:54:50.382Z",
 } as const satisfies SelectProperty
