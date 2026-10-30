@@ -9,7 +9,7 @@ export const costReading = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is taken on the workstation with the checkout.",
+      statement: "The number is taken on the workstation with the checkout.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -25,15 +25,15 @@ export const costReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No open session is no reading.",
+      statement: "No open session is no number.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An open session missing either level is no reading.",
+      statement: "An open session missing either level is no number.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run of this file takes a reading.",
+      statement: "A run of this file takes a number.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -45,13 +45,13 @@ export const costReading = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Importing this file takes no reading.",
+      statement: "Importing this file takes no number.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here decides when a reading is due.",
+      statement: "Nothing here decides when a number is due.",
     },
   ],
   createdAt: "2026-09-10T13:58:15.740Z",
-  updatedAt: "2026-10-30T15:34:50.716Z",
+  updatedAt: "2026-10-30T17:14:56.657Z",
 } as const satisfies Module
