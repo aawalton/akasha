@@ -4,7 +4,7 @@ export const chessGame = {
   id: "01a06582-bd62-7ffe-a236-e510097e9b91",
   type: "page-type/page-type",
   slug: "chess-game",
-  definition: "a game of chess played out to its end",
+  definition: "a whole game of chess",
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: [
@@ -84,5 +84,5 @@ export const chessGame = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-25T16:33:41.000Z",
+  updatedAt: "2026-10-30T15:06:52.030Z",
 } as const satisfies PageType
