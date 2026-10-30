@@ -4,7 +4,7 @@ export const dayOpening = {
   id: "01a069c3-a82a-798b-b746-3c9dfa4f21fc",
   type: "page-type/module",
   slug: "day-opening",
-  definition: "which day an instant falls in, counted from the moment Alan's day opens",
+  definition: "the day an instant belongs to where each day starts when Alan's day opens",
   code: "ts",
   decisions: [
     {
@@ -47,5 +47,5 @@ export const dayOpening = {
   ],
   test: "ts",
   createdAt: "2026-09-04T00:13:45.386Z",
-  updatedAt: "2026-09-24T18:44:05.000Z",
+  updatedAt: "2026-10-30T16:46:57.038Z",
 } as const satisfies Module
