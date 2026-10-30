@@ -5,9 +5,9 @@ export const lifeThemeStatus = {
   type: "page-type/select-property",
   slug: "life-theme-status",
   propertySlug: "life-theme-status",
-  definition: "how far along a life theme is",
+  definition: "the progress of a life theme",
   values: ["up-next", "current-focus", "in-progress", "done"],
   types: "ts",
   createdAt: "2026-09-03T04:10:11.520Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:28:45.278Z",
 } as const satisfies SelectProperty
