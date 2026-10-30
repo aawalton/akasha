@@ -4,7 +4,7 @@ export const alanWebApiSeatNotice = {
   id: "01a16ffe-1c42-741d-974e-7343d9f61274",
   type: "page-type/route",
   slug: "alan-web-api-seat-notice",
-  definition: "where the signed-in person chooses to be told a seat's replies have finished",
+  definition: "the notice a person chooses for a seat",
   code: "ts",
   urlPath: "api/seat/notice",
   decisions: [
@@ -31,5 +31,5 @@ export const alanWebApiSeatNotice = {
     },
   ],
   createdAt: "2026-10-24T22:18:06.785Z",
-  updatedAt: "2026-10-24T22:42:11.888Z",
+  updatedAt: "2026-10-30T17:01:07.338Z",
 } as const satisfies Route
