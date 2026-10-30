@@ -1,5 +1,7 @@
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/be.common-language-term.ts","id":"01a0c9a3-44b0-7872-957d-4421e3f86a5b"}
 {"propertySlug":"parts","path":"domain/plain-language/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
+{"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/be-verb-with-a-degree-adverb-and-a-to-clause.construction.ts","id":"01a18d7f-9ecd-773f-8c4c-1b8a1bb9879c"}
+{"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/be-verb-with-a-degree-adverb-and-an-adjective.construction.ts","id":"01a18d7f-9ecd-78c6-895e-5cc4e2e06b1a"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/be-verb-with-a-negator-and-a-noun-phrase.construction.ts","id":"01a0d987-dcb1-79e7-802f-72d5dcd8b881"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/be-verb-with-a-negator-and-a-past-participle.construction.ts","id":"01a18d6d-e8e5-7462-ac8b-fdc24ef503af"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/be-verb-with-a-past-participle-and-a-manner-adverb.construction.ts","id":"01a0d8f4-3908-7119-bbaa-a40657c4b370"}
