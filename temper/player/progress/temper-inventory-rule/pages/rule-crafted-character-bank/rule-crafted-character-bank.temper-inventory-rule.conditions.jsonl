@@ -2,3 +2,4 @@
 {"id":"01a18472-c26d-71ca-baa6-64e7d5ee90b4","conditionField":"temper-condition-field/location","conditionValue":"[\"backpack\"]"}
 {"id":"01a18472-c26d-7e10-8c06-09541ff9ec84","conditionField":"temper-condition-field/is-target-equip","conditionValue":"not-target-equip"}
 {"id":"01a18472-c26d-7914-8d46-819fb5d61e55","conditionField":"temper-condition-field/stolen","conditionValue":"not-stolen"}
+{"id":"01a18cfe-edf7-7087-a78b-6791cdbf5ef3","conditionField":"temper-condition-field/daily-writ-needed","conditionValue":"not-daily-writ-needed"}
