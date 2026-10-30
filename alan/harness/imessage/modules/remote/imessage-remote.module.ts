@@ -4,7 +4,8 @@ export const imessageRemote = {
   id: "01a05bc9-4308-7005-8e21-1d68ebecb94c",
   type: "page-type/module",
   slug: "imessage-remote",
-  definition: "message and contact reads carried to the machine with them",
+  definition:
+    "how code reads iMessage messages and the address book on the machine that holds the messages",
   code: "ts",
   decisions: [
     {
@@ -21,5 +22,5 @@ export const imessageRemote = {
     },
   ],
   createdAt: "2026-09-01T07:05:11.688Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:33:36.361Z",
 } as const satisfies Module
