@@ -28,6 +28,7 @@ export const storyTurnPlayed = {
     "text-property/cover-after",
     "module/turn-roleplaying",
     "module/turn-beating",
+    "module/turn-showing",
     "instant-property/turn-interrupts-at",
     "boolean-property/memory-owed",
   ],
@@ -195,5 +196,5 @@ export const storyTurnPlayed = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T00:47:51.415Z",
-  updatedAt: "2026-10-30T14:38:51.533Z",
+  updatedAt: "2026-10-30T15:01:33.594Z",
 } as const satisfies PageType

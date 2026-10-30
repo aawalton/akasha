@@ -4374,6 +4374,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-queueing/turn-queueing.module.ts","id":"01a17f97-e01f-7558-b225-10534883a0ff"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-roleplaying/turn-roleplaying.module.ts","id":"01a14b00-94c7-72f8-aece-431c20608f99"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.ts","id":"01a0e30b-7f83-7984-9180-2a2282b3cf3d"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-showing/turn-showing.module.ts","id":"01a18d54-971b-74f4-8fba-609fd2187abf"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-waiting/turn-waiting.module.ts","id":"01a14ad9-e67e-7b5e-88b6-eea2aa0e3fbc"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/properties/cover-after.text-property.ts","id":"01a0fd9f-af7d-7831-acab-f94772b0ab69"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/properties/memory-owed.boolean-property.ts","id":"01a18d3f-ce8f-7d0d-a4c3-dd8f7431fc72"}

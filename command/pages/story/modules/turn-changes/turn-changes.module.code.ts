@@ -40,10 +40,6 @@ import {
 } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import type { Planned } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
-import {
-  changesShown,
-  changesUnshown,
-} from "akasha/story/world/stories/played/turns/modules/turn-beating/turn-beating.module.code.ts"
 import { typeOf } from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
 import {
   BEATS as FLOWING,
@@ -55,6 +51,10 @@ import {
   type TurnStep,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { changesMerged } from "akasha/story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.code.ts"
+import {
+  changesShown,
+  changesUnshown,
+} from "akasha/story/world/stories/played/turns/modules/turn-showing/turn-showing.module.code.ts"
 import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
 
 const BEATS = exportedAs(beatsFile.propertySlug)

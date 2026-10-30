@@ -2,7 +2,6 @@ import { gameMaster as gameMasterRole } from "akasha/agent/role/pages/game-maste
 import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.ts"
 import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { writer as writerRole } from "akasha/agent/role/pages/writer.role.ts"
-import type { BeatChange } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import {
   doneBy,
   type FlowPart,
@@ -36,7 +35,6 @@ import {
   PLAYER,
   published,
   type Start,
-  type TurnStep,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import {
   beatsRefused,
@@ -315,28 +313,6 @@ function steppedJobsOf(before: readonly Beats[], after: readonly Beats[]): reado
 
 export function recorderOf(part: FlowPart): string | null {
   return Object.entries(RECORDED).find(([, listed]) => listed === part)?.[0] ?? null
-}
-
-export function changesUnshown(held: Held): readonly BeatChange[] {
-  const flow = held.flow
-  if (held.status !== BEATS || flow === undefined) return held.changes ?? []
-  const shown = shownThrough(flow)
-  return flow.changes.filter((one) => one.beat > shown)
-}
-
-export function changesShown(
-  held: Held,
-  status: TurnStep,
-  after: Beats | null
-): readonly BeatChange[] {
-  const before = held.flow
-  if (held.status !== BEATS || before === undefined) {
-    return status === PLAYER ? (held.changes ?? []) : []
-  }
-  if (after === null) return []
-  const from = shownThrough(before)
-  const to = shownThrough(after)
-  return after.changes.filter((one) => one.beat > from && one.beat <= to)
 }
 
 type Reviewing = { readonly held: Held; readonly reviewers: readonly string[] }

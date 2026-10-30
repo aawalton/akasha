@@ -4,8 +4,6 @@ import type { Beats } from "akasha/story/engine/beat-state/modules/beat-records/
 import { continuity } from "akasha/story/reviewer/pages/continuity.story-reviewer.ts"
 import {
   beatJobsOf,
-  changesShown,
-  changesUnshown,
   flowsOn,
   recorderOf,
 } from "akasha/story/world/stories/played/turns/modules/turn-beating/turn-beating.module.code.ts"
@@ -113,21 +111,6 @@ test("a turn's reviewers are handed it once its last beat is shown, and their no
   const noted = movedOf(advanced(held, REVIEWER, review, TWO))
   expect([noted.status, noted.notes, noted.flow]).toEqual(["player", ["beat 1: too quick"], whole])
   expect(refusalOf(advanced(flowing(last), REVIEWER, review, TWO))).toContain("last beat is shown")
-})
-
-const ENTRY = { page: "metric/xp", key: "value", from: 1, to: 2, note: "+1" }
-
-const LATER = { ...ENTRY, from: 2, to: 3 }
-
-test("only the changes of beats a move shows reach their pages, once", () => {
-  const one = { beat: 1, event: "One.", changes: [ENTRY], prose: "One told." }
-  const before = beatsOf(one, { beat: 2, event: "Two.", changes: [LATER] })
-  const after = beatsOf(one, { beat: 2, event: "Two.", changes: [LATER], prose: "Two told." })
-  const later = { beat: 2, ...LATER }
-  expect(changesShown(flowing(before), "beats", after)).toEqual([later])
-  expect(changesShown(flowing(before), "player", null)).toEqual([])
-  expect(changesUnshown(flowing(before))).toEqual([later])
-  expect(changesShown(heldAt("recorders", { changes: [GAIN] }), "player", null)).toEqual([GAIN])
 })
 
 test("a hand-in hands each step the beat it made ready, and nothing to a step still busy", () => {
