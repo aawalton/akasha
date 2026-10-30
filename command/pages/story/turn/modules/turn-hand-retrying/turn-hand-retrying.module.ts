@@ -25,7 +25,15 @@ export const turnHandRetrying = {
       decisionKind: "decision-kind/departure",
       statement: "So a story's seats unset for a moment never leave a ready beat unhanded.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A one-seat story's hand-in hands no beat to any seat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reviewer's notes on a one-seat story's turn reach its game master seat alone.",
+    },
   ],
   createdAt: "2026-10-27T23:58:17.338Z",
-  updatedAt: "2026-10-27T23:58:17.338Z",
+  updatedAt: "2026-10-30T12:19:32.142Z",
 } as const satisfies Module

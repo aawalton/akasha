@@ -86,7 +86,11 @@ export const turnBeatHanding = {
       decisionKind: "decision-kind/departure",
       statement: "A reviewer's notes on a turn at beats go to the game master and writer seats.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A one-seat story's beats go to no seat, and its notes to its game master seat.",
+    },
   ],
   createdAt: "2026-10-27T19:54:42.651Z",
-  updatedAt: "2026-10-27T23:58:17.338Z",
+  updatedAt: "2026-10-30T12:19:32.142Z",
 } as const satisfies Module

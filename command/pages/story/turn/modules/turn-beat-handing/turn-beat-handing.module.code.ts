@@ -18,7 +18,9 @@ import {
   storyIndexed,
 } from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
 import {
+  handedOut,
   masterOf,
+  notedOf,
   startedAgain,
 } from "akasha/command/pages/story/turn/modules/turn-hand-retrying/turn-hand-retrying.module.code.ts"
 import type { Starting } from "akasha/command/pages/story/turn/modules/turn-job-handing/turn-job-handing.module.code.ts"
@@ -48,7 +50,6 @@ import { inventory } from "akasha/story/recorder/pages/inventory.story-recorder.
 import { plan } from "akasha/story/recorder/pages/plan.story-recorder.ts"
 import {
   type BeatJob,
-  beatJobsOf,
   recorderOf,
 } from "akasha/story/world/stories/played/turns/modules/turn-beating/turn-beating.module.code.ts"
 import {
@@ -312,13 +313,13 @@ export async function beatsHanded(
   const now = flowing.map((one) => one.beats)
   const was = held.status === BEATS ? (held.flow ?? NO_BEATS) : NO_BEATS
   const before = flowing.map((one, index) => (one.slug === slug ? was : (now[index] ?? NO_BEATS)))
-  await notesTold(reach, at, [master, `${persona}-${writerRole.slug}-${at.game}`], said, after)
+  await notesTold(reach, at, notedOf(at, seated), said, after)
   const turnNow = flowing.find((one) => one.slug === slug)?.beats ?? NO_BEATS
   const waiting = rememberedNow(was, turnNow) ? waitingAfter(story, slug) : null
   if (waiting !== null) {
     await noticesSent(reach, root, held.game, master, waiting, WORLD_BUILDER, after)
   }
-  for (const job of beatJobsOf(before, now)) {
+  for (const job of handedOut(at, before, now)) {
     const turn = flowing[job.turn]
     if (turn === undefined) continue
     const asked = {
