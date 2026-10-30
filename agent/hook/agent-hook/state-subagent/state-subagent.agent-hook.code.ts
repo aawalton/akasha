@@ -5,12 +5,16 @@ import {
 } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 import { readsFileAt, seatIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { HOOK_SECONDS } from "akasha/agent/seat/supervisor/seat-agent-start/modules/agent-hook-registration/agent-hook-registration.module.code.ts"
-import { seatNamedIn } from "akasha/agent/subagent/modules/page-asking/subagent-page-asking.module.code.ts"
+import {
+  saidIn,
+  seatNamedIn,
+} from "akasha/agent/subagent/modules/page-asking/subagent-page-asking.module.code.ts"
 import { agentIdOf } from "akasha/agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts"
 import {
   puttingUp,
   takingDown,
 } from "akasha/agent/subagent/modules/presence/subagent-presence.module.code.ts"
+import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 
 const HOOK = "state-subagent"
@@ -45,6 +49,8 @@ export const SCOPE: readonly string[] = [
   "  a start stops waiting once the landing ends, filed or not, and past the wait lets it begin",
   "  the landing is left to finish either way, and the subagent's first read waits on its own",
   "  what that landing says goes to a log in the seat's own folder, so a refusal there is kept",
+  "  the landing runs outside this hook's processes, so a hook ended at its timeout leaves it running",
+  "  a start or a stop that threw says why in that log",
   "",
   "WHERE THE RULE COMES FROM: what a seat's subagents are doing is read from what is there,",
   "a seat is stopped or restarted against that reading. Without a page put up and taken away,",
@@ -156,7 +162,10 @@ async function ranAsStating(
   }
   try {
     await stated(env, await Bun.stdin.text(), rootOf(at))
-  } catch {
+  } catch (thrown) {
+    const seat = seatIn(env)
+    const why = saidBy(thrown)
+    if (seat !== null) saidIn(seat, `${HOOK} threw, so no landing may have been asked for — ${why}`)
     return ASIDE
   }
   return ASIDE

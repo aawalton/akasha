@@ -23,6 +23,7 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-claude-spawn/supervisor-claude-spawn.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/seat/supervisor/supervisor-stop/modules/supervisor-terminal/supervisor-terminal.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/subagent/modules/page-asking/subagent-page-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"alan/harness/mobile-cli/modules/git-tree-hash/git-tree-hash.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"alan/harness/reminder-system/reminder/modules/sending/reminder-sending.module.code.ts","typed":false,"deferred":false}

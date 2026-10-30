@@ -108,6 +108,7 @@
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/body/subagent-body.module.ts","id":"01a095a9-3597-76ca-9721-8a3f5de0de1f"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/landing-again/subagent-landing-again.module.ts","id":"01a0950c-f75d-7a61-8566-0fd55b934e22"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/liveness/subagent-liveness.module.ts","id":"01a095c9-cdd5-7d0e-9723-b8cd507adbe8"}
+{"propertySlug":"decision-kind","path":"agent/subagent/modules/page-asking/subagent-page-asking.module.ts","id":"01a0d6cf-cc39-7c30-868c-f29c9adff316"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/page/subagent-page.module.ts","id":"01a06983-278f-74cd-aa22-89b32f80e5e4"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/pageless/subagent-pageless.module.ts","id":"01a0951d-933c-768f-a4e9-51a54ceda87a"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/presence/subagent-presence.module.ts","id":"01a0598f-18dd-77f7-94be-779f0df14af9"}

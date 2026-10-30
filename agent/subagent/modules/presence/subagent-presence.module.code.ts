@@ -18,7 +18,9 @@ import {
 } from "akasha/agent/subagent/modules/outliving/subagent-outliving.module.code.ts"
 import {
   askingAt,
+  lineFor,
   type Running,
+  stampedAt,
   WRITING,
 } from "akasha/agent/subagent/modules/page-asking/subagent-page-asking.module.code.ts"
 import { subagentPageInHistory } from "akasha/agent/subagent/modules/page-history/subagent-page-history.module.code.ts"
@@ -61,8 +63,6 @@ import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 export const TAKING = "take"
 
 const SWEEPING = "sweep"
-
-const CALLED_AS = "subagent-presence"
 
 const ASSIGNMENT = "assignmentSlug"
 
@@ -262,25 +262,6 @@ export function sweeping(
   baseDir?: string
 ): undefined {
   asking(root, seatId, [SWEEPING, seatName, why], baseDir)
-}
-
-function padded(held: number, wide = 2): string {
-  return String(held).padStart(wide, "0")
-}
-
-export function stampedAt(when: Date): string {
-  const off = -when.getTimezoneOffset()
-  const held = Math.abs(off)
-  return (
-    `${String(when.getFullYear())}-${padded(when.getMonth() + 1)}-${padded(when.getDate())}` +
-    `T${padded(when.getHours())}:${padded(when.getMinutes())}:${padded(when.getSeconds())}` +
-    `.${padded(when.getMilliseconds(), 3)}${off < 0 ? "-" : "+"}` +
-    `${padded(Math.floor(held / 60))}:${padded(held % 60)}`
-  )
-}
-
-export function lineFor(why: string): string {
-  return `${CALLED_AS}: ${why}`
 }
 
 function saying(why: string): number {

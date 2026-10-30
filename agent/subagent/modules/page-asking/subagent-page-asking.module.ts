@@ -15,6 +15,19 @@ export const subagentPageAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The program that lands the page runs outside every process under the call that asked.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A hook past its timeout is ended with every process under that hook.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An ask that cannot start that program says why in the seat's log.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An ask answers whether the program it started has ended.",
     },
     {
@@ -52,5 +65,5 @@ export const subagentPageAsking = {
     },
   ],
   createdAt: "2026-09-25T04:25:37.593Z",
-  updatedAt: "2026-10-30T14:50:52.233Z",
+  updatedAt: "2026-10-30T16:20:41.028Z",
 } as const satisfies Module

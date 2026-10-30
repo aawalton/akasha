@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { existsSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import {
   type Asking,
   askedBack,
@@ -81,6 +83,73 @@ test("an ask answers whether the program it started has ended", async () => {
     const until = Date.now() + 5_000
     while (!running.ended() && Date.now() < until) await Bun.sleep(20)
     expect(running.ended()).toBe(true)
+  })
+})
+
+function treeUnder(pid: number): readonly number[] {
+  const under = new Map<number, number[]>()
+  for (const name of readdirSync("/proc")) {
+    if (!/^\d+$/.test(name)) continue
+    let stat: string
+    try {
+      stat = readFileSync(`/proc/${name}/stat`, "utf8")
+    } catch {
+      continue
+    }
+    const parent = Number(stat.slice(stat.lastIndexOf(")") + 2).split(" ")[1])
+    under.set(parent, [...(under.get(parent) ?? []), Number(name)])
+  }
+  const found: number[] = []
+  const left = [pid]
+  for (let one = left.shift(); one !== undefined; one = left.shift()) {
+    found.push(one)
+    left.push(...(under.get(one) ?? []))
+  }
+  return found
+}
+
+const ASKING_AT = join(import.meta.dir, "subagent-page-asking.module.code.ts")
+
+test("a program asked for outlives the asker and every process under it being killed", async () => {
+  await underSeat(async (root) => {
+    const landed = join(root, "landed")
+    const program = join(root, "landing.code.ts")
+    writeFileSync(program, `await Bun.sleep(500)\nawait Bun.write(${JSON.stringify(landed)}, "")\n`)
+    const asker = join(root, "asker.code.ts")
+    writeFileSync(
+      asker,
+      `import { askingAt } from ${JSON.stringify(ASKING_AT)}\n` +
+        `askingAt(${JSON.stringify(program)}, ${JSON.stringify(root)}, ${JSON.stringify(SEAT_ID)}, [], ${JSON.stringify(root)})\n` +
+        `process.stdout.write("asked\\n")\nawait Bun.sleep(30_000)\n`
+    )
+    const child = Bun.spawn([process.execPath, asker], { stdout: "pipe", stderr: "ignore" })
+    await child.stdout.getReader().read()
+    for (const pid of treeUnder(child.pid)) {
+      try {
+        process.kill(pid, "SIGKILL")
+      } catch {}
+    }
+    await child.exited
+    const until = Date.now() + 10_000
+    while (!existsSync(landed) && Date.now() < until) await Bun.sleep(50)
+    expect(existsSync(landed)).toBe(true)
+  })
+}, 20_000)
+
+test("an ask that cannot start the program says why in the seat's log", async () => {
+  await underSeat(async (root) => {
+    const at = join(root, "nothing-here.code.ts")
+    const running = askingAt(
+      at,
+      join(root, "no-such-folder"),
+      SEAT_ID,
+      [WRITING, "akasha", OWN],
+      root
+    )
+    expect(running.ended()).toBe(true)
+    expect(readFileSync(logPathOf(SEAT_ID, root), "utf8")).toContain(
+      `subagent-presence: ${WRITING} akasha ${OWN} — the program landing the page did not start`
+    )
   })
 })
 

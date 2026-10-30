@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"said-by.module.code.ts","path":"agent/hook/agent-hook/state-subagent/state-subagent.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"agent/hook/modules/links/hook-links.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"agent/model/account/modules/credential-file/model-account-credential-file.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"agent/model/account/modules/credential-push/model-account-credential-push.module.code.ts","typed":false,"deferred":false}
@@ -12,6 +13,7 @@
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"agent/model/gateway/modules/gateway-serving/gateway-serving.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"agent/seat/observation/seat-turn/modules/pending/seat-turn-pending.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"said-by.module.code.ts","path":"agent/subagent/modules/page-asking/subagent-page-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"alan/collection/great-courses/browser-extensions/watching/great-courses-watching.browser-extension.extension-worker.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"alan/collection/great-courses/modules/lecture-watching/lecture-watching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"alan/collection/watching/browser-extensions/streaming-watching.browser-extension.extension-worker.code.ts","typed":false,"deferred":false}

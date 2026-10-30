@@ -1,4 +1,5 @@
-import { closeSync, existsSync, mkdirSync, openSync } from "node:fs"
+import { spawn } from "node:child_process"
+import { appendFileSync, closeSync, existsSync, mkdirSync, openSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { SUBAGENT_MARK } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import {
@@ -11,6 +12,8 @@ import {
   pathIn,
   slugOf,
 } from "akasha/agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts"
+import { endingOf, ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import {
   indexThere,
   listedAt,
@@ -30,21 +33,56 @@ const CODE = "code"
 
 const TS = "ts"
 
+const CALLED_AS = "subagent-presence"
+
+const APART = "--apart"
+
+const NOT_STARTED = "the program landing the page did not start"
+
 export function logPathOf(seatId: string, baseDir?: string): string {
   return join(baseDir ?? supervisorsRootDir(), seatId, LOG_AT)
 }
 
-function loggingTo(seatId: string, baseDir: string | undefined): number | null {
+function padded(held: number, wide = 2): string {
+  return String(held).padStart(wide, "0")
+}
+
+export function stampedAt(when: Date): string {
+  const off = -when.getTimezoneOffset()
+  const held = Math.abs(off)
+  return (
+    `${String(when.getFullYear())}-${padded(when.getMonth() + 1)}-${padded(when.getDate())}` +
+    `T${padded(when.getHours())}:${padded(when.getMinutes())}:${padded(when.getSeconds())}` +
+    `.${padded(when.getMilliseconds(), 3)}${off < 0 ? "-" : "+"}` +
+    `${padded(Math.floor(held / 60))}:${padded(held % 60)}`
+  )
+}
+
+export function lineFor(why: string): string {
+  return `${CALLED_AS}: ${why}`
+}
+
+export function saidIn(seatId: string, why: string, baseDir?: string): undefined {
   const at = logPathOf(seatId, baseDir)
   try {
     mkdirSync(dirname(at), { recursive: true })
-    return openSync(at, "a")
-  } catch {
-    return null
-  }
+    appendFileSync(at, `${stampedAt(new Date())} ${lineFor(why)}\n`)
+  } catch {}
+  return undefined
 }
 
 export type Running = { readonly ended: () => boolean }
+
+const ENDED: Running = { ended: () => true }
+
+function alive(pid: number): boolean {
+  try {
+    process.kill(pid, 0)
+    return true
+  } catch (thrown) {
+    return (thrown as { readonly code?: unknown }).code === "EPERM"
+  }
+}
 
 export function askingAt(
   program: string,
@@ -53,16 +91,44 @@ export function askingAt(
   args: readonly string[],
   baseDir?: string
 ): Running {
-  const fd = loggingTo(seatId, baseDir)
+  const at = logPathOf(seatId, baseDir)
+  const asked = args.join(" ")
   try {
-    const child = Bun.spawn([process.execPath, program, root, ...args], {
+    mkdirSync(dirname(at), { recursive: true })
+    const handed = ran([process.execPath, import.meta.path, APART, at, program, root, ...args], {
       cwd: root,
-      stdin: "ignore",
-      stdout: fd ?? "ignore",
-      stderr: fd ?? "ignore",
+    })
+    const pid = Number(handed.out.trim())
+    if (handed.code === 0 && Number.isInteger(pid) && pid > 0) {
+      return { ended: () => !alive(pid) }
+    }
+    const why = handed.err.trim() || endingOf(handed.code, handed.signal)
+    saidIn(seatId, `${asked} — ${NOT_STARTED}: ${why}`, baseDir)
+  } catch (thrown) {
+    saidIn(seatId, `${asked} — ${NOT_STARTED}: ${saidBy(thrown)}`, baseDir)
+  }
+  return ENDED
+}
+
+function startedApart(argv: readonly string[]): number {
+  const at = argv[3]
+  const program = argv[4]
+  const root = argv[5]
+  if (at === undefined || program === undefined || root === undefined) return 1
+  let fd: number | null = null
+  try {
+    fd = openSync(at, "a")
+  } catch {}
+  try {
+    const child = spawn(process.execPath, [program, root, ...argv.slice(6)], {
+      cwd: root,
+      detached: true,
+      stdio: ["ignore", fd ?? "ignore", fd ?? "ignore"],
     })
     child.unref()
-    return { ended: () => child.exitCode !== null || child.signalCode !== null }
+    if (child.pid === undefined) return 1
+    process.stdout.write(`${String(child.pid)}\n`)
+    return 0
   } finally {
     if (fd !== null) closeSync(fd)
   }
@@ -106,3 +172,5 @@ export function askedBack(root: string, agentId: string, asking: Asking = asking
   asking(root, seatId, [WRITING, seatName, own, "", seatId, String(Date.now())])
   return true
 }
+
+if (import.meta.main && Bun.argv[2] === APART) process.exit(startedApart(Bun.argv))
