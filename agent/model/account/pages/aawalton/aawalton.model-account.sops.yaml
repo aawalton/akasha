@@ -1,17 +1,17 @@
-access-token: ENC[AES256_GCM,data:G8V2cGBWfYc085grEZPRH+1ufwYwrgVfjSRKcovdUOS5XnvKp6/HR/+yoJye/WxjLv7PgKQNTd2I0/KukzQapIm3Z/O+ESvgPwknZCJdC2SWCFDf6RjuvtsYsno40M4srHeV0oUJsvRDLLWn,iv:2+nexFarCQysRPibFppML2uZegtAK5Lj8PySnDgq1xI=,tag:7ZQsUAw6d76I04ZU39O3+w==,type:str]
-refresh-token: ENC[AES256_GCM,data:HGAxpjwRoPdFRN2xEWBcN2bixUCo0pgrfVlhAMejeeB5qxPHtcSdjYESUXwLqORmhVxsBKAvLEHrflcjVCwSLhgKeD+hIEWbgJniBPG32MGNwK09UraKwPhJqG+HgnjdnEA2v4Pq6JflWINd,iv:OzwgKmIkZdVNLKv4SboaqJuvtECa7Sb7Zz+LP4kTPVE=,tag:4l3SLFrz3ukANuFon8ydVA==,type:str]
+access-token: ENC[AES256_GCM,data:7wQDLFjvS7R4zgvdOLpXTa6WZG2ZuKP+nElJarLQiYYXtcEm63pRu4nzahm7x0QoPVOTRpD3rvzNT1D98XsWGtWBp2aKTrDN3bWAv3Sy5lz3zB18vVleCEv0ctxO532hiPxzi6fDbcVaTO3D,iv:Xp98TLJRx15oEFZH5p1rjU63vQYb7wneSDqoOei58Oc=,tag:nQ+/h/2RKqqJDJ7Hscf9zQ==,type:str]
+refresh-token: ENC[AES256_GCM,data:H3upxir4LDXDAs3CMtj2eg+lLF9sS9rssZwAxYhaaF7lFaf0jKsy1Z+8O2BgR//e3O10bR5bPTMvMei+agLgEDoQkvXDpqEOKADjUAfBZdho4tblxT+/r5Zcl70hq8oZ1ZL8HkWWz8SFI51E,iv:WCuIO7IYTPYVPPz/u6QthJjUHDhjY40/qarF58uqSsw=,tag:rDuIxaV7ohbZjrH1QmMxWg==,type:str]
 sops:
     age:
         - enc: |
             -----BEGIN AGE ENCRYPTED FILE-----
-            YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSByVjVhQm5HbitFYkdJdFk3
-            Y092RUxWOUZ5MEh1dy9abXROaUFXWnNrb0FRCmhCWXFsajdROE5laDRQRHByVzJm
-            RUVSRHliZVozQVBBUTZaVDlScGJETVkKLS0tIERUekJ6M0VtYWxVeHdCaWE0Ym5s
-            Q1B6Ulc5ZmZlbUNiclVIR1c3SW5rbVkKc5pQTxzw1vNOgxrespWPCrnEiNCNKTDx
-            GAuLJvy5kW6hguGGciV88b/X8zQ1SRKwHqXnI7V/oqDwayAcjI10XA==
+            YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSB4NUZBTmlhWE43bjVvYjNV
+            VFNxckVPREVqb3d6U0ZsUituZ3l2NW41eDJjCkdiMmI2UEplRE84OFQvQlFPY3BV
+            MCt4cmQ0R1E1MFVUcXU2QTRjSXF2OUkKLS0tIFN1TC9ZbnA3dTFwSHNHbkM0ZklG
+            a1hadHBzNWduZVRuR3d3Y3luSE1LT1kKTI6YCCqgGsHTJf1GD2JIG+bbm4eXrXFl
+            3QchTbRqLPpCpo5qbEtcjr0b1ViGc/F1lj6M2ImCnbwTsMJHihMsww==
             -----END AGE ENCRYPTED FILE-----
           recipient: age1g23777pz5n0hm7umfm7a8vhl8sk2e4k8zwk8ht7j86fpssky0geqeqcxh2
-    lastmodified: "2026-10-30T19:51:59Z"
-    mac: ENC[AES256_GCM,data:u85it6wawZNYBuHjRo1FvPQEg32L07peNvFfTaQQCYboa1JNHyDvTVtfLPO6lpvNwM3OXCFqi71bz2FW/JSb86gDAgygiOu3TdyGDVm5xyJB7pdSpKhv8Lti+1X22x9L55OP50eniq4zydBumdyB/MAZ2R3s/ppJiQVZeusaago=,iv:3jzuURi0qRHezW9Zj6kfJly+RTTGR2kCK4G13T755T4=,tag:dHBo3LABGNrLeKWwhisfOw==,type:str]
+    lastmodified: "2026-10-31T01:14:27Z"
+    mac: ENC[AES256_GCM,data:/aq5u3HrPK6ODsDFAkdO1LNvjh0AxLfCXL3R/CsEchl2uWu/Q4KuMAU4WQk4jhZZens+JcaWn1pCa4TLEJSw/dY72uBhpSmxTeVQq251YfzEnBiK3mhCMB65MIOPPrXllc/f4fHGY9AfHPvLhT5oJmbkTAMQ6DUGvM9A3kqp+jk=,iv:9JNEmzpV1ir0ggG+KrsjeLMfJRVDQs4I9XjJiNsvct4=,tag:t+zy1MiMbMwOYmiw0MXAwA==,type:str]
     unencrypted_suffix: _unencrypted
     version: 3.13.3
