@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg0146146Perspectives = {
     },
   ],
   createdAt: "2026-10-28T16:29:25.594Z",
-  updatedAt: "2026-10-28T16:29:25.594Z",
+  updatedAt: "2026-10-31T20:24:41.815Z",
+  ownProgress: 3783,
+  progressedAt: "2026-10-31T20:24:41.815Z",
 } as const satisfies StoryChapterRead
