@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg0139139Witchery = {
     },
   ],
   createdAt: "2026-10-28T16:29:25.594Z",
-  updatedAt: "2026-10-28T16:29:25.594Z",
+  updatedAt: "2026-10-31T19:23:39.672Z",
+  ownProgress: 3222,
+  progressedAt: "2026-10-31T19:23:39.672Z",
 } as const satisfies StoryChapterRead
