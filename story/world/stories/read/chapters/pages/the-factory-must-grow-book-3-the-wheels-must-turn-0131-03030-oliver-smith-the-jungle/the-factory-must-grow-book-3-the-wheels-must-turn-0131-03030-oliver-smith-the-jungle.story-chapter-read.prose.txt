@@ -1,0 +1,93 @@
+Oliver very carefully took another step outside the First Tower wards, his eyes darting between various System windows, both those in his proper interface and in the HUD of the Helmet he wore, to ensure nothing was blowing up on him.
+
+Once he was content that they weren't about to go into a full meltdown, Oliver sighed and relaxed.
+
+There had been three major points of concern that came from him separating from the Broadcast Network. The first was how the Pillar of Industry residing in his forearm was tied into the hologram control systems, and whether removing himself from the network might cause everything to dramatically crash. But that didn't seem to be happening, thanks to the Proxy Crystal he had devised. It was a lot like an advanced Network Cache, albeit built around a crystal as large as he was, and it... acted as him. The trick had actually been in tying in his [Appraise], such that it could identify him and then pretend to be him. It wasn't him, but for an enchantment that was trying to reference a twinge of his essence, it was good enough.
+
+The second was similar - he had tied several of his Autonomous Divinations into Network-wide alerts as he'd been building out the helmet alerts, and those literally ran on his soul. Those couldn't be replicated by the Proxy Crystal, but also... "Everything looking like we expected?"
+
+"I'm getting the 'limited signal' icon, but only if I'm away from you," Henrietta replied, walking back and forth between the First Tower, The Jungle, and varying distances away from Oliver for each. [It looks like we're working with about thirty, forty meters of range for you.] The message scrolled across Oliver's vision on his helmet overlay, and he made a mental note that he should enable it on his innate System overlay as well. It shouldn't be hard, at least.
+
+Henrietta walked up to him, "I'm going to assume you didn't get the second thing I sent? I never got a delivery acknowledgment at least." The text returned, and while Oliver's initial reaction was to get rid of them... he didn't hate the captions they provided. He'd just need to update it so that the text appeared around the person speaking... maybe include some kind of Passion detection to help with emotional reading?
+
+He should probably consult with the Commander if that would be inappropriate, though. But that could be later. "If you sent it from out of range, then yeah, it's just going to be gone."
+
+"Makes sense. I was saying that if I go past that range outside of First Tower, I get a no signal alert, but when I'm close to you or when I'm in First Tower away from you, then I get that same 'limited signal' mark."
+
+"Good enough," Oliver nodded. Limited functionality on their alert system was an acceptable price to pay for the increased mobility. That might change as more things got build on their alert systems, but for now it wasn't that bad. "Maybe I'll see about giving the icon a bit more info as we go along."
+
+The third and final thing that kept him less mobile... was just the spelloom. It was big and not really designed to be moved around, but Oliver felt distinct soul pain when too physically far from it... unless he was connected via the Broadcast Network. Well, technically not the Network itself, but the geographic area of First Tower demarcated by the outer bounds of Network access.
+
+However, it was also in some ways the simplest to deal with, because right now it was loaded up in a big dragon's harness, which would be responsible for transporting it alongside him and Henrietta as they flew to Cavernmouth. There were also a number of building materials and other tools strapped to it, and the overall package looked rather heavy.
+
+"I'm very glad I made that more compact than my first design," he mused.
+
+[Agreed,] Henrietta replied as she tightened the last few bindings. [Anything else before we head out?]
+
+"I'm good."
+
+Flying was a lot more pleasant when wearing a helmet, Oliver found. His seat just off to the side of the dragon's spine might not have been comfortable, but he didn't need a windshield spell, and the short-range messaging allowed him and Henrietta to talk on their way. Not that they had much to talk about, but it was still useful to have the option. The Jungle passed by both so incredibly swiftly and yet not at all, miles upon miles of endless greenery. The only distinguishing features that Oliver could pick out was the red cliff they were heading towards and the ocean to their left, with maybe a few hills here and there.
+
+But the overwhelming green kept playing tricks on his eyes, giving an incredibly strong impression that the trees stretched on forever. Just how big was this forest? He would freely admit to not being the most well-traveled of individuals, and maybe he just wasn't good at conceptualizing the sheer scale of nature, but it was just so... much.
+
+Then he saw the Junglewaste. It was a massive scar across the landscape, pale red sands cutting a jagged line through the trees, a desert in the middle of the most vibrant location Oliver had ever seen, and the difference was stark.
+
+From this height, he could still make out what was certainly dragons as they emerged from the desolate sands, shook themselves off, and began slowly making their way to First Tower or... elsewhere, diving into forested areas that he couldn't see. A small number of them took flight, and an even smaller number of those flew through lightly or unforested areas, or higher than the treetops, allowing him to watch their progressions. Of the ones he could follow, a certain number of them tangled with the other airborne wildlife, winning as often as not, others were felled through ambushes from the treetops or just suddenly vanished, and some seemed to more willingly dive into the tree cover.
+
+Few rose as high as they were, and all flying creatures were more than willing to steer clear of the big dragons they were flying on. What he could see gave Oliver a bit more hope for his delivery gliders, because the gliders themselves would be substantially bigger than most of the flying things, and he was seeing firsthand just how much size dissuaded any kind of airborne confrontation... for anything other than the dragons, that was.
+
+Finally landing at Cavernmouth was a bit of a nerve-wracking ordeal, as the clearing really didn't look that big to Oliver. But Henrietta had excellent control over her inklings, and they made it to the ground in one piece. Alyssa was there to greet them, and in lieu of Oliver getting down on his own, she jumped up on the back of the dragon, scooped Oliver into her arms, and then hopped back to the ground to set him down.
+
+As soon as she did so, Oliver nearly collapsed. Even sitting closer to side-saddle still left his legs like jelly, and it took a minute before they were ready to work again. It might have been less than that if Alyssa had stopped laughing and helped him up sooner, but that wasn't the way it worked. Apparently.
+
+The caverns themselves were interesting, but not really Oliver's preference. While The Geode was cool, it was overall much too damp and dark and the horrendous itch of Nature was in full force. Fortunately, the Attunement they had done to the bunk room served as a solid enough basis that he could enchant it with his Mana-Smoothing Ward easily, giving him a comfortable place to retreat to when the surrounding Tapestry grew too unbearable.
+
+Their pending Manufactorium was definitely worth the trek, though. He didn't have anywhere near the setup needed to properly investigate the gravitational anomaly, but he was able to eliminate active and fragile magic as a potential cause. That left... well, a lot of potential reasons. Gravity in the Material Realms was already distance-constrained, unlike in the Realms of Void where any matter was an aberration from the norm and therefore left resonance that crossed the entire universe. But usually gravity persisted for at least a few miles on either side of a major substance boundary, with 'down' defined as away from the less-dense part of the boundary.
+
+On a human scale, it was effectively identical to the experience on a planet in the Realms of Void, but various instruments could pick up the difference. He remembered some Physics classmates complaining heartily about the lab in which they needed to calculate big-G, the gravitational constant, with how fiddly and precise the machine was and how long it took to actually take the measurement.
+
+He lacked everything from the precision needed to make the pendulum in question, the consistency in materials to ensure he knew the density of the masses involved, and an accurate enough timekeeping device to actually take the measurement. He did have some decently consistent rulers these days thanks to Jacob's efforts, but that was practically step zero.
+
+In any case, not needing to work around active magic - and having a wonderfully prepared 'place of workmanship and development' as a foundation to work with - made the actual work of setting up the Manufactorium fairly straightforward.
+
+For something like this, there were several needed steps they needed, magically speaking. The first was a baseline Attunement turning this from a damp and dark cave into a workshop. Henrietta and Alyssa had already done that, via an alchemical burning. Like what Oliver had once done at Shelter, doing so prepared the walls and the physical space for later magic to be built upon it, acting as a priming layer that bonded with the stone and darkness in a way his magic couldn't, but which he could then do his stuff for.
+
+Once that was in place, Oliver could carve Symbols into appropriate places and create a boundary ward, effectively framing in the outside of the cavern to defend against external influences - probably not many, this far underground - and to help keep the internal influences in place. That was especially important if he wanted to do anything Broadcast Network related here, because that worked by permeating the mana of a space enough that the Tapestry itself 'knew' how certain enchantments were supposed to work, and without keeping the mana separated in some capacity that saturation just would never happen.
+
+Keeping magical boundaries too tight could also be a problem, but not one Oliver was anywhere near needing to worry about.
+
+The baseline ward would also prepare the cavern for Force work in particular, because this was going to be an assembly plant. Things would be moving, and they would need to be capable of moving when he wanted them to and to stay immobile otherwise. It would be too easy to accidentally do one or the other, just amplifying or just dampening motion, but he specifically wanted to amplify some motion and completely eliminate others, which could be a delicate balance.
+
+Only once that foundational ward was in place would Oliver then be able to build the machines of the Manufactorium that would actually do the manufacturing. He was generally imagining open-faced cubes programmed to project a hologram into their center, which would summon - probably using a ⟨Gather⟩ -based enchantment - the parts of said hologram into them, and then direct the parts into place. Hopefully, he could even get things like screws to self-turn, but additional tightening would probably be needed. 'Tension' wasn't a terribly visual phenomenon when it came to metal, after all.
+
+But all that was predicated on getting the baseline foundation working.
+
+"As was prepared with smoke and ash and the burning of metal and charcoal, become a framework and stricture upon which much may be built. I strike the ground and create this foundation, to prepare for a great deal of building and construction within this..." Oliver grumbled as he spun the ward down. He had his foot wedged in a small crevasse in the wall, leaving his hands free to chisel another Symbol into the soft stone. He was having difficulty getting his magic to properly 'take,' and it kept rebounding as though...
+
+Hm. As though he was competing for control of a spell with another mage?
+
+"As I strike this stone, I Oliver Smith the [Erudite Enchanter] do stake my claim unto this cavern which has been prepared for me. My fires have burned, my words have been written, yet no answer does come from the magical nexus of this place," Oliver's tongue twisted slightly as he worked his divination. 'Magical nexus' wasn't easy to pronounce in Parengelic, and apparently the way he'd said it still wasn't good enough for the magic to stay cohesive. He needed to speak truth with this kind of divination, so figuring out what was going on was largely a matter of stringing educated guesses together, guided by the stability of the spell towards the truth of the matter.
+
+"I Oliver Smith call out to the world and master of this place, the magical locus." Locus, huh? So was the local magic fighting him in some way? A form of magical sovereignty that clung to locations and tried to exclude competitors? The dragons, then, might be an aggressive form of that. He'd have to talk to Henrietta about it later, but he could see about trying to wrest control of the magic squatting in the cavern as though it were a spell.
+
+"Alyssa!" he got the Ranger's attention, and she cocked her head at him as she floated through the middle of the room, "I'm going to try something, I don't know if it might provoke anything."
+
+She tapped her helmet and gave a finger-flick of acknowledgement, then twisted and pushed off nothing in particular to reach one of the walls, where she drew an axe and readied to pounce. If she said something, he couldn't hear it. I really need to turn on messages for my System.
+
+He wasn't wearing his own helmet because, as a decently potent but unrelated magical artifact, it would make his casting way harder.
+
+[Order Mana], he pushed his musings aside and began. It didn't do anything, given he was out of First Tower, but he kept the skill structure up as a source of Knowledge. Normally he might use his Pillar of Industry or the Mana-Smoothing Ward as the baseline reference for controlling mana, but if they were right that [Order Mana] was in some way connected to the local magic, it could give him an important foothold in competing with comparable magical phenomena.
+
+[Scrollcast], he continued. The magic echoed out from his soul, assembling within his hand and searching for a source of Knowledge it could study and reproduce. He directed it towards the skill in his other hand, bringing his palms together to aid in enmeshing the two skills. His magimorphic lines began to glow even brighter than before, and he pushed off the wall to float to the center. "I am the [Erudite Enchanter]. This cavern is to be mine. The light of progress has shone upon this cavern, and it chases away the Shadow of that which was here before. That which was once Water has become Ash, where Darkness reigned there is now Knowledge. May this place, unmoored by the weight of the world, submit to the use apportioned for it. I dub it Manufactorium, the place where the small becomes great and where dreams are crafted into reality. May the dreams of the incomplete and imperfect come to be assembled, that they can stand firm with the knowledge that they shall be made whole, that no matter how great or small their journey may have been, whatever crucibles they may have passed through, this becomes the place that their potential is actualized."
+
+[Order Mana] was beginning to creep away from Oliver's body, just a bit. It wasn't a terribly long distance, but it did feel quite ordered. Nice and straight lines, forming a grid entirely on their own. He could sense changes happening not only to his surroundings, but also to him and his ⟨Integrate⟩d artifacts.
+
+"For such is the fruit of this place. Machines great and small, made according to their kind. I challenge you to present your fruits. Lay forth your contributions to this world, locus of magic. You spirit of this place. What have you done with this treasure? Why do you allow it to lie fallow, collecting naught but dust, creating a place where neither bird nor lizard, mammal nor fish may safely call home? You act with no purpose, no drive to protect your home from those who seek to consume it, and now my purpose is to expel you and claim this place for my purposes. And those purposes are to create and protect wonders, to create a home and follow in my forefathers, tearing down the veil between worlds and allowing all to use the might of magic to protect themselves from those who seek only to destroy and consume." This was a weird place for his incantation to be going... but it was the route that left his divination readouts most in the green, and sure he was mostly optimizing for local stability, but it wasn't like he had the foci needed for universal stability anyway. He just hadn't expected today would involve... scolding rocks for not doing anything? For not fighting
+
+"This shall be the birthplace of wonders, the hands and fingers of The Factory."
+
+There was some kind of weak pulse from beyond the rock walls, but it was so diffuse and minor that it couldn't interfere with Oliver's casting in the slightest.
+
+"Thus is my decree, thus is my will. I solidify my claim, and declare this place Manufactorium."
+
+The magic pulsed, and it was done.

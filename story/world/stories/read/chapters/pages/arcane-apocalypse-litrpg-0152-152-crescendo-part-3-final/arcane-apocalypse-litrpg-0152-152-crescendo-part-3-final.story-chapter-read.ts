@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg0152152CrescendoPart3Final = {
     },
   ],
   createdAt: "2026-10-28T16:29:25.594Z",
-  updatedAt: "2026-10-28T16:29:25.594Z",
+  updatedAt: "2026-10-31T21:23:01.309Z",
+  ownProgress: 3279,
+  progressedAt: "2026-10-31T21:23:01.309Z",
 } as const satisfies StoryChapterRead
