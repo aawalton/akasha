@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg009090ParleyAndPebbles = {
     },
   ],
   createdAt: "2026-10-28T16:29:15.598Z",
-  updatedAt: "2026-10-28T16:29:15.598Z",
+  updatedAt: "2026-10-31T00:21:45.871Z",
+  ownProgress: 3590,
+  progressedAt: "2026-10-31T00:21:45.871Z",
 } as const satisfies StoryChapterRead
