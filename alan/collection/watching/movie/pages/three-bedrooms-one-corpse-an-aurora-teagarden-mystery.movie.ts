@@ -5,11 +5,11 @@ export const threeBedroomsOneCorpseAnAuroraTeagardenMystery = {
   type: "page-type/movie",
   slug: "three-bedrooms-one-corpse-an-aurora-teagarden-mystery",
   ownLength: 84,
-  ownProgress: 0,
+  ownProgress: 84,
   partOfCollections: ["franchise/aurora-teagarden-mystery"],
   position: 3,
   publishedAt: "2016-06-12",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -31,5 +31,7 @@ export const threeBedroomsOneCorpseAnAuroraTeagardenMystery = {
     "streaming-service/philo",
   ],
   createdAt: "2026-10-25T19:46:29.458Z",
-  updatedAt: "2026-10-28T20:38:30.445Z",
+  updatedAt: "2026-10-31T23:32:48.989Z",
+  completedAt: "2026-10-31T23:32:48.549Z",
+  progressedAt: "2026-10-31T23:32:48.989Z",
 } as const satisfies Movie
