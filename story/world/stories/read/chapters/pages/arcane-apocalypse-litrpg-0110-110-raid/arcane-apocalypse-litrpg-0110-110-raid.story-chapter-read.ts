@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg0110110Raid = {
     },
   ],
   createdAt: "2026-10-28T16:29:25.594Z",
-  updatedAt: "2026-10-28T16:29:25.594Z",
+  updatedAt: "2026-10-31T14:21:47.913Z",
+  ownProgress: 3816,
+  progressedAt: "2026-10-31T14:21:47.913Z",
 } as const satisfies StoryChapterRead

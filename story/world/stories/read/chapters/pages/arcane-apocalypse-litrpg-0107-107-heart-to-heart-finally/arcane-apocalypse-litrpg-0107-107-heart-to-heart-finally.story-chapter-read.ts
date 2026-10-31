@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg0107107HeartToHeartFinally = {
     },
   ],
   createdAt: "2026-10-28T16:29:15.598Z",
-  updatedAt: "2026-10-28T16:29:15.598Z",
+  updatedAt: "2026-10-31T14:21:47.913Z",
+  ownProgress: 3268,
+  progressedAt: "2026-10-31T14:21:47.913Z",
 } as const satisfies StoryChapterRead
