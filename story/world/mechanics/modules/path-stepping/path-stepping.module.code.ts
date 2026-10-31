@@ -179,7 +179,7 @@ function ownerIndexed(address: string): string | null {
   return [...owners].toSorted((one, two) => slugOf(two).length - slugOf(one).length)[0] ?? null
 }
 
-export type StatsKind = { readonly kind: string; readonly world: string }
+type StatsKind = { readonly kind: string; readonly world: string }
 
 export function statsKindIn(world: string | null, stats: StatsKind): string {
   const own = `${stats.world}-`
