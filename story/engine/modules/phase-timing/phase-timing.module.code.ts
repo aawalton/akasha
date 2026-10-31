@@ -244,7 +244,7 @@ export function phaseTimed(root: string, ended: Ended, agentId: string | null): 
   return undefined
 }
 
-export type Swept = {
+type Swept = {
   readonly path: string
   readonly content: string
 }
