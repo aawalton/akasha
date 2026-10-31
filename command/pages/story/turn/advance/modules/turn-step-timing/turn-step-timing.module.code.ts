@@ -15,7 +15,7 @@ import {
   type Held,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
-export type Stepped = Pick<Ended, "step" | "beat">
+type Stepped = Pick<Ended, "step" | "beat">
 
 type Recorded = Extract<Handed, { readonly kind: "record" }>
 
