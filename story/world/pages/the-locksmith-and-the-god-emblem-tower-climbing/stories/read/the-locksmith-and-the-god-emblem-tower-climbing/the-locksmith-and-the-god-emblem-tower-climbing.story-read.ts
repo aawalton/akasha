@@ -19,8 +19,8 @@ export const theLocksmithAndTheGodEmblemTowerClimbing = {
     },
   ],
   externalTags: ["Time Loop", "Comedy", "Action", "Adventure", "Fantasy", "Magic", "Tower"],
-  publicationStatus: "ongoing",
+  publicationStatus: "hiatus",
   readLater: true,
   createdAt: "2026-10-22T16:50:37.088Z",
-  updatedAt: "2026-10-22T16:50:37.088Z",
+  updatedAt: "2026-10-31T02:26:29.188Z",
 } as const satisfies StoryRead

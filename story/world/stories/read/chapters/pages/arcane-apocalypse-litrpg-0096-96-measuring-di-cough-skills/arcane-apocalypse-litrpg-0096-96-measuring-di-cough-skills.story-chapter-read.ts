@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg009696MeasuringDiCoughSkills = {
     },
   ],
   createdAt: "2026-10-28T16:29:15.598Z",
-  updatedAt: "2026-10-28T16:29:15.598Z",
+  updatedAt: "2026-10-31T02:26:29.188Z",
+  ownProgress: 3698,
+  progressedAt: "2026-10-31T02:26:29.188Z",
 } as const satisfies StoryChapterRead
