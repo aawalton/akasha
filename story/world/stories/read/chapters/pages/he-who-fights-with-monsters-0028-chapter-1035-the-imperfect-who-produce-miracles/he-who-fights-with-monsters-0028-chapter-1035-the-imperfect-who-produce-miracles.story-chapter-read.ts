@@ -20,5 +20,7 @@ export const heWhoFightsWithMonsters0028Chapter1035TheImperfectWhoProduceMiracle
     },
   ],
   createdAt: "2026-10-30T22:26:46.242Z",
-  updatedAt: "2026-10-30T22:26:46.242Z",
+  updatedAt: "2026-10-31T01:24:33.756Z",
+  ownProgress: 2640,
+  progressedAt: "2026-10-31T01:24:33.756Z",
 } as const satisfies StoryChapterRead

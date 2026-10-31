@@ -20,5 +20,7 @@ export const fiveElementOverlordICanUpgradeEverything0175Ch175YeClansDiscussion 
     },
   ],
   createdAt: "2026-10-31T00:21:45.871Z",
-  updatedAt: "2026-10-31T00:21:45.871Z",
+  updatedAt: "2026-10-31T01:24:33.756Z",
+  ownProgress: 1323,
+  progressedAt: "2026-10-31T01:24:33.756Z",
 } as const satisfies StoryChapterRead
