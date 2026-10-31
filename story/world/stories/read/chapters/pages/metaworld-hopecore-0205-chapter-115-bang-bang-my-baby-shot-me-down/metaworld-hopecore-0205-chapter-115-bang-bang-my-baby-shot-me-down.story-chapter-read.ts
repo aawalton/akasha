@@ -20,5 +20,7 @@ export const metaworldHopecore0205Chapter115BangBangMyBabyShotMeDown = {
     },
   ],
   createdAt: "2026-10-31T02:26:29.188Z",
-  updatedAt: "2026-10-31T02:26:29.188Z",
+  updatedAt: "2026-10-31T23:24:37.604Z",
+  ownProgress: 2047,
+  progressedAt: "2026-10-31T23:24:37.604Z",
 } as const satisfies StoryChapterRead
