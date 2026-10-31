@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg0100100YeyOneHundred = {
     },
   ],
   createdAt: "2026-10-28T16:29:15.598Z",
-  updatedAt: "2026-10-28T16:29:15.598Z",
+  updatedAt: "2026-10-31T03:21:15.639Z",
+  ownProgress: 3105,
+  progressedAt: "2026-10-31T03:21:15.639Z",
 } as const satisfies StoryChapterRead

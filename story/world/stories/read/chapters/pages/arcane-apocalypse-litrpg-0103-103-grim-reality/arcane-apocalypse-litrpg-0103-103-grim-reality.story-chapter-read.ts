@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg0103103GrimReality = {
     },
   ],
   createdAt: "2026-10-28T16:29:15.598Z",
-  updatedAt: "2026-10-28T16:29:15.598Z",
+  updatedAt: "2026-10-31T03:21:15.639Z",
+  ownProgress: 3016,
+  progressedAt: "2026-10-31T03:21:15.639Z",
 } as const satisfies StoryChapterRead
