@@ -12,7 +12,7 @@ export const JENNY = "contributor-jenny"
 
 const VERIFIER = "a-secret-the-driver-keeps-and-never-sends"
 
-export const SEND_AT = "https://alanwalton.com/api/seat/message"
+const SEND_AT = "https://alanwalton.com/api/seat/message"
 
 const pair = await generateKeyPair("EdDSA", { crv: "Ed25519", extractable: true })
 
