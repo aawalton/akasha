@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg0120120SpiritBound = {
     },
   ],
   createdAt: "2026-10-28T16:29:25.594Z",
-  updatedAt: "2026-10-28T16:29:25.594Z",
+  updatedAt: "2026-10-31T16:25:15.761Z",
+  ownProgress: 3882,
+  progressedAt: "2026-10-31T16:25:15.761Z",
 } as const satisfies StoryChapterRead
