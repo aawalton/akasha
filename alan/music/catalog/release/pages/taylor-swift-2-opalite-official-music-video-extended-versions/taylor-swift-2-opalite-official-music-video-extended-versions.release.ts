@@ -7,7 +7,7 @@ export const taylorSwift2OpaliteOfficialMusicVideoExtendedVersions = {
   title: "Opalite [Official Music Video (Extended Versions)]",
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 26.51725,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const taylorSwift2OpaliteOfficialMusicVideoExtendedVersions = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.278Z",
-  updatedAt: "2026-09-15T16:39:47.000Z",
+  updatedAt: "2026-10-31T14:00:18.729Z",
 } as const satisfies Release
