@@ -8,7 +8,7 @@ export const GAME = "the-saga"
 
 export const WORDS = `${unit.slug}/${words.slug}`
 
-export const HELD_AT = "stories/the-saga/turns/the-saga-00-002.story-turn-played.ts"
+const HELD_AT = "stories/the-saga/turns/the-saga-00-002.story-turn-played.ts"
 
 type Values = Readonly<Record<string, unknown>>
 
