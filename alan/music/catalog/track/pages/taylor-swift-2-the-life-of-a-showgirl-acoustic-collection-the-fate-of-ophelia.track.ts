@@ -13,6 +13,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionTheFateOfOphelia = 
     "release/taylor-swift-2-the-fate-of-ophelia-the-chainsmokers-remix",
     "release/taylor-swift-2-the-fate-of-ophelia-loud-luxury-remix",
     "release/taylor-swift-2-the-fate-of-ophelia-alone-in-my-tower-acoustic-version",
+    "release/taylor-swift-the-life-of-a-showgirl-the-encore",
   ],
   status: "completed",
   unit: "unit/minutes",
@@ -65,7 +66,14 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionTheFateOfOphelia = 
       externalId: "1dosSsKwYF7hoQA2kuu6wI",
       externalLink: "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI",
     },
+    {
+      release: "release/taylor-swift-the-life-of-a-showgirl-the-encore",
+      discNumber: 1,
+      position: 1,
+      externalId: "0Gms8M0f1kJxAA2pXuLdtI",
+      externalLink: "https://open.spotify.com/track/0Gms8M0f1kJxAA2pXuLdtI",
+    },
   ],
   createdAt: "2026-09-23T13:48:42.601Z",
-  updatedAt: "2026-09-24T20:01:24.000Z",
+  updatedAt: "2026-10-31T13:45:22.255Z",
 } as const satisfies Track

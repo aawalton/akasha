@@ -25,6 +25,7 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-babe-from-the-vault/taylor-swift-babe-from-the-vault.song.ts","id":"01a0ce86-5581-7085-af9b-90e2883e36dd"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-babe/taylor-swift-babe.song.ts","id":"019ea416-0f63-7225-b2c8-8885523f0c51"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-baby-don-t-you-break-my-heart-slow/taylor-swift-baby-don-t-you-break-my-heart-slow.song.ts","id":"019ea416-0f2e-7c54-b436-3053295f63da"}
+{"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-babylon/taylor-swift-babylon.song.ts","id":"01a19235-3250-7f67-98ed-1fa21bc03fb6"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-back-to-december-apologize-youre-not-sorry/taylor-swift-back-to-december-apologize-youre-not-sorry.song.ts","id":"01a0ce86-8d53-7c32-8530-365d209a6127"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-back-to-december/taylor-swift-back-to-december.song.ts","id":"019ea416-0460-7fe0-a279-ea4d2edf91b0"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-bad-blood/taylor-swift-bad-blood.song.ts","id":"019ea416-1405-7467-bcef-3a7c3a063767"}
@@ -71,6 +72,7 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-christmases-when-you-were-mine/taylor-swift-christmases-when-you-were-mine.song.ts","id":"019ea416-07fe-75aa-8a5f-72be85e2a8f7"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-clara-bow/taylor-swift-clara-bow.song.ts","id":"019ea416-0cb9-755b-9eb7-fa233bfa866e"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-clean/taylor-swift-clean.song.ts","id":"019ea416-06c6-7945-bbee-dfce8111f85f"}
+{"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-cleveland/taylor-swift-cleveland.song.ts","id":"01a19235-3251-7586-af3d-7ee58ae9ec73"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-closure/taylor-swift-closure.song.ts","id":"019ea416-129c-73af-88c6-b9cde0bcb2ec"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-clothes-from-miss-mabel/taylor-swift-clothes-from-miss-mabel.song.ts","id":"019ea416-0cf1-7101-9601-658c61beb4d1"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-cold-as-you/taylor-swift-cold-as-you.song.ts","id":"019ea416-086a-77cd-a969-19fad2ae771b"}
@@ -257,12 +259,14 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-out-of-the-woods/taylor-swift-out-of-the-woods.song.ts","id":"019ea416-2fb4-74ae-b45f-d0c33c04a27a"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-paper-rings/taylor-swift-paper-rings.song.ts","id":"019ea416-341d-7fcf-99d5-b4ff53af99ee"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-paris/taylor-swift-paris.song.ts","id":"019ea416-33b8-71f1-93dd-1b1b518497a9"}
+{"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-patient-zero/taylor-swift-patient-zero.song.ts","id":"01a19235-3251-717e-98c1-414c082317a2"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-peace-the-long-pond-studio-sessions/taylor-swift-peace-the-long-pond-studio-sessions.song.ts","id":"01a0ce86-673c-76a5-aa52-53d8c1fbe934"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-peace/taylor-swift-peace.song.ts","id":"019ea416-2deb-7af7-9a75-d8c8f09b6445"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-permanent-marker/taylor-swift-permanent-marker.song.ts","id":"019ea416-39e0-7229-b085-74d0790eee81"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-peter/taylor-swift-peter.song.ts","id":"019ea416-2f7f-7df6-997f-0dad346b4c4d"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-photograph/taylor-swift-photograph.song.ts","id":"019ea416-371c-73ed-b723-15a5f81e6f27"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-picture-to-burn/taylor-swift-picture-to-burn.song.ts","id":"019ea416-4220-7363-ba25-a8e40f30feb0"}
+{"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-pink-clouding/taylor-swift-pink-clouding.song.ts","id":"01a19235-3251-7945-84ff-1e506f22ab5b"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-polkamania/taylor-swift-polkamania.song.ts","id":"01a0ba97-710a-7f67-84e1-67b35cd4daac"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-pour-some-sugar-on-me/taylor-swift-pour-some-sugar-on-me.song.ts","id":"019ea416-3220-7b13-a0e9-13b15abfa8be"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/taylor-swift-pretty-words/taylor-swift-pretty-words.song.ts","id":"019ea416-3f35-73f0-a308-4e7df77c7331"}
@@ -656,6 +660,9 @@
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/taylor-swift-2-midnights-the-til-dawn-edition-wouldve-couldve-shouldve.track.ts","id":"01a0ce86-4fc3-753b-8f5d-a740aa822c01"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/taylor-swift-2-midnights-the-til-dawn-edition-youre-on-your-own-kid.track.ts","id":"01a0ce86-5090-76c9-869f-6180dd2b2a31"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/taylor-swift-2-only-the-young-featured-in-miss-americana-only-the-young-featured-in-miss-americana.track.ts","id":"01a0ce86-a792-7003-97d1-dcc5c84f370d"}
+{"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/taylor-swift-2-opalite-official-music-video-extended-versions-opalite-official-music-video-2.track.ts","id":"01a19235-3251-74d8-8e0d-fb784bff1cb7"}
+{"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/taylor-swift-2-opalite-official-music-video-extended-versions-opalite-official-music-video-extended.track.ts","id":"01a19235-3251-7b81-b531-d210e0383d6c"}
+{"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/taylor-swift-2-opalite-skream-remix-opalite-skream-remix.track.ts","id":"01a19235-3251-7396-b1e2-a8c3c72072e0"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/taylor-swift-2-ready-for-it-bloodpop-remix-ready-for-it-bloodpop-remix.track.ts","id":"01a0ce86-a942-74b3-8435-afb671a7fa5c"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/taylor-swift-2-red-22.track.ts","id":"01a0ce86-8499-7006-960c-6a2d75b2836a"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/taylor-swift-2-red-all-too-well.track.ts","id":"01a0ce86-8471-7e91-a80e-c0440e9f215c"}
@@ -958,6 +965,10 @@
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/taylor-swift-2-you-need-to-calm-down-live-from-paris-you-need-to-calm-down-live-from-paris.track.ts","id":"01a0ce86-a6a9-7126-a4d7-b4b9c2b5cd36"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/taylor-swift-2-you-re-losing-me-from-the-vault-youre-losing-me-from-the-vault.track.ts","id":"01a0ce86-9ac0-780a-9437-900cd323489c"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/taylor-swift-2-you-re-not-sorry-csi-remix-youre-not-sorry-csi-remix.track.ts","id":"01a0ce86-a74c-79b2-a1d3-1e381fbaab30"}
+{"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/taylor-swift-the-life-of-a-showgirl-the-encore-babylon.track.ts","id":"01a19235-3253-7111-ab9c-1b413de1360b"}
+{"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/taylor-swift-the-life-of-a-showgirl-the-encore-cleveland.track.ts","id":"01a19235-3253-7cc7-bf57-1b44ff8c110a"}
+{"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/taylor-swift-the-life-of-a-showgirl-the-encore-patient-zero.track.ts","id":"01a19235-3253-74cd-acab-d4455dfb97b7"}
+{"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/taylor-swift-the-life-of-a-showgirl-the-encore-pink-clouding.track.ts","id":"01a19235-3253-7db0-97a2-77ba01ae389c"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/taylor-swift-2-1989-deluxe-edition/taylor-swift-2-1989-deluxe-edition.release.ts","id":"01a0676a-d714-7017-8056-909de6bb343f"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/taylor-swift-2-1989-taylor-s-version-deluxe/taylor-swift-2-1989-taylor-s-version-deluxe.release.ts","id":"01a0676a-d714-7019-87dc-9659e52e3818"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/taylor-swift-2-1989-taylor-s-version/taylor-swift-2-1989-taylor-s-version.release.ts","id":"01a0676a-d714-7018-bb91-31d36e1062cc"}
@@ -1068,4 +1079,5 @@
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/taylor-swift-2-you-need-to-calm-down-live-from-paris/taylor-swift-2-you-need-to-calm-down-live-from-paris.release.ts","id":"01a0676a-d732-7011-bdab-05648dc72c88"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/taylor-swift-2-you-re-losing-me-from-the-vault/taylor-swift-2-you-re-losing-me-from-the-vault.release.ts","id":"01a0676a-d732-7014-95fd-349204c54484"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/taylor-swift-2-you-re-not-sorry-csi-remix/taylor-swift-2-you-re-not-sorry-csi-remix.release.ts","id":"01a0676a-d732-7016-a636-b3dd49673635"}
+{"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/taylor-swift-the-life-of-a-showgirl-the-encore/taylor-swift-the-life-of-a-showgirl-the-encore.release.ts","id":"01a19235-3250-7999-82de-905d312767c3"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/song/pages/celtic-woman-silent-night/celtic-woman-silent-night.song.ts","id":"01a0b720-0cbf-74cc-a1e0-7b6c212def7b"}

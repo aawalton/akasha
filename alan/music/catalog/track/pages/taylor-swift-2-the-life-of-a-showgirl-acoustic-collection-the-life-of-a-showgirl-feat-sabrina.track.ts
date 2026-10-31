@@ -10,6 +10,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionTheLifeOfAShowgirlF
     "release/taylor-swift-2-the-life-of-a-showgirl-acoustic-collection",
     "release/taylor-swift-2-the-life-of-a-showgirl",
     "release/taylor-swift-2-the-life-of-a-showgirl-track-by-track-version",
+    "release/taylor-swift-the-life-of-a-showgirl-the-encore",
   ],
   status: "completed",
   unit: "unit/minutes",
@@ -42,7 +43,14 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionTheLifeOfAShowgirlF
       externalId: "243KxZULAjWO3KREpVHgOH",
       externalLink: "https://open.spotify.com/track/243KxZULAjWO3KREpVHgOH",
     },
+    {
+      release: "release/taylor-swift-the-life-of-a-showgirl-the-encore",
+      discNumber: 1,
+      position: 12,
+      externalId: "78CYukRkSSZ9PRH5rBWeXM",
+      externalLink: "https://open.spotify.com/track/78CYukRkSSZ9PRH5rBWeXM",
+    },
   ],
   createdAt: "2026-09-23T13:48:17.727Z",
-  updatedAt: "2026-09-24T20:01:24.000Z",
+  updatedAt: "2026-10-31T13:45:22.255Z",
 } as const satisfies Track

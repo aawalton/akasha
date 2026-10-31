@@ -23,7 +23,7 @@ export const taylorSwift = {
       source: "spotify",
       externalId: "06HL4z0CvFAxyc27GXpf02",
       externalLink: "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
-      lastSyncedAt: "2026-09-23",
+      lastSyncedAt: "2026-10-31",
     },
   ],
   title: "Taylor Swift",
@@ -39,5 +39,5 @@ export const taylorSwift = {
   ],
   reaction: "txt",
   createdAt: "2026-06-07T21:55:59.868Z",
-  updatedAt: "2026-09-23T13:48:53.000Z",
+  updatedAt: "2026-10-31T13:45:22.255Z",
 } as const satisfies Artist

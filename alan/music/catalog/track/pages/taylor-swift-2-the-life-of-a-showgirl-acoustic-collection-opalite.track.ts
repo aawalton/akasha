@@ -10,6 +10,8 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionOpalite = {
     "release/taylor-swift-2-the-life-of-a-showgirl-acoustic-collection",
     "release/taylor-swift-2-the-life-of-a-showgirl-track-by-track-version",
     "release/taylor-swift-2-opalite",
+    "release/taylor-swift-the-life-of-a-showgirl-the-encore",
+    "release/taylor-swift-2-opalite-official-music-video-extended-versions",
   ],
   status: "completed",
   unit: "unit/minutes",
@@ -28,6 +30,13 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionOpalite = {
       externalLink: "https://open.spotify.com/track/4s1Sql0NqvLh0ioDzSTaET",
     },
     {
+      release: "release/taylor-swift-2-opalite-official-music-video-extended-versions",
+      discNumber: 1,
+      position: 3,
+      externalId: "4utwUoDcx4zhAKXd4DD6P6",
+      externalLink: "https://open.spotify.com/track/4utwUoDcx4zhAKXd4DD6P6",
+    },
+    {
       release: "release/taylor-swift-2-the-life-of-a-showgirl-acoustic-collection",
       discNumber: 1,
       position: 3,
@@ -41,7 +50,14 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionOpalite = {
       externalId: "67osB3wmJVTFzKhWqPb1Hm",
       externalLink: "https://open.spotify.com/track/67osB3wmJVTFzKhWqPb1Hm",
     },
+    {
+      release: "release/taylor-swift-the-life-of-a-showgirl-the-encore",
+      discNumber: 1,
+      position: 3,
+      externalId: "1vb2arLM2h2t21XZzMJkzi",
+      externalLink: "https://open.spotify.com/track/1vb2arLM2h2t21XZzMJkzi",
+    },
   ],
   createdAt: "2026-09-23T13:48:42.239Z",
-  updatedAt: "2026-09-24T20:01:24.000Z",
+  updatedAt: "2026-10-31T13:45:22.255Z",
 } as const satisfies Track

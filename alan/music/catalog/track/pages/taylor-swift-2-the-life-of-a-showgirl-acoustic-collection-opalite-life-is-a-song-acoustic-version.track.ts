@@ -9,6 +9,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionOpaliteLifeIsASongA
   partOfCollections: [
     "release/taylor-swift-2-the-life-of-a-showgirl-acoustic-collection",
     "release/taylor-swift-2-opalite",
+    "release/taylor-swift-2-opalite-official-music-video-extended-versions",
   ],
   status: "completed",
   unit: "unit/minutes",
@@ -27,6 +28,13 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionOpaliteLifeIsASongA
       externalLink: "https://open.spotify.com/track/2ZbU5CJSi02RLNsldux0QQ",
     },
     {
+      release: "release/taylor-swift-2-opalite-official-music-video-extended-versions",
+      discNumber: 1,
+      position: 4,
+      externalId: "7y16ygjcEcfo1VYKxmgVZY",
+      externalLink: "https://open.spotify.com/track/7y16ygjcEcfo1VYKxmgVZY",
+    },
+    {
       release: "release/taylor-swift-2-the-life-of-a-showgirl-acoustic-collection",
       discNumber: 1,
       position: 15,
@@ -35,5 +43,5 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionOpaliteLifeIsASongA
     },
   ],
   createdAt: "2026-09-23T13:48:42.280Z",
-  updatedAt: "2026-09-24T20:01:24.000Z",
+  updatedAt: "2026-10-31T13:45:22.255Z",
 } as const satisfies Track

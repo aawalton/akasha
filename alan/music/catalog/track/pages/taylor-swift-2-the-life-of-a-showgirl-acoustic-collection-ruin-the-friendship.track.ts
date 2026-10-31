@@ -10,6 +10,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionRuinTheFriendship =
     "release/taylor-swift-2-the-life-of-a-showgirl-acoustic-collection",
     "release/taylor-swift-2-the-life-of-a-showgirl",
     "release/taylor-swift-2-the-life-of-a-showgirl-track-by-track-version",
+    "release/taylor-swift-the-life-of-a-showgirl-the-encore",
   ],
   status: "completed",
   unit: "unit/minutes",
@@ -41,7 +42,14 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionRuinTheFriendship =
       externalId: "34xxPZWbEyg5iDKEBqdsBZ",
       externalLink: "https://open.spotify.com/track/34xxPZWbEyg5iDKEBqdsBZ",
     },
+    {
+      release: "release/taylor-swift-the-life-of-a-showgirl-the-encore",
+      discNumber: 1,
+      position: 6,
+      externalId: "20dYJ6Kq7Mdhr1O5pfwwNr",
+      externalLink: "https://open.spotify.com/track/20dYJ6Kq7Mdhr1O5pfwwNr",
+    },
   ],
   createdAt: "2026-09-23T13:48:17.071Z",
-  updatedAt: "2026-09-24T20:01:24.000Z",
+  updatedAt: "2026-10-31T13:45:22.255Z",
 } as const satisfies Track
