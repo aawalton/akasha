@@ -1,3 +1,4 @@
 {"id":"01a18fe7-1f85-7e48-ad49-4fcdba50adf9","title":"Sleep","startedAt":"2026-10-31T03:00:00.000Z","dailyTracking":"01a19166-e0df-7356-903d-bd84528ab43e","endedAt":"2026-10-31T12:20:00.000Z","safetyLevel":"3","difficultyLevel":"0"}
-{"id":"01a191e6-43ad-7aa8-b908-a3312a1d07e8","title":"Hygiene","startedAt":"2026-10-31T12:20:00.000Z","dailyTracking":"01a19166-e0df-7356-903d-bd84528ab43e","safetyLevel":"3","difficultyLevel":"1","endedAt":"2026-10-31T12:30:00.000Z"}
-{"id":"01a19225-9243-7af0-9c96-1ce3e4b4533e","title":"Exercise","startedAt":"2026-10-31T12:30:00.000Z","dailyTracking":"01a19166-e0df-7356-903d-bd84528ab43e","safetyLevel":"3","difficultyLevel":"2"}
+{"id":"01a191e6-43ad-7aa8-b908-a3312a1d07e8","title":"Hygiene","startedAt":"2026-10-31T12:20:00.000Z","dailyTracking":"01a19166-e0df-7356-903d-bd84528ab43e","endedAt":"2026-10-31T12:30:00.000Z","safetyLevel":"3","difficultyLevel":"1"}
+{"id":"01a19225-9243-7af0-9c96-1ce3e4b4533e","title":"Exercise","startedAt":"2026-10-31T12:30:00.000Z","dailyTracking":"01a19166-e0df-7356-903d-bd84528ab43e","safetyLevel":"3","difficultyLevel":"2","endedAt":"2026-10-31T13:30:00.000Z"}
+{"id":"01a19225-9e03-79ad-a0f9-5f4fc696ef0c","title":"Read","startedAt":"2026-10-31T13:30:00.000Z","dailyTracking":"01a19166-e0df-7356-903d-bd84528ab43e","safetyLevel":"3","difficultyLevel":"1"}
