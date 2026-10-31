@@ -6,7 +6,7 @@ import {
 
 type Untold = ReturnType<typeof untoldClaims>[number]
 
-export type Telling = {
+type Telling = {
   readonly handler: string
   readonly sender: string
   readonly log: (line: string) => undefined
