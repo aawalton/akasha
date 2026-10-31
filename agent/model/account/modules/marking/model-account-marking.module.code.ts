@@ -81,7 +81,7 @@ type UsageWindow = {
 }
 
 export type Usage = {
-  readonly fiveHour: UsageWindow
+  readonly fiveHour: UsageWindow | null
   readonly sevenDay: UsageWindow
 }
 
@@ -266,11 +266,12 @@ export function subscriptionMarks(reason: string | null): Marks {
 export function usageFrom(raw: unknown): Usage | null {
   const said = USAGE_RESPONSE_SCHEMA.safeParse(raw)
   if (!said.success) return null
+  const fiveHour = said.data.five_hour
   return {
-    fiveHour: {
-      percentUsed: said.data.five_hour.utilization,
-      resetsAt: said.data.five_hour.resets_at,
-    },
+    fiveHour:
+      fiveHour === null
+        ? null
+        : { percentUsed: fiveHour.utilization, resetsAt: fiveHour.resets_at },
     sevenDay: {
       percentUsed: said.data.seven_day.utilization,
       resetsAt: said.data.seven_day.resets_at,
@@ -283,12 +284,12 @@ export function pacingMarks(now: number, usage: Usage): Marks {
     now,
     sevenDayUtil: usage.sevenDay.percentUsed,
     sevenDayResetsAt: usage.sevenDay.resetsAt,
-    fiveHourResetsAt: usage.fiveHour.resetsAt,
+    fiveHourResetsAt: usage.fiveHour?.resetsAt ?? null,
   })
   return {
-    [FIVE_HOUR_PERCENT_USED]: usage.fiveHour.percentUsed,
+    [FIVE_HOUR_PERCENT_USED]: usage.fiveHour?.percentUsed ?? null,
     [SEVEN_DAY_PERCENT_USED]: usage.sevenDay.percentUsed,
-    [FIVE_HOUR_RESETS_AT]: usage.fiveHour.resetsAt,
+    [FIVE_HOUR_RESETS_AT]: usage.fiveHour?.resetsAt ?? null,
     [SEVEN_DAY_RESETS_AT]: usage.sevenDay.resetsAt,
     [FIVE_HOUR_STARTED_AT]: derived.fiveHourStartedAt,
     [SEVEN_DAY_STARTED_AT]: derived.sevenDayStartedAt,

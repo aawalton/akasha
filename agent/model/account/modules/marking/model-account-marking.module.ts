@@ -212,6 +212,11 @@ export const modelAccountMarking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A pacing mark from a usage naming no five-hour window takes every five-hour value away.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A pacing mark built from a moment that will not read takes the read moment away.",
     },
     {
@@ -224,5 +229,5 @@ export const modelAccountMarking = {
     },
   ],
   createdAt: "2026-09-02T18:11:03.407Z",
-  updatedAt: "2026-09-25T17:51:33.000Z",
+  updatedAt: "2026-10-31T07:27:38.689Z",
 } as const satisfies Module

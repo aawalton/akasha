@@ -51,7 +51,11 @@ export const modelAccountOauth = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A usage response names a five-hour window and a seven-day window.",
+      statement: "A usage response names a seven-day window.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A usage response names a five-hour window or names that window null.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -262,5 +266,5 @@ export const modelAccountOauth = {
     },
   ],
   createdAt: "2026-09-02T17:33:26.240Z",
-  updatedAt: "2026-09-25T17:52:52.000Z",
+  updatedAt: "2026-10-31T07:27:38.689Z",
 } as const satisfies Module

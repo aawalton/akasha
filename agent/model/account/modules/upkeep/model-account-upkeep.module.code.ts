@@ -99,9 +99,8 @@ function windowInactive(resetsAt: string | null, now: number): boolean {
 }
 
 export function shouldTriggerWindow(usage: Usage, now: number): boolean {
-  return (
-    windowInactive(usage.fiveHour.resetsAt, now) || windowInactive(usage.sevenDay.resetsAt, now)
-  )
+  const fiveHourInactive = usage.fiveHour !== null && windowInactive(usage.fiveHour.resetsAt, now)
+  return fiveHourInactive || windowInactive(usage.sevenDay.resetsAt, now)
 }
 
 export function inAccountOrder<T extends { readonly slug: string }>(

@@ -84,7 +84,11 @@ export const modelAccountUpkeep = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A window is triggered where either of the two windows is inactive.",
+      statement: "A window is triggered where any window the usage names is inactive.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A usage naming no five-hour window has no five-hour window to trigger.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -150,5 +154,5 @@ export const modelAccountUpkeep = {
     },
   ],
   createdAt: "2026-09-03T18:00:13.112Z",
-  updatedAt: "2026-09-25T17:55:40.000Z",
+  updatedAt: "2026-10-31T07:27:38.689Z",
 } as const satisfies Module

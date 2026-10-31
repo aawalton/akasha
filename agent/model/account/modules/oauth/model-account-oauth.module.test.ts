@@ -103,20 +103,26 @@ test("a token response naming an unusable number is refused", () => {
 test("a realistic usage response parses", () => {
   const parsed = USAGE_RESPONSE_SCHEMA.safeParse(USAGE_REALISTIC)
   expect(parsed.success).toBe(true)
-  expect(parsed.data?.five_hour.utilization).toBe(12.5)
+  expect(parsed.data?.five_hour?.utilization).toBe(12.5)
   expect(parsed.data?.seven_day.resets_at).toBe("2026-09-06T00:00:00Z")
 })
 
 test("a usage window naming a null reset parses", () => {
   const parsed = USAGE_RESPONSE_SCHEMA.safeParse(USAGE_NULL_RESETS)
   expect(parsed.success).toBe(true)
-  expect(parsed.data?.five_hour.resets_at).toBeNull()
+  expect(parsed.data?.five_hour?.resets_at).toBeNull()
+})
+
+test("a usage response naming the five-hour window null parses", () => {
+  const parsed = USAGE_RESPONSE_SCHEMA.safeParse({ ...USAGE_REALISTIC, five_hour: null })
+  expect(parsed.success).toBe(true)
+  expect(parsed.data?.five_hour).toBeNull()
 })
 
 test("a usage response carrying keys the shape does not name keeps them", () => {
   const parsed = USAGE_RESPONSE_SCHEMA.safeParse(USAGE_EXTRA_KEYS)
   expect(parsed.success).toBe(true)
-  expect(parsed.data?.five_hour.remaining).toBe(4)
+  expect(parsed.data?.five_hour?.remaining).toBe(4)
   expect(parsed.data?.seven_day_opus).toEqual({ utilization: 1, resets_at: null })
 })
 

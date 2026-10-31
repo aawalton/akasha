@@ -32,7 +32,7 @@ const USAGE_WINDOW_SCHEMA = z.looseObject({
 })
 
 export const USAGE_RESPONSE_SCHEMA = z.looseObject({
-  five_hour: USAGE_WINDOW_SCHEMA,
+  five_hour: USAGE_WINDOW_SCHEMA.nullable(),
   seven_day: USAGE_WINDOW_SCHEMA,
 })
 

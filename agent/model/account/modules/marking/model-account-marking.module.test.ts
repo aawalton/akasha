@@ -331,6 +331,7 @@ test("the subscription reason reaches the page unquoted", () => {
 
 test("a usage body is read into akasha's own names", () => {
   expect(usageFrom(RAW_USAGE)).toEqual(USAGE)
+  expect(usageFrom({ ...RAW_USAGE, five_hour: null })?.fiveHour).toBe(null)
 })
 
 test("a usage body the wire shape refuses is answered as no usage", () => {
@@ -364,6 +365,7 @@ test("a pacing mark whose reset is unknown carries a removal", () => {
   expect(said["sevenDayResetsAt"]).toBe(null)
   expect(said["fiveHourStartedAt"]).toBe(null)
   expect(said["sevenDayStartedAt"]).toBe(null)
+  expect(pacingMarks(NOW, { ...USAGE, fiveHour: null })["fiveHourPercentUsed"]).toBe(null)
 })
 
 test("a pacing mark reaches the page under every key the page type declares", () => {

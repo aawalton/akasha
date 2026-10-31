@@ -95,6 +95,16 @@ describe("shouldTriggerWindow", () => {
     expect(shouldTriggerWindow(usageOf(isoAt(NOW + HOUR_MS), "later"), NOW)).toBe(true)
   })
 
+  test("a usage naming no five-hour window triggers only for the seven-day window", () => {
+    const running = {
+      fiveHour: null,
+      sevenDay: { percentUsed: 20, resetsAt: isoAt(NOW + HOUR_MS) },
+    }
+    expect(shouldTriggerWindow(running, NOW)).toBe(false)
+    const passed = { fiveHour: null, sevenDay: { percentUsed: 20, resetsAt: isoAt(NOW - HOUR_MS) } }
+    expect(shouldTriggerWindow(passed, NOW)).toBe(true)
+  })
+
   test("nothing here reads a clock of its own", () => {
     const usage = usageOf(isoAt(NOW + HOUR_MS), isoAt(NOW + HOUR_MS * 24))
     expect(shouldTriggerWindow(usage, NOW)).toBe(false)
