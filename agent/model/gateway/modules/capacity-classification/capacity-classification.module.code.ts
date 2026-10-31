@@ -34,7 +34,7 @@ export function classifyCapacity429(headers: Headers, bodyText: string | null): 
   const sevenDay = readHeader(headers, SEVEN_DAY_STATUS_HEADER)
   const overageDisabledReason = readHeader(headers, OVERAGE_DISABLED_REASON_HEADER)
 
-  if (fiveHour == null || sevenDay == null) {
+  if (sevenDay == null) {
     const bothAbsent = fiveHour == null && sevenDay == null
     if (bothAbsent && overageDisabledReason != null) {
       return {
@@ -66,8 +66,10 @@ export function classifyCapacity429(headers: Headers, bodyText: string | null): 
     return { kind: "unclassified", reason: `window status header(s) absent: ${missing}` }
   }
 
-  if (fiveHour !== STATUS_ALLOWED || sevenDay !== STATUS_ALLOWED) {
-    return { kind: "capacity", reason: `5h=${fiveHour} 7d=${sevenDay}` }
+  const fiveHourSaid = fiveHour ?? "absent"
+  const fiveHourSpent = fiveHour != null && fiveHour !== STATUS_ALLOWED
+  if (fiveHourSpent || sevenDay !== STATUS_ALLOWED) {
+    return { kind: "capacity", reason: `5h=${fiveHourSaid} 7d=${sevenDay}` }
   }
 
   const overage = readHeader(headers, OVERAGE_STATUS_HEADER)
@@ -82,6 +84,6 @@ export function classifyCapacity429(headers: Headers, bodyText: string | null): 
     signal: "windows-allowed",
     overageRejected,
     overageDisabledReason,
-    reason: `5h=${STATUS_ALLOWED} 7d=${STATUS_ALLOWED} ${detail}`,
+    reason: `5h=${fiveHourSaid} 7d=${STATUS_ALLOWED} ${detail}`,
   }
 }

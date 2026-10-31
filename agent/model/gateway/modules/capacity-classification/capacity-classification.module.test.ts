@@ -96,12 +96,22 @@ test("both window headers absent with a body naming fast-mode credits is not cap
   expect(result.reason).toContain("body names fast-mode credits")
 })
 
-test("a window status header absent leaves the 429 unclassified", () => {
+test("a seven-day status header absent leaves the 429 unclassified", () => {
   const result = classifyCapacity429(headersOf({}), null)
   expect(result.kind).toBe("unclassified")
 })
 
-test("one window header present and one absent is unclassified whatever the overage headers hold", () => {
+test("a 429 reporting no five-hour window is read from its seven-day status", () => {
+  const spent = classifyCapacity429(headersOf({ [SEVEN_DAY_STATUS_HEADER]: STATUS_REJECTED }), null)
+  expect(spent).toEqual({ kind: "capacity", reason: "5h=absent 7d=rejected" })
+  const allowed = notCapacity(
+    classifyCapacity429(headersOf({ [SEVEN_DAY_STATUS_HEADER]: STATUS_ALLOWED }), null)
+  )
+  expect(allowed.signal).toBe("windows-allowed")
+  expect(allowed.reason).toBe("5h=absent 7d=allowed overage=absent")
+})
+
+test("a seven-day header absent is unclassified whatever the five-hour and overage headers hold", () => {
   const result = classifyCapacity429(
     headersOf({
       [FIVE_HOUR_STATUS_HEADER]: STATUS_ALLOWED,
@@ -118,7 +128,7 @@ test("one window header present and one absent is unclassified whatever the over
 
 test("the body is read only where both window headers are absent", () => {
   const oneWindowPresent = classifyCapacity429(
-    headersOf({ [SEVEN_DAY_STATUS_HEADER]: STATUS_ALLOWED }),
+    headersOf({ [FIVE_HOUR_STATUS_HEADER]: STATUS_ALLOWED }),
     FAST_MODE_CREDITS_MESSAGE
   )
   expect(oneWindowPresent.kind).toBe("unclassified")
@@ -154,14 +164,14 @@ test("a header value is read with case folded away", () => {
 test("a header value that is blank is read as absent", () => {
   const result = classifyCapacity429(
     headersOf({
-      [FIVE_HOUR_STATUS_HEADER]: "   ",
-      [SEVEN_DAY_STATUS_HEADER]: STATUS_ALLOWED,
+      [FIVE_HOUR_STATUS_HEADER]: STATUS_ALLOWED,
+      [SEVEN_DAY_STATUS_HEADER]: "   ",
     }),
     null
   )
   expect(result).toEqual({
     kind: "unclassified",
-    reason: `window status header(s) absent: ${FIVE_HOUR_STATUS_HEADER}`,
+    reason: `window status header(s) absent: ${SEVEN_DAY_STATUS_HEADER}`,
   })
 })
 

@@ -30,12 +30,20 @@ export const capacityClassification = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A window status header absent leaves the 429 unclassified.",
+      statement: "A seven-day status header absent leaves the 429 unclassified.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "One window header present and one absent is unclassified whatever the overage headers have.",
+        "A seven-day header absent is unclassified whatever the five-hour and overage headers have.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A five-hour status header absent is a five-hour window the 429 does not report.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A 429 reporting no five-hour window is read from its seven-day status.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -71,5 +79,5 @@ export const capacityClassification = {
     },
   ],
   createdAt: "2026-09-02T13:08:41.401Z",
-  updatedAt: "2026-09-25T18:00:47.000Z",
+  updatedAt: "2026-10-31T07:28:40.250Z",
 } as const satisfies Module
