@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg0156156RankUpDone = {
     },
   ],
   createdAt: "2026-10-28T16:29:25.594Z",
-  updatedAt: "2026-10-28T16:29:25.594Z",
+  updatedAt: "2026-10-31T22:25:39.574Z",
+  ownProgress: 4188,
+  progressedAt: "2026-10-31T22:25:39.574Z",
 } as const satisfies StoryChapterRead

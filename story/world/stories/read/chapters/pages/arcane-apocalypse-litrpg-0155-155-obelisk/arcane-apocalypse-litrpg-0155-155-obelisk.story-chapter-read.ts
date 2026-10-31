@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg0155155Obelisk = {
     },
   ],
   createdAt: "2026-10-28T16:29:25.594Z",
-  updatedAt: "2026-10-28T16:29:25.594Z",
+  updatedAt: "2026-10-31T22:25:39.574Z",
+  ownProgress: 3829,
+  progressedAt: "2026-10-31T22:25:39.574Z",
 } as const satisfies StoryChapterRead
