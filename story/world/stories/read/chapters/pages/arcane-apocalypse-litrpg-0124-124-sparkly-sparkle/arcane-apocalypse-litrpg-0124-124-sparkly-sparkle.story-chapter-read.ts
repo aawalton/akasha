@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg0124124SparklySparkle = {
     },
   ],
   createdAt: "2026-10-28T16:29:25.594Z",
-  updatedAt: "2026-10-28T16:29:25.594Z",
+  updatedAt: "2026-10-31T17:20:57.758Z",
+  ownProgress: 3338,
+  progressedAt: "2026-10-31T17:20:57.758Z",
 } as const satisfies StoryChapterRead
