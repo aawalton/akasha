@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg0129129QuestComplete = {
     },
   ],
   createdAt: "2026-10-28T16:29:25.594Z",
-  updatedAt: "2026-10-28T16:29:25.594Z",
+  updatedAt: "2026-10-31T18:24:02.530Z",
+  ownProgress: 3422,
+  progressedAt: "2026-10-31T18:24:02.530Z",
 } as const satisfies StoryChapterRead

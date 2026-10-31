@@ -1,0 +1,317 @@
+“Where was he?” Bart asked.
+
+Morzath’s violet flames did not flicker.
+
+“With me,” Morzath said.
+
+Silence settled over the entrance hall. Even the Curator, who had treated 600 years of severed worlds as a matter of routine office management, turned his head slightly to look at the Undying Lich.
+
+Bart stood very still behind the Patron Services desk. A dozen questions crowded into his mind at once …why the old Keeper had left the building, what he had been running from, what he had known about the catastrophe—but Bart pushed them back. If he started guessing now, he would ruin the testimony before he had it.
+
+“Tell me what you personally witnessed,” Bart said, keeping his voice level. “Nothing inferred or reconstructed afterward.”
+
+Morzath inclined his helm. “That will leave gaps.”
+
+“Then leave them,” Bart said.
+
+Morzath seemed to approve of that answer. He rested one gauntleted hand against the edge of the counter and looked down at the glowing interface between them.
+
+“Before your predecessor arrived in person,” Morzath began, “the continuity package reached my seat in the Ashen Plains.”
+
+Bart tapped the screen, pulling up the dispatch log they had recovered at the beginning of the inquiry.
+
+EMERGENCY CONTINUITY TRANSFER - DISPATCHED
+
+DELIVERY CONFIRMATION - RECEIVED
+
+MEDIATION DESTINATION - REVISED
+
+“You authenticated it first,” Bart said, tracing the timestamps.
+
+“I did,” Morzath said. “I reviewed the scope of the limited authority, verified the obligation, accepted custody, and returned the formal acknowledgement through the transit link.”
+
+Gregor leaned over the end of the counter, squinting at the three lines on the interface. “So he made sure you had the stuff before he went anywhere.”
+
+“The continuity package,” Morzath corrected mildly.
+
+“You know what I meant,” Gregor said.
+
+“I did,” Morzath replied. “It remains slightly uncouth to refer to it as just stuff.”
+
+Bart barely heard the exchange. He was staring at the gap between the delivery confirmation and the revised destination marker. The order of events changed the entire shape of Keeper #4,091’s departure. He had not fled the Archive in a panic and tried to cobble together a rescue plan from Morzath’s fortress. The external desk was already set up, legally bound, and operating before #4,091 ever stepped through the route.
+
+“How long after you sent the confirmation did he arrive?” Bart asked.
+
+“Less than an hour,” Morzath said. “He came through the primary transit link to my hold. He was alone.”
+
+“What state was he in?” Bart asked. “Was he injured?”
+
+“He was intact,” Morzath said, his voice carrying a dry precision. “He was not panicked or fleeing pursuit. Though he looked as though he had not slept for several days.”
+
+Bart glanced toward the railing.Albert, his skeletal hands resting atop the handle of his broom, spoke very softly. “That sounds familiar, sir.”
+
+During the final week before the Ruin, Albert had watched his Keeper work through the nights, locking down indices and preparing directives he refused to explain to his staff.
+
+“What did he do when he reached your hold?” Bart asked.
+
+“He asked to inspect the continuity package,” Morzath said. “Not because he doubted my receipt of it. He wished to see the active interface from the outside.”
+
+“To make sure it was working?” Gregor asked.
+
+“To confirm that its authority existed independently of the primary facility,” Morzath said.
+
+Bart’s eyes narrowed. “What exactly did he ask you?”
+
+Morzath’s flames burned steady and still inside his helm. “He asked whether my custody of the Archive’s obligations would remain valid if his own authority ceased.”
+
+The words hit the quiet hall like a dropped stone. Bart looked down at the slate, then back up at the warlord. “He asked specifically about losing Keeper authority?”
+
+“He used those words,” Morzath said.
+
+There was no room left for doubt. Whatever had happened to Keeper #4,091’s connection to the Archive, it had not simply been torn away by the collapse or stripped from him by an outside force. He had arrived at Morzath’s stronghold already intending to sever it himself.
+
+“Did you ask him why?” Bart said.
+
+“I asked him immediately,” Morzath replied.
+
+“And what did he tell you?”
+
+“He declined to explain.”
+
+Gregor stared at the undead conqueror. “And you just accepted that?”
+
+Morzath turned his helm slowly toward Gregor. “I did not.”
+
+“What did you do?” Gregor asked.
+
+“I asked him again,” Morzath said.
+
+“And?” Bart pressed.
+
+“He remained irritating,” Morzath said flatly. “He told me only that my custody did not require the reason, and that knowing it would complicate my compliance with the handover restrictions.” Even at the edge of disaster, Keeper #4,091 had treated the end of his own tenure as a matter of strict information security.
+
+“What happened next?” Bart asked.
+
+“He did not leave my office,” Morzath said. “He walked to the far side of my desk, opened an administrative channel back to the primary core, and initiated the severance procedure there.”Bart felt a cold tightening in his chest. He had assumed the final severance had taken place in the archive with some ritual involved.Instead, there had been no ritual at all.
+
+“He stood at my desk and answered 7 questions,” Morzath said.
+
+Gregor blinked. “That’s how a Keeper resigns?”
+
+“Apparently so,” Morzath said.
+
+“Not resigns,” Bart corrected quietly, his eyes fixed on the interface. “Severs. Resignation would mean an orderly handoff. Severance cuts the office loose while it’s still running.”
+
+Bart tapped the frame of the interface, pulling the core authority log alongside Morzath’s testimony. The system matched the account without a single discrepancy.
+
+KEEPER-INITIATED AUTHORITY SEVERANCE: CONFIRMED
+
+CONFIRMATION STEPS COMPLETED: 7 / 7
+
+TIME BEFORE GREAT DIVERGENCE: 00:00:03
+
+Gregor looked at the bottom line. “Three seconds.”
+
+The number sat in pale blue light. 7 separate administrative confirmations, each requiring deliberate intent. The last had been completed three seconds before the network tore itself apart.
+
+“What happened after he completed the seventh confirmation?” Bart asked.
+
+“Nothing happened,” Morzath said.
+
+Bart frowned. “Nothing at all?”
+
+“For approximately three seconds,” Morzath replied.
+
+Then the Undying Lich shifted his weight, the dark plates of his armour scraping together.
+
+“After the third second, every continuity instrument in my hold lost primary alignment,” Morzath said. “Three external destination anchors returned impossible spatial states simultaneously. The Archive’s primary status response vanished from the registry. And the transit link between my fortress and your entrance hall began tearing along its margins.”
+
+Bart’s mind raced, automatically testing the link between the two events. Keeper #4,091 had finished the seventh step, and three seconds later the Great Divergence had begun. It looked like a trigger.
+
+“Sequence isn’t causation,” Bart said out loud.
+
+“That is correct,” Morzath agreed. “Whether his severance caused the Divergence, or whether he timed the severance to finish just before an event he knew was arriving, my instruments could not determine.”
+
+The Curator, who had been listening in complete silence beside the marble pilasters, spoke softly. “From the network side, the failure began outward and moved inward. The outer crossings were already dying nine days prior.”
+
+Bart nodded once. That fit the evidence. The house had already been creaking for over a week. Whatever the severance had done, it could not explain the first cracks.
+
+“What did he do when the instruments failed?” Bart asked Morzath.
+
+“He turned back toward the transit link,” Morzath said, “and prepared to return to the Archive.”
+
+Gregor stared at him. “After giving up Keeper authority?”
+
+“Immediately after,” Morzath said.
+
+“Why would he go back in without it?” Bart asked.
+
+“He did not tell me,” Morzath said. “I informed him that returning to a collapsing spatial institution without the administrative authority he had just discarded was idiotic.”
+
+Gregor let out a short breath. “What did he say to that?”
+
+“He said something unhelpful,” Morzath replied.
+
+“Such as?” Bart asked.
+
+“He said, ‘I know,’” Morzath stated. “Then he stepped through the failing link before the opening collapsed.”
+
+Bart watched Morzath’s face …or the dark iron and cold fire that served as one. “And you didn’t follow him.”
+
+“Not at that moment,” Morzath said.
+
+“Then you didn’t witness what he did when he first got back inside,” Bart noted, marking the boundary of the testimony in his head.
+
+“I did not,” Morzath confirmed. “The direct link from my hold had sheared away. For a time, my attention was occupied by 74 external anchors simultaneously demanding status verification from an institution that was no longer answering its bells.”
+
+“But you were inside the Archive later that day,” Bart said, looking between Morzath and Albert.
+
+“I was,” Morzath said.
+
+“Why did you go in if he told you to mind the continuity desk?” Bart asked.
+
+Morzath looked at him as if the answer were elementary. “Because the institution whose continuity I had just accepted had stopped responding entirely. Maintaining accurate external records required knowing whether the primary facility was merely damaged or permanently gone. I used a secondary consultation anchor that had not yet failed and entered the lower wing to inspect the failure myself.”
+
+“You weren’t with #4,091 when you arrived,” Bart said.
+
+“I did not see him until I was summoned,” Morzath said.
+
+Beside the railing, Albert went completely still.
+
+Bart turned his head toward the Chief Custodian. That was the bridge between the two stories…the place where Morzath’s outside account met the shattered fragments of Albert’s final human memory.
+
+“A senior archivist found me in Consultation Chamber Nine,” Morzath continued evenly.
+
+“Sent by #4,091?” Bart asked.
+
+“She was,” Morzath said.
+
+“What were you doing in Consultation Chamber Nine?” Bart asked, checking the detail against what they already knew.
+
+“I was leaving,” Morzath said. “I had confirmed that the structural collapse had reached the core index and that primary service would not recover in the short term. My obligation was back at my desk.”
+
+Gregor frowned slightly. “Didn’t you also have somewhere else to be?”
+
+Morzath paused for a fraction of a second. “I had a siege scheduled.”
+
+Gregor opened his mouth, thought better of it, and closed it again.
+
+“The archivist informed me that the former Keeper required me immediately,” Morzath said.
+
+Bart caught the phrasing. The former Keeper. When they had first viewed Albert’s damaged memory logs months ago, everyone had assumed #4,091 was still acting as Keeper during the collapse. Only Morzath had known as he walked down that ruined corridor that the man waiting for him had already stripped himself of his title.
+
+“When I reached the topographical map room in the East Section,” Morzath said, turning his helm slightly toward Albert, “your Chief Custodian was pinned beneath several tons of fallen masonry.”
+
+“I was indeed, sir,” Albert said quietly.
+
+“Biological survival was no longer feasible,” Morzath said.
+
+Gregor glanced between the warlord and the skeleton, clearly deciding not to interrupt.
+
+“And #4,091 asked whether you could save him,” Bart said.
+
+“At first, he did,” Morzath replied. “He asked whether I could save Albert’s life. I informed him that I could not. The physical damage exceeded mortal recovery.”
+
+Albert’s empty eye sockets remained fixed on the floor beside his broom. “Then he changed the question.”
+
+“He did,” Morzath said. “He asked whether I could preserve him.”
+
+Bart didn’t need Morzath to repeat every word. They had already recovered enough of Albert’s damaged memory to know the terms: biological death was certain, but identity continuity, memory, personality, and soul autonomy could be bound without a loyalty overwrite …provided Albert gave his own consent.
+
+“I remember,” Albert said softly. “I asked whether I would still be employed.”
+
+“Yes, you did,” Morzath said.
+
+Gregor looked very quietly at Albert.
+
+Bart looked from the skeleton to the Undying, and a realization clicked into place that made the whole 600 year old scene look different.
+
+“Keeper #4,091 wasn’t the Keeper anymore when he asked you to do that,” Bart said slowly.
+
+“He was not,” Morzath said.
+
+Bart looked at Albert. For six centuries, Albert had remembered his Keeper kneeling beside him in the falling dust, refusing to abandon a dying custodian while the building came down around their ears. Albert had thought it was the final act of his superior officer.
+
+In reality, the man who had knelt beside that rubble had already given up the office, the shield, and the authority of the Keeper. He hadn’t stayed for Albert because the system required a Keeper to protect staff assets. Whatever had brought #4,091 back into the dying Archive, once he found Albert beneath the rubble, he had refused to leave him there alone.
+
+Then Bart frowned. A sharp procedural contradiction caught on the edge of his memory.
+
+“Wait,” Bart said, turning back to the slate. “In the memory log, #4,091 spoke a command to the room. He said, ‘System. Initiate emergency staff continuity.’ If he had already severed his Keeper authority at your desk earlier, how did the Archive accept that command?”
+
+Bart didn’t guess. He queried the rule directly.
+
+“System,” Bart ordered. “Display authorization requirements for emergency staff continuity.”
+
+The blue text updated at once.
+
+PROCEDURE: EMERGENCY STAFF CONTINUITY
+
+KEEPER AUTHORITY: NOT REQUIRED
+
+EMPLOYEE CONSENT: REQUIRED
+
+INSTITUTIONAL IDENTITY ANCHOR: REQUIRED
+
+QUALIFIED CONTINUITY OPERATOR: REQUIRED
+
+Bart read the lines and let out a slow breath.The request itself hadn't required Keeper authority. The procedure rested on three things: Albert's consent, the Archive recognizing his institutional identity, and Morzath serving as the qualified continuity operator. #4,091 had simply known the manual well enough to know the rule would still answer him after he gave up his rank.
+
+“What happened after the preservation was finished?” Bart asked Morzath.
+
+“The upper levels began giving way,” Morzath said. “Albert was stabilized, though dormant while the binding settled into his frame. My external routes were failing rapidly. If I remained inside the primary facility much longer, I would be trapped inside the ruin with the continuity package left unattended outside.”
+
+“So you left,” Bart said. “And #4,091 stayed behind?”
+
+Morzath’s flames sharpened. “He instructed me to leave.”
+
+Bart studied the warlord. “And you obeyed him?”
+
+“After a brief interval,” Morzath said.
+
+Gregor raised an eyebrow. “After a brief interval?”
+
+“There was disagreement,” Morzath said coldly. “He pointed out, correctly, that I had accepted formal custody of the Archive’s external survival, and that remaining in a collapsing room to argue with a man who no longer held institutional standing was a breach of my duty.”
+
+“Was that the last time you saw him?” Bart asked.
+
+“It was,” Morzath said. “I withdrew through the Consultation Chamber Nine moments before the anchor sheared. 41 years later, the last route through which your records could verify my service went silent.”
+
+Bart looked down at the desk. The timeline was finally whole. Every piece of evidence from the Fae border, the continuity ledger, the Curator’s closure logs, Morzath’s stronghold, and Albert’s memory now locked together into a single, unbroken chain.
+
+Nine days before the Ruin, the outer roads had started dying.
+
+Keeper #4,091 had seen enough to prepare for catastrophe. He had prepared autonomous closure powers for the Curator. He had bundled the Archive’s institutional continuity into a package and entrusted it to the one being in the known realms too stubborn and too undying to abandon it.
+
+Then he had gone to Morzath’s fortress, verified that the continuity service could survive without him, answered seven questions to sever himself from the Keeper’s office three seconds before the catastrophe struck…and returned to the Archive anyway.
+
+Whatever he had returned to do, when he found Albert dying beneath the rubble, he had refused to leave him there.
+
+Only one hole remained in the center of the board.
+
+Bart looked up at Morzath. “Why did he sever his authority?”
+
+Morzath did not move. “I do not know.”
+
+“He never gave you even a hint?” Bart asked.
+
+“He did not,” Morzath said.
+
+“Did he know the Great Divergence was going to happen three seconds after he finished?” Bart asked.
+
+“I cannot prove that,” Morzath answered, holding strictly to the standard Bart had set at the start of the inquiry. “I can only tell you that he did not look surprised when the instruments failed.”
+
+Bart stared at the timeline on the interface.
+
+For months, Bart had wondered how Keeper #4,091 had lost his authority during the Ruin. Now he knew the truth. He hadn't lost it but had surrendered it deliberately.
+
+He had spent days making sure the institution could survive without a Keeper. And then, three seconds before the disaster arrived, he had made certain that it would have to.
+
+Bart looked up at the ancient warlord standing beside the counter.
+
+“So the last thing the Keeper did,” Bart said quietly, “was stop being the Keeper.”
+
+Morzath’s violet flames burned low and still.
+
+“It was,” Morzath said.
+
+Beside the railing, Albert’s broom stopped moving entirely.
