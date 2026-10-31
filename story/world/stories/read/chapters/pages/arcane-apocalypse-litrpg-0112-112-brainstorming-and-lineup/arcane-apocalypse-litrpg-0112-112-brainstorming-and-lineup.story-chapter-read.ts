@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg0112112BrainstormingAndLineup = {
     },
   ],
   createdAt: "2026-10-28T16:29:25.594Z",
-  updatedAt: "2026-10-28T16:29:25.594Z",
+  updatedAt: "2026-10-31T15:22:46.970Z",
+  ownProgress: 3759,
+  progressedAt: "2026-10-31T15:22:46.970Z",
 } as const satisfies StoryChapterRead
