@@ -26,6 +26,8 @@ const ICON_MARGIN = 10
 
 const ICON_SIZE = 48
 
+const BUTTON_SIZE = 32
+
 export interface ArmoryRow {
   readonly build?: ArmoryBuild
   readonly data?: ArmoryBuildData
@@ -82,6 +84,7 @@ function onClicked(control: Control | undefined, act: () => undefined): undefine
 function matchIconColumn(button: Control | undefined): undefined {
   if (button === undefined) return undefined
   const parent = button.GetParent()
+  button.SetDimensions(BUTTON_SIZE, BUTTON_SIZE)
   button.ClearAnchors()
   button.SetAnchor(CENTER, parent, RIGHT, -(ICON_MARGIN + ICON_SIZE / 2), 0)
   return undefined
