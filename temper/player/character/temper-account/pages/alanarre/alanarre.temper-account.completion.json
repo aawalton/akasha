@@ -67406,7 +67406,7 @@
       "name": "Storm-Cursed's Revenge",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Shipwright's Regret",
-      "slotsUnlocked": 5,
+      "slotsUnlocked": 6,
       "totalSlots": 22,
       "reconstructionCost": 75,
       "pieces": [
@@ -67416,7 +67416,7 @@
         },
         {
           "name": "Storm-Cursed Epaulets",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Storm-Cursed Robe",
@@ -67504,7 +67504,7 @@
       "name": "Spriggan's Vigor",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Shipwright's Regret",
-      "slotsUnlocked": 4,
+      "slotsUnlocked": 5,
       "totalSlots": 22,
       "reconstructionCost": 70,
       "pieces": [
@@ -67534,7 +67534,7 @@
         },
         {
           "name": "Boots of Spriggan's Vigor",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Amulet of Spriggan's Vigor",
