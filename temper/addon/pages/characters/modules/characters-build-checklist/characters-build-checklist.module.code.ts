@@ -215,6 +215,15 @@ function buffsSection(target: CharacterTarget): ChecklistSection {
   return { title: "Mundus and food", lines }
 }
 
+function curseLine(target: CharacterTarget): ChecklistLine {
+  const curse = GetPlayerCurseType()
+  const held = curse === CURSE_TYPE_NONE ? "" : GetString("SI_CURSETYPE", curse)
+  const wanted = target.curseName
+  const met = string.lower(held) === string.lower(wanted)
+  if (wanted !== "") return { text: `Become a ${wanted}`, met }
+  return { text: `Cure your ${held} curse`, met }
+}
+
 function passivesSection(target: CharacterTarget): ChecklistSection {
   return {
     title: "Passives",
@@ -243,6 +252,7 @@ export function checklistOf(target: CharacterTarget): readonly ChecklistSection[
     barsSection(target),
     gearSection(target),
     buffsSection(target),
+    { title: "Curse", lines: [curseLine(target)] },
     { title: "Quickslots", lines: quickslotLines(target) },
     passivesSection(target),
   ].filter((section) => section.lines.length > 0)

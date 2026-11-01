@@ -84,7 +84,6 @@ function applyText(titles: readonly string[]): string {
 interface TargetPanel {
   readonly window: TopLevelWindow
   readonly title: LabelControl
-  readonly choose: LabelControl
   readonly apply: LabelControl
   readonly said: LabelControl
   readonly lines: readonly LabelControl[]
@@ -108,13 +107,6 @@ function applyTarget(): undefined {
   return undefined
 }
 
-function nextTarget(): CharacterTarget | undefined {
-  const targets = currentCharacterTargets()
-  if (targets.length < 2) return undefined
-  const at = targets.findIndex((one) => one.buildId === currentCharacterTarget()?.buildId)
-  return targets[(at + 1) % targets.length]
-}
-
 export function chooseCharacterTarget(buildId: string): undefined {
   const over = currentCharacterTargets()[0]?.buildId
   if (over === undefined) return undefined
@@ -128,11 +120,6 @@ export function chooseCharacterTarget(buildId: string): undefined {
   return undefined
 }
 
-function chooseNextTarget(): undefined {
-  const next = nextTarget()
-  return next === undefined ? undefined : chooseCharacterTarget(next.buildId)
-}
-
 function createTargetPanel(): TargetPanel {
   const window = WINDOW_MANAGER.CreateTopLevelWindow(PANEL_NAME)
   window.SetHidden(true)
@@ -140,8 +127,6 @@ function createTargetPanel(): TargetPanel {
   const title = WINDOW_MANAGER.CreateControl("$(parent)Title", window, CT_LABEL)
   title.SetVerticalAlignment(TEXT_ALIGN_CENTER)
   styleHudLine(title, hudColor("plain"))
-
-  const choose = linkLabel(window, chooseNextTarget)
 
   const apply = linkLabel(window, applyTarget)
 
@@ -160,7 +145,7 @@ function createTargetPanel(): TargetPanel {
     counts.push(count)
   }
 
-  return { window, title, choose, apply, said, lines, counts }
+  return { window, title, apply, said, lines, counts }
 }
 
 function placeAt(control: Control, panel: TargetPanel, top: number): number {
@@ -235,7 +220,7 @@ function placeRow(row: ShownRow, panel: TargetPanel, top: number): number {
 function refreshTargetPanel(this: void): undefined {
   if (held === undefined) return undefined
   const panel = held
-  for (const line of [...panel.lines, panel.title, panel.choose, panel.apply]) {
+  for (const line of [...panel.lines, panel.title, panel.apply]) {
     line.SetHidden(true)
     line.SetWidth(0)
     line.SetHeight(HUD_ROW_HEIGHT)
@@ -247,14 +232,11 @@ function refreshTargetPanel(this: void): undefined {
     return undefined
   }
   panel.title.SetText(`Target Build — ${target.title}`)
-  const next = nextTarget()
-  if (next !== undefined) panel.choose.SetText(`Switch to ${next.title}`)
   const sections = checklistOf(target)
   const applying = toApply(sections)
   if (applying.length > 0) panel.apply.SetText(applyText(applying))
 
   const tops = [panel.title]
-  if (next !== undefined) tops.push(panel.choose)
   if (applying.length > 0) tops.push(panel.apply)
   const saidHeight = panel.said.GetText() === "" ? 0 : panel.said.GetTextHeight() + HEADER_GAP
   const head = PADDING * 2 + tops.length * HUD_ROW_HEIGHT + HEADER_GAP + saidHeight

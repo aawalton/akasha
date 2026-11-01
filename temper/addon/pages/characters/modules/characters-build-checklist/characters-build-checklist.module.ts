@@ -46,6 +46,11 @@ export const charactersBuildChecklist = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A curse is met when the character's curse has the name the target gives, or none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A passive is met when it is bought to its target rank or higher.",
     },
     {
@@ -58,5 +63,5 @@ export const charactersBuildChecklist = {
     },
   ],
   createdAt: "2026-10-28T19:54:38.440Z",
-  updatedAt: "2026-11-01T22:34:44.390Z",
+  updatedAt: "2026-11-01T23:27:56.424Z",
 } as const satisfies Module

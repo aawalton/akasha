@@ -76,15 +76,16 @@ export const charactersBuildTargetPanel = {
       statement: "The checklist is read again a moment after an apply.",
     },
     {
-      decisionKind: "decision-kind/departure",
+      decisionKind: "decision-kind/absence",
       statement:
-        "A character with more than one target build shows a button switching to the next.",
+        "The panel has no button switching builds; a build is chosen in the Temper Armory.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Switching saves the choice and has the items add-on judge every item again.",
+      statement:
+        "Choosing a build saves the choice and has the items add-on judge every item again.",
     },
   ],
   createdAt: "2026-10-28T19:54:38.440Z",
-  updatedAt: "2026-11-01T22:27:26.250Z",
+  updatedAt: "2026-11-01T23:27:56.424Z",
 } as const satisfies Module
