@@ -36,6 +36,7 @@
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items/rules/eval/modules/evaluator/evaluator.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items/rules/eval/modules/evaluator/evaluator.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items/rules/eval/modules/rule-condition-eval/rule-condition-eval.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items/rules/eval/modules/worn-destination-resolve/worn-destination-resolve.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-item-outcomes/inventory-item-outcomes.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-rule-matcher/inventory-rule-matcher.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items/rules/matcher/modules/web-item-facts/web-item-facts.module.code.ts","typed":true,"deferred":false}

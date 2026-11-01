@@ -25,7 +25,12 @@ export const inventoryRuleCompilerTypes = {
       decisionKind: "decision-kind/departure",
       statement: "A character's wanted equipment signature names the set its slot asks for.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A character's signature names its build and whether the character is set up as another.",
+    },
   ],
   createdAt: "2026-09-02T07:23:20.429Z",
-  updatedAt: "2026-10-28T21:23:21.139Z",
+  updatedAt: "2026-11-01T18:53:00.743Z",
 } as const satisfies Module

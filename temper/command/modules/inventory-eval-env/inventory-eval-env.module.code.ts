@@ -15,10 +15,13 @@ import {
 import { findCooldownGroup } from "akasha/temper/items/core/modules/cooldown-groups/cooldown-groups.module.code.ts"
 import { isCraftingRankBelowCap } from "akasha/temper/items/core/modules/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
 import {
-  firstUnfilledWanter,
   signatureMatchesItem,
+  wantedHolderOf,
 } from "akasha/temper/items/core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
-import { ESO_BAG_WORN } from "akasha/temper/items/core/modules/eso-bag-constants/eso-bag-constants.module.code.ts"
+import {
+  ESO_BAG_BACKPACK,
+  ESO_BAG_WORN,
+} from "akasha/temper/items/core/modules/eso-bag-constants/eso-bag-constants.module.code.ts"
 import type {
   InventoryDatabase,
   InventoryItemData,
@@ -158,9 +161,13 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
       return wantedCompanionEquipment.some((one) => signatureMatchesItem(one, facts))
     },
     isCompanionWornSlotFilled: () => UNKNOWN,
-    findCharacterForWantedEquipment: (facts) => {
+    findCharacterForWantedEquipment: (facts, holder) => {
       if (wantedEquipment === undefined) return UNKNOWN
-      return firstUnfilledWanter(wantedEquipment, facts, (charId) => wornBy(db, charId))?.esoCharId
+      return wantedHolderOf(wantedEquipment, facts, {
+        wornBy: (charId) => piecesIn(db, charId, [ESO_BAG_WORN]),
+        heldBy: (charId) => piecesIn(db, charId, [ESO_BAG_WORN, ESO_BAG_BACKPACK]),
+        holder,
+      })
     },
     findCompanionForWantedEquipment: (facts) => {
       if (wantedCompanionEquipment === undefined) return UNKNOWN
@@ -169,9 +176,13 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
   }
 }
 
-function wornBy(db: InventoryDatabase | undefined, charId: string): InventoryItemData[] {
-  const worn = db?.locations[charId]?.bags[ESO_BAG_WORN]
-  return worn === undefined ? [] : Object.values(worn)
+function piecesIn(
+  db: InventoryDatabase | undefined,
+  charId: string,
+  bagIds: readonly number[]
+): InventoryItemData[] {
+  const bags = db?.locations[charId]?.bags
+  return bagIds.flatMap((bagId) => Object.values(bags?.[bagId] ?? {}))
 }
 
 function compileConsumableWanters(

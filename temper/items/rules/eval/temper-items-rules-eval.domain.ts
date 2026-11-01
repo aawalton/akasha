@@ -32,6 +32,7 @@ export const temperItemsRulesEval = {
     "module/rule-condition-eval",
     "module/check-item-ids",
     "module/static-item-key",
+    "module/worn-destination-resolve",
   ],
   decisions: [
     {
@@ -71,5 +72,5 @@ export const temperItemsRulesEval = {
     },
   ],
   createdAt: "2026-09-02T08:24:13.422Z",
-  updatedAt: "2026-09-26T20:09:40.000Z",
+  updatedAt: "2026-11-01T18:53:00.743Z",
 } as const satisfies Domain

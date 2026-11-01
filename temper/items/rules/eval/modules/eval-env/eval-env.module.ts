@@ -60,7 +60,16 @@ export const evalEnv = {
       decisionKind: "decision-kind/departure",
       statement: "An environment with no house room lookup knows no house's room.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A wanted-equipment lookup says the character and whether it wears the piece.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A wanted-equipment lookup is told the character holding the item in its backpack.",
+    },
   ],
   createdAt: "2026-09-02T08:24:13.419Z",
-  updatedAt: "2026-10-28T20:47:31.599Z",
+  updatedAt: "2026-11-01T18:53:00.743Z",
 } as const satisfies Module

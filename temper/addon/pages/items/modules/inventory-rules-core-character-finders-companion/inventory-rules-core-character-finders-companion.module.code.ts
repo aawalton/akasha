@@ -149,8 +149,8 @@ interface WornPiece {
   setId?: number
 }
 
-function livePieceAt(slot: number): WornPiece | undefined {
-  const link = GetItemLink(BAG_WORN, slot, LINK_STYLE_BRACKETS)
+function livePieceAt(bagId: number, slot: number): WornPiece | undefined {
+  const link = GetItemLink(bagId, slot, LINK_STYLE_BRACKETS)
   if (link === "") return undefined
   const [hasSet, , , , , setId] = GetItemLinkSetInfo(link, true)
   return {
@@ -163,18 +163,33 @@ function livePieceAt(slot: number): WornPiece | undefined {
   }
 }
 
+function piecesIn(charId: string, bagIds: readonly number[]): ReadonlyArray<WornPiece | ItemData> {
+  const pieces: Array<WornPiece | ItemData> = []
+  const live = charId === tostring(GetCurrentCharacterId())
+  for (const bagId of bagIds) {
+    if (live) {
+      for (let slot = 0; slot < GetBagSize(bagId); slot++) {
+        const piece = livePieceAt(bagId, slot)
+        if (piece !== undefined) pieces.push(piece)
+      }
+      continue
+    }
+    const bag = getDatabase().locations[charId]?.bags[bagId]
+    if (bag !== undefined) pieces.push(...Object.values(bag))
+  }
+  return pieces
+}
+
 export function characterWornPieces(
   this: void,
   charId: string
 ): ReadonlyArray<WornPiece | ItemData> {
-  if (charId === tostring(GetCurrentCharacterId())) {
-    const pieces: WornPiece[] = []
-    for (let slot = 0; slot < GetBagSize(BAG_WORN); slot++) {
-      const piece = livePieceAt(slot)
-      if (piece !== undefined) pieces.push(piece)
-    }
-    return pieces
-  }
-  const bag = getDatabase().locations[charId]?.bags[BAG_WORN]
-  return bag === undefined ? [] : Object.values(bag)
+  return piecesIn(charId, [BAG_WORN])
+}
+
+export function characterHeldPieces(
+  this: void,
+  charId: string
+): ReadonlyArray<WornPiece | ItemData> {
+  return piecesIn(charId, [BAG_WORN, BAG_BACKPACK])
 }

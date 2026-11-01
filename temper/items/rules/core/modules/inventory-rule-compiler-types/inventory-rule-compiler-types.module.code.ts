@@ -65,6 +65,8 @@ export interface ResolvedEntry {
 
 export interface WantedEquipmentSignature {
   esoCharId: string
+  buildId?: string
+  backpack?: boolean
   equipType: number
   traitType: number
   quality: number

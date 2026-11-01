@@ -17,7 +17,6 @@ import {
   characterId,
   type ItemKey,
 } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
-import { buildWantedEquipmentFacts } from "akasha/temper/items/rules/eval/modules/check-equip-target/check-equip-target.module.code.ts"
 import {
   inferInspireCraftingType,
   inferResearchTraitKey,
@@ -29,11 +28,11 @@ import type {
   SkillLineRanks,
 } from "akasha/temper/items/rules/eval/modules/eval-env/eval-env.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-facts/item-facts.module.code.ts"
-
-type DestinationResolution =
-  | { readonly kind: "resolved"; readonly concrete: string; readonly targetQuantity?: number }
-  | { readonly kind: "no-eligible-target"; readonly detail?: string }
-  | { readonly kind: "indeterminate"; readonly detail?: string }
+import {
+  type DestinationResolution,
+  resolveCharacterWornByPriority,
+  resolveCompanionWornByPriority,
+} from "akasha/temper/items/rules/eval/modules/worn-destination-resolve/worn-destination-resolve.module.code.ts"
 
 const CHARACTER_BY_PRIORITY = "character:by-priority"
 const CHARACTER_WORN_BY_PRIORITY = "character-worn:by-priority"
@@ -367,40 +366,4 @@ function resolveDeconstructByPriority(facts: ItemFacts, ctx: EvalContext): Desti
   }
 
   return { kind: "no-eligible-target", detail: "every priority character is at the rank cap" }
-}
-
-function resolveCharacterWornByPriority(facts: ItemFacts, ctx: EvalContext): DestinationResolution {
-  const wanted = buildWantedEquipmentFacts(facts)
-  if (wanted === undefined) {
-    return {
-      kind: "no-eligible-target",
-      detail: "item is missing equipType / traitType / quality",
-    }
-  }
-  const result = ctx.env.findCharacterForWantedEquipment(wanted)
-  if (result === "unknown") {
-    return { kind: "indeterminate", detail: "wanted-equipment match unknown" }
-  }
-  if (result === undefined) {
-    return { kind: "no-eligible-target", detail: "no character wants this equipment" }
-  }
-  return { kind: "resolved", concrete: `character-worn:${result}` }
-}
-
-function resolveCompanionWornByPriority(facts: ItemFacts, ctx: EvalContext): DestinationResolution {
-  const wanted = buildWantedEquipmentFacts(facts)
-  if (wanted === undefined) {
-    return {
-      kind: "no-eligible-target",
-      detail: "item is missing equipType / traitType / quality",
-    }
-  }
-  const result = ctx.env.findCompanionForWantedEquipment(wanted)
-  if (result === "unknown") {
-    return { kind: "indeterminate", detail: "companion wanted-equipment match unknown" }
-  }
-  if (result === undefined) {
-    return { kind: "no-eligible-target", detail: "no companion wants this equipment" }
-  }
-  return { kind: "resolved", concrete: `companion-worn:${result}` }
 }

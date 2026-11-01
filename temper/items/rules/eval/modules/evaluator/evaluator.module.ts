@@ -46,7 +46,11 @@ export const evaluator = {
       decisionKind: "decision-kind/departure",
       statement: "A rule's result names the rule the result is of.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An action the destination resolved takes the rule's own place.",
+    },
   ],
   createdAt: "2026-09-02T08:24:13.420Z",
-  updatedAt: "2026-09-22T10:15:37.000Z",
+  updatedAt: "2026-11-01T18:53:00.743Z",
 } as const satisfies Module

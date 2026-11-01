@@ -367,7 +367,7 @@ test("wanted equipment is matched against the compiled list, and names the chara
     wantedEquipment: [{ esoCharId: "111", ...RING }],
   })
   expect(env.matchesWantedEquipment(RING)).toBe(true)
-  expect(env.findCharacterForWantedEquipment(RING)).toBe("111")
+  expect(env.findCharacterForWantedEquipment(RING)).toEqual({ esoCharId: "111", worn: true })
   expect(env.matchesWantedEquipment({ ...RING, quality: 5 })).toBe(false)
   expect(env.findCharacterForWantedEquipment({ ...RING, quality: 5 })).toBeUndefined()
 })

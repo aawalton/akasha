@@ -2,6 +2,7 @@ import { asObjectRecord } from "akasha/code/type/narrowing/modules/as-object-rec
 import { buildGetCharacterCurseState } from "akasha/temper/addon/pages/items/modules/inventory-curse-state/inventory-curse-state.module.code.ts"
 import { getCompiledConfig } from "akasha/temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
 import {
+  characterHeldPieces,
   characterWornPieces,
   isCompanionWornSlotFilled,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-character-finders-companion/inventory-rules-core-character-finders-companion.module.code.ts"
@@ -27,8 +28,8 @@ import {
   addonTraitOfEso,
 } from "akasha/temper/addon/pages/items/modules/inventory-trait-lookup/inventory-trait-lookup.module.code.ts"
 import {
-  firstUnfilledWanter,
   signatureMatchesItem,
+  wantedHolderOf,
 } from "akasha/temper/items/core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
 import { roomsIn } from "akasha/temper/items/rules/core/modules/house-destination/house-destination.module.code.ts"
 
@@ -202,9 +203,13 @@ export function buildEsoEvalEnv(): EvalEnv {
         facts.armorType,
         facts.weaponType
       ),
-    findCharacterForWantedEquipment: (facts) => {
+    findCharacterForWantedEquipment: (facts, holder) => {
       if (!compiled) return undefined
-      return firstUnfilledWanter(compiled.wantedEquipment, facts, characterWornPieces)?.esoCharId
+      return wantedHolderOf(compiled.wantedEquipment, facts, {
+        wornBy: characterWornPieces,
+        heldBy: characterHeldPieces,
+        holder,
+      })
     },
     findCompanionForWantedEquipment: (facts) => {
       if (!compiled) return undefined

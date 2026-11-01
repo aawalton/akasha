@@ -5,7 +5,10 @@ import {
 } from "akasha/temper/catalog/gear/equipment/modules/eso-trait-map/eso-trait-map.module.code.ts"
 import { findCooldownGroup } from "akasha/temper/items/core/modules/cooldown-groups/cooldown-groups.module.code.ts"
 import { isCraftingRankBelowCap } from "akasha/temper/items/core/modules/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
-import { signatureMatchesItem } from "akasha/temper/items/core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
+import {
+  signatureMatchesItem,
+  wantedHolderOf,
+} from "akasha/temper/items/core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
 import { styleChapters } from "akasha/temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
 import type { ClassifiedInventoryItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import {
@@ -130,13 +133,12 @@ export function buildWebEvalEnv(
       return false
     },
     isCompanionWornSlotFilled: () => "unknown",
-    findCharacterForWantedEquipment: (facts) => {
-      const item = factsToMatchable(facts)
-      for (const sig of ctx.wantedEquipment) {
-        if (signatureMatchesItem(sig, item)) return sig.esoCharId
-      }
-      return undefined
-    },
+    findCharacterForWantedEquipment: (facts, holder) =>
+      wantedHolderOf(ctx.wantedEquipment, factsToMatchable(facts), {
+        wornBy: () => [],
+        heldBy: () => [],
+        holder,
+      }),
     findCompanionForWantedEquipment: (facts) => {
       const item = factsToMatchable(facts)
       for (const sig of ctx.wantedCompanionEquipment) {

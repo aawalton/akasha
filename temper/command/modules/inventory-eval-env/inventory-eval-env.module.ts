@@ -101,9 +101,10 @@ export const inventoryEvalEnv = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "What a character wears comes from the inventory capture.",
+      statement:
+        "What a character wears or holds in its backpack comes from the inventory capture.",
     },
   ],
   createdAt: "2026-09-03T20:07:25.549Z",
-  updatedAt: "2026-11-01T14:59:31.418Z",
+  updatedAt: "2026-11-01T18:53:00.743Z",
 } as const satisfies Module

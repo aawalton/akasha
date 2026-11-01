@@ -28,6 +28,7 @@
 {"propertySlug":"import","fileName":"eval-env.module.code.ts","path":"temper/items/rules/eval/modules/destination-resolve/destination-resolve.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"eval-env.module.code.ts","path":"temper/items/rules/eval/modules/evaluator/evaluator.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"eval-env.module.code.ts","path":"temper/items/rules/eval/modules/rule-condition-eval/rule-condition-eval.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"eval-env.module.code.ts","path":"temper/items/rules/eval/modules/worn-destination-resolve/worn-destination-resolve.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"eval-env.module.code.ts","path":"temper/items/rules/eval/test-fixtures/check-container-fixtures/check-container-fixtures.test-fixture.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"eval-env.module.code.ts","path":"temper/items/rules/matcher/modules/web-eval-env/web-eval-env.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/rules/eval/temper-items-rules-eval.domain.ts","id":"01a06137-f96e-7a28-9f74-f5d1bea03036"}

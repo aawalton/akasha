@@ -122,6 +122,7 @@ export function evaluateRule(
   const verdict: RuleVerdict = { kind: "matched" }
   return {
     ...baseResult,
+    action: dest.action ?? rule.action,
     resolvedDestination: dest.concrete === "" ? undefined : dest.concrete,
     resolvedTargetQuantity:
       rule.action === "stock" ? (dest.targetQuantity ?? rule.targetQuantity) : undefined,

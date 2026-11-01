@@ -17,7 +17,20 @@ export const equipmentSignatureMatcher = {
       statement:
         "Build gear goes to no character already wearing each piece alike its build wants.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Gear for a build a character is not set up as goes to that character's backpack.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A piece the character holds, worn or in its backpack, serves every build it fits.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Gear is equipped for a build set up before any goes to a backpack.",
+    },
   ],
   createdAt: "2026-09-02T06:18:53.854Z",
-  updatedAt: "2026-11-01T14:59:31.418Z",
+  updatedAt: "2026-11-01T18:53:00.743Z",
 } as const satisfies Module

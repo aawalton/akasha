@@ -1,3 +1,4 @@
+import type { WantedHolder } from "akasha/temper/items/core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
 import type { ItemKey } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
 
 export type LookupResult<T> = T | "unknown"
@@ -34,8 +35,9 @@ export interface EvalEnv {
   ) => LookupResult<boolean>
 
   readonly findCharacterForWantedEquipment: (
-    facts: WantedEquipmentFacts
-  ) => LookupResult<string | undefined>
+    facts: WantedEquipmentFacts,
+    holder?: string
+  ) => LookupResult<WantedHolder | undefined>
 
   readonly findCompanionForWantedEquipment: (
     facts: WantedEquipmentFacts
