@@ -55,6 +55,7 @@ const itemSchema = z
     reconstructed: z.boolean().optional(),
     transmuted: z.boolean().optional(),
     uncollected: z.boolean().optional(),
+    unique: z.boolean().optional(),
     locked: z.boolean().optional(),
     crafted: z.boolean().optional(),
     craftedAt: z.number().optional(),

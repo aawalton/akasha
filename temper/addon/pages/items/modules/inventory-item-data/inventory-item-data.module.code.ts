@@ -159,6 +159,7 @@ export function extractItemData(bagId: number, slotIndex: number): ItemData | un
     IsItemLinkSetCollectionPiece(itemLink) &&
     !IsItemSetCollectionPieceUnlocked(itemId) &&
     !result.bound
+  if (IsItemLinkUnique(itemLink)) result.unique = true
   result.locked = isItemLocked(bagId, slotIndex)
   result.junk = IsItemJunk(bagId, slotIndex)
   result.junkable = CanItemBeMarkedAsJunk(bagId, slotIndex)

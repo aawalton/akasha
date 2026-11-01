@@ -53,6 +53,11 @@ export const inventoryItemData = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A slot whose item the game holds unique records so, and any other slot is silent.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A slot with a crafted item records whether a daily writ held asks for that item.",
     },
     {
@@ -62,5 +67,5 @@ export const inventoryItemData = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.853Z",
-  updatedAt: "2026-10-28T19:37:04.597Z",
+  updatedAt: "2026-11-01T19:41:11.675Z",
 } as const satisfies Module

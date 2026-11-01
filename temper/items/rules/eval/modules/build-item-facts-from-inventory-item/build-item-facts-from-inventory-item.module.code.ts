@@ -72,6 +72,7 @@ export function buildItemFactsFromInventoryItem(input: BuildItemFactsInput): Ite
     isReconstructed: item.reconstructed,
     isTransmuted: item.transmuted,
     isUncollected: item.uncollected,
+    isUnique: item.unique,
     isCrafted: item.crafted,
     isCraftedToday: craftedTodayOf(item, nowSec),
     isDailyWritNeeded: item.crafted === true ? (item.dailyWritNeeded ?? false) : false,

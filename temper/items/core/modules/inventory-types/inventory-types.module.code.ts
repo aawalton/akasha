@@ -77,6 +77,7 @@ export interface InventoryItemData {
   reconstructed?: boolean
   transmuted?: boolean
   uncollected?: boolean
+  unique?: boolean
   locked?: boolean
   crafted?: boolean
   craftedAt?: number

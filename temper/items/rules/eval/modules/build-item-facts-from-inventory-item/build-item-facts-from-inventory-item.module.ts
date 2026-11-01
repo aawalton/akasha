@@ -7,6 +7,7 @@ export const buildItemFactsFromInventoryItem = {
   definition:
     "the evaluable facts of an item, projected out of the game client's inventory item record",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -56,5 +57,5 @@ export const buildItemFactsFromInventoryItem = {
     },
   ],
   createdAt: "2026-09-02T08:24:13.408Z",
-  updatedAt: "2026-10-28T18:42:46.817Z",
+  updatedAt: "2026-11-01T19:41:11.675Z",
 } as const satisfies Module
