@@ -5,12 +5,12 @@ export const jennaRaineJeansBoysJesusDeluxeISeeWhatYoureSaying = {
   type: "page-type/track",
   slug: "jenna-raine-jeans-boys-jesus-deluxe-i-see-what-youre-saying",
   ownLength: 2.8872,
-  ownProgress: 0,
+  ownProgress: 2.8872,
   partOfCollections: [
     "release/jenna-raine-jeans-boys-jesus-deluxe",
     "release/jenna-raine-i-see-what-youre-saying",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I See What You're Saying",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const jennaRaineJeansBoysJesusDeluxeISeeWhatYoureSaying = {
     },
   ],
   createdAt: "2026-10-27T13:47:07.165Z",
-  updatedAt: "2026-10-27T13:47:07.165Z",
+  updatedAt: "2026-11-01T17:00:23.962Z",
+  progressedAt: "2026-11-01T17:00:23.962Z",
 } as const satisfies Track

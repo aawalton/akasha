@@ -5,11 +5,11 @@ export const kpopDemonHuntersCastKpopDemonHuntersLaBandeOriginaleDuFilmNetflixTo
   type: "page-type/track",
   slug: "kpop-demon-hunters-cast-kpop-demon-hunters-la-bande-originale-du-film-netflix-ton-sauveur",
   ownLength: 3.192283333333333,
-  ownProgress: 0,
+  ownProgress: 3.192283333333333,
   partOfCollections: [
     "release/kpop-demon-hunters-cast-kpop-demon-hunters-la-bande-originale-du-film-netflix",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Ton sauveur",
   trackType: "studio",
@@ -28,5 +28,6 @@ export const kpopDemonHuntersCastKpopDemonHuntersLaBandeOriginaleDuFilmNetflixTo
     },
   ],
   createdAt: "2026-09-22T13:40:05.358Z",
-  updatedAt: "2026-09-24T20:00:07.000Z",
+  updatedAt: "2026-11-01T17:00:23.962Z",
+  progressedAt: "2026-11-01T17:00:23.962Z",
 } as const satisfies Track
