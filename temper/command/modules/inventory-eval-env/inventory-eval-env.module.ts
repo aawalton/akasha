@@ -99,7 +99,11 @@ export const inventoryEvalEnv = {
       statement:
         "A stack the capture marks known is known by the character whose own bag holds it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a character wears comes from the inventory capture.",
+    },
   ],
   createdAt: "2026-09-03T20:07:25.549Z",
-  updatedAt: "2026-10-28T20:47:31.599Z",
+  updatedAt: "2026-11-01T14:59:31.418Z",
 } as const satisfies Module

@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"eso-bag-constants.module.code.ts","path":"temper/addon/pages/items/modules/inventory-browser-locations/inventory-browser-locations.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-bag-constants.module.code.ts","path":"temper/addon/pages/items/modules/inventory-location-tooltip-lines/inventory-location-tooltip-lines.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-bag-constants.module.code.ts","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-bag-constants.module.code.ts","path":"temper/items/core/modules/item-centric-inventory/item-centric-inventory.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-bag-constants.module.code.ts","path":"temper/items/core/modules/location-character-row/location-character-row.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-bag-constants.module.code.ts","path":"temper/items/core/modules/location-condition/location-condition.module.code.ts","typed":false,"deferred":false}

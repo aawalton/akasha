@@ -14,8 +14,15 @@ import {
 } from "akasha/temper/items/core/modules/compute-item-stock/compute-item-stock.module.code.ts"
 import { findCooldownGroup } from "akasha/temper/items/core/modules/cooldown-groups/cooldown-groups.module.code.ts"
 import { isCraftingRankBelowCap } from "akasha/temper/items/core/modules/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
-import { signatureMatchesItem } from "akasha/temper/items/core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
-import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import {
+  firstUnfilledWanter,
+  signatureMatchesItem,
+} from "akasha/temper/items/core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
+import { ESO_BAG_WORN } from "akasha/temper/items/core/modules/eso-bag-constants/eso-bag-constants.module.code.ts"
+import type {
+  InventoryDatabase,
+  InventoryItemData,
+} from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { roomsIn } from "akasha/temper/items/rules/core/modules/house-destination/house-destination.module.code.ts"
 import type {
   WantedCompanionEquipmentSignature,
@@ -153,13 +160,18 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
     isCompanionWornSlotFilled: () => UNKNOWN,
     findCharacterForWantedEquipment: (facts) => {
       if (wantedEquipment === undefined) return UNKNOWN
-      return wantedEquipment.find((one) => signatureMatchesItem(one, facts))?.esoCharId
+      return firstUnfilledWanter(wantedEquipment, facts, (charId) => wornBy(db, charId))?.esoCharId
     },
     findCompanionForWantedEquipment: (facts) => {
       if (wantedCompanionEquipment === undefined) return UNKNOWN
       return wantedCompanionEquipment.find((one) => signatureMatchesItem(one, facts))?.companionName
     },
   }
+}
+
+function wornBy(db: InventoryDatabase | undefined, charId: string): InventoryItemData[] {
+  const worn = db?.locations[charId]?.bags[ESO_BAG_WORN]
+  return worn === undefined ? [] : Object.values(worn)
 }
 
 function compileConsumableWanters(
