@@ -14,7 +14,7 @@ export const charactersBuildTargetRows = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only a section with a line still to do is shown, and its title is gold.",
+      statement: "A section with a line still to do is gold, and a section met is green.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -30,5 +30,5 @@ export const charactersBuildTargetRows = {
     },
   ],
   createdAt: "2026-11-01T22:27:26.250Z",
-  updatedAt: "2026-11-01T23:27:56.424Z",
+  updatedAt: "2026-11-01T23:31:26.227Z",
 } as const satisfies Module

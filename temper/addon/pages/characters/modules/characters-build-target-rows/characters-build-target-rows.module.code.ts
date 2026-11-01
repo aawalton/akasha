@@ -54,7 +54,7 @@ function showHeading(
   met: number,
   total: number
 ): number {
-  const color = hudColor("gold")
+  const color = met === total ? hudColor("done") : hudColor("gold")
   styleHudLine(label, color)
   label.SetText(titleCase(title))
   styleHudLine(count, color)
@@ -87,7 +87,6 @@ export function showRows(
     const count = counts[rows.length]
     if (rows.length >= room || label === undefined || count === undefined) break
     const unmet = section.lines.filter((line) => !line.met)
-    if (unmet.length === 0) continue
     const met = section.lines.length - unmet.length
     const trailing = showHeading(label, count, section.title, met, section.lines.length)
     rows.push({ label, count, trailing })
