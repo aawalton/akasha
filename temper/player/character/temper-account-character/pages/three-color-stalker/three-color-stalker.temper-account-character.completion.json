@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQOcojAQABihYwGU_tAEIBC3qtAEIAi1ntuULIi1ntuULIi1ntuULIi1ntuULIi1ntuULIQXqtuULIQXqtuULIQXa1uULIgaPVbcoWRAueq25Qss4KNiTI7GMv4AAAAADTcFEEAidFKJOAViADBAkQDcGgbANASGcSaoUTKgyADJMJ8EAcI4IcIUISICAyIzIxIAMjUjAjIzEAIiAyAAQzIjA6MjA6IiZDMjIAKCIiKjMiIjI6y57Gs1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrI698cPH1y9AxZIWiJsjdO0iVMnfP1CmCqhK46wwcNkjYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TDZQDIN4ZJPAADAAAA",
+  "buildHash": "ATQOcojAQABihYwGU_tAEIBC3qtAEIAi1ntuULIi1ntuULIi1ntuULIi1ntuULIi1ntuULIQXqtuULIQXqtuULIQXa1uULIgaPVbcoWRAueq25Qss4KNiTI7GMv4AAAAADTcFEEAidFKJOAXiMDBAkQDcGgbANgSGcSaoUTKo2IHJOJ8EAcI4IcIUISICAyIzIyEgIgMjUjAjIzEAIiAyIABDMiMDoyMDoiImQjMjIyACKCIiKjMiIjI6y59Ws1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrI698cPH1y9AxZIWiJsjdO0iVMnfP1CmCqhK46wwcNkjYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TDZQDIN4ZJPAADAAAA",
   "gender": 1,
   "level": 50,
   "classId": 3,
@@ -7952,7 +7952,7 @@
   },
   "skillPoints": {
     "total": 441,
-    "unassigned": 163,
+    "unassigned": 144,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -9653,7 +9653,7 @@
     }
   },
   "companionRapport": {
-    "6": 1928,
+    "6": 1933,
     "13": 918
   },
   "quests": [
@@ -17823,47 +17823,47 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1793543452,
-      "buildHash": "ATQOcojAAIBihYwmaFtuULJC3qtAEIAi1ntuULIi1ntuULIi1ntuULIi1ntuULIi1ntuULIQXqtuULIQXqtuULIQXa1uULIgaPVbcoWRAueq25Qss4KNzho7GNbMAAAAADTcFEEAidFKJOAViADBAkQDcGgbANASGcSaoUTKgyADJMJ8EAcI4IcIUISICAyIzIxIAMjUjAjIzEAIiAyAAQzIjA6MjA6IiZDMjIAKCIiKjMiIjI6y57Gs1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrI698cPH1y9AxZIWiJsjdO0iVMnfP1CmCqhK46wwcNkjYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TDZQDIN4ZJPAADAAAA",
+      "capturedAt": 1793545651,
+      "buildHash": "ATQOcojAQABihYwGU_tAEIBC3qtAEIAi1ntuULIi1ntuULIi1ntuULIi1ntuULIi1ntuULIQXqtuULIQXqtuULIQXa1uULIgaPVbcoWRAueq25Qss4KNiTI7GMv4AAAAADTcFEEAidFKJOAViADBAkQDcGgbANASGcSaoUTKgyADJMJ8EAcI4IcIUISICAyIzIxIAMjUjAjIzEAIiAyAAQzIjA6MjA6IiZDMjIAKCIiKjMiIjI6y59Ws1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrI698cPH1y9AxZIWiJsjdO0iVMnfP1CmCqhK46wwcNkjYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TDZQDIN4ZJPAADAAAA",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
-      "ultimate": 371,
-      "health": 0,
-      "healthBefore": 2185,
+      "ultimate": 287,
+      "health": 34902,
+      "healthBefore": 0,
       "healthPaired": false,
       "stats": {
-        "health-maximum": 26123,
-        "magicka-maximum": 13972,
+        "penetration-spell": 8369,
+        "health-maximum": 34902,
         "health-recovery": 399,
-        "stamina-maximum": 29431,
-        "magicka-recovery": 749,
-        "resistance-spell": 18429,
-        "critical-rating-weapon": 9362,
-        "resistance-physical": 14073,
-        "penetration-spell": 10796,
+        "critical-rating-spell": 9142,
+        "resistance-physical": 16764,
+        "power-weapon": 4343,
+        "critical-rating-weapon": 9142,
+        "magicka-maximum": 14241,
+        "magicka-recovery": 725,
+        "penetration-physical": 8369,
+        "resistance-spell": 20394,
+        "power-spell": 4343,
+        "stamina-maximum": 22467,
         "resistance-critical": 1320,
-        "power-spell": 6783,
-        "critical-rating-spell": 9362,
-        "stamina-recovery": 754,
-        "power-weapon": 6783,
-        "penetration-physical": 10796
+        "stamina-recovery": 754
       },
       "unbonusedStats": {
-        "health-maximum": 26123,
-        "magicka-maximum": 13972,
-        "health-recovery": 399,
-        "stamina-maximum": 29431,
-        "magicka-recovery": 749,
-        "resistance-spell": 0,
-        "critical-rating-weapon": 2181,
-        "resistance-physical": 0,
         "penetration-spell": 0,
-        "resistance-critical": 0,
-        "power-spell": 1000,
+        "health-maximum": 34902,
+        "health-recovery": 399,
         "critical-rating-spell": 2181,
-        "stamina-recovery": 754,
+        "resistance-physical": 0,
         "power-weapon": 1000,
-        "penetration-physical": 0
+        "critical-rating-weapon": 2181,
+        "magicka-maximum": 14241,
+        "magicka-recovery": 725,
+        "penetration-physical": 0,
+        "resistance-spell": 0,
+        "power-spell": 1000,
+        "stamina-maximum": 22467,
+        "resistance-critical": 0,
+        "stamina-recovery": 754
       },
       "activeBuffs": [
         {
@@ -17873,8 +17873,8 @@
           "effect": "Increases your Mount Speed by |cffffff15|r%.\n",
           "stacks": 0,
           "powerAtOnset": {
-            "weapon": 6783,
-            "spell": 6783
+            "weapon": 5055,
+            "spell": 5055
           }
         },
         {
@@ -17884,8 +17884,8 @@
           "effect": "You can transform into a savage Werewolf.\n\nYou take |cffffff15|r% more Poison Damage while transformed into a Werewolf.\n",
           "stacks": 0,
           "powerAtOnset": {
-            "weapon": 6783,
-            "spell": 6783
+            "weapon": 5055,
+            "spell": 5055
           }
         },
         {
@@ -17895,8 +17895,8 @@
           "effect": "Increases your Physical and Spell Resistance by |cffffff4239|r.\n",
           "stacks": 0,
           "powerAtOnset": {
-            "weapon": 6783,
-            "spell": 6783
+            "weapon": 5055,
+            "spell": 5055
           }
         },
         {
@@ -17906,8 +17906,8 @@
           "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
           "stacks": 0,
           "powerAtOnset": {
-            "weapon": 6783,
-            "spell": 6783
+            "weapon": 5055,
+            "spell": 5055
           }
         },
         {
@@ -17917,30 +17917,19 @@
           "effect": "Increase Max Stamina by |cffffff4620|r.\nIncrease Max Health by |cffffff5051|r.\nIf you are a werewolf, the rich marrow will also slightly ease your transformation.\n",
           "stacks": 0,
           "powerAtOnset": {
-            "weapon": 6783,
-            "spell": 6783
+            "weapon": 5055,
+            "spell": 5055
           }
         },
         {
-          "abilityId": 61665,
-          "name": "Major Brutality",
+          "abilityId": 61721,
+          "name": "Minor Protection",
           "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
+          "effect": "Reduces your damage taken by |cffffff5|r%.\n",
           "stacks": 0,
           "powerAtOnset": {
-            "weapon": 6783,
-            "spell": 6783
-          }
-        },
-        {
-          "abilityId": 61744,
-          "name": "Minor Berserk",
-          "description": "",
-          "effect": "Increases your damage done by |cffffff5|r%.\n",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 6783,
-            "spell": 6783
+            "weapon": 5055,
+            "spell": 5055
           }
         },
         {
@@ -17950,8 +17939,19 @@
           "effect": "Increases your Movement Speed by |cffffff15|r%.\n",
           "stacks": 0,
           "powerAtOnset": {
-            "weapon": 6783,
-            "spell": 6783
+            "weapon": 5055,
+            "spell": 5055
+          }
+        },
+        {
+          "abilityId": 61716,
+          "name": "Major Evasion",
+          "description": "",
+          "effect": "Reduces your damage taken from area of effect attacks by |cffffff20|r%.\n",
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 5055,
+            "spell": 5055
           }
         },
         {
@@ -17961,8 +17961,30 @@
           "effect": "",
           "stacks": 0,
           "powerAtOnset": {
-            "weapon": 4343,
-            "spell": 4343
+            "weapon": 5055,
+            "spell": 5055
+          }
+        },
+        {
+          "abilityId": 61665,
+          "name": "Major Brutality",
+          "description": "",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 5055,
+            "spell": 5055
+          }
+        },
+        {
+          "abilityId": 61713,
+          "name": "Major Vitality",
+          "description": "",
+          "effect": "Increases your healing received and damage shield strength by |cffffff12|r%.\n",
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 5055,
+            "spell": 5055
           }
         }
       ],
@@ -18539,30 +18561,35 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:59648:364:50:26580:370:50:0:0:0:0:0:0:0:0:1:67:0:1:0:9700:0|h|h",
+          "link": "|H0:item:82176:364:50:0:0:0:16:25:0:0:0:0:0:0:2049:67:0:1:0:8690:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
-          "armor": 1221,
+          "armor": 2425,
           "weaponPower": 0,
           "enchant": "Adds |cffffff1192|r Maximum Health.",
           "enchantCategory": 11,
           "trait": "Increase armor enchantment effect by |cffffff25|r%.",
           "quality": 5,
-          "setId": 169,
-          "setName": "Valkyn Skoria",
-          "setBonusCount": 2,
+          "setId": 256,
+          "setName": "Mighty Chudan",
+          "setBonusCount": 3,
           "setEquipped": 1,
           "setMaxEquipped": 2,
           "setPerfectedEquipped": 0,
           "setBonuses": [
             {
               "required": 1,
-              "description": "(1 item) Adds |cffffff1487|r Offensive Penetration",
+              "description": "(1 item) Adds |cffffff1487|r Armor",
               "perfected": false
             },
             {
               "required": 2,
-              "description": "(2 items) When you deal damage with a damage over time effect, you have an |cffffff8|r% chance to bring down a meteor that deals |cffffff11238|r Flame Damage to the target and |cffffff3553|r Flame Damage to all other enemies within |cffffff5|r meters. This effect can occur once every |cffffff5|r seconds and scales off the higher of your Weapon or Spell Damage.",
+              "description": "(2 items) Adds 1206 Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 2,
+              "description": "(2 items) Gain Major Resolve at all times, increasing your Physical and Spell Resistance by |cffffff5948|r.",
               "perfected": false
             }
           ]
@@ -18602,14 +18629,14 @@
             },
             {
               "required": 5,
-              "description": "(5 items) Your Light Attacks made within melee range rend flesh, causing your enemy to bleed for |cffffff2308|r Bleed Damage instantly and additionally every |cffffff2|r seconds for |cffffff4|r seconds. This effect scales off the higher of your Weapon or Spell Damage. If you are in Werewolf Transformation, you also gain |cffffff6|r% damage done.",
+              "description": "(5 items) Your Light Attacks made within melee range rend flesh, causing your enemy to bleed for |cffffff1452|r Bleed Damage instantly and additionally every |cffffff2|r seconds for |cffffff4|r seconds. This effect scales off the higher of your Weapon or Spell Damage. If you are in Werewolf Transformation, you also gain |cffffff6|r% damage done.",
               "perfected": false
             }
           ]
         },
         {
           "slot": 2,
-          "link": "|H0:item:184881:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:8650:0|h|h",
+          "link": "|H0:item:184881:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:2800:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1396,
@@ -18654,7 +18681,7 @@
         },
         {
           "slot": 3,
-          "link": "|H0:item:141460:364:50:0:0:0:18:46:0:0:0:0:0:0:2049:78:0:1:0:9700:0|h|h",
+          "link": "|H0:item:141460:364:50:0:0:0:18:46:0:0:0:0:0:0:2049:78:0:1:0:6925:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1823,
@@ -18687,19 +18714,19 @@
             },
             {
               "required": 5,
-              "description": "(5 items) Your Light Attacks made within melee range rend flesh, causing your enemy to bleed for |cffffff2308|r Bleed Damage instantly and additionally every |cffffff2|r seconds for |cffffff4|r seconds. This effect scales off the higher of your Weapon or Spell Damage. If you are in Werewolf Transformation, you also gain |cffffff6|r% damage done.",
+              "description": "(5 items) Your Light Attacks made within melee range rend flesh, causing your enemy to bleed for |cffffff1452|r Bleed Damage instantly and additionally every |cffffff2|r seconds for |cffffff4|r seconds. This effect scales off the higher of your Weapon or Spell Damage. If you are in Werewolf Transformation, you also gain |cffffff6|r% damage done.",
               "perfected": false
             }
           ]
         },
         {
           "slot": 4,
-          "link": "|H0:item:141443:364:50:26587:370:50:2:46:0:0:0:0:0:0:2049:78:0:1:0:399:0|h|h",
+          "link": "|H0:item:141443:364:50:26587:370:50:2:46:0:0:0:0:0:0:2049:78:0:1:0:281:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 0,
           "weaponPower": 1335,
-          "enchant": "Deals |cffffff1482|r Poison Damage.",
+          "enchant": "Deals |cffffff1419|r Poison Damage.",
           "enchantCategory": 16,
           "trait": "Increases chance to apply status effects by |cffffff117.5|r%.",
           "quality": 5,
@@ -18727,19 +18754,19 @@
             },
             {
               "required": 5,
-              "description": "(5 items) Your Light Attacks made within melee range rend flesh, causing your enemy to bleed for |cffffff2308|r Bleed Damage instantly and additionally every |cffffff2|r seconds for |cffffff4|r seconds. This effect scales off the higher of your Weapon or Spell Damage. If you are in Werewolf Transformation, you also gain |cffffff6|r% damage done.",
+              "description": "(5 items) Your Light Attacks made within melee range rend flesh, causing your enemy to bleed for |cffffff1452|r Bleed Damage instantly and additionally every |cffffff2|r seconds for |cffffff4|r seconds. This effect scales off the higher of your Weapon or Spell Damage. If you are in Werewolf Transformation, you also gain |cffffff6|r% damage done.",
               "perfected": false
             }
           ]
         },
         {
           "slot": 5,
-          "link": "|H0:item:141443:364:50:26848:370:50:2:46:0:0:0:0:0:0:2049:78:0:1:0:405:0|h|h",
+          "link": "|H0:item:141443:364:50:26848:370:50:2:46:0:0:0:0:0:0:2049:78:0:1:0:290:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 0,
           "weaponPower": 1335,
-          "enchant": "Deals |cffffff1482|r Flame Damage.",
+          "enchant": "Deals |cffffff1419|r Flame Damage.",
           "enchantCategory": 6,
           "trait": "Increases chance to apply status effects by |cffffff117.5|r%.",
           "quality": 5,
@@ -18767,14 +18794,14 @@
             },
             {
               "required": 5,
-              "description": "(5 items) Your Light Attacks made within melee range rend flesh, causing your enemy to bleed for |cffffff2308|r Bleed Damage instantly and additionally every |cffffff2|r seconds for |cffffff4|r seconds. This effect scales off the higher of your Weapon or Spell Damage. If you are in Werewolf Transformation, you also gain |cffffff6|r% damage done.",
+              "description": "(5 items) Your Light Attacks made within melee range rend flesh, causing your enemy to bleed for |cffffff1452|r Bleed Damage instantly and additionally every |cffffff2|r seconds for |cffffff4|r seconds. This effect scales off the higher of your Weapon or Spell Damage. If you are in Werewolf Transformation, you also gain |cffffff6|r% damage done.",
               "perfected": false
             }
           ]
         },
         {
           "slot": 6,
-          "link": "|H0:item:184888:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:9700:0|h|h",
+          "link": "|H0:item:184888:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:8020:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 523,
@@ -18819,7 +18846,7 @@
         },
         {
           "slot": 8,
-          "link": "|H0:item:184885:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:8650:0|h|h",
+          "link": "|H0:item:184885:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:4446:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1221,
@@ -18864,7 +18891,7 @@
         },
         {
           "slot": 9,
-          "link": "|H0:item:184882:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:9700:0|h|h",
+          "link": "|H0:item:184882:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:5886:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1221,
@@ -18942,7 +18969,7 @@
             },
             {
               "required": 5,
-              "description": "(5 items) Your Light Attacks made within melee range rend flesh, causing your enemy to bleed for |cffffff2308|r Bleed Damage instantly and additionally every |cffffff2|r seconds for |cffffff4|r seconds. This effect scales off the higher of your Weapon or Spell Damage. If you are in Werewolf Transformation, you also gain |cffffff6|r% damage done.",
+              "description": "(5 items) Your Light Attacks made within melee range rend flesh, causing your enemy to bleed for |cffffff1452|r Bleed Damage instantly and additionally every |cffffff2|r seconds for |cffffff4|r seconds. This effect scales off the higher of your Weapon or Spell Damage. If you are in Werewolf Transformation, you also gain |cffffff6|r% damage done.",
               "perfected": false
             }
           ]
@@ -18974,7 +19001,7 @@
         },
         {
           "slot": 16,
-          "link": "|H0:item:184883:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:9700:0|h|h",
+          "link": "|H0:item:184883:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:8025:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 698,
@@ -19023,7 +19050,7 @@
           "slot": 3,
           "abilityId": 39104,
           "name": "Feral Pounce",
-          "description": "Pounce on an enemy with primal fury, dealing |cffffff8222|r Bleed Damage and applying the Hemorrhaging status effect.\n\nWhen you are |cffffff7|r meters or closer this ability becomes Feral Carnage, which causes you to rip into an enemy and deal |cffffff8267|r Bleed Damage over |cffffff12|r seconds, dealing up to |cffffff450|r% more damage to enemies under |cffffff100|r% Health.\n\nDealing damage with either ability restores |cffffff200|r Stamina and triggers Fury generation.",
+          "description": "Pounce on an enemy with primal fury, dealing |cffffff5463|r Bleed Damage and applying the Hemorrhaging status effect.\n\nWhen you are |cffffff7|r meters or closer this ability becomes Feral Carnage, which causes you to rip into an enemy and deal |cffffff5474|r Bleed Damage over |cffffff12|r seconds, dealing up to |cffffff450|r% more damage to enemies under |cffffff100|r% Health.\n\nDealing damage with either ability restores |cffffff200|r Stamina and triggers Fury generation.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -19034,35 +19061,35 @@
         },
         {
           "slot": 4,
-          "abilityId": 58317,
-          "name": "Hircine's Rage",
-          "description": "Invoke the Huntsman's blessing, healing you for |cffffff14419|r Health, granting double Fury, and increasing your damage done and taken by up to |cffffff12|r% for |cffffff20|r seconds, based on how high your current Health is. \nCurrent Bonus: |cffffff0|r%\n\nYou also restore |cffffff10|r% Stamina, increasing by up to |cffffff100|r%, based on how high your current Health is. \nCurrent Restore: |cffffff2943|r\n\nWhile slotted you gain Major Brutality and Minor Berserk.",
+          "abilityId": 58325,
+          "name": "Hircine's Fortitude",
+          "description": "Invoke the Huntsman's blessing, healing you for |cffffff13105|r Health, scaling off your Max Health. You also restore |cffffff12|r% Stamina, increasing by up to |cffffff100|r% based on how high your current Health is. \nCurrent Restore: |cffffff5392|r\n\nWhile slotted you gain Major Brutality and Vitality increasing Weapon and Spell Damage by |cffffff20|r% and healing received and damage shield strength by |cffffff12|r%.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
           "ultimateCost": 0,
-          "morph": 1,
+          "morph": 2,
           "rank": 4
         },
         {
           "slot": 5,
-          "abilityId": 39113,
-          "name": "Ferocious Roar",
-          "description": "Roar with bloodlust to fear nearby enemies for |cffffff4|r seconds and setting them Off Balance for |cffffff7|r seconds. Grants two stacks of Blood Hunger, which empowers Gnash and Claw Fury.\n\nYou and up to 11 nearby allies gain Major Courage for |cffffff20|r seconds and can activate the Feeding Frenzy synergy, which grants |cffffff6|r% damage done and Minor Force for |cffffff30|r seconds.\n\nWhile slotted you gain Major Savagery.",
+          "abilityId": 39114,
+          "name": "Deafening Roar",
+          "description": "Roar with bloodlust to fear nearby enemies for |cffffff4|r seconds, setting them Off Balance for |cffffff7|r seconds, and applying Major Cowardice and Maim for |cffffff15|r seconds. Grants you a stack of Blood Hunger.\n\nUp to 12 nearby allies can activate the Feeding Frenzy synergy, which grants |cffffff6|r% damage done and Minor Force for |cffffff30|r seconds.\n\nWhile slotted you gain Major Evasion and Minor Protection. Selecting this morph causes your Gnash to taunt enemies if cast while Bracing.",
           "durationMs": 4000,
           "castMs": 350,
           "channeled": false,
           "cooldownMs": 0,
           "ultimateCost": 0,
-          "morph": 1,
+          "morph": 2,
           "rank": 4
         },
         {
           "slot": 6,
           "abilityId": 58742,
           "name": "Rip and Tear",
-          "description": "Rip and tear into an enemy with your fangs, dealing |cffffff6852|r Physical Damage while applying Major Breach for |cffffff15|r seconds and the Sundered status effect on the initial rip and |cffffff6852|r Bleed Damage while tearing out, when it is done. \n\nThe second hit deals |cffffff125|r% more damage to enemies with less than |cffffff25|r% Health and heals you for |cffffff5687|r, based off your Max Health.\n\nConsumes a stack of Blood Hunger to increase the healing done by |cffffff25|r%.",
+          "description": "Rip and tear into an enemy with your fangs, dealing |cffffff4553|r Physical Damage while applying Major Breach for |cffffff15|r seconds and the Sundered status effect on the initial rip and |cffffff4553|r Bleed Damage while tearing out, when it is done. \n\nThe second hit deals |cffffff125|r% more damage to enemies with less than |cffffff25|r% Health and heals you for |cffffff7596|r, based off your Max Health.\n\nConsumes a stack of Blood Hunger to increase the healing done by |cffffff25|r%.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -19075,7 +19102,7 @@
           "slot": 7,
           "abilityId": 58879,
           "name": "Bloodclaws",
-          "description": "Shred up to |cffffff6|r enemies in front of you with blood soaked claws, dealing |cffffff10071|r Physical Damage and an additional |cffffff19495|r Bleed Damage over |cffffff10|r seconds. Reduced to |cffffff11697|r Bleed Damage over |cffffff6|r seconds against players.\n\nYou heal for |cffffff41|r% of the initial damage and heal for |cffffff1705|r Health with the damage over time, based off your Max Health.\n\nThe initial hit grants a stack of Blood Hunger per enemy hit and has a |cffffff15|r% chance of applying Sundered, while the bleed has a |cffffff5|r% chance of applying Hemorrhaging.",
+          "description": "Shred up to |cffffff6|r enemies in front of you with blood soaked claws, dealing |cffffff6676|r Physical Damage and an additional |cffffff12925|r Bleed Damage over |cffffff10|r seconds. Reduced to |cffffff7755|r Bleed Damage over |cffffff6|r seconds against players.\n\nYou heal for |cffffff41|r% of the initial damage and heal for |cffffff2279|r Health with the damage over time, based off your Max Health.\n\nThe initial hit grants a stack of Blood Hunger per enemy hit and has a |cffffff15|r% chance of applying Sundered, while the bleed has a |cffffff5|r% chance of applying Hemorrhaging.",
           "durationMs": 10000,
           "castMs": 0,
           "channeled": false,
@@ -19086,15 +19113,15 @@
         },
         {
           "slot": 8,
-          "abilityId": 39076,
-          "name": "Werewolf Berserker",
-          "description": "Transform into a berserk beast, fearing nearby enemies for |cffffff3|r seconds.\n\nWhile transformed, you gain Major Berserk and your Light Attacks and Heavy Attacks apply a bleed for |cffffff6714|r Bleed Damage over |cffffff4|r seconds, or |cffffff3357|r Bleed Damage after |cffffff1|r second against players.\n\nWhile transformed and in combat, abilities generate Fury. When you have |cffffff1000|r, this ability becomes Rampage, which increases your damage done, Movement Speed, and removes the cost of Werewolf abilities for |cffffff20|r seconds.\n\nWhile slotted, your Stamina Recovery is increased by |cffffff15|r%.",
+          "abilityId": 39075,
+          "name": "Pack Leader",
+          "description": "Transform into an imposing beast, fearing nearby enemies for |cffffff3|r seconds. \n\nYou also gain Major Protection, |cffffff15|r% increased Block Mitigation, and you and group members gain Minor Courage.\n\nYou summon two direwolves that deal |cffffff352|r Physical Damage twice or |cffffff1879|r Physical Damage once every |cffffff2|r seconds.\n\nWhile transformed in combat, abilities generate Fury. When you have |cffffff1000|r, this ability becomes Enduring Rampage, which gains |cffffff4000|r Health Recovery in addition to its base effects.\n\nWhile slotted, your Stamina Recovery is increased by |cffffff15|r%.",
           "durationMs": 0,
           "castMs": 1000,
           "channeled": false,
           "cooldownMs": 0,
           "ultimateCost": 0,
-          "morph": 2,
+          "morph": 1,
           "rank": 4
         }
       ],
@@ -19214,27 +19241,27 @@
         {
           "abilityId": 45549,
           "name": "Grace",
-          "description": "Reduces the effectiveness of snares applied to you by |cffffff4|r% for each piece of Light Armor worn.\n\nCurrent bonus: |cffffff24|r%.\n\nReduces the cost of Sprint by |cffffff3|r% for each piece of Light Armor worn.\n\nCurrent bonus: |cffffff18|r%."
+          "description": "Reduces the effectiveness of snares applied to you by |cffffff4|r% for each piece of Light Armor worn.\n\nCurrent bonus: |cffffff20|r%.\n\nReduces the cost of Sprint by |cffffff3|r% for each piece of Light Armor worn.\n\nCurrent bonus: |cffffff15|r%."
         },
         {
           "abilityId": 45557,
           "name": "Evocation",
-          "description": "Increases your Magicka Recovery by |cffffff4|r% for each piece of Light Armor equipped. \n\nCurrent bonus: |cffffff24|r%.\n\nReduces the Magicka cost of your abilities by |cffffff2|r% for each piece of Light Armor equipped.\n\nCurrent bonus: |cffffff12|r%."
+          "description": "Increases your Magicka Recovery by |cffffff4|r% for each piece of Light Armor equipped. \n\nCurrent bonus: |cffffff20|r%.\n\nReduces the Magicka cost of your abilities by |cffffff2|r% for each piece of Light Armor equipped.\n\nCurrent bonus: |cffffff10|r%."
         },
         {
           "abilityId": 45559,
           "name": "Spell Warding",
-          "description": "Increases your Spell Resistance by |cffffff726|r for each piece of Light Armor equipped. \n\nCurrent bonus: |cffffff4356|r."
+          "description": "Increases your Spell Resistance by |cffffff726|r for each piece of Light Armor equipped. \n\nCurrent bonus: |cffffff3630|r."
         },
         {
           "abilityId": 45561,
           "name": "Prodigy",
-          "description": "Increases your Weapon and Spell Critical rating by |cffffff219|r for each piece of Light Armor equipped.\n\nCurrent bonus: |cffffff1318|r."
+          "description": "Increases your Weapon and Spell Critical rating by |cffffff219|r for each piece of Light Armor equipped.\n\nCurrent bonus: |cffffff1098|r."
         },
         {
           "abilityId": 45562,
           "name": "Concentration",
-          "description": "Increases your Physical and Spell Penetration by |cffffff939|r for each piece of Light Armor worn.\n\nCurrent bonus: |cffffff5635|r"
+          "description": "Increases your Physical and Spell Penetration by |cffffff939|r for each piece of Light Armor worn.\n\nCurrent bonus: |cffffff4695|r"
         },
         {
           "abilityId": 150181,
@@ -19314,7 +19341,7 @@
         {
           "abilityId": 45583,
           "name": "Soul Shatter",
-          "description": "When your Health drops below |cffffff20|r% your soul explodes, dealing |cffffff2899|r Magic Damage to enemies within |cffffff8|r meters of you.\n\nThis effect can occur once every |cffffff2|r minutes and scales off your Max Health."
+          "description": "When your Health drops below |cffffff20|r% your soul explodes, dealing |cffffff3699|r Magic Damage to enemies within |cffffff8|r meters of you.\n\nThis effect can occur once every |cffffff2|r minutes and scales off your Max Health."
         },
         {
           "abilityId": 45580,
@@ -19324,7 +19351,7 @@
         {
           "abilityId": 32634,
           "name": "Insatiable Hunger",
-          "description": "Hunger gnaws at you. Like Storihbeg, shape it into a brutal weapon.\n\nGain the ability to devour corpses, for up to |cffffff4|r seconds per corpse. Each second devouring you heal for |cffffff5328|r Health, based off your Max Health, and restore |cffffff15|r Ultimate.\n\nIf you are a Werewolf Berserker, each tick activates Fury generation."
+          "description": "Hunger gnaws at you. Like Storihbeg, shape it into a brutal weapon.\n\nGain the ability to devour corpses, for up to |cffffff4|r seconds per corpse. Each second devouring you heal for |cffffff7120|r Health, based off your Max Health, and restore |cffffff15|r Ultimate.\n\nIf you are a Werewolf Berserker, each tick activates Fury generation."
         },
         {
           "abilityId": 46142,
@@ -19379,12 +19406,12 @@
         {
           "abilityId": 55676,
           "name": "Undaunted Command",
-          "description": "Activating a synergy restores |cffffff4|r% of your Max Health, Stamina, and Magicka.\n\nCurrent Bonus: |cffffff1065|r Health, |cffffff1177|r Stamina, and |cffffff558|r Magicka."
+          "description": "Activating a synergy restores |cffffff4|r% of your Max Health, Stamina, and Magicka.\n\nCurrent Bonus: |cffffff1424|r Health, |cffffff898|r Stamina, and |cffffff569|r Magicka."
         },
         {
           "abilityId": 55386,
           "name": "Undaunted Mettle",
-          "description": "Increases your Max Health, Stamina, and Magicka by |cffffff2|r% per type of Armor (Heavy, Medium, Light) that you have equipped. \n\nCurrent bonus: |cffffff4|r%."
+          "description": "Increases your Max Health, Stamina, and Magicka by |cffffff2|r% per type of Armor (Heavy, Medium, Light) that you have equipped. \n\nCurrent bonus: |cffffff6|r%."
         },
         {
           "abilityId": 39248,
@@ -19417,37 +19444,38 @@
       "moving": false,
       "archiveBoons": [],
       "advanced": {
-        "healing-critical-bonus": 0.55,
-        "healing-taken-base": 0.02,
-        "critical-damage": 0.55,
-        "healing-done-base": 0.02
+        "healing-taken-base": 0.14,
+        "healing-done-base": 0.02,
+        "critical-damage": 0.47,
+        "healing-critical-bonus": 0.47
       },
       "advancedSheet": {
-        "critical-damage": {
-          "category": "Damage Bonuses",
-          "label": "Critical Damage",
-          "format": "percent",
-          "percent": 55
+        "bleed-resist": {
+          "category": "Resistances",
+          "label": "Bleed Resistance",
+          "format": "flat-or-percent",
+          "flat": 16764,
+          "percent": 25.3999996185
+        },
+        "healing-done-bonuses": {
+          "category": "Healing Bonuses",
+          "label": "Healing Done",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 2
         },
         "cc-break-cost": {
           "category": "Core Abilities",
           "label": "Break Free Cost",
           "format": "flat",
-          "flat": 3626
+          "flat": 3885
         },
-        "bleed-damage": {
-          "category": "Damage Bonuses",
-          "label": "Bleed Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 11
-        },
-        "frost-resist": {
+        "magic-resist": {
           "category": "Resistances",
-          "label": "Frost Resistance",
+          "label": "Magic Resistance",
           "format": "flat-or-percent",
-          "flat": 18429,
-          "percent": 27.9227275848
+          "flat": 20394,
+          "percent": 30.8999996185
         },
         "subscriber-inspiration-bonus": {
           "category": "ESO Plus",
@@ -19461,18 +19489,12 @@
           "format": "percent",
           "percent": 10
         },
-        "sprint-speed": {
-          "category": "Core Abilities",
-          "label": "Sprint Speed",
-          "format": "percent",
-          "percent": 147
-        },
-        "oblivion-damage": {
-          "category": "Damage Bonuses",
-          "label": "Oblivion Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 11
+        "fire-resist": {
+          "category": "Resistances",
+          "label": "Flame Resistance",
+          "format": "flat-or-percent",
+          "flat": 20394,
+          "percent": 30.8999996185
         },
         "sneak-cost": {
           "category": "Core Abilities",
@@ -19480,12 +19502,12 @@
           "format": "flat",
           "flat": 116
         },
-        "disease-damage": {
+        "magic-damage": {
           "category": "Damage Bonuses",
-          "label": "Disease Damage",
+          "label": "Magic Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 11
+          "percent": 6
         },
         "block-speed": {
           "category": "Core Abilities",
@@ -19493,145 +19515,97 @@
           "format": "percent",
           "percent": 42
         },
-        "bleed-resist": {
-          "category": "Resistances",
-          "label": "Bleed Resistance",
-          "format": "flat-or-percent",
-          "flat": 14073,
-          "percent": 21.3227272034
-        },
-        "poison-damage": {
-          "category": "Damage Bonuses",
-          "label": "Poison Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 11
-        },
         "subscriber-coin-bonus": {
           "category": "ESO Plus",
           "label": "Gold",
           "format": "percent",
           "percent": 10
         },
-        "disease-resist": {
+        "frost-resist": {
           "category": "Resistances",
-          "label": "Disease Resistance",
+          "label": "Frost Resistance",
           "format": "flat-or-percent",
-          "flat": 14073,
-          "percent": 21.3227272034
+          "flat": 20394,
+          "percent": 30.8999996185
         },
-        "sprint-cost": {
+        "bash-cost": {
           "category": "Core Abilities",
-          "label": "Sprint Cost",
+          "label": "Bash Cost",
           "format": "flat",
-          "flat": 373
-        },
-        "magic-damage": {
-          "category": "Damage Bonuses",
-          "label": "Magic Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 11
-        },
-        "sneak-speed-reduction": {
-          "category": "Core Abilities",
-          "label": "Sneak Speed",
-          "format": "percent",
-          "percent": 79
-        },
-        "fire-damage": {
-          "category": "Damage Bonuses",
-          "label": "Flame Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 11
-        },
-        "block-cost": {
-          "category": "Core Abilities",
-          "label": "Block Cost",
-          "format": "flat",
-          "flat": 1967
-        },
-        "block-mitigation": {
-          "category": "Core Abilities",
-          "label": "Block Mitigation",
-          "format": "percent",
-          "percent": 62
-        },
-        "magic-resist": {
-          "category": "Resistances",
-          "label": "Magic Resistance",
-          "format": "flat-or-percent",
-          "flat": 18429,
-          "percent": 27.9227275848
-        },
-        "shock-resist": {
-          "category": "Resistances",
-          "label": "Shock Resistance",
-          "format": "flat-or-percent",
-          "flat": 18429,
-          "percent": 27.9227275848
-        },
-        "fire-resist": {
-          "category": "Resistances",
-          "label": "Flame Resistance",
-          "format": "flat-or-percent",
-          "flat": 18429,
-          "percent": 27.9227275848
-        },
-        "bash-damage": {
-          "category": "Core Abilities",
-          "label": "Bash Damage",
-          "format": "flat",
-          "flat": 569
-        },
-        "cold-damage": {
-          "category": "Damage Bonuses",
-          "label": "Frost Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 11
-        },
-        "healing-done-bonuses": {
-          "category": "Healing Bonuses",
-          "label": "Healing Done",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 2
-        },
-        "shock-damage": {
-          "category": "Damage Bonuses",
-          "label": "Shock Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 11
-        },
-        "physical-damage": {
-          "category": "Damage Bonuses",
-          "label": "Physical Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 11
+          "flat": 574
         },
         "critical-healing": {
           "category": "Healing Bonuses",
           "label": "Critical Healing",
           "format": "percent",
-          "percent": 55
+          "percent": 47
         },
-        "poison-resist": {
-          "category": "Resistances",
-          "label": "Poison Resistance",
-          "format": "flat-or-percent",
-          "flat": 14073,
-          "percent": 21.3227272034
+        "sneak-speed-reduction": {
+          "category": "Core Abilities",
+          "label": "Sneak Speed",
+          "format": "percent",
+          "percent": 77
         },
         "healing-taken-bonuses": {
           "category": "Healing Bonuses",
           "label": "Healing Taken",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 2
+          "percent": 14
+        },
+        "cold-damage": {
+          "category": "Damage Bonuses",
+          "label": "Frost Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 6
+        },
+        "physical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Physical Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 6
+        },
+        "disease-damage": {
+          "category": "Damage Bonuses",
+          "label": "Disease Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 6
+        },
+        "disease-resist": {
+          "category": "Resistances",
+          "label": "Disease Resistance",
+          "format": "flat-or-percent",
+          "flat": 16764,
+          "percent": 25.3999996185
+        },
+        "sprint-speed": {
+          "category": "Core Abilities",
+          "label": "Sprint Speed",
+          "format": "percent",
+          "percent": 146
+        },
+        "poison-resist": {
+          "category": "Resistances",
+          "label": "Poison Resistance",
+          "format": "flat-or-percent",
+          "flat": 16764,
+          "percent": 25.3999996185
+        },
+        "oblivion-damage": {
+          "category": "Damage Bonuses",
+          "label": "Oblivion Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 6
+        },
+        "block-cost": {
+          "category": "Core Abilities",
+          "label": "Block Cost",
+          "format": "flat",
+          "flat": 1915
         },
         "subscriber-alliance-points-bonus": {
           "category": "ESO Plus",
@@ -19639,35 +19613,88 @@
           "format": "percent",
           "percent": 10
         },
+        "block-mitigation": {
+          "category": "Core Abilities",
+          "label": "Block Mitigation",
+          "format": "percent",
+          "percent": 63
+        },
+        "dodge-cost": {
+          "category": "Core Abilities",
+          "label": "Dodge Roll Cost",
+          "format": "flat",
+          "flat": 3201
+        },
+        "bash-damage": {
+          "category": "Core Abilities",
+          "label": "Bash Damage",
+          "format": "flat",
+          "flat": 603
+        },
+        "fire-damage": {
+          "category": "Damage Bonuses",
+          "label": "Flame Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 6
+        },
         "subscriber-all-xp": {
           "category": "ESO Plus",
           "label": "Experience",
           "format": "percent",
           "percent": 10
         },
-        "bash-cost": {
-          "category": "Core Abilities",
-          "label": "Bash Cost",
-          "format": "flat",
-          "flat": 554
+        "critical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Critical Damage",
+          "format": "percent",
+          "percent": 47
         },
-        "dodge-cost": {
+        "shock-resist": {
+          "category": "Resistances",
+          "label": "Shock Resistance",
+          "format": "flat-or-percent",
+          "flat": 20394,
+          "percent": 30.8999996185
+        },
+        "sprint-cost": {
           "category": "Core Abilities",
-          "label": "Dodge Roll Cost",
+          "label": "Sprint Cost",
           "format": "flat",
-          "flat": 2983
+          "flat": 387
+        },
+        "shock-damage": {
+          "category": "Damage Bonuses",
+          "label": "Shock Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 6
+        },
+        "poison-damage": {
+          "category": "Damage Bonuses",
+          "label": "Poison Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 6
+        },
+        "bleed-damage": {
+          "category": "Damage Bonuses",
+          "label": "Bleed Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 6
         }
       },
       "sheet": {
-        "riding-stamina": 60,
-        "riding-speed": 60,
-        "critical-chance-weapon": 42.7254447937,
-        "critical-chance-spell": 42.7254447937,
+        "attribute-points-health": 64,
         "riding-capacity": 60,
-        "attribute-points-health": 0,
         "attribute-points-unspent": 0,
-        "attribute-points-stamina": 64,
-        "attribute-points-magicka": 0
+        "riding-speed": 60,
+        "critical-chance-weapon": 41.7214279175,
+        "riding-stamina": 60,
+        "attribute-points-magicka": 0,
+        "critical-chance-spell": 41.7214279175,
+        "attribute-points-stamina": 0
       },
       "passiveRankIds": [
         [
@@ -21740,7 +21767,7 @@
             {
               "abilityId": 259224,
               "name": "Wildfire Embers",
-              "description": "Fire forged within can never be extinguished. Fan the flames.\n\nWhen your Dragonknight damage over time effects end, you apply a stack of Wildfire Embers to the target, dealing |cffffff8120|r Flame Damage over |cffffff12|r seconds. This effect stacks up to |cffffff12|r times and increases in damage |cffffff25|r% per stack.",
+              "description": "Fire forged within can never be extinguished. Fan the flames.\n\nWhen your Dragonknight damage over time effects end, you apply a stack of Wildfire Embers to the target, dealing |cffffff5334|r Flame Damage over |cffffff12|r seconds. This effect stacks up to |cffffff12|r times and increases in damage |cffffff25|r% per stack.",
               "purchased": false
             },
             {
@@ -21820,7 +21847,7 @@
             {
               "abilityId": 263549,
               "name": "Pound of Flesh",
-              "description": "Knock upon death's door and demand your due.\n\nWhen you take damage you have a |cffffff10|r% chance to heal |cffffff2664|r Health and restore |cffffff5|r% of your missing Stamina, up to once per second. This chance increases by |cffffff1|r% for every missing Health percent you have and the healing is based off your Max Health.",
+              "description": "Knock upon death's door and demand your due.\n\nWhen you take damage you have a |cffffff10|r% chance to heal |cffffff3560|r Health and restore |cffffff5|r% of your missing Stamina, up to once per second. This chance increases by |cffffff1|r% for every missing Health percent you have and the healing is based off your Max Health.",
               "purchased": false
             },
             {
@@ -21876,13 +21903,13 @@
             {
               "abilityId": 263585,
               "name": "Bastion of Light",
-              "description": "Light consecrates the ground on which you tread.\n\nSacred Ground is now applied while you are in your own Nova and Spear Shards, and while Radial Sweep and Solar Barrage are active. While Sacred Ground is active, you heal for |cffffff2131|r Health every |cffffff1|r second. If you are at full Health after being healed from this effect while in combat, you also gain |cffffff2|r Ultimate.",
+              "description": "Light consecrates the ground on which you tread.\n\nSacred Ground is now applied while you are in your own Nova and Spear Shards, and while Radial Sweep and Solar Barrage are active. While Sacred Ground is active, you heal for |cffffff2848|r Health every |cffffff1|r second. If you are at full Health after being healed from this effect while in combat, you also gain |cffffff2|r Ultimate.",
               "purchased": false
             },
             {
               "abilityId": 263586,
               "name": "Devout Guardian",
-              "description": "Radiant is the shield that pushes back the dark.\n\nWhile Sacred Ground is active, you gain a damage shield for |cffffff6|r seconds, up to once every |cffffff6|r seconds. The shield absorbs up to |cffffff5224|r damage and provides |cffffff300|r Health, Magicka, and Stamina Recovery while active. If the shield breaks, you gain |cffffff10|r Ultimate.",
+              "description": "Radiant is the shield that pushes back the dark.\n\nWhile Sacred Ground is active, you gain a damage shield for |cffffff6|r seconds, up to once every |cffffff6|r seconds. The shield absorbs up to |cffffff7818|r damage and provides |cffffff300|r Health, Magicka, and Stamina Recovery while active. If the shield breaks, you gain |cffffff10|r Ultimate.",
               "purchased": false
             },
             {
@@ -21950,31 +21977,31 @@
             {
               "abilityId": 263870,
               "name": "Conservation of Energy",
-              "description": "Spellcasting is second nature to you. A skill honed by tireless study.\n\nUpgrades rank 2 of Blood Magic to work with all abilities with a cost, excluding cost per tick abilities, and restores |cffffff209|r Magicka and |cffffff441|r Stamina when it activates. This effect scales off your Max Magicka and Stamina.",
+              "description": "Spellcasting is second nature to you. A skill honed by tireless study.\n\nUpgrades rank 2 of Blood Magic to work with all abilities with a cost, excluding cost per tick abilities, and restores |cffffff213|r Magicka and |cffffff337|r Stamina when it activates. This effect scales off your Max Magicka and Stamina.",
               "purchased": false
             },
             {
               "abilityId": 263871,
               "name": "Font of Power",
-              "description": "Within you is a wellspring of near unlimited power.\n\nUpgrades rank 2 of Exploitation to work with any Sorcerer ability and increases your Weapon and Spell Damage by |cffffff16|r% for |cffffff10|r seconds. The Weapon and Spell Damage increases by |cffffff1|r% for every |cffffff1750|r Max Magicka or Stamina you have, whichever is higher.",
+              "description": "Within you is a wellspring of near unlimited power.\n\nUpgrades rank 2 of Exploitation to work with any Sorcerer ability and increases your Weapon and Spell Damage by |cffffff12|r% for |cffffff10|r seconds. The Weapon and Spell Damage increases by |cffffff1|r% for every |cffffff1750|r Max Magicka or Stamina you have, whichever is higher.",
               "purchased": false
             },
             {
               "abilityId": 263872,
               "name": "Static Reverberation",
-              "description": "The battlefield crackles with untapped potential. Make use of it.\n\nWhen you deal damage with a Sorcerer ability, you have a |cffffff20|r% chance to deal |cffffff2636|r Shock Damage, up to once every |cffffff0.1|r seconds. \n\nThe chance increases by |cffffff1|r% for every |cffffff1|r% missing Health the target has. The total chance is divided by 1 plus every permanent pet you have active.",
+              "description": "The battlefield crackles with untapped potential. Make use of it.\n\nWhen you deal damage with a Sorcerer ability, you have a |cffffff20|r% chance to deal |cffffff1663|r Shock Damage, up to once every |cffffff0.1|r seconds. \n\nThe chance increases by |cffffff1|r% for every |cffffff1|r% missing Health the target has. The total chance is divided by 1 plus every permanent pet you have active.",
               "purchased": false
             },
             {
               "abilityId": 263873,
               "name": "Calculated Defense",
-              "description": "Success is a certainty when nothing is left to chance.\n\nWhile beginning to use a Sorcerer ability or an ability with a cast time, you gain a damage shield for |cffffff0.5|r seconds that can absorb |cffffff8620|r damage. This effect is based off your Max Health. If the shield does not break, you and nearby group members gain |cffffff6|r% Weapon and Spell Damage for |cffffff20|r seconds.",
+              "description": "Success is a certainty when nothing is left to chance.\n\nWhile beginning to use a Sorcerer ability or an ability with a cast time, you gain a damage shield for |cffffff0.5|r seconds that can absorb |cffffff12899|r damage. This effect is based off your Max Health. If the shield does not break, you and nearby group members gain |cffffff6|r% Weapon and Spell Damage for |cffffff20|r seconds.",
               "purchased": false
             },
             {
               "abilityId": 263874,
               "name": "Sphere of Influence",
-              "description": "Magicka extends your reach, a benefit to those who fight beside you.\n\nCasting a damage shield on yourself or an ally grants an additional shield that absorbs up to |cffffff3918|r damage for |cffffff4|r seconds and |cffffff225|r Health, Magicka, and Stamina Recovery for |cffffff12|r seconds. The shield scales off the higher of your Max Health or Max Magicka, and is capped at |cffffff25|r% of the target's Max Health.",
+              "description": "Magicka extends your reach, a benefit to those who fight beside you.\n\nCasting a damage shield on yourself or an ally grants an additional shield that absorbs up to |cffffff5863|r damage for |cffffff4|r seconds and |cffffff225|r Health, Magicka, and Stamina Recovery for |cffffff12|r seconds. The shield scales off the higher of your Max Health or Max Magicka, and is capped at |cffffff25|r% of the target's Max Health.",
               "purchased": false
             }
           ]
@@ -21991,38 +22018,38 @@
       "healthBefore": 20468,
       "healthPaired": false,
       "stats": {
-        "health-maximum": 20870,
-        "magicka-maximum": 13972,
-        "health-recovery": 399,
-        "stamina-maximum": 24626,
-        "magicka-recovery": 749,
-        "resistance-spell": 18429,
-        "critical-rating-weapon": 10676,
-        "resistance-physical": 14073,
         "penetration-spell": 7822,
-        "resistance-critical": 1320,
+        "health-maximum": 20870,
+        "health-recovery": 399,
         "power-spell": 1816,
-        "critical-rating-spell": 10676,
-        "stamina-recovery": 659,
+        "resistance-physical": 14073,
+        "critical-rating-weapon": 10676,
         "power-weapon": 1816,
-        "penetration-physical": 7822
+        "magicka-maximum": 13972,
+        "magicka-recovery": 749,
+        "penetration-physical": 7822,
+        "resistance-spell": 18429,
+        "critical-rating-spell": 10676,
+        "stamina-maximum": 24626,
+        "resistance-critical": 1320,
+        "stamina-recovery": 659
       },
       "unbonusedStats": {
-        "health-maximum": 20870,
-        "magicka-maximum": 13972,
-        "health-recovery": 399,
-        "stamina-maximum": 24626,
-        "magicka-recovery": 749,
-        "resistance-spell": 0,
-        "critical-rating-weapon": 2181,
-        "resistance-physical": 0,
         "penetration-spell": 0,
-        "resistance-critical": 0,
+        "health-maximum": 20870,
+        "health-recovery": 399,
         "power-spell": 1000,
-        "critical-rating-spell": 2181,
-        "stamina-recovery": 659,
+        "resistance-physical": 0,
+        "critical-rating-weapon": 2181,
         "power-weapon": 1000,
-        "penetration-physical": 0
+        "magicka-maximum": 13972,
+        "magicka-recovery": 749,
+        "penetration-physical": 0,
+        "resistance-spell": 0,
+        "critical-rating-spell": 2181,
+        "stamina-maximum": 24626,
+        "resistance-critical": 0,
+        "stamina-recovery": 659
       },
       "activeBuffs": [
         {
@@ -23493,17 +23520,25 @@
       "moving": false,
       "archiveBoons": [],
       "advanced": {
-        "healing-critical-bonus": 0.55,
-        "healing-taken-base": 0.02,
         "critical-damage": 0.65,
-        "healing-done-base": 0.02
+        "healing-done-base": 0.02,
+        "healing-taken-base": 0.02,
+        "healing-critical-bonus": 0.55
       },
       "advancedSheet": {
-        "critical-damage": {
-          "category": "Damage Bonuses",
-          "label": "Critical Damage",
-          "format": "percent",
-          "percent": 65
+        "bleed-resist": {
+          "category": "Resistances",
+          "label": "Bleed Resistance",
+          "format": "flat-or-percent",
+          "flat": 14073,
+          "percent": 21.3227272034
+        },
+        "shock-resist": {
+          "category": "Resistances",
+          "label": "Shock Resistance",
+          "format": "flat-or-percent",
+          "flat": 18429,
+          "percent": 27.9227275848
         },
         "cc-break-cost": {
           "category": "Core Abilities",
@@ -23511,16 +23546,9 @@
           "format": "flat",
           "flat": 3626
         },
-        "bleed-damage": {
-          "category": "Damage Bonuses",
-          "label": "Bleed Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 6
-        },
-        "frost-resist": {
+        "magic-resist": {
           "category": "Resistances",
-          "label": "Frost Resistance",
+          "label": "Magic Resistance",
           "format": "flat-or-percent",
           "flat": 18429,
           "percent": 27.9227275848
@@ -23537,18 +23565,12 @@
           "format": "percent",
           "percent": 10
         },
-        "sprint-speed": {
-          "category": "Core Abilities",
-          "label": "Sprint Speed",
-          "format": "percent",
-          "percent": 147
-        },
-        "oblivion-damage": {
-          "category": "Damage Bonuses",
-          "label": "Oblivion Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 6
+        "fire-resist": {
+          "category": "Resistances",
+          "label": "Flame Resistance",
+          "format": "flat-or-percent",
+          "flat": 18429,
+          "percent": 27.9227275848
         },
         "sneak-cost": {
           "category": "Core Abilities",
@@ -23556,9 +23578,9 @@
           "format": "flat",
           "flat": 116
         },
-        "disease-damage": {
+        "bleed-damage": {
           "category": "Damage Bonuses",
-          "label": "Disease Damage",
+          "label": "Bleed Damage",
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 6
@@ -23569,12 +23591,18 @@
           "format": "percent",
           "percent": 42
         },
-        "bleed-resist": {
+        "subscriber-coin-bonus": {
+          "category": "ESO Plus",
+          "label": "Gold",
+          "format": "percent",
+          "percent": 10
+        },
+        "frost-resist": {
           "category": "Resistances",
-          "label": "Bleed Resistance",
+          "label": "Frost Resistance",
           "format": "flat-or-percent",
-          "flat": 14073,
-          "percent": 21.3227272034
+          "flat": 18429,
+          "percent": 27.9227275848
         },
         "poison-damage": {
           "category": "Damage Bonuses",
@@ -23583,31 +23611,11 @@
           "flat": 0,
           "percent": 6
         },
-        "subscriber-coin-bonus": {
-          "category": "ESO Plus",
-          "label": "Gold",
+        "critical-healing": {
+          "category": "Healing Bonuses",
+          "label": "Critical Healing",
           "format": "percent",
-          "percent": 10
-        },
-        "disease-resist": {
-          "category": "Resistances",
-          "label": "Disease Resistance",
-          "format": "flat-or-percent",
-          "flat": 14073,
-          "percent": 21.3227272034
-        },
-        "sprint-cost": {
-          "category": "Core Abilities",
-          "label": "Sprint Cost",
-          "format": "flat",
-          "flat": 373
-        },
-        "magic-damage": {
-          "category": "Damage Bonuses",
-          "label": "Magic Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 6
+          "percent": 55
         },
         "sneak-speed-reduction": {
           "category": "Core Abilities",
@@ -23615,69 +23623,15 @@
           "format": "percent",
           "percent": 79
         },
-        "fire-damage": {
-          "category": "Damage Bonuses",
-          "label": "Flame Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 6
-        },
-        "block-cost": {
-          "category": "Core Abilities",
-          "label": "Block Cost",
-          "format": "flat",
-          "flat": 1967
-        },
         "block-mitigation": {
           "category": "Core Abilities",
           "label": "Block Mitigation",
           "format": "percent",
           "percent": 62
         },
-        "magic-resist": {
-          "category": "Resistances",
-          "label": "Magic Resistance",
-          "format": "flat-or-percent",
-          "flat": 18429,
-          "percent": 27.9227275848
-        },
-        "shock-resist": {
-          "category": "Resistances",
-          "label": "Shock Resistance",
-          "format": "flat-or-percent",
-          "flat": 18429,
-          "percent": 27.9227275848
-        },
-        "fire-resist": {
-          "category": "Resistances",
-          "label": "Flame Resistance",
-          "format": "flat-or-percent",
-          "flat": 18429,
-          "percent": 27.9227275848
-        },
-        "bash-damage": {
-          "category": "Core Abilities",
-          "label": "Bash Damage",
-          "format": "flat",
-          "flat": 544
-        },
         "cold-damage": {
           "category": "Damage Bonuses",
           "label": "Frost Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 6
-        },
-        "healing-done-bonuses": {
-          "category": "Healing Bonuses",
-          "label": "Healing Done",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 2
-        },
-        "shock-damage": {
-          "category": "Damage Bonuses",
-          "label": "Shock Damage",
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 6
@@ -23689,11 +23643,25 @@
           "flat": 0,
           "percent": 6
         },
-        "critical-healing": {
-          "category": "Healing Bonuses",
-          "label": "Critical Healing",
+        "disease-damage": {
+          "category": "Damage Bonuses",
+          "label": "Disease Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 6
+        },
+        "disease-resist": {
+          "category": "Resistances",
+          "label": "Disease Resistance",
+          "format": "flat-or-percent",
+          "flat": 14073,
+          "percent": 21.3227272034
+        },
+        "sprint-speed": {
+          "category": "Core Abilities",
+          "label": "Sprint Speed",
           "format": "percent",
-          "percent": 55
+          "percent": 147
         },
         "poison-resist": {
           "category": "Resistances",
@@ -23702,24 +23670,24 @@
           "flat": 14073,
           "percent": 21.3227272034
         },
-        "healing-taken-bonuses": {
-          "category": "Healing Bonuses",
-          "label": "Healing Taken",
+        "oblivion-damage": {
+          "category": "Damage Bonuses",
+          "label": "Oblivion Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 2
+          "percent": 6
         },
-        "subscriber-alliance-points-bonus": {
-          "category": "ESO Plus",
-          "label": "Alliance Points",
-          "format": "percent",
-          "percent": 10
+        "block-cost": {
+          "category": "Core Abilities",
+          "label": "Block Cost",
+          "format": "flat",
+          "flat": 1967
         },
-        "subscriber-all-xp": {
-          "category": "ESO Plus",
-          "label": "Experience",
-          "format": "percent",
-          "percent": 10
+        "dodge-cost": {
+          "category": "Core Abilities",
+          "label": "Dodge Roll Cost",
+          "format": "flat",
+          "flat": 2983
         },
         "bash-cost": {
           "category": "Core Abilities",
@@ -23727,23 +23695,82 @@
           "format": "flat",
           "flat": 554
         },
-        "dodge-cost": {
+        "subscriber-all-xp": {
+          "category": "ESO Plus",
+          "label": "Experience",
+          "format": "percent",
+          "percent": 10
+        },
+        "subscriber-alliance-points-bonus": {
+          "category": "ESO Plus",
+          "label": "Alliance Points",
+          "format": "percent",
+          "percent": 10
+        },
+        "fire-damage": {
+          "category": "Damage Bonuses",
+          "label": "Flame Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 6
+        },
+        "healing-taken-bonuses": {
+          "category": "Healing Bonuses",
+          "label": "Healing Taken",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 2
+        },
+        "critical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Critical Damage",
+          "format": "percent",
+          "percent": 65
+        },
+        "healing-done-bonuses": {
+          "category": "Healing Bonuses",
+          "label": "Healing Done",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 2
+        },
+        "sprint-cost": {
           "category": "Core Abilities",
-          "label": "Dodge Roll Cost",
+          "label": "Sprint Cost",
           "format": "flat",
-          "flat": 2983
+          "flat": 373
+        },
+        "shock-damage": {
+          "category": "Damage Bonuses",
+          "label": "Shock Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 6
+        },
+        "bash-damage": {
+          "category": "Core Abilities",
+          "label": "Bash Damage",
+          "format": "flat",
+          "flat": 544
+        },
+        "magic-damage": {
+          "category": "Damage Bonuses",
+          "label": "Magic Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 6
         }
       },
       "sheet": {
+        "attribute-points-health": 0,
+        "riding-capacity": 60,
+        "critical-chance-spell": 48.7221603394,
+        "attribute-points-magicka": 0,
+        "critical-chance-weapon": 48.7221603394,
         "riding-stamina": 60,
         "riding-speed": 60,
-        "critical-chance-weapon": 48.7221603394,
-        "critical-chance-spell": 48.7221603394,
-        "riding-capacity": 60,
-        "attribute-points-health": 0,
         "attribute-points-unspent": 0,
-        "attribute-points-stamina": 64,
-        "attribute-points-magicka": 0
+        "attribute-points-stamina": 64
       },
       "passiveRankIds": [
         [
@@ -26059,20 +26086,20 @@
     }
   },
   "rotationReading": {
-    "capturedAt": 1793543596,
-    "toughness": 35818.3866988864,
-    "damage": 12001.4053017468,
-    "healing": 262.5522651054,
-    "reavingBlowsShare": 0,
+    "capturedAt": 1793546486,
+    "toughness": 46294.7919590497,
+    "damage": 7899.897701927,
+    "healing": 1251.7842358713,
+    "reavingBlowsShare": 0.07,
     "bars": [
       {
         "bar": "frontBar",
         "weaponStyle": "dual-wield",
-        "healing": 1.5071413308,
-        "damage": 1.4486171961,
-        "healthMaximum": 26123,
-        "armorShare": 0.2462272727,
-        "damageTaken": -0.12
+        "healing": 1.6333826977,
+        "damage": 1.4046978824,
+        "healthMaximum": 34902,
+        "armorShare": 0.2815,
+        "damageTaken": -0.17
       },
       {
         "bar": "backBar",
