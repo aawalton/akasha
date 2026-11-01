@@ -43954,7 +43954,7 @@
       "name": "Essence Thief",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "White-Gold Tower",
-      "slotsUnlocked": 12,
+      "slotsUnlocked": 13,
       "totalSlots": 22,
       "reconstructionCost": 48,
       "pieces": [
@@ -44028,7 +44028,7 @@
         },
         {
           "name": "Restoration Staff of the Essence Thief",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Inferno Staff of the Essence Thief",
