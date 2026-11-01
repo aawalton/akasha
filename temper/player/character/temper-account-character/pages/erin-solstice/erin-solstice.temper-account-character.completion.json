@@ -1,11 +1,11 @@
 {
-  "buildHash": "ATQONMVgAABhxAkDE_tnELIDE_tnELJDJgtuULJDJgtnELJC5gtuULJDJgtuULJC5gtuULIgihtuULIQna1uULIgihtuULIBoL7bcoWSMX20AQgBEEx1tyhZQCK6OSJ4pcaIzpIROlxJKu4CJ1-Sob_eBJnFCTjV6eD4F3_8duBroZNIrogUj33VRZ_Xpx4iVCIjIiAgAyMyAiIiIyIiIgMgIjUiIiACMiIzQiACI0IDIyMzMjQCAEQyIjA6IyNAOgIiZDMyI0IAAAI4IiAiJCozIDQiIiIjAjos-nXqNSLEmVjyZZcybOz6NOrXtn0KNKnU8VayxXCZHDx9cvQMWSFoibN0bp2kSpk79QpgqoSuOsMEjhs2AAlSwIwDCBQxk0HEGzgoWMGjh5AiSOkw-CAyZYCCTXhks54mMEgMYUCEebBdYrXKZhiLngklCIAe3mbWvaea4eygZBQAAAAA",
+  "buildHash": "ATQONIFAQABhxAkDE_tnELIDE_tnELICT-tAEIACT-tAEIACT-tAEIACT-tAEIACT-tAEIAgihtuULIQna1uULIgihtuULIBoL7bcoWSMX20AQgBEEx1tyhZQCHJE8UsrkaIzpcROrpJKu4CJ1-Cob_eAJnFCTjF6eD4F3_8duBroZNIrogUj33VQZ_Xgx4iVCIjIiAgMjMgIiIiMiIiAyAiNSIiICMiIzQiACI0IDIyMzMjQCAEQyIjA6IyNAOgIiZDMyI0IAAAI4IiAiQqMyA0IiIjAjos-nXqNSLEmVjyZZcybOz6NOrXtn0KNKnU8VayxXCZHDx9cvQMWSFoibN0bp2kSpk79QpgqoSuOsMEjhs2AAlSwIwDCBQxk0HEGzgoWMGjh5AiSOkwcCAyZYCCTXhks54mMEgMYUCEebBdYrXKZhiLngklCIAe3mbWvaea4eygZBQAAAAA",
   "gender": 1,
   "level": 50,
   "classId": 1,
   "allianceId": 1,
   "raceId": 10,
-  "curseState": "vampire",
+  "curseState": "no-curse",
   "className": "Dragonknight",
   "classIcon": "/esoui/art/icons/class/class_dragonknight.dds",
   "achievements": {
@@ -16420,7 +16420,7 @@
   },
   "skillPoints": {
     "total": 578,
-    "unassigned": 158,
+    "unassigned": 167,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -28359,118 +28359,63 @@
   },
   "inventoryCheck": {
     "date": "2026-11-01",
-    "misplaced": 59
+    "misplaced": 73
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1793571357,
-      "buildHash": "ATQONMVgAABhxAkDE_tnELIDE_tnELJDJgtuULJDJgtnELJC5gtuULJDJgtuULJC5gtuULIgihtuULIQna1uULIgihtuULIBoL7bcoWSMX20AQgBEEx1tyhZQCK6OSJ4pcaIzpIROlxJKu4CJ1-Sob_eBJnFCTjV6eD4F3_8duBroZNIrogUj33VRZ_Xpx4iVCIjIiAgAyMyAiIiIyIiIgMgIjUiIiACMiIzQiACI0IDIyMzMjQCAEQyIjA6IyNAOgIiZDMyI0IAAAI4IiAiJCozIDQiIiIjAjos-nXqNSLEmVjyZZcybOz6NOrXtn0KNKnU8VayxXCZHDx9cvQMWSFoibN0bp2kSpk79QpgqoSuOsMEjhs2AAlSwIwDCBQxk0HEGzgoWMGjh5AiSOkw-CAyZYCCTXhks54mMEgMYUCEebBdYrXKZhiLngklCIAe3mbWvaea4eygZBQAAAAA",
+      "capturedAt": 1793574122,
+      "buildHash": "ATQONIFAQABhxAkDE_tnELIDE_tnELICT-tAEIACT-tAEIACT-tAEIACT-tAEIACT-tAEIAgihtuULIQna1uULIgihtuULIBoL7bcoWSMX20AQgBEEx1tyhZQCHJE8UsrkaIzpcROrpJKu4CJ1-Cob_eAJnFCTjF6eD4F3_8duBroZNIrogUj33VQZ_Xgx4iVCIjIiAgMjMgIiIiMiIiAyAiNSIiICMiIzQiACI0IDIyMzMjQCAEQyIjA6IyNAOgIiZDMyI0IAAAI4IiAiQqMyA0IiIjAjos-nXqNSLEmVjyZZcybOz6NOrXtn0KNKnU8VayxXCZHDx9cvQMWSFoibN0bp2kSpk79QpgqoSuOsMEjhs2AAlSwIwDCBQxk0HEGzgoWMGjh5AiSOkwcCAyZYCCTXhks54mMEgMYUCEebBdYrXKZhiLngklCIAe3mbWvaea4eygZBQAAAAA",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
-      "ultimate": 150,
-      "health": 38994,
-      "healthBefore": 38045,
+      "ultimate": 263,
+      "health": 0,
+      "healthBefore": 6774,
       "healthPaired": false,
-      "elderDragonAmount": 0,
+      "elderDragonAmount": 700,
       "stats": {
-        "resistance-spell": 25218,
-        "magicka-maximum": 27281,
-        "stamina-maximum": 17898,
-        "penetration-spell": 2187,
-        "critical-rating-spell": 5787,
-        "critical-rating-weapon": 5787,
-        "magicka-recovery": 634,
-        "health-maximum": 38994,
-        "power-spell": 3434,
+        "resistance-spell": 32402,
+        "magicka-maximum": 16898,
+        "stamina-maximum": 15797,
+        "penetration-spell": 700,
+        "critical-rating-spell": 5130,
+        "critical-rating-weapon": 5130,
+        "magicka-recovery": 972,
+        "health-maximum": 52592,
+        "power-spell": 3000,
         "resistance-critical": 1320,
-        "resistance-physical": 25218,
-        "power-weapon": 3434,
-        "health-recovery": 0,
-        "stamina-recovery": 848,
-        "penetration-physical": 2187
+        "resistance-physical": 32402,
+        "power-weapon": 3000,
+        "health-recovery": 1030,
+        "stamina-recovery": 707,
+        "penetration-physical": 700
       },
       "unbonusedStats": {
         "resistance-spell": 0,
-        "magicka-maximum": 27281,
-        "stamina-maximum": 17898,
+        "magicka-maximum": 16898,
+        "stamina-maximum": 15797,
         "penetration-spell": 0,
         "critical-rating-spell": 2181,
         "critical-rating-weapon": 2181,
-        "magicka-recovery": 634,
-        "health-maximum": 38994,
+        "magicka-recovery": 972,
+        "health-maximum": 52592,
         "power-spell": 1000,
         "resistance-critical": 0,
         "resistance-physical": 0,
         "power-weapon": 1000,
-        "health-recovery": 0,
-        "stamina-recovery": 848,
+        "health-recovery": 1030,
+        "stamina-recovery": 707,
         "penetration-physical": 0
       },
       "activeBuffs": [
         {
-          "abilityId": 127531,
-          "name": "Corrupting Bloody Mara",
-          "description": "Increase Max Magicka by |cffffff3937|r, Max Health by |cffffff4305|r, and Health Recovery by |cffffff430|r for |cffffff2|r hours. \nIf you are a vampire, the tainted blood in this drink will also spark a fierce hunger in you.",
-          "effect": "Increase Max Magicka by |cffffff4620|r.\nIncrease Max Health by |cffffff5051|r.\nIncrease Health Recovery by |cffffff505|r.\n",
+          "abilityId": 100498,
+          "name": "Clockwork Citrus Filet",
+          "description": "Increase Max Health by |cffffff2835|r, Health Recovery by |cffffff346|r, Max Magicka by |cffffff2625|r and Magicka Recovery by |cffffff288|r for |cffffff2|r hours.",
+          "effect": "Increase Max Health by |cffffff3326|r.\nIncrease Health Recovery by |cffffff406|r.\nIncrease Magicka Recovery by |cffffff338|r.\nIncrease Max Magicka by |cffffff3080|r.\n",
           "stacks": 0,
           "powerAtOnset": {
-            "weapon": 3828,
-            "spell": 3828
-          }
-        },
-        {
-          "abilityId": 61667,
-          "name": "Major Savagery",
-          "description": "",
-          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 3828,
-            "spell": 3828
-          }
-        },
-        {
-          "abilityId": 61694,
-          "name": "Major Resolve",
-          "description": "",
-          "effect": "Increases your Physical and Spell Resistance by |cffffff5948|r.\n",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 3828,
-            "spell": 3828
-          }
-        },
-        {
-          "abilityId": 63569,
-          "name": "Gallop",
-          "description": "",
-          "effect": "Increases your Mount Speed by |cffffff15|r%.\n",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 3828,
-            "spell": 3828
-          }
-        },
-        {
-          "abilityId": 13978,
-          "name": "Boon: The Lord",
-          "description": "increases Maximum Health",
-          "effect": "Increases your Maximum Health by |cffffff3842|r.\n",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 3828,
-            "spell": 3828
-          }
-        },
-        {
-          "abilityId": 135402,
-          "name": "Vampire Stage 4",
-          "description": "",
-          "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 3828,
-            "spell": 3828
+            "weapon": 4021,
+            "spell": 4021
           }
         },
         {
@@ -28480,19 +28425,52 @@
           "effect": "",
           "stacks": 0,
           "powerAtOnset": {
-            "weapon": 3828,
-            "spell": 3828
+            "weapon": 4021,
+            "spell": 4021
           }
         },
         {
-          "abilityId": 29465,
-          "name": "Landslide",
+          "abilityId": 61694,
+          "name": "Major Resolve",
           "description": "",
-          "effect": "",
-          "stacks": 9,
+          "effect": "Increases your Physical and Spell Resistance by |cffffff5948|r.\n",
+          "stacks": 0,
           "powerAtOnset": {
-            "weapon": 3434,
-            "spell": 3434
+            "weapon": 3000,
+            "spell": 3000
+          }
+        },
+        {
+          "abilityId": 63569,
+          "name": "Gallop",
+          "description": "",
+          "effect": "Increases your Mount Speed by |cffffff15|r%.\n",
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 4021,
+            "spell": 4021
+          }
+        },
+        {
+          "abilityId": 13978,
+          "name": "Boon: The Lord",
+          "description": "increases Maximum Health",
+          "effect": "Increases your Maximum Health by |cffffff3842|r.\n",
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 4021,
+            "spell": 4021
+          }
+        },
+        {
+          "abilityId": 61667,
+          "name": "Major Savagery",
+          "description": "",
+          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 4021,
+            "spell": 4021
           }
         }
       ],
@@ -29069,7 +29047,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:82176:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:4458:0|h|h",
+          "link": "|H0:item:82176:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:2128:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 2425,
@@ -29134,17 +29112,17 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:215597:370:50:68343:370:50:0:0:0:0:0:0:0:0:1:46:1:1:0:9064:0|h|h",
+          "link": "|H0:item:127165:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:7180:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
-          "armor": 2084,
+          "armor": 2772,
           "weaponPower": 0,
-          "enchant": "Adds |cffffff434|r Maximum Magicka.\nAdds |cffffff477|r Maximum Health.\nAdds |cffffff434|r Maximum Stamina.",
-          "enchantCategory": 36,
+          "enchant": "Adds |cffffff954|r Maximum Health.",
+          "enchantCategory": 11,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
           "quality": 5,
-          "setId": 809,
-          "setName": "Tide-Born Wildstalker",
+          "setId": 337,
+          "setName": "Ironblood",
           "setBonusCount": 4,
           "setEquipped": 5,
           "setMaxEquipped": 5,
@@ -29152,29 +29130,29 @@
           "setBonuses": [
             {
               "required": 2,
-              "description": "(2 items) Adds |cffffff129|r Weapon and Spell Damage",
+              "description": "(2 items) Adds |cffffff1206|r Maximum Health",
               "perfected": false
             },
             {
               "required": 3,
-              "description": "(3 items) Adds |cffffff657|r Critical Chance",
+              "description": "(3 items) Adds |cffffff1487|r Armor",
               "perfected": false
             },
             {
               "required": 4,
-              "description": "(4 items) Adds |cffffff1487|r Offensive Penetration",
+              "description": "(4 items) Adds |cffffff1487|r Armor",
               "perfected": false
             },
             {
               "required": 5,
-              "description": "(5 items) Increase your direct damage done to monsters by |cffffff15|r%.",
+              "description": "(5 items) When you take damage, you have a |cffffff10|r% chance to turn your blood into pure iron for |cffffff10|r seconds, gaining Major Protection, Major Aegis, and Minor Protection, but also reducing your Movement Speed by |cffffff25|r%. This effect can occur once every |cffffff10|r seconds.",
               "perfected": false
             }
           ]
         },
         {
           "slot": 3,
-          "link": "|H0:item:82177:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:6732:0|h|h",
+          "link": "|H0:item:82177:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:5252:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 2425,
@@ -29209,12 +29187,12 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:133243:364:50:5365:370:50:1:62:0:0:0:0:0:0:2049:65:0:1:0:225:0|h|h",
+          "link": "|H0:item:133243:364:50:5365:370:50:1:62:0:0:0:0:0:0:2049:65:0:1:0:53:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 0,
           "weaponPower": 1335,
-          "enchant": "Deals |cffffff1478|r Frost Damage.",
+          "enchant": "Deals |cffffff1343|r Frost Damage.",
           "enchantCategory": 9,
           "trait": "Increases healing done by |cffffff4.5|r%.",
           "quality": 5,
@@ -29239,7 +29217,7 @@
         },
         {
           "slot": 5,
-          "link": "|H0:item:133259:364:50:0:0:0:18:62:0:0:0:0:0:0:2049:65:0:1:0:3147:0|h|h",
+          "link": "|H0:item:133259:364:50:0:0:0:18:62:0:0:0:0:0:0:2049:65:0:1:0:978:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1720,
@@ -29269,17 +29247,17 @@
         },
         {
           "slot": 6,
-          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:4788:0|h|h",
+          "link": "|H0:item:127171:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:5595:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
-          "armor": 781,
+          "armor": 1039,
           "weaponPower": 0,
-          "enchant": "Adds |cffffff351|r Maximum Stamina.",
-          "enchantCategory": 17,
+          "enchant": "Adds |cffffff386|r Maximum Health.",
+          "enchantCategory": 11,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
           "quality": 5,
-          "setId": 809,
-          "setName": "Tide-Born Wildstalker",
+          "setId": 337,
+          "setName": "Ironblood",
           "setBonusCount": 4,
           "setEquipped": 5,
           "setMaxEquipped": 5,
@@ -29287,39 +29265,39 @@
           "setBonuses": [
             {
               "required": 2,
-              "description": "(2 items) Adds |cffffff129|r Weapon and Spell Damage",
+              "description": "(2 items) Adds |cffffff1206|r Maximum Health",
               "perfected": false
             },
             {
               "required": 3,
-              "description": "(3 items) Adds |cffffff657|r Critical Chance",
+              "description": "(3 items) Adds |cffffff1487|r Armor",
               "perfected": false
             },
             {
               "required": 4,
-              "description": "(4 items) Adds |cffffff1487|r Offensive Penetration",
+              "description": "(4 items) Adds |cffffff1487|r Armor",
               "perfected": false
             },
             {
               "required": 5,
-              "description": "(5 items) Increase your direct damage done to monsters by |cffffff15|r%.",
+              "description": "(5 items) When you take damage, you have a |cffffff10|r% chance to turn your blood into pure iron for |cffffff10|r seconds, gaining Major Protection, Major Aegis, and Minor Protection, but also reducing your Movement Speed by |cffffff25|r%. This effect can occur once every |cffffff10|r seconds.",
               "perfected": false
             }
           ]
         },
         {
           "slot": 8,
-          "link": "|H0:item:215601:370:50:68343:370:50:0:0:0:0:0:0:0:0:1:46:1:1:0:2288:0|h|h",
+          "link": "|H0:item:127169:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:4831:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
-          "armor": 1823,
+          "armor": 2425,
           "weaponPower": 0,
-          "enchant": "Adds |cffffff434|r Maximum Magicka.\nAdds |cffffff477|r Maximum Health.\nAdds |cffffff434|r Maximum Stamina.",
-          "enchantCategory": 36,
+          "enchant": "Adds |cffffff954|r Maximum Health.",
+          "enchantCategory": 11,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
           "quality": 5,
-          "setId": 809,
-          "setName": "Tide-Born Wildstalker",
+          "setId": 337,
+          "setName": "Ironblood",
           "setBonusCount": 4,
           "setEquipped": 5,
           "setMaxEquipped": 5,
@@ -29327,39 +29305,39 @@
           "setBonuses": [
             {
               "required": 2,
-              "description": "(2 items) Adds |cffffff129|r Weapon and Spell Damage",
+              "description": "(2 items) Adds |cffffff1206|r Maximum Health",
               "perfected": false
             },
             {
               "required": 3,
-              "description": "(3 items) Adds |cffffff657|r Critical Chance",
+              "description": "(3 items) Adds |cffffff1487|r Armor",
               "perfected": false
             },
             {
               "required": 4,
-              "description": "(4 items) Adds |cffffff1487|r Offensive Penetration",
+              "description": "(4 items) Adds |cffffff1487|r Armor",
               "perfected": false
             },
             {
               "required": 5,
-              "description": "(5 items) Increase your direct damage done to monsters by |cffffff15|r%.",
+              "description": "(5 items) When you take damage, you have a |cffffff10|r% chance to turn your blood into pure iron for |cffffff10|r seconds, gaining Major Protection, Major Aegis, and Minor Protection, but also reducing your Movement Speed by |cffffff25|r%. This effect can occur once every |cffffff10|r seconds.",
               "perfected": false
             }
           ]
         },
         {
           "slot": 9,
-          "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:7321:0|h|h",
+          "link": "|H0:item:127166:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:5595:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
-          "armor": 1823,
+          "armor": 2425,
           "weaponPower": 0,
-          "enchant": "Adds |cffffff351|r Maximum Stamina.",
-          "enchantCategory": 17,
+          "enchant": "Adds |cffffff386|r Maximum Health.",
+          "enchantCategory": 11,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
           "quality": 5,
-          "setId": 809,
-          "setName": "Tide-Born Wildstalker",
+          "setId": 337,
+          "setName": "Ironblood",
           "setBonusCount": 4,
           "setEquipped": 5,
           "setMaxEquipped": 5,
@@ -29367,22 +29345,22 @@
           "setBonuses": [
             {
               "required": 2,
-              "description": "(2 items) Adds |cffffff129|r Weapon and Spell Damage",
+              "description": "(2 items) Adds |cffffff1206|r Maximum Health",
               "perfected": false
             },
             {
               "required": 3,
-              "description": "(3 items) Adds |cffffff657|r Critical Chance",
+              "description": "(3 items) Adds |cffffff1487|r Armor",
               "perfected": false
             },
             {
               "required": 4,
-              "description": "(4 items) Adds |cffffff1487|r Offensive Penetration",
+              "description": "(4 items) Adds |cffffff1487|r Armor",
               "perfected": false
             },
             {
               "required": 5,
-              "description": "(5 items) Increase your direct damage done to monsters by |cffffff15|r%.",
+              "description": "(5 items) When you take damage, you have a |cffffff10|r% chance to turn your blood into pure iron for |cffffff10|r seconds, gaining Major Protection, Major Aegis, and Minor Protection, but also reducing your Movement Speed by |cffffff25|r%. This effect can occur once every |cffffff10|r seconds.",
               "perfected": false
             }
           ]
@@ -29444,17 +29422,17 @@
         },
         {
           "slot": 16,
-          "link": "|H0:item:215599:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:46:1:1:0:5396:0|h|h",
+          "link": "|H0:item:127167:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:8076:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
-          "armor": 1042,
+          "armor": 1386,
           "weaponPower": 0,
-          "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina.",
-          "enchantCategory": 36,
+          "enchant": "Adds |cffffff386|r Maximum Health.",
+          "enchantCategory": 11,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
           "quality": 5,
-          "setId": 809,
-          "setName": "Tide-Born Wildstalker",
+          "setId": 337,
+          "setName": "Ironblood",
           "setBonusCount": 4,
           "setEquipped": 5,
           "setMaxEquipped": 5,
@@ -29462,29 +29440,29 @@
           "setBonuses": [
             {
               "required": 2,
-              "description": "(2 items) Adds |cffffff129|r Weapon and Spell Damage",
+              "description": "(2 items) Adds |cffffff1206|r Maximum Health",
               "perfected": false
             },
             {
               "required": 3,
-              "description": "(3 items) Adds |cffffff657|r Critical Chance",
+              "description": "(3 items) Adds |cffffff1487|r Armor",
               "perfected": false
             },
             {
               "required": 4,
-              "description": "(4 items) Adds |cffffff1487|r Offensive Penetration",
+              "description": "(4 items) Adds |cffffff1487|r Armor",
               "perfected": false
             },
             {
               "required": 5,
-              "description": "(5 items) Increase your direct damage done to monsters by |cffffff15|r%.",
+              "description": "(5 items) When you take damage, you have a |cffffff10|r% chance to turn your blood into pure iron for |cffffff10|r seconds, gaining Major Protection, Major Aegis, and Minor Protection, but also reducing your Movement Speed by |cffffff25|r%. This effect can occur once every |cffffff10|r seconds.",
               "perfected": false
             }
           ]
         },
         {
           "slot": 20,
-          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:495:0|h|h",
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:372:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 0,
@@ -29507,7 +29485,7 @@
             },
             {
               "required": 2,
-              "description": "(2 items) Activating Critical Charge stirs up a barbarous lust for battle within you for |cffffff18|r seconds, increasing your damage done with direct damage attacks by |cffffff6|r%, up to a maximum of |cffffff12|r%. This effect scales off the higher of your Weapon or Spell Damage.",
+              "description": "(2 items) Activating Critical Charge stirs up a barbarous lust for battle within you for |cffffff18|r seconds, increasing your damage done with direct damage attacks by |cffffff5|r%, up to a maximum of |cffffff12|r%. This effect scales off the higher of your Weapon or Spell Damage.",
               "perfected": false
             }
           ]
@@ -29518,7 +29496,7 @@
           "slot": 3,
           "abilityId": 38317,
           "name": "Absorb Missile",
-          "description": "Bolster your defenses, gaining a damage shield that absorbs up to |cffffff14984|r damage for |cffffff6|r seconds.\n\nWhile the shield persists, you are healed for |cffffff7251|r Health the next time a harmful direct damage projectile hits you. This effect can occur once per cast.\n\nThis ability scales off your Max Health.",
+          "description": "Bolster your defenses, gaining a damage shield that absorbs up to |cffffff18743|r damage for |cffffff6|r seconds.\n\nWhile the shield persists, you are healed for |cffffff8971|r Health the next time a harmful direct damage projectile hits you. This effect can occur once per cast.\n\nThis ability scales off your Max Health.",
           "durationMs": 6000,
           "castMs": 0,
           "channeled": false,
@@ -29529,9 +29507,9 @@
         },
         {
           "slot": 4,
-          "abilityId": 31816,
-          "name": "Magma Fist",
-          "description": "Draw forth magma from below to hurl at an enemy, dealing |cffffff8341|r Flame Damage while applying a stack of Heat Shock, which increases the enemy's damage taken by |cffffff66|r for |cffffff7|r seconds per stack, up to |cffffff3|r times.\n\nHitting an enemy at max stacks of Heat Shock with this ability increases the damage done of the next cast of this ability within |cffffff6|r seconds by |cffffff66|r%, up to once every |cffffff6|r seconds.",
+          "abilityId": 20816,
+          "name": "Flame Lash",
+          "description": "Lash an enemy with flame, dealing |cffffff5665|r Flame Damage and healing for |cffffff1831|r Health.\n\nHitting an Off Balance enemy grants |cffffff5|r stacks of Power Lash for |cffffff20|r seconds, up to once every |cffffff20|r seconds. After activating, you gain |cffffff3|r% damage done to monsters for |cffffff45|r seconds.\n\nActivating again consumes a stack to deal |cffffff8231|r Flame Damage to your target and all nearby enemies and heals for |cffffff3667|r Health.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -29542,10 +29520,10 @@
         },
         {
           "slot": 5,
-          "abilityId": 20816,
-          "name": "Flame Lash",
-          "description": "Lash an enemy with flame, dealing |cffffff8074|r Flame Damage and healing for |cffffff2615|r Health.\n\nHitting an Off Balance enemy grants |cffffff5|r stacks of Power Lash for |cffffff20|r seconds, up to once every |cffffff20|r seconds. After activating, you gain |cffffff3|r% damage done to monsters for |cffffff45|r seconds.\n\nActivating again consumes a stack to deal |cffffff11733|r Flame Damage to your target and all nearby enemies and heals for |cffffff5232|r Health.",
-          "durationMs": 0,
+          "abilityId": 20660,
+          "name": "Burning Embers",
+          "description": "Slash your foe with a fiery claw, dealing |cffffff2832|r Flame Damage and an additional |cffffff8975|r Flame Damage over |cffffff10|r seconds.\n\nYou heal for |cffffff11962|r Health from the initial hit and |cffffff1793|r Health each subsequent tick, scaling off your Max Health.\n\nThe initial hit always applies the Burning status effect.",
+          "durationMs": 10000,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
@@ -29555,23 +29533,23 @@
         },
         {
           "slot": 6,
-          "abilityId": 20660,
-          "name": "Burning Embers",
-          "description": "Slash your foe with a fiery claw, dealing |cffffff4036|r Flame Damage and an additional |cffffff12785|r Flame Damage over |cffffff10|r seconds.\n\nYou heal for |cffffff9667|r Health from the initial hit and |cffffff1449|r Health each subsequent tick, scaling off your Max Health.\n\nThe initial hit always applies the Burning status effect.",
+          "abilityId": 20944,
+          "name": "Disintegrating Dragonfire",
+          "description": "Exhale a blast of draconic fire in front of you, dealing |cffffff4141|r Flame Damage, applying the Burning status effect, and an additional |cffffff7730|r Flame Damage over |cffffff10|r seconds to enemies in your path.\n\nThe initial hit liquifies the armor of your enemies, applying Major Breach to enemies for the duration, reducing Physical and Spell Resistance by |cffffff5948|r.",
           "durationMs": 10000,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
           "ultimateCost": 0,
-          "morph": 2,
+          "morph": 1,
           "rank": 4
         },
         {
           "slot": 7,
-          "abilityId": 20944,
-          "name": "Disintegrating Dragonfire",
-          "description": "Exhale a blast of draconic fire in front of you, dealing |cffffff5903|r Flame Damage, applying the Burning status effect, and an additional |cffffff11005|r Flame Damage over |cffffff10|r seconds to enemies in your path.\n\nThe initial hit liquifies the armor of your enemies, applying Major Breach to enemies for the duration, reducing Physical and Spell Resistance by |cffffff5948|r.",
-          "durationMs": 10000,
+          "abilityId": 20328,
+          "name": "Earthshield Mantle",
+          "description": "Envelop your body in molten spikes to increase your damage done to monsters by |cffffff100|r and gain Major Resolve, increasing Physical and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.\n\nPower drawn from the heart of a volcano forms a damage shield around you that absorbs up to |cffffff19361|r damage for |cffffff6|r seconds, scaling off your Max Health.",
+          "durationMs": 20000,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
@@ -29583,12 +29561,12 @@
           "slot": 8,
           "abilityId": 32947,
           "name": "Standard of Might",
-          "description": "Call down a battle standard for |cffffff15|r seconds, rallying you and group members inside the area, increasing Weapon and Spell Damage by |cffffff300|r and reducing damage taken by |cffffff10|r%. You gain an additional |cffffff15|r% damage done, |cffffff15|r% reduced damage taken, and |cffffff300|r Weapon and Spell Damage.\n\nAn ally near the standard can activate the Shackle synergy, dealing |cffffff11068|r Flame Damage to enemies in the area and immobilizing them for |cffffff5|r seconds.",
+          "description": "Call down a battle standard for |cffffff15|r seconds, rallying you and group members inside the area, increasing Weapon and Spell Damage by |cffffff300|r and reducing damage taken by |cffffff10|r%. You gain an additional |cffffff15|r% damage done, |cffffff15|r% reduced damage taken, and |cffffff300|r Weapon and Spell Damage.\n\nAn ally near the standard can activate the Shackle synergy, dealing |cffffff7763|r Flame Damage to enemies in the area and immobilizing them for |cffffff5|r seconds.",
           "durationMs": 15000,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 212,
+          "ultimateCost": 188,
           "morph": 2,
           "rank": 4
         }
@@ -29627,12 +29605,12 @@
         {
           "abilityId": 44951,
           "name": "Elder Dragon",
-          "description": "The eldest Dragons are forces of nature. As are you.\n\nActivating a Draconic Power ability grants you and group members Minor Brutality for |cffffff20|r seconds, increasing Weapon and Spell Damage by |cffffff10|r%.\n\nIncreases your Health Recovery by up to |cffffff700|r, based on your missing Health.\nCurrent amount: |cffffff0|r"
+          "description": "The eldest Dragons are forces of nature. As are you.\n\nActivating a Draconic Power ability grants you and group members Minor Brutality for |cffffff20|r seconds, increasing Weapon and Spell Damage by |cffffff10|r%.\n\nIncreases your Health Recovery by up to |cffffff700|r, based on your missing Health.\nCurrent amount: |cffffff700|r"
         },
         {
           "abilityId": 44953,
           "name": "The Storm Voice",
-          "description": "The syllables of that ancient tongue live in the mouth of every Dragonknight.\n\nWhen you cast an Ultimate ability, you restore |cffffff17|r Health, |cffffff16|r Magicka, and |cffffff16|r Stamina for every Ultimate spent. Each Dragonknight ability slotted increases this value by |cffffff6|r.\n\nCurrent amount:\n|cffffff53|r Health\n|cffffff46|r Magicka\n|cffffff46|r Stamina"
+          "description": "The syllables of that ancient tongue live in the mouth of every Dragonknight.\n\nWhen you cast an Ultimate ability, you restore |cffffff16|r Health, |cffffff16|r Magicka, and |cffffff16|r Stamina for every Ultimate spent. Each Dragonknight ability slotted increases this value by |cffffff6|r.\n\nCurrent amount:\n|cffffff49|r Health\n|cffffff46|r Magicka\n|cffffff46|r Stamina"
         },
         {
           "abilityId": 44996,
@@ -29662,14 +29640,14 @@
         {
           "abilityId": 259224,
           "name": "Wildfire Embers",
-          "description": "Fire forged within can never be extinguished. Fan the flames.\n\nWhen your Dragonknight damage over time effects end, you apply a stack of Wildfire Embers to the target, dealing |cffffff5768|r Flame Damage over |cffffff12|r seconds. This effect stacks up to |cffffff12|r times and increases in damage |cffffff25|r% per stack."
+          "description": "Fire forged within can never be extinguished. Fan the flames.\n\nWhen your Dragonknight damage over time effects end, you apply a stack of Wildfire Embers to the target, dealing |cffffff4046|r Flame Damage over |cffffff12|r seconds. This effect stacks up to |cffffff12|r times and increases in damage |cffffff25|r% per stack."
         }
       ],
       "otherPassives": [
         {
           "abilityId": 45444,
           "name": "Forceful",
-          "description": "Your Light and Heavy Attacks damage up to |cffffff3|r other nearby enemies for |cffffff109|r% of the damage inflicted to the primary target."
+          "description": "Your Light and Heavy Attacks damage up to |cffffff3|r other nearby enemies for |cffffff100|r% of the damage inflicted to the primary target."
         },
         {
           "abilityId": 45430,
@@ -29784,27 +29762,27 @@
         {
           "abilityId": 45564,
           "name": "Dexterity",
-          "description": "Increases your Critical Damage and Healing done rating by |cffffff2|r% for every piece of Medium Armor equipped.\n\nCurrent bonus: |cffffff10|r%."
+          "description": "Increases your Critical Damage and Healing done rating by |cffffff2|r% for every piece of Medium Armor equipped.\n\nCurrent bonus: |cffffff0|r%."
         },
         {
           "abilityId": 45565,
           "name": "Wind Walker",
-          "description": "Increases your Stamina Recovery by |cffffff4|r% per piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff20|r%.\n\nReduces the Stamina cost of your abilities by |cffffff2|r% per piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff10|r%."
+          "description": "Increases your Stamina Recovery by |cffffff4|r% per piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff0|r%.\n\nReduces the Stamina cost of your abilities by |cffffff2|r% per piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff0|r%."
         },
         {
           "abilityId": 45567,
           "name": "Improved Sneak",
-          "description": "Reduces the cost of Sneak by |cffffff7|r% for each piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff35|r%.\n\nReduces the size of your detection area while Sneaking by |cffffff5|r% for each piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff25|r%."
+          "description": "Reduces the cost of Sneak by |cffffff7|r% for each piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff0|r%.\n\nReduces the size of your detection area while Sneaking by |cffffff5|r% for each piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff0|r%."
         },
         {
           "abilityId": 45572,
           "name": "Agility",
-          "description": "Increases your Weapon and Spell Damage by |cffffff2|r% for each piece of Medium Armor worn.\n\nCurrent bonus: |cffffff10|r%."
+          "description": "Increases your Weapon and Spell Damage by |cffffff2|r% for each piece of Medium Armor worn.\n\nCurrent bonus: |cffffff0|r%."
         },
         {
           "abilityId": 45574,
           "name": "Athletics",
-          "description": "Increases the Movement Speed bonus of Sprint by |cffffff3|r% for each piece of Medium Armor equipped.\n\nCurrent bonus: |cffffff15|r%.\n\nReduces the cost of Roll Dodge by |cffffff4|r% for each piece of Medium Armor equipped.\n\nCurrent bonus: |cffffff20|r%."
+          "description": "Increases the Movement Speed bonus of Sprint by |cffffff3|r% for each piece of Medium Armor equipped.\n\nCurrent bonus: |cffffff0|r%.\n\nReduces the cost of Roll Dodge by |cffffff4|r% for each piece of Medium Armor equipped.\n\nCurrent bonus: |cffffff0|r%."
         },
         {
           "abilityId": 150184,
@@ -29819,27 +29797,27 @@
         {
           "abilityId": 45533,
           "name": "Resolve",
-          "description": "Increases your Physical and Spell Resistance by |cffffff343|r for each piece of Heavy Armor equipped.\n\nCurrent bonus: |cffffff686|r."
+          "description": "Increases your Physical and Spell Resistance by |cffffff343|r for each piece of Heavy Armor equipped.\n\nCurrent bonus: |cffffff2402|r."
         },
         {
           "abilityId": 45526,
           "name": "Constitution",
-          "description": "Increases your Health Recovery by |cffffff4|r% for each piece of Heavy Armor equipped. \n\nCurrent bonus: |cffffff8|r%.\n\nYou restore |cffffff108|r Magicka and Stamina when you take damage for each piece of Heavy Armor equipped. This effect can occur once every |cffffff4|r seconds. \n\nCurrent bonus: |cffffff216|r."
+          "description": "Increases your Health Recovery by |cffffff4|r% for each piece of Heavy Armor equipped. \n\nCurrent bonus: |cffffff28|r%.\n\nYou restore |cffffff108|r Magicka and Stamina when you take damage for each piece of Heavy Armor equipped. This effect can occur once every |cffffff4|r seconds. \n\nCurrent bonus: |cffffff757|r."
         },
         {
           "abilityId": 45546,
           "name": "Juggernaut",
-          "description": "Increases your Max Health by |cffffff2|r% for each piece of Heavy Armor equipped.  \n\nCurrent bonus: |cffffff4|r%."
+          "description": "Increases your Max Health by |cffffff2|r% for each piece of Heavy Armor equipped.  \n\nCurrent bonus: |cffffff14|r%."
         },
         {
           "abilityId": 45528,
           "name": "Revitalize",
-          "description": "Increases the Magicka or Stamina your Heavy Attacks restore by |cffffff4|r% for each piece of Heavy Armor worn.\n\nCurrent bonus: |cffffff8|r%"
+          "description": "Increases the Magicka or Stamina your Heavy Attacks restore by |cffffff4|r% for each piece of Heavy Armor worn.\n\nCurrent bonus: |cffffff28|r%"
         },
         {
           "abilityId": 45529,
           "name": "Rapid Mending",
-          "description": "Increases your healing received by |cffffff1|r% for each piece of Heavy Armor worn.\n\nCurrent bonus: |cffffff2|r%"
+          "description": "Increases your healing received by |cffffff1|r% for each piece of Heavy Armor worn.\n\nCurrent bonus: |cffffff7|r%"
         },
         {
           "abilityId": 139909,
@@ -29949,42 +29927,12 @@
         {
           "abilityId": 45583,
           "name": "Soul Shatter",
-          "description": "When your Health drops below |cffffff20|r% your soul explodes, dealing |cffffff4293|r Magic Damage to enemies within |cffffff8|r meters of you.\n\nThis effect can occur once every |cffffff2|r minutes and scales off your Max Health."
+          "description": "When your Health drops below |cffffff20|r% your soul explodes, dealing |cffffff5259|r Magic Damage to enemies within |cffffff8|r meters of you.\n\nThis effect can occur once every |cffffff2|r minutes and scales off your Max Health."
         },
         {
           "abilityId": 45580,
           "name": "Soul Lock",
           "description": "Killing an enemy has a |cffffff10|r% chance of automatically filling an empty Soul Gem."
-        },
-        {
-          "abilityId": 42054,
-          "name": "Feed",
-          "description": "Allows you to feed on an unsuspecting target, killing them and increasing your Vampire Stage. Higher Stages make you a stronger Vampire at the cost of your humanity. Stages decrease over long periods of time. \n\nStage 1/2/3/4\n\nHealth Recovery: -10%/-30%/-60%/-100%\nFlame Damage Taken: +5%/+8%/+13%/+20%\nRegular Ability Costs: +3%/+5%/+8%/+12%\nVampire Ability Costs: -6%/-10%/-16%/-24%"
-        },
-        {
-          "abilityId": 46041,
-          "name": "Dark Stalker",
-          "description": "Ignore the Movement Speed penalty of Sneak.\n\nDecreases the time it takes to enter Sneak by |cffffff50|r%."
-        },
-        {
-          "abilityId": 46040,
-          "name": "Strike from the Shadows",
-          "description": "When you leave Sneak, invisibility, or Mist Form your Weapon and Spell Damage is increased by |cffffff300|r for |cffffff6|r seconds."
-        },
-        {
-          "abilityId": 33090,
-          "name": "Undeath",
-          "description": "Reduces your damage taken by up to |cffffff15|r% based on your missing Health.\n\nCurrent bonus: |cffffff1|r%"
-        },
-        {
-          "abilityId": 33091,
-          "name": "Blood Ritual",
-          "description": "Allows you to infect another player with Noxiphilic Sanguivoria once every |cffffffweek|r by returning to the Vampire ritual site. \n\nPlayers already infected with Lycanthropy cannot be infected with Noxiphilic Sanguivoria."
-        },
-        {
-          "abilityId": 135218,
-          "name": "Unnatural Movement",
-          "description": "Reduces the cost of Sprint by |cffffff50|r%.\n\nIf you continuously Sprint for |cffffff3|r seconds you automatically become invisible."
         },
         {
           "abilityId": 78219,
@@ -30079,12 +30027,12 @@
         {
           "abilityId": 103878,
           "name": "Spell Orb",
-          "description": "When you cast a Psijic Order ability while you are in combat, you generate a spell charge for |cffffff10|r seconds. When you reach |cffffff5|r spell charges, you launch a spell orb at the closest enemy to you dealing |cffffff3909|r Magic Damage.\n\nThis effect scales off your highest offensive stats."
+          "description": "When you cast a Psijic Order ability while you are in combat, you generate a spell charge for |cffffff10|r seconds. When you reach |cffffff5|r spell charges, you launch a spell orb at the closest enemy to you dealing |cffffff2741|r Magic Damage.\n\nThis effect scales off your highest offensive stats."
         },
         {
           "abilityId": 103964,
           "name": "Concentrated Barrier",
-          "description": "While you have a Psijic Order ability slotted and are Bracing, you gain a damage shield that absorbs |cffffff6200|r damage. \n\nThis damage shield recharges back to full strength after you spend |cffffff10|r seconds not Bracing."
+          "description": "While you have a Psijic Order ability slotted and are Bracing, you gain a damage shield that absorbs |cffffff5750|r damage. \n\nThis damage shield recharges back to full strength after you spend |cffffff10|r seconds not Bracing."
         },
         {
           "abilityId": 103972,
@@ -30124,12 +30072,12 @@
         {
           "abilityId": 55676,
           "name": "Undaunted Command",
-          "description": "Activating a synergy restores |cffffff4|r% of your Max Health, Stamina, and Magicka.\n\nCurrent Bonus: |cffffff1810|r Health, |cffffff715|r Stamina, and |cffffff1091|r Magicka."
+          "description": "Activating a synergy restores |cffffff4|r% of your Max Health, Stamina, and Magicka.\n\nCurrent Bonus: |cffffff2241|r Health, |cffffff631|r Stamina, and |cffffff675|r Magicka."
         },
         {
           "abilityId": 55386,
           "name": "Undaunted Mettle",
-          "description": "Increases your Max Health, Stamina, and Magicka by |cffffff2|r% per type of Armor (Heavy, Medium, Light) that you have equipped. \n\nCurrent bonus: |cffffff4|r%."
+          "description": "Increases your Max Health, Stamina, and Magicka by |cffffff2|r% per type of Armor (Heavy, Medium, Light) that you have equipped. \n\nCurrent bonus: |cffffff2|r%."
         },
         {
           "abilityId": 45614,
@@ -30187,9 +30135,9 @@
       "moving": false,
       "archiveBoons": [],
       "advanced": {
-        "healing-taken-base": 0.12,
-        "healing-critical-bonus": 0.1,
-        "critical-damage": 0.2,
+        "healing-taken-base": 0.17,
+        "healing-critical-bonus": 0,
+        "critical-damage": 0.1,
         "healing-done-base": 0.065
       },
       "advancedSheet": {
@@ -30198,7 +30146,7 @@
           "label": "Disease Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 7
+          "percent": 6
         },
         "subscriber-all-xp": {
           "category": "ESO Plus",
@@ -30211,41 +30159,41 @@
           "label": "Physical Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 7
+          "percent": 6
         },
         "disease-resist": {
           "category": "Resistances",
           "label": "Disease Resistance",
           "format": "flat-or-percent",
-          "flat": 25218,
-          "percent": 38.2090911865
+          "flat": 32402,
+          "percent": 49.0939407349
         },
         "bleed-damage": {
           "category": "Damage Bonuses",
           "label": "Bleed Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 7
+          "percent": 6
         },
         "dodge-cost": {
           "category": "Core Abilities",
           "label": "Dodge Roll Cost",
           "format": "flat",
-          "flat": 2992
+          "flat": 4370
         },
         "fire-resist": {
           "category": "Resistances",
           "label": "Flame Resistance",
           "format": "flat-or-percent",
-          "flat": 25218,
-          "percent": 38.2090911865
+          "flat": 32402,
+          "percent": 49.0939407349
         },
         "shock-resist": {
           "category": "Resistances",
           "label": "Shock Resistance",
           "format": "flat-or-percent",
-          "flat": 25218,
-          "percent": 38.2090911865
+          "flat": 32402,
+          "percent": 49.0939407349
         },
         "healing-done-bonuses": {
           "category": "Healing Bonuses",
@@ -30259,20 +30207,20 @@
           "label": "Oblivion Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 7
+          "percent": 6
         },
         "fire-damage": {
           "category": "Damage Bonuses",
           "label": "Flame Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 7
+          "percent": 6
         },
         "block-mitigation": {
           "category": "Core Abilities",
           "label": "Block Mitigation",
           "format": "percent",
-          "percent": 69
+          "percent": 74
         },
         "cc-break-cost": {
           "category": "Core Abilities",
@@ -30291,26 +30239,26 @@
           "label": "Frost Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 7
+          "percent": 6
         },
         "magic-resist": {
           "category": "Resistances",
           "label": "Magic Resistance",
           "format": "flat-or-percent",
-          "flat": 25218,
-          "percent": 38.2090911865
+          "flat": 32402,
+          "percent": 49.0939407349
         },
         "block-cost": {
           "category": "Core Abilities",
           "label": "Block Cost",
           "format": "flat",
-          "flat": 874
+          "flat": 1029
         },
         "sprint-speed": {
           "category": "Core Abilities",
           "label": "Sprint Speed",
           "format": "percent",
-          "percent": 157
+          "percent": 137
         },
         "bash-cost": {
           "category": "Core Abilities",
@@ -30328,28 +30276,28 @@
           "category": "Resistances",
           "label": "Frost Resistance",
           "format": "flat-or-percent",
-          "flat": 25218,
-          "percent": 38.2090911865
+          "flat": 32402,
+          "percent": 49.0939407349
         },
         "healing-taken-bonuses": {
           "category": "Healing Bonuses",
           "label": "Healing Taken",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 12
+          "percent": 17
         },
         "sneak-cost": {
           "category": "Core Abilities",
           "label": "Sneak Cost",
           "format": "flat",
-          "flat": 38
+          "flat": 79
         },
         "poison-damage": {
           "category": "Damage Bonuses",
           "label": "Poison Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 7
+          "percent": 6
         },
         "subscriber-inspiration-bonus": {
           "category": "ESO Plus",
@@ -30362,39 +30310,39 @@
           "label": "Shock Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 7
+          "percent": 6
         },
         "sneak-speed-reduction": {
           "category": "Core Abilities",
           "label": "Sneak Speed",
           "format": "percent",
-          "percent": 100
+          "percent": 70
         },
         "sprint-cost": {
           "category": "Core Abilities",
           "label": "Sprint Cost",
           "format": "flat",
-          "flat": 195
+          "flat": 432
         },
         "poison-resist": {
           "category": "Resistances",
           "label": "Poison Resistance",
           "format": "flat-or-percent",
-          "flat": 25218,
-          "percent": 38.2090911865
+          "flat": 32402,
+          "percent": 49.0939407349
         },
         "magic-damage": {
           "category": "Damage Bonuses",
           "label": "Magic Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 7
+          "percent": 6
         },
         "critical-healing": {
           "category": "Healing Bonuses",
           "label": "Critical Healing",
           "format": "percent",
-          "percent": 10
+          "percent": 0
         },
         "subscriber-telvar-bonus": {
           "category": "ESO Plus",
@@ -30406,14 +30354,14 @@
           "category": "Damage Bonuses",
           "label": "Critical Damage",
           "format": "percent",
-          "percent": 20
+          "percent": 10
         },
         "bleed-resist": {
           "category": "Resistances",
           "label": "Bleed Resistance",
           "format": "flat-or-percent",
-          "flat": 25218,
-          "percent": 38.2090911865
+          "flat": 32402,
+          "percent": 49.0939407349
         },
         "block-speed": {
           "category": "Core Abilities",
@@ -30425,18 +30373,18 @@
           "category": "Core Abilities",
           "label": "Bash Damage",
           "format": "flat",
-          "flat": 1325
+          "flat": 1430
         }
       },
       "sheet": {
-        "attribute-points-health": 0,
+        "attribute-points-health": 64,
         "attribute-points-stamina": 0,
-        "attribute-points-magicka": 64,
+        "attribute-points-magicka": 0,
         "riding-stamina": 60,
         "riding-capacity": 60,
         "attribute-points-unspent": 0,
-        "critical-chance-spell": 26.4101848602,
-        "critical-chance-weapon": 26.4101848602,
+        "critical-chance-spell": 23.4118270874,
+        "critical-chance-weapon": 23.4118270874,
         "riding-speed": 60
       },
       "passiveRankIds": [
@@ -32510,7 +32458,7 @@
             {
               "abilityId": 259224,
               "name": "Wildfire Embers",
-              "description": "Fire forged within can never be extinguished. Fan the flames.\n\nWhen your Dragonknight damage over time effects end, you apply a stack of Wildfire Embers to the target, dealing |cffffff5768|r Flame Damage over |cffffff12|r seconds. This effect stacks up to |cffffff12|r times and increases in damage |cffffff25|r% per stack.",
+              "description": "Fire forged within can never be extinguished. Fan the flames.\n\nWhen your Dragonknight damage over time effects end, you apply a stack of Wildfire Embers to the target, dealing |cffffff4046|r Flame Damage over |cffffff12|r seconds. This effect stacks up to |cffffff12|r times and increases in damage |cffffff25|r% per stack.",
               "purchased": true
             },
             {
@@ -32590,7 +32538,7 @@
             {
               "abilityId": 263549,
               "name": "Pound of Flesh",
-              "description": "Knock upon death's door and demand your due.\n\nWhen you take damage you have a |cffffff10|r% chance to heal |cffffff4530|r Health and restore |cffffff5|r% of your missing Stamina, up to once per second. This chance increases by |cffffff1|r% for every missing Health percent you have and the healing is based off your Max Health.",
+              "description": "Knock upon death's door and demand your due.\n\nWhen you take damage you have a |cffffff10|r% chance to heal |cffffff5605|r Health and restore |cffffff5|r% of your missing Stamina, up to once per second. This chance increases by |cffffff1|r% for every missing Health percent you have and the healing is based off your Max Health.",
               "purchased": false
             },
             {
@@ -32646,13 +32594,13 @@
             {
               "abilityId": 263585,
               "name": "Bastion of Light",
-              "description": "Light consecrates the ground on which you tread.\n\nSacred Ground is now applied while you are in your own Nova and Spear Shards, and while Radial Sweep and Solar Barrage are active. While Sacred Ground is active, you heal for |cffffff3624|r Health every |cffffff1|r second. If you are at full Health after being healed from this effect while in combat, you also gain |cffffff2|r Ultimate.",
+              "description": "Light consecrates the ground on which you tread.\n\nSacred Ground is now applied while you are in your own Nova and Spear Shards, and while Radial Sweep and Solar Barrage are active. While Sacred Ground is active, you heal for |cffffff4484|r Health every |cffffff1|r second. If you are at full Health after being healed from this effect while in combat, you also gain |cffffff2|r Ultimate.",
               "purchased": false
             },
             {
               "abilityId": 263586,
               "name": "Devout Guardian",
-              "description": "Radiant is the shield that pushes back the dark.\n\nWhile Sacred Ground is active, you gain a damage shield for |cffffff6|r seconds, up to once every |cffffff6|r seconds. The shield absorbs up to |cffffff9670|r damage and provides |cffffff300|r Health, Magicka, and Stamina Recovery while active. If the shield breaks, you gain |cffffff10|r Ultimate.",
+              "description": "Radiant is the shield that pushes back the dark.\n\nWhile Sacred Ground is active, you gain a damage shield for |cffffff6|r seconds, up to once every |cffffff6|r seconds. The shield absorbs up to |cffffff12096|r damage and provides |cffffff300|r Health, Magicka, and Stamina Recovery while active. If the shield breaks, you gain |cffffff10|r Ultimate.",
               "purchased": false
             },
             {
@@ -32720,31 +32668,31 @@
             {
               "abilityId": 263870,
               "name": "Conservation of Energy",
-              "description": "Spellcasting is second nature to you. A skill honed by tireless study.\n\nUpgrades rank 2 of Blood Magic to work with all abilities with a cost, excluding cost per tick abilities, and restores |cffffff409|r Magicka and |cffffff268|r Stamina when it activates. This effect scales off your Max Magicka and Stamina.",
+              "description": "Spellcasting is second nature to you. A skill honed by tireless study.\n\nUpgrades rank 2 of Blood Magic to work with all abilities with a cost, excluding cost per tick abilities, and restores |cffffff253|r Magicka and |cffffff236|r Stamina when it activates. This effect scales off your Max Magicka and Stamina.",
               "purchased": false
             },
             {
               "abilityId": 263871,
               "name": "Font of Power",
-              "description": "Within you is a wellspring of near unlimited power.\n\nUpgrades rank 2 of Exploitation to work with any Sorcerer ability and increases your Weapon and Spell Damage by |cffffff15|r% for |cffffff10|r seconds. The Weapon and Spell Damage increases by |cffffff1|r% for every |cffffff1750|r Max Magicka or Stamina you have, whichever is higher.",
+              "description": "Within you is a wellspring of near unlimited power.\n\nUpgrades rank 2 of Exploitation to work with any Sorcerer ability and increases your Weapon and Spell Damage by |cffffff9|r% for |cffffff10|r seconds. The Weapon and Spell Damage increases by |cffffff1|r% for every |cffffff1750|r Max Magicka or Stamina you have, whichever is higher.",
               "purchased": false
             },
             {
               "abilityId": 263872,
               "name": "Static Reverberation",
-              "description": "The battlefield crackles with untapped potential. Make use of it.\n\nWhen you deal damage with a Sorcerer ability, you have a |cffffff20|r% chance to deal |cffffff1390|r Shock Damage, up to once every |cffffff0.1|r seconds. \n\nThe chance increases by |cffffff1|r% for every |cffffff1|r% missing Health the target has. The total chance is divided by 1 plus every permanent pet you have active.",
+              "description": "The battlefield crackles with untapped potential. Make use of it.\n\nWhen you deal damage with a Sorcerer ability, you have a |cffffff20|r% chance to deal |cffffff1108|r Shock Damage, up to once every |cffffff0.1|r seconds. \n\nThe chance increases by |cffffff1|r% for every |cffffff1|r% missing Health the target has. The total chance is divided by 1 plus every permanent pet you have active.",
               "purchased": false
             },
             {
               "abilityId": 263873,
               "name": "Calculated Defense",
-              "description": "Success is a certainty when nothing is left to chance.\n\nWhile beginning to use a Sorcerer ability or an ability with a cast time, you gain a damage shield for |cffffff0.5|r seconds that can absorb |cffffff15956|r damage. This effect is based off your Max Health. If the shield does not break, you and nearby group members gain |cffffff6|r% Weapon and Spell Damage for |cffffff20|r seconds.",
+              "description": "Success is a certainty when nothing is left to chance.\n\nWhile beginning to use a Sorcerer ability or an ability with a cast time, you gain a damage shield for |cffffff0.5|r seconds that can absorb |cffffff19958|r damage. This effect is based off your Max Health. If the shield does not break, you and nearby group members gain |cffffff6|r% Weapon and Spell Damage for |cffffff20|r seconds.",
               "purchased": false
             },
             {
               "abilityId": 263874,
               "name": "Sphere of Influence",
-              "description": "Magicka extends your reach, a benefit to those who fight beside you.\n\nCasting a damage shield on yourself or an ally grants an additional shield that absorbs up to |cffffff7253|r damage for |cffffff4|r seconds and |cffffff225|r Health, Magicka, and Stamina Recovery for |cffffff12|r seconds. The shield scales off the higher of your Max Health or Max Magicka, and is capped at |cffffff25|r% of the target's Max Health.",
+              "description": "Magicka extends your reach, a benefit to those who fight beside you.\n\nCasting a damage shield on yourself or an ally grants an additional shield that absorbs up to |cffffff9071|r damage for |cffffff4|r seconds and |cffffff225|r Health, Magicka, and Stamina Recovery for |cffffff12|r seconds. The shield scales off the higher of your Max Health or Max Magicka, and is capped at |cffffff25|r% of the target's Max Health.",
               "purchased": false
             }
           ]
@@ -32752,114 +32700,59 @@
       ]
     },
     "backBar": {
-      "capturedAt": 1793571146,
-      "buildHash": "ATQONMVgAABhxAkDE_tnELIDE_tnELJDJgtuULJDJgtnELJC5gtuULJDJgtuULJC5gtuULIgihtuULIQna1uULIgihtuULIBoL7bcoWSMX20AQgBEEx1tyhZQCK6OSJ4pcaIzpIROlxJKu4CJ1-Sob_eBJnFCTjV6eD4F3_8duBroZNIrogUj33VRZ_Xpx4iVCIjIiAgAyMyAiIiIyIiIgMgIjUiIiACMiIzQiACI0IDIyMzMjQCAEQyIjA6IyNAOgIiZDMyI0IAAAI4IiAiJCozIDQiIiIjAjos-nXqNSLEmVjyZZcybOz6NOrXtn0KNKnU8VayxXCZHDx9cvQMWSFoibN0bp2kSpk79QpgqoSuOsMEjhs2AAlSwIwDCBQxk0HEGzgoWMGjh5AiSOkw-CAyZYCCTXhks54mMEgMYUCEebBdYrXKZhiLngklCIAe3mbWvaea4eygZBQAAAAA",
+      "capturedAt": 1793574051,
+      "buildHash": "ATQONIFAQABhxAkDE_tnELIDE_tnELICT-tAEIACT-tAEIACT-tAEIACT-tAEIACT-tAEIAgihtuULIQna1uULIgihtuULIBoL7bcoWSMX20AQgBEEx1tyhZQCHJE8UsrkaIzpcROrpJKu4CJ1-Cob_eAJnFCTjF6eD4F3_8duBroZNIrogUj33VQZ_Xgx4iVCIjIiAgMjMgIiIiMiIiAyAiNSIiICMiIzQiACI0IDIyMzMjQCAEQyIjA6IyNAOgIiZDMyI0IAAAI4IiAiQqMyA0IiIjAjos-nXqNSLEmVjyZZcybOz6NOrXtn0KNKnU8VayxXCZHDx9cvQMWSFoibN0bp2kSpk79QpgqoSuOsMEjhs2AAlSwIwDCBQxk0HEGzgoWMGjh5AiSOkwcCAyZYCCTXhks54mMEgMYUCEebBdYrXKZhiLngklCIAe3mbWvaea4eygZBQAAAAA",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
-      "ultimate": 49,
-      "health": 38152,
-      "healthBefore": 38994,
+      "ultimate": 155,
+      "health": 51804,
+      "healthBefore": 52592,
       "healthPaired": false,
-      "elderDragonAmount": 7,
+      "elderDragonAmount": 0,
       "stats": {
-        "resistance-spell": 23498,
-        "magicka-maximum": 26830,
-        "stamina-maximum": 17447,
-        "penetration-spell": 3377,
-        "critical-rating-spell": 5787,
-        "critical-rating-weapon": 5787,
-        "magicka-recovery": 824,
-        "health-maximum": 38261,
-        "power-spell": 4524,
+        "resistance-spell": 30682,
+        "magicka-maximum": 16456,
+        "stamina-maximum": 15354,
+        "penetration-spell": 1890,
+        "critical-rating-spell": 5130,
+        "critical-rating-weapon": 5130,
+        "magicka-recovery": 972,
+        "health-maximum": 51804,
+        "power-spell": 3351,
         "resistance-critical": 1320,
-        "resistance-physical": 23498,
-        "power-weapon": 4524,
-        "health-recovery": 0,
-        "stamina-recovery": 906,
-        "penetration-physical": 3377
+        "resistance-physical": 30682,
+        "power-weapon": 3351,
+        "health-recovery": 1030,
+        "stamina-recovery": 0,
+        "penetration-physical": 1890
       },
       "unbonusedStats": {
         "resistance-spell": 0,
-        "magicka-maximum": 26830,
-        "stamina-maximum": 17447,
+        "magicka-maximum": 16456,
+        "stamina-maximum": 15354,
         "penetration-spell": 0,
         "critical-rating-spell": 2181,
         "critical-rating-weapon": 2181,
-        "magicka-recovery": 824,
-        "health-maximum": 38261,
+        "magicka-recovery": 972,
+        "health-maximum": 51804,
         "power-spell": 1000,
         "resistance-critical": 0,
         "resistance-physical": 0,
         "power-weapon": 1000,
-        "health-recovery": 0,
-        "stamina-recovery": 906,
+        "health-recovery": 1030,
+        "stamina-recovery": 0,
         "penetration-physical": 0
       },
       "activeBuffs": [
         {
-          "abilityId": 127531,
-          "name": "Corrupting Bloody Mara",
-          "description": "Increase Max Magicka by |cffffff3937|r, Max Health by |cffffff4305|r, and Health Recovery by |cffffff430|r for |cffffff2|r hours. \nIf you are a vampire, the tainted blood in this drink will also spark a fierce hunger in you.",
-          "effect": "Increase Max Magicka by |cffffff4620|r.\nIncrease Max Health by |cffffff5051|r.\nIncrease Health Recovery by |cffffff505|r.\n",
+          "abilityId": 100498,
+          "name": "Clockwork Citrus Filet",
+          "description": "Increase Max Health by |cffffff2835|r, Health Recovery by |cffffff346|r, Max Magicka by |cffffff2625|r and Magicka Recovery by |cffffff288|r for |cffffff2|r hours.",
+          "effect": "Increase Max Health by |cffffff3326|r.\nIncrease Health Recovery by |cffffff406|r.\nIncrease Magicka Recovery by |cffffff338|r.\nIncrease Max Magicka by |cffffff3080|r.\n",
           "stacks": 0,
           "powerAtOnset": {
-            "weapon": 3828,
-            "spell": 3828
-          }
-        },
-        {
-          "abilityId": 61667,
-          "name": "Major Savagery",
-          "description": "",
-          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 3828,
-            "spell": 3828
-          }
-        },
-        {
-          "abilityId": 61694,
-          "name": "Major Resolve",
-          "description": "",
-          "effect": "Increases your Physical and Spell Resistance by |cffffff5948|r.\n",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 3828,
-            "spell": 3828
-          }
-        },
-        {
-          "abilityId": 63569,
-          "name": "Gallop",
-          "description": "",
-          "effect": "Increases your Mount Speed by |cffffff15|r%.\n",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 3828,
-            "spell": 3828
-          }
-        },
-        {
-          "abilityId": 13978,
-          "name": "Boon: The Lord",
-          "description": "increases Maximum Health",
-          "effect": "Increases your Maximum Health by |cffffff3639|r.\n",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 3828,
-            "spell": 3828
-          }
-        },
-        {
-          "abilityId": 135402,
-          "name": "Vampire Stage 4",
-          "description": "",
-          "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 3828,
-            "spell": 3828
+            "weapon": 4021,
+            "spell": 4021
           }
         },
         {
@@ -32869,8 +32762,52 @@
           "effect": "",
           "stacks": 0,
           "powerAtOnset": {
-            "weapon": 3828,
-            "spell": 3828
+            "weapon": 4021,
+            "spell": 4021
+          }
+        },
+        {
+          "abilityId": 61694,
+          "name": "Major Resolve",
+          "description": "",
+          "effect": "Increases your Physical and Spell Resistance by |cffffff5948|r.\n",
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 4467,
+            "spell": 4467
+          }
+        },
+        {
+          "abilityId": 63569,
+          "name": "Gallop",
+          "description": "",
+          "effect": "Increases your Mount Speed by |cffffff15|r%.\n",
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 4021,
+            "spell": 4021
+          }
+        },
+        {
+          "abilityId": 13978,
+          "name": "Boon: The Lord",
+          "description": "increases Maximum Health",
+          "effect": "Increases your Maximum Health by |cffffff3639|r.\n",
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 4021,
+            "spell": 4021
+          }
+        },
+        {
+          "abilityId": 61667,
+          "name": "Major Savagery",
+          "description": "",
+          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 4021,
+            "spell": 4021
           }
         },
         {
@@ -32880,85 +32817,8 @@
           "effect": "",
           "stacks": 8,
           "powerAtOnset": {
-            "weapon": 3434,
-            "spell": 3434
-          }
-        },
-        {
-          "abilityId": 258666,
-          "name": "Igneous Weapons",
-          "description": "",
-          "effect": "",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 4914,
-            "spell": 4914
-          }
-        },
-        {
-          "abilityId": 61707,
-          "name": "Major Intellect",
-          "description": "",
-          "effect": "Increases your Magicka Recovery by |cffffff30|r%.\n",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 4985,
-            "spell": 4985
-          }
-        },
-        {
-          "abilityId": 61705,
-          "name": "Major Endurance",
-          "description": "",
-          "effect": "Increases your Stamina Recovery by |cffffff30|r%.\n",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 4985,
-            "spell": 4985
-          }
-        },
-        {
-          "abilityId": 262658,
-          "name": "Power Lash",
-          "description": "",
-          "effect": "",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 4330,
-            "spell": 4330
-          }
-        },
-        {
-          "abilityId": 61698,
-          "name": "Major Fortitude",
-          "description": "",
-          "effect": "Increases your Health Recovery by |cffffff30|r%.\n",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 4985,
-            "spell": 4985
-          }
-        },
-        {
-          "abilityId": 61665,
-          "name": "Major Brutality",
-          "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 4524,
-            "spell": 4524
-          }
-        },
-        {
-          "abilityId": 32853,
-          "name": "Incinerate",
-          "description": "Activate an aura of flames which launches a wave of flames every |cffffff5|r seconds, dealing |cffffff7537|r Flame Damage directly to enemies inside.\n\nEach hit has a |cffffff15|r% chance of applying Burning.\n\nWhile slotted on either bar, gain Major Savagery, increasing Critical Chance by |cffffff12|r%.",
-          "effect": "",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 4524,
-            "spell": 4524
+            "weapon": 4564,
+            "spell": 4564
           }
         }
       ],
@@ -33535,7 +33395,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:82176:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:4508:0|h|h",
+          "link": "|H0:item:82176:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:2278:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 2425,
@@ -33600,17 +33460,17 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:215597:370:50:68343:370:50:0:0:0:0:0:0:0:0:1:46:1:1:0:9064:0|h|h",
+          "link": "|H0:item:127165:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:7330:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
-          "armor": 2084,
+          "armor": 2772,
           "weaponPower": 0,
-          "enchant": "Adds |cffffff434|r Maximum Magicka.\nAdds |cffffff477|r Maximum Health.\nAdds |cffffff434|r Maximum Stamina.",
-          "enchantCategory": 36,
+          "enchant": "Adds |cffffff954|r Maximum Health.",
+          "enchantCategory": 11,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
           "quality": 5,
-          "setId": 809,
-          "setName": "Tide-Born Wildstalker",
+          "setId": 337,
+          "setName": "Ironblood",
           "setBonusCount": 4,
           "setEquipped": 5,
           "setMaxEquipped": 5,
@@ -33618,29 +33478,29 @@
           "setBonuses": [
             {
               "required": 2,
-              "description": "(2 items) Adds |cffffff129|r Weapon and Spell Damage",
+              "description": "(2 items) Adds |cffffff1206|r Maximum Health",
               "perfected": false
             },
             {
               "required": 3,
-              "description": "(3 items) Adds |cffffff657|r Critical Chance",
+              "description": "(3 items) Adds |cffffff1487|r Armor",
               "perfected": false
             },
             {
               "required": 4,
-              "description": "(4 items) Adds |cffffff1487|r Offensive Penetration",
+              "description": "(4 items) Adds |cffffff1487|r Armor",
               "perfected": false
             },
             {
               "required": 5,
-              "description": "(5 items) Increase your direct damage done to monsters by |cffffff15|r%.",
+              "description": "(5 items) When you take damage, you have a |cffffff10|r% chance to turn your blood into pure iron for |cffffff10|r seconds, gaining Major Protection, Major Aegis, and Minor Protection, but also reducing your Movement Speed by |cffffff25|r%. This effect can occur once every |cffffff10|r seconds.",
               "perfected": false
             }
           ]
         },
         {
           "slot": 3,
-          "link": "|H0:item:82177:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:6762:0|h|h",
+          "link": "|H0:item:82177:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:5402:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 2425,
@@ -33675,7 +33535,7 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:133243:364:50:5365:370:50:1:62:0:0:0:0:0:0:2049:65:0:1:0:234:0|h|h",
+          "link": "|H0:item:133243:364:50:5365:370:50:1:62:0:0:0:0:0:0:2049:65:0:1:0:56:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 0,
@@ -33705,7 +33565,7 @@
         },
         {
           "slot": 5,
-          "link": "|H0:item:133259:364:50:0:0:0:18:62:0:0:0:0:0:0:2049:65:0:1:0:3207:0|h|h",
+          "link": "|H0:item:133259:364:50:0:0:0:18:62:0:0:0:0:0:0:2049:65:0:1:0:1128:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1720,
@@ -33735,17 +33595,17 @@
         },
         {
           "slot": 6,
-          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:4788:0|h|h",
+          "link": "|H0:item:127171:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:5745:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
-          "armor": 781,
+          "armor": 1039,
           "weaponPower": 0,
-          "enchant": "Adds |cffffff351|r Maximum Stamina.",
-          "enchantCategory": 17,
+          "enchant": "Adds |cffffff386|r Maximum Health.",
+          "enchantCategory": 11,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
           "quality": 5,
-          "setId": 809,
-          "setName": "Tide-Born Wildstalker",
+          "setId": 337,
+          "setName": "Ironblood",
           "setBonusCount": 4,
           "setEquipped": 5,
           "setMaxEquipped": 5,
@@ -33753,39 +33613,39 @@
           "setBonuses": [
             {
               "required": 2,
-              "description": "(2 items) Adds |cffffff129|r Weapon and Spell Damage",
+              "description": "(2 items) Adds |cffffff1206|r Maximum Health",
               "perfected": false
             },
             {
               "required": 3,
-              "description": "(3 items) Adds |cffffff657|r Critical Chance",
+              "description": "(3 items) Adds |cffffff1487|r Armor",
               "perfected": false
             },
             {
               "required": 4,
-              "description": "(4 items) Adds |cffffff1487|r Offensive Penetration",
+              "description": "(4 items) Adds |cffffff1487|r Armor",
               "perfected": false
             },
             {
               "required": 5,
-              "description": "(5 items) Increase your direct damage done to monsters by |cffffff15|r%.",
+              "description": "(5 items) When you take damage, you have a |cffffff10|r% chance to turn your blood into pure iron for |cffffff10|r seconds, gaining Major Protection, Major Aegis, and Minor Protection, but also reducing your Movement Speed by |cffffff25|r%. This effect can occur once every |cffffff10|r seconds.",
               "perfected": false
             }
           ]
         },
         {
           "slot": 8,
-          "link": "|H0:item:215601:370:50:68343:370:50:0:0:0:0:0:0:0:0:1:46:1:1:0:2288:0|h|h",
+          "link": "|H0:item:127169:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:6031:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
-          "armor": 1823,
+          "armor": 2425,
           "weaponPower": 0,
-          "enchant": "Adds |cffffff434|r Maximum Magicka.\nAdds |cffffff477|r Maximum Health.\nAdds |cffffff434|r Maximum Stamina.",
-          "enchantCategory": 36,
+          "enchant": "Adds |cffffff954|r Maximum Health.",
+          "enchantCategory": 11,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
           "quality": 5,
-          "setId": 809,
-          "setName": "Tide-Born Wildstalker",
+          "setId": 337,
+          "setName": "Ironblood",
           "setBonusCount": 4,
           "setEquipped": 5,
           "setMaxEquipped": 5,
@@ -33793,39 +33653,39 @@
           "setBonuses": [
             {
               "required": 2,
-              "description": "(2 items) Adds |cffffff129|r Weapon and Spell Damage",
+              "description": "(2 items) Adds |cffffff1206|r Maximum Health",
               "perfected": false
             },
             {
               "required": 3,
-              "description": "(3 items) Adds |cffffff657|r Critical Chance",
+              "description": "(3 items) Adds |cffffff1487|r Armor",
               "perfected": false
             },
             {
               "required": 4,
-              "description": "(4 items) Adds |cffffff1487|r Offensive Penetration",
+              "description": "(4 items) Adds |cffffff1487|r Armor",
               "perfected": false
             },
             {
               "required": 5,
-              "description": "(5 items) Increase your direct damage done to monsters by |cffffff15|r%.",
+              "description": "(5 items) When you take damage, you have a |cffffff10|r% chance to turn your blood into pure iron for |cffffff10|r seconds, gaining Major Protection, Major Aegis, and Minor Protection, but also reducing your Movement Speed by |cffffff25|r%. This effect can occur once every |cffffff10|r seconds.",
               "perfected": false
             }
           ]
         },
         {
           "slot": 9,
-          "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:7521:0|h|h",
+          "link": "|H0:item:127166:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:5745:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
-          "armor": 1823,
+          "armor": 2425,
           "weaponPower": 0,
-          "enchant": "Adds |cffffff351|r Maximum Stamina.",
-          "enchantCategory": 17,
+          "enchant": "Adds |cffffff386|r Maximum Health.",
+          "enchantCategory": 11,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
           "quality": 5,
-          "setId": 809,
-          "setName": "Tide-Born Wildstalker",
+          "setId": 337,
+          "setName": "Ironblood",
           "setBonusCount": 4,
           "setEquipped": 5,
           "setMaxEquipped": 5,
@@ -33833,22 +33693,22 @@
           "setBonuses": [
             {
               "required": 2,
-              "description": "(2 items) Adds |cffffff129|r Weapon and Spell Damage",
+              "description": "(2 items) Adds |cffffff1206|r Maximum Health",
               "perfected": false
             },
             {
               "required": 3,
-              "description": "(3 items) Adds |cffffff657|r Critical Chance",
+              "description": "(3 items) Adds |cffffff1487|r Armor",
               "perfected": false
             },
             {
               "required": 4,
-              "description": "(4 items) Adds |cffffff1487|r Offensive Penetration",
+              "description": "(4 items) Adds |cffffff1487|r Armor",
               "perfected": false
             },
             {
               "required": 5,
-              "description": "(5 items) Increase your direct damage done to monsters by |cffffff15|r%.",
+              "description": "(5 items) When you take damage, you have a |cffffff10|r% chance to turn your blood into pure iron for |cffffff10|r seconds, gaining Major Protection, Major Aegis, and Minor Protection, but also reducing your Movement Speed by |cffffff25|r%. This effect can occur once every |cffffff10|r seconds.",
               "perfected": false
             }
           ]
@@ -33910,17 +33770,17 @@
         },
         {
           "slot": 16,
-          "link": "|H0:item:215599:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:46:1:1:0:5396:0|h|h",
+          "link": "|H0:item:127167:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:8226:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
-          "armor": 1042,
+          "armor": 1386,
           "weaponPower": 0,
-          "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina.",
-          "enchantCategory": 36,
+          "enchant": "Adds |cffffff386|r Maximum Health.",
+          "enchantCategory": 11,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
           "quality": 5,
-          "setId": 809,
-          "setName": "Tide-Born Wildstalker",
+          "setId": 337,
+          "setName": "Ironblood",
           "setBonusCount": 4,
           "setEquipped": 5,
           "setMaxEquipped": 5,
@@ -33928,29 +33788,29 @@
           "setBonuses": [
             {
               "required": 2,
-              "description": "(2 items) Adds |cffffff129|r Weapon and Spell Damage",
+              "description": "(2 items) Adds |cffffff1206|r Maximum Health",
               "perfected": false
             },
             {
               "required": 3,
-              "description": "(3 items) Adds |cffffff657|r Critical Chance",
+              "description": "(3 items) Adds |cffffff1487|r Armor",
               "perfected": false
             },
             {
               "required": 4,
-              "description": "(4 items) Adds |cffffff1487|r Offensive Penetration",
+              "description": "(4 items) Adds |cffffff1487|r Armor",
               "perfected": false
             },
             {
               "required": 5,
-              "description": "(5 items) Increase your direct damage done to monsters by |cffffff15|r%.",
+              "description": "(5 items) When you take damage, you have a |cffffff10|r% chance to turn your blood into pure iron for |cffffff10|r seconds, gaining Major Protection, Major Aegis, and Minor Protection, but also reducing your Movement Speed by |cffffff25|r%. This effect can occur once every |cffffff10|r seconds.",
               "perfected": false
             }
           ]
         },
         {
           "slot": 20,
-          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:52:0|h|h",
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:372:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 0,
@@ -33973,7 +33833,7 @@
             },
             {
               "required": 2,
-              "description": "(2 items) Activating Critical Charge stirs up a barbarous lust for battle within you for |cffffff18|r seconds, increasing your damage done with direct damage attacks by |cffffff8|r%, up to a maximum of |cffffff12|r%. This effect scales off the higher of your Weapon or Spell Damage.",
+              "description": "(2 items) Activating Critical Charge stirs up a barbarous lust for battle within you for |cffffff18|r seconds, increasing your damage done with direct damage attacks by |cffffff6|r%, up to a maximum of |cffffff12|r%. This effect scales off the higher of your Weapon or Spell Damage.",
               "perfected": false
             }
           ]
@@ -33984,7 +33844,7 @@
           "slot": 3,
           "abilityId": 38788,
           "name": "Stampede",
-          "description": "Launch across the earth and smash an enemy, dealing |cffffff5306|r Physical Damage to them and all nearby enemies. This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing |cffffff1288|r Physical Damage to all enemies in the area every |cffffff1|r second for |cffffff15|r seconds.",
+          "description": "Launch across the earth and smash an enemy, dealing |cffffff3707|r Physical Damage to them and all nearby enemies. This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing |cffffff899|r Physical Damage to all enemies in the area every |cffffff1|r second for |cffffff15|r seconds.",
           "durationMs": 15000,
           "castMs": 0,
           "channeled": false,
@@ -33995,10 +33855,10 @@
         },
         {
           "slot": 4,
-          "abilityId": 29224,
-          "name": "Igneous Shield",
-          "description": "Call the earth to your defense, granting a damage shield for nearby allies that absorbs |cffffff3888|r damage. Your own damage shield absorbs |cffffff11248|r damage. This portion of the ability scales off your Max Health.\n\nYou also gain Major Mending, increasing your healing done by |cffffff16|r% for |cffffff4|r seconds.",
-          "durationMs": 6000,
+          "abilityId": 32853,
+          "name": "Incinerate",
+          "description": "Activate an aura of flames which launches a wave of flames every |cffffff5|r seconds, dealing |cffffff5265|r Flame Damage directly to enemies inside.\n\nEach hit has a |cffffff15|r% chance of applying Burning.\n\nWhile slotted on either bar, gain Major Savagery, increasing Critical Chance by |cffffff12|r%.",
+          "durationMs": 15000,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
@@ -34010,7 +33870,7 @@
           "slot": 5,
           "abilityId": 32710,
           "name": "Hearth and Home",
-          "description": "Throw out a protective flame for |cffffff15|r seconds, healing you and allies inside for |cffffff1633|r Health every |cffffff1|r second, scaling off your Max Health.\n\nHealed targets gain Minor Fortitude and Minor Heroism while inside, increasing Health Recovery by |cffffff15|r% and generating |cffffff1|r Ultimate every |cffffff1.5|r seconds. You gain Major Protection while inside, reducing damage taken by |cffffff10|r%.\n\nEnemies inside have their Movement Speed reduced by |cffffff70|r%.",
+          "description": "Throw out a protective flame for |cffffff15|r seconds, healing you and allies inside for |cffffff2209|r Health every |cffffff1|r second, scaling off your Max Health.\n\nHealed targets gain Minor Fortitude and Minor Heroism while inside, increasing Health Recovery by |cffffff15|r% and generating |cffffff1|r Ultimate every |cffffff1.5|r seconds. You gain Major Protection while inside, reducing damage taken by |cffffff10|r%.\n\nEnemies inside have their Movement Speed reduced by |cffffff70|r%.",
           "durationMs": 15000,
           "castMs": 0,
           "channeled": false,
@@ -34021,22 +33881,22 @@
         },
         {
           "slot": 6,
-          "abilityId": 32853,
-          "name": "Incinerate",
-          "description": "Activate an aura of flames which launches a wave of flames every |cffffff5|r seconds, dealing |cffffff7537|r Flame Damage directly to enemies inside.\n\nEach hit has a |cffffff15|r% chance of applying Burning.\n\nWhile slotted on either bar, gain Major Savagery, increasing Critical Chance by |cffffff12|r%.",
-          "durationMs": 15000,
+          "abilityId": 31816,
+          "name": "Magma Fist",
+          "description": "Draw forth magma from below to hurl at an enemy, dealing |cffffff6760|r Flame Damage while applying a stack of Heat Shock, which increases the enemy's damage taken by |cffffff66|r for |cffffff7|r seconds per stack, up to |cffffff3|r times.\n\nHitting an enemy at max stacks of Heat Shock with this ability increases the damage done of the next cast of this ability within |cffffff6|r seconds by |cffffff66|r%, up to once every |cffffff6|r seconds.",
+          "durationMs": 0,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
           "ultimateCost": 0,
-          "morph": 1,
+          "morph": 2,
           "rank": 4
         },
         {
           "slot": 7,
           "abilityId": 31874,
           "name": "Igneous Weapons",
-          "description": "Charge you and your grouped allies' weapons with volcanic power to gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff1|r minute.\n\nWhile active, dealing damage with Light and Heavy Attacks causes an additional |cffffff1814|r Flame Damage, up to once every |cffffff2|r seconds.",
+          "description": "Charge you and your grouped allies' weapons with volcanic power to gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff1|r minute.\n\nWhile active, dealing damage with Light and Heavy Attacks causes an additional |cffffff1267|r Flame Damage, up to once every |cffffff2|r seconds.",
           "durationMs": 60000,
           "castMs": 0,
           "channeled": false,
@@ -34054,7 +33914,7 @@
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 212,
+          "ultimateCost": 188,
           "morph": 1,
           "rank": 4
         }
@@ -34093,7 +33953,7 @@
         {
           "abilityId": 44951,
           "name": "Elder Dragon",
-          "description": "The eldest Dragons are forces of nature. As are you.\n\nActivating a Draconic Power ability grants you and group members Minor Brutality for |cffffff20|r seconds, increasing Weapon and Spell Damage by |cffffff10|r%.\n\nIncreases your Health Recovery by up to |cffffff700|r, based on your missing Health.\nCurrent amount: |cffffff7|r"
+          "description": "The eldest Dragons are forces of nature. As are you.\n\nActivating a Draconic Power ability grants you and group members Minor Brutality for |cffffff20|r seconds, increasing Weapon and Spell Damage by |cffffff10|r%.\n\nIncreases your Health Recovery by up to |cffffff700|r, based on your missing Health.\nCurrent amount: |cffffff0|r"
         },
         {
           "abilityId": 44953,
@@ -34128,7 +33988,7 @@
         {
           "abilityId": 259224,
           "name": "Wildfire Embers",
-          "description": "Fire forged within can never be extinguished. Fan the flames.\n\nWhen your Dragonknight damage over time effects end, you apply a stack of Wildfire Embers to the target, dealing |cffffff6699|r Flame Damage over |cffffff12|r seconds. This effect stacks up to |cffffff12|r times and increases in damage |cffffff25|r% per stack."
+          "description": "Fire forged within can never be extinguished. Fan the flames.\n\nWhen your Dragonknight damage over time effects end, you apply a stack of Wildfire Embers to the target, dealing |cffffff4676|r Flame Damage over |cffffff12|r seconds. This effect stacks up to |cffffff12|r times and increases in damage |cffffff25|r% per stack."
         }
       ],
       "otherPassives": [
@@ -34250,27 +34110,27 @@
         {
           "abilityId": 45564,
           "name": "Dexterity",
-          "description": "Increases your Critical Damage and Healing done rating by |cffffff2|r% for every piece of Medium Armor equipped.\n\nCurrent bonus: |cffffff10|r%."
+          "description": "Increases your Critical Damage and Healing done rating by |cffffff2|r% for every piece of Medium Armor equipped.\n\nCurrent bonus: |cffffff0|r%."
         },
         {
           "abilityId": 45565,
           "name": "Wind Walker",
-          "description": "Increases your Stamina Recovery by |cffffff4|r% per piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff20|r%.\n\nReduces the Stamina cost of your abilities by |cffffff2|r% per piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff10|r%."
+          "description": "Increases your Stamina Recovery by |cffffff4|r% per piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff0|r%.\n\nReduces the Stamina cost of your abilities by |cffffff2|r% per piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff0|r%."
         },
         {
           "abilityId": 45567,
           "name": "Improved Sneak",
-          "description": "Reduces the cost of Sneak by |cffffff7|r% for each piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff35|r%.\n\nReduces the size of your detection area while Sneaking by |cffffff5|r% for each piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff25|r%."
+          "description": "Reduces the cost of Sneak by |cffffff7|r% for each piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff0|r%.\n\nReduces the size of your detection area while Sneaking by |cffffff5|r% for each piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff0|r%."
         },
         {
           "abilityId": 45572,
           "name": "Agility",
-          "description": "Increases your Weapon and Spell Damage by |cffffff2|r% for each piece of Medium Armor worn.\n\nCurrent bonus: |cffffff10|r%."
+          "description": "Increases your Weapon and Spell Damage by |cffffff2|r% for each piece of Medium Armor worn.\n\nCurrent bonus: |cffffff0|r%."
         },
         {
           "abilityId": 45574,
           "name": "Athletics",
-          "description": "Increases the Movement Speed bonus of Sprint by |cffffff3|r% for each piece of Medium Armor equipped.\n\nCurrent bonus: |cffffff15|r%.\n\nReduces the cost of Roll Dodge by |cffffff4|r% for each piece of Medium Armor equipped.\n\nCurrent bonus: |cffffff20|r%."
+          "description": "Increases the Movement Speed bonus of Sprint by |cffffff3|r% for each piece of Medium Armor equipped.\n\nCurrent bonus: |cffffff0|r%.\n\nReduces the cost of Roll Dodge by |cffffff4|r% for each piece of Medium Armor equipped.\n\nCurrent bonus: |cffffff0|r%."
         },
         {
           "abilityId": 150184,
@@ -34285,27 +34145,27 @@
         {
           "abilityId": 45533,
           "name": "Resolve",
-          "description": "Increases your Physical and Spell Resistance by |cffffff343|r for each piece of Heavy Armor equipped.\n\nCurrent bonus: |cffffff686|r."
+          "description": "Increases your Physical and Spell Resistance by |cffffff343|r for each piece of Heavy Armor equipped.\n\nCurrent bonus: |cffffff2402|r."
         },
         {
           "abilityId": 45526,
           "name": "Constitution",
-          "description": "Increases your Health Recovery by |cffffff4|r% for each piece of Heavy Armor equipped. \n\nCurrent bonus: |cffffff8|r%.\n\nYou restore |cffffff108|r Magicka and Stamina when you take damage for each piece of Heavy Armor equipped. This effect can occur once every |cffffff4|r seconds. \n\nCurrent bonus: |cffffff216|r."
+          "description": "Increases your Health Recovery by |cffffff4|r% for each piece of Heavy Armor equipped. \n\nCurrent bonus: |cffffff28|r%.\n\nYou restore |cffffff108|r Magicka and Stamina when you take damage for each piece of Heavy Armor equipped. This effect can occur once every |cffffff4|r seconds. \n\nCurrent bonus: |cffffff757|r."
         },
         {
           "abilityId": 45546,
           "name": "Juggernaut",
-          "description": "Increases your Max Health by |cffffff2|r% for each piece of Heavy Armor equipped.  \n\nCurrent bonus: |cffffff4|r%."
+          "description": "Increases your Max Health by |cffffff2|r% for each piece of Heavy Armor equipped.  \n\nCurrent bonus: |cffffff14|r%."
         },
         {
           "abilityId": 45528,
           "name": "Revitalize",
-          "description": "Increases the Magicka or Stamina your Heavy Attacks restore by |cffffff4|r% for each piece of Heavy Armor worn.\n\nCurrent bonus: |cffffff8|r%"
+          "description": "Increases the Magicka or Stamina your Heavy Attacks restore by |cffffff4|r% for each piece of Heavy Armor worn.\n\nCurrent bonus: |cffffff28|r%"
         },
         {
           "abilityId": 45529,
           "name": "Rapid Mending",
-          "description": "Increases your healing received by |cffffff1|r% for each piece of Heavy Armor worn.\n\nCurrent bonus: |cffffff2|r%"
+          "description": "Increases your healing received by |cffffff1|r% for each piece of Heavy Armor worn.\n\nCurrent bonus: |cffffff7|r%"
         },
         {
           "abilityId": 139909,
@@ -34415,42 +34275,12 @@
         {
           "abilityId": 45583,
           "name": "Soul Shatter",
-          "description": "When your Health drops below |cffffff20|r% your soul explodes, dealing |cffffff4173|r Magic Damage to enemies within |cffffff8|r meters of you.\n\nThis effect can occur once every |cffffff2|r minutes and scales off your Max Health."
+          "description": "When your Health drops below |cffffff20|r% your soul explodes, dealing |cffffff5650|r Magic Damage to enemies within |cffffff8|r meters of you.\n\nThis effect can occur once every |cffffff2|r minutes and scales off your Max Health."
         },
         {
           "abilityId": 45580,
           "name": "Soul Lock",
           "description": "Killing an enemy has a |cffffff10|r% chance of automatically filling an empty Soul Gem."
-        },
-        {
-          "abilityId": 42054,
-          "name": "Feed",
-          "description": "Allows you to feed on an unsuspecting target, killing them and increasing your Vampire Stage. Higher Stages make you a stronger Vampire at the cost of your humanity. Stages decrease over long periods of time. \n\nStage 1/2/3/4\n\nHealth Recovery: -10%/-30%/-60%/-100%\nFlame Damage Taken: +5%/+8%/+13%/+20%\nRegular Ability Costs: +3%/+5%/+8%/+12%\nVampire Ability Costs: -6%/-10%/-16%/-24%"
-        },
-        {
-          "abilityId": 46041,
-          "name": "Dark Stalker",
-          "description": "Ignore the Movement Speed penalty of Sneak.\n\nDecreases the time it takes to enter Sneak by |cffffff50|r%."
-        },
-        {
-          "abilityId": 46040,
-          "name": "Strike from the Shadows",
-          "description": "When you leave Sneak, invisibility, or Mist Form your Weapon and Spell Damage is increased by |cffffff300|r for |cffffff6|r seconds."
-        },
-        {
-          "abilityId": 33090,
-          "name": "Undeath",
-          "description": "Reduces your damage taken by up to |cffffff15|r% based on your missing Health.\n\nCurrent bonus: |cffffff1|r%"
-        },
-        {
-          "abilityId": 33091,
-          "name": "Blood Ritual",
-          "description": "Allows you to infect another player with Noxiphilic Sanguivoria once every |cffffffweek|r by returning to the Vampire ritual site. \n\nPlayers already infected with Lycanthropy cannot be infected with Noxiphilic Sanguivoria."
-        },
-        {
-          "abilityId": 135218,
-          "name": "Unnatural Movement",
-          "description": "Reduces the cost of Sprint by |cffffff50|r%.\n\nIf you continuously Sprint for |cffffff3|r seconds you automatically become invisible."
         },
         {
           "abilityId": 78219,
@@ -34545,7 +34375,7 @@
         {
           "abilityId": 103878,
           "name": "Spell Orb",
-          "description": "When you cast a Psijic Order ability while you are in combat, you generate a spell charge for |cffffff10|r seconds. When you reach |cffffff5|r spell charges, you launch a spell orb at the closest enemy to you dealing |cffffff4535|r Magic Damage.\n\nThis effect scales off your highest offensive stats."
+          "description": "When you cast a Psijic Order ability while you are in combat, you generate a spell charge for |cffffff10|r seconds. When you reach |cffffff5|r spell charges, you launch a spell orb at the closest enemy to you dealing |cffffff3167|r Magic Damage.\n\nThis effect scales off your highest offensive stats."
         },
         {
           "abilityId": 103964,
@@ -34590,12 +34420,12 @@
         {
           "abilityId": 55676,
           "name": "Undaunted Command",
-          "description": "Activating a synergy restores |cffffff4|r% of your Max Health, Stamina, and Magicka.\n\nCurrent Bonus: |cffffff1685|r Health, |cffffff697|r Stamina, and |cffffff1073|r Magicka."
+          "description": "Activating a synergy restores |cffffff4|r% of your Max Health, Stamina, and Magicka.\n\nCurrent Bonus: |cffffff2283|r Health, |cffffff614|r Stamina, and |cffffff658|r Magicka."
         },
         {
           "abilityId": 55386,
           "name": "Undaunted Mettle",
-          "description": "Increases your Max Health, Stamina, and Magicka by |cffffff2|r% per type of Armor (Heavy, Medium, Light) that you have equipped. \n\nCurrent bonus: |cffffff4|r%."
+          "description": "Increases your Max Health, Stamina, and Magicka by |cffffff2|r% per type of Armor (Heavy, Medium, Light) that you have equipped. \n\nCurrent bonus: |cffffff2|r%."
         },
         {
           "abilityId": 45614,
@@ -34653,9 +34483,9 @@
       "moving": true,
       "archiveBoons": [],
       "advanced": {
-        "healing-taken-base": 0.12,
-        "healing-critical-bonus": 0.1,
-        "critical-damage": 0.2,
+        "healing-taken-base": 0.17,
+        "healing-critical-bonus": 0,
+        "critical-damage": 0.1,
         "healing-done-base": 0.02
       },
       "advancedSheet": {
@@ -34683,8 +34513,8 @@
           "category": "Resistances",
           "label": "Disease Resistance",
           "format": "flat-or-percent",
-          "flat": 23498,
-          "percent": 35.6030311584
+          "flat": 30682,
+          "percent": 46.4878768921
         },
         "bleed-damage": {
           "category": "Damage Bonuses",
@@ -34697,21 +34527,21 @@
           "category": "Core Abilities",
           "label": "Dodge Roll Cost",
           "format": "flat",
-          "flat": 2992
+          "flat": 4370
         },
         "fire-resist": {
           "category": "Resistances",
           "label": "Flame Resistance",
           "format": "flat-or-percent",
-          "flat": 23498,
-          "percent": 35.6030311584
+          "flat": 30682,
+          "percent": 46.4878768921
         },
         "shock-resist": {
           "category": "Resistances",
           "label": "Shock Resistance",
           "format": "flat-or-percent",
-          "flat": 23498,
-          "percent": 35.6030311584
+          "flat": 30682,
+          "percent": 46.4878768921
         },
         "healing-done-bonuses": {
           "category": "Healing Bonuses",
@@ -34738,7 +34568,7 @@
           "category": "Core Abilities",
           "label": "Block Mitigation",
           "format": "percent",
-          "percent": 59.0000038147
+          "percent": 64
         },
         "cc-break-cost": {
           "category": "Core Abilities",
@@ -34763,20 +34593,20 @@
           "category": "Resistances",
           "label": "Magic Resistance",
           "format": "flat-or-percent",
-          "flat": 23498,
-          "percent": 35.6030311584
+          "flat": 30682,
+          "percent": 46.4878768921
         },
         "block-cost": {
           "category": "Core Abilities",
           "label": "Block Cost",
           "format": "flat",
-          "flat": 1366
+          "flat": 1607
         },
         "sprint-speed": {
           "category": "Core Abilities",
           "label": "Sprint Speed",
           "format": "percent",
-          "percent": 157
+          "percent": 137
         },
         "bash-cost": {
           "category": "Core Abilities",
@@ -34794,21 +34624,21 @@
           "category": "Resistances",
           "label": "Frost Resistance",
           "format": "flat-or-percent",
-          "flat": 23498,
-          "percent": 35.6030311584
+          "flat": 30682,
+          "percent": 46.4878768921
         },
         "healing-taken-bonuses": {
           "category": "Healing Bonuses",
           "label": "Healing Taken",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 12
+          "percent": 17
         },
         "sneak-cost": {
           "category": "Core Abilities",
           "label": "Sneak Cost",
           "format": "flat",
-          "flat": 38
+          "flat": 79
         },
         "poison-damage": {
           "category": "Damage Bonuses",
@@ -34834,20 +34664,20 @@
           "category": "Core Abilities",
           "label": "Sneak Speed",
           "format": "percent",
-          "percent": 100
+          "percent": 70
         },
         "sprint-cost": {
           "category": "Core Abilities",
           "label": "Sprint Cost",
           "format": "flat",
-          "flat": 195
+          "flat": 432
         },
         "poison-resist": {
           "category": "Resistances",
           "label": "Poison Resistance",
           "format": "flat-or-percent",
-          "flat": 23498,
-          "percent": 35.6030311584
+          "flat": 30682,
+          "percent": 46.4878768921
         },
         "magic-damage": {
           "category": "Damage Bonuses",
@@ -34860,7 +34690,7 @@
           "category": "Healing Bonuses",
           "label": "Critical Healing",
           "format": "percent",
-          "percent": 10
+          "percent": 0
         },
         "subscriber-telvar-bonus": {
           "category": "ESO Plus",
@@ -34872,14 +34702,14 @@
           "category": "Damage Bonuses",
           "label": "Critical Damage",
           "format": "percent",
-          "percent": 20
+          "percent": 10
         },
         "bleed-resist": {
           "category": "Resistances",
           "label": "Bleed Resistance",
           "format": "flat-or-percent",
-          "flat": 23498,
-          "percent": 35.6030311584
+          "flat": 30682,
+          "percent": 46.4878768921
         },
         "block-speed": {
           "category": "Core Abilities",
@@ -34891,18 +34721,18 @@
           "category": "Core Abilities",
           "label": "Bash Damage",
           "format": "flat",
-          "flat": 739
+          "flat": 927
         }
       },
       "sheet": {
-        "attribute-points-health": 0,
+        "attribute-points-health": 64,
         "attribute-points-stamina": 0,
-        "attribute-points-magicka": 64,
+        "attribute-points-magicka": 0,
         "riding-stamina": 60,
         "riding-capacity": 60,
         "attribute-points-unspent": 0,
-        "critical-chance-spell": 26.4101848602,
-        "critical-chance-weapon": 26.4101848602,
+        "critical-chance-spell": 23.4118270874,
+        "critical-chance-weapon": 23.4118270874,
         "riding-speed": 60
       },
       "passiveRankIds": [
@@ -36976,7 +36806,7 @@
             {
               "abilityId": 259224,
               "name": "Wildfire Embers",
-              "description": "Fire forged within can never be extinguished. Fan the flames.\n\nWhen your Dragonknight damage over time effects end, you apply a stack of Wildfire Embers to the target, dealing |cffffff6699|r Flame Damage over |cffffff12|r seconds. This effect stacks up to |cffffff12|r times and increases in damage |cffffff25|r% per stack.",
+              "description": "Fire forged within can never be extinguished. Fan the flames.\n\nWhen your Dragonknight damage over time effects end, you apply a stack of Wildfire Embers to the target, dealing |cffffff4676|r Flame Damage over |cffffff12|r seconds. This effect stacks up to |cffffff12|r times and increases in damage |cffffff25|r% per stack.",
               "purchased": true
             },
             {
@@ -37056,7 +36886,7 @@
             {
               "abilityId": 263549,
               "name": "Pound of Flesh",
-              "description": "Knock upon death's door and demand your due.\n\nWhen you take damage you have a |cffffff10|r% chance to heal |cffffff4215|r Health and restore |cffffff5|r% of your missing Stamina, up to once per second. This chance increases by |cffffff1|r% for every missing Health percent you have and the healing is based off your Max Health.",
+              "description": "Knock upon death's door and demand your due.\n\nWhen you take damage you have a |cffffff10|r% chance to heal |cffffff5706|r Health and restore |cffffff5|r% of your missing Stamina, up to once per second. This chance increases by |cffffff1|r% for every missing Health percent you have and the healing is based off your Max Health.",
               "purchased": false
             },
             {
@@ -37112,13 +36942,13 @@
             {
               "abilityId": 263585,
               "name": "Bastion of Light",
-              "description": "Light consecrates the ground on which you tread.\n\nSacred Ground is now applied while you are in your own Nova and Spear Shards, and while Radial Sweep and Solar Barrage are active. While Sacred Ground is active, you heal for |cffffff3371|r Health every |cffffff1|r second. If you are at full Health after being healed from this effect while in combat, you also gain |cffffff2|r Ultimate.",
+              "description": "Light consecrates the ground on which you tread.\n\nSacred Ground is now applied while you are in your own Nova and Spear Shards, and while Radial Sweep and Solar Barrage are active. While Sacred Ground is active, you heal for |cffffff4566|r Health every |cffffff1|r second. If you are at full Health after being healed from this effect while in combat, you also gain |cffffff2|r Ultimate.",
               "purchased": false
             },
             {
               "abilityId": 263586,
               "name": "Devout Guardian",
-              "description": "Radiant is the shield that pushes back the dark.\n\nWhile Sacred Ground is active, you gain a damage shield for |cffffff6|r seconds, up to once every |cffffff6|r seconds. The shield absorbs up to |cffffff9412|r damage and provides |cffffff300|r Health, Magicka, and Stamina Recovery while active. If the shield breaks, you gain |cffffff10|r Ultimate.",
+              "description": "Radiant is the shield that pushes back the dark.\n\nWhile Sacred Ground is active, you gain a damage shield for |cffffff6|r seconds, up to once every |cffffff6|r seconds. The shield absorbs up to |cffffff12743|r damage and provides |cffffff300|r Health, Magicka, and Stamina Recovery while active. If the shield breaks, you gain |cffffff10|r Ultimate.",
               "purchased": false
             },
             {
@@ -37186,31 +37016,31 @@
             {
               "abilityId": 263870,
               "name": "Conservation of Energy",
-              "description": "Spellcasting is second nature to you. A skill honed by tireless study.\n\nUpgrades rank 2 of Blood Magic to work with all abilities with a cost, excluding cost per tick abilities, and restores |cffffff402|r Magicka and |cffffff261|r Stamina when it activates. This effect scales off your Max Magicka and Stamina.",
+              "description": "Spellcasting is second nature to you. A skill honed by tireless study.\n\nUpgrades rank 2 of Blood Magic to work with all abilities with a cost, excluding cost per tick abilities, and restores |cffffff246|r Magicka and |cffffff230|r Stamina when it activates. This effect scales off your Max Magicka and Stamina.",
               "purchased": false
             },
             {
               "abilityId": 263871,
               "name": "Font of Power",
-              "description": "Within you is a wellspring of near unlimited power.\n\nUpgrades rank 2 of Exploitation to work with any Sorcerer ability and increases your Weapon and Spell Damage by |cffffff15|r% for |cffffff10|r seconds. The Weapon and Spell Damage increases by |cffffff1|r% for every |cffffff1750|r Max Magicka or Stamina you have, whichever is higher.",
+              "description": "Within you is a wellspring of near unlimited power.\n\nUpgrades rank 2 of Exploitation to work with any Sorcerer ability and increases your Weapon and Spell Damage by |cffffff9|r% for |cffffff10|r seconds. The Weapon and Spell Damage increases by |cffffff1|r% for every |cffffff1750|r Max Magicka or Stamina you have, whichever is higher.",
               "purchased": false
             },
             {
               "abilityId": 263872,
               "name": "Static Reverberation",
-              "description": "The battlefield crackles with untapped potential. Make use of it.\n\nWhen you deal damage with a Sorcerer ability, you have a |cffffff20|r% chance to deal |cffffff1791|r Shock Damage, up to once every |cffffff0.1|r seconds. \n\nThe chance increases by |cffffff1|r% for every |cffffff1|r% missing Health the target has. The total chance is divided by 1 plus every permanent pet you have active.",
+              "description": "The battlefield crackles with untapped potential. Make use of it.\n\nWhen you deal damage with a Sorcerer ability, you have a |cffffff20|r% chance to deal |cffffff1330|r Shock Damage, up to once every |cffffff0.1|r seconds. \n\nThe chance increases by |cffffff1|r% for every |cffffff1|r% missing Health the target has. The total chance is divided by 1 plus every permanent pet you have active.",
               "purchased": false
             },
             {
               "abilityId": 263873,
               "name": "Calculated Defense",
-              "description": "Success is a certainty when nothing is left to chance.\n\nWhile beginning to use a Sorcerer ability or an ability with a cast time, you gain a damage shield for |cffffff0.5|r seconds that can absorb |cffffff15530|r damage. This effect is based off your Max Health. If the shield does not break, you and nearby group members gain |cffffff6|r% Weapon and Spell Damage for |cffffff20|r seconds.",
+              "description": "Success is a certainty when nothing is left to chance.\n\nWhile beginning to use a Sorcerer ability or an ability with a cast time, you gain a damage shield for |cffffff0.5|r seconds that can absorb |cffffff21027|r damage. This effect is based off your Max Health. If the shield does not break, you and nearby group members gain |cffffff6|r% Weapon and Spell Damage for |cffffff20|r seconds.",
               "purchased": false
             },
             {
               "abilityId": 263874,
               "name": "Sphere of Influence",
-              "description": "Magicka extends your reach, a benefit to those who fight beside you.\n\nCasting a damage shield on yourself or an ally grants an additional shield that absorbs up to |cffffff7059|r damage for |cffffff4|r seconds and |cffffff225|r Health, Magicka, and Stamina Recovery for |cffffff12|r seconds. The shield scales off the higher of your Max Health or Max Magicka, and is capped at |cffffff25|r% of the target's Max Health.",
+              "description": "Magicka extends your reach, a benefit to those who fight beside you.\n\nCasting a damage shield on yourself or an ally grants an additional shield that absorbs up to |cffffff9557|r damage for |cffffff4|r seconds and |cffffff225|r Health, Magicka, and Stamina Recovery for |cffffff12|r seconds. The shield scales off the higher of your Max Health or Max Magicka, and is capped at |cffffff25|r% of the target's Max Health.",
               "purchased": false
             }
           ]
@@ -37219,29 +37049,29 @@
     }
   },
   "rotationReading": {
-    "capturedAt": 1793570026,
-    "toughness": 154529.5642237206,
-    "damage": 7377.7403709897,
-    "healing": 10635.4831401747,
-    "reavingBlowsShare": 0.07,
+    "capturedAt": 1793573510,
+    "toughness": 188917.5054505054,
+    "damage": 9207.9288540526,
+    "healing": 12525.0087041801,
+    "reavingBlowsShare": 0.08,
     "bars": [
       {
         "bar": "frontBar",
         "weaponStyle": "one-hand",
-        "healing": 1.3818124206,
-        "damage": 1.1848713034,
-        "healthMaximum": 38994,
-        "armorShare": 0.3820909091,
+        "healing": 1.3919115485,
+        "damage": 1.1404709748,
+        "healthMaximum": 52592,
+        "armorShare": 0.4909393939,
         "damageTaken": -0.12
       },
       {
         "bar": "backBar",
-        "weaponStyle": "one-hand",
-        "healing": 1.6010250205,
+        "weaponStyle": "two-handed",
+        "healing": 1.3330983844,
         "damage": 1.1404709748,
-        "healthMaximum": 54497,
-        "armorShare": 0.4909393939,
-        "damageTaken": -0.27
+        "healthMaximum": 51804,
+        "armorShare": 0.4648787879,
+        "damageTaken": -0.12
       }
     ]
   }
