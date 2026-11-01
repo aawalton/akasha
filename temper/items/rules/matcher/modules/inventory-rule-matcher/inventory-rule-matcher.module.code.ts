@@ -56,6 +56,25 @@ function heldOf(
   return candidates.map((ci) => [ci.locationKey, countOf(ci)] as const)
 }
 
+function oneUniqueCopyToBank(
+  rule: CompiledOrderedRule,
+  matching: readonly ClassifiedInventoryItem[],
+  atDestination: readonly ClassifiedInventoryItem[],
+  factsFor: (ci: ClassifiedInventoryItem) => ItemFacts
+): readonly ClassifiedInventoryItem[] {
+  if (rule.action !== "move-to" || rule.destination !== "bank") return matching
+  const banked = new Set<number>()
+  for (const ci of atDestination) {
+    if (factsFor(ci).isUnique === true) banked.add(ci.item.itemId)
+  }
+  return matching.filter((ci) => {
+    if (factsFor(ci).isUnique !== true) return true
+    if (banked.has(ci.item.itemId)) return false
+    banked.add(ci.item.itemId)
+    return true
+  })
+}
+
 export function computeAllRuleAffectedItems(
   userRules: readonly CompiledOrderedRule[],
   classifiedItems: readonly ClassifiedInventoryItem[],
@@ -204,7 +223,7 @@ export function computeAllRuleAffectedItems(
     const matched: MatchedCI[] = []
     const atDestination: ClassifiedInventoryItem[] = []
 
-    const candidates: ClassifiedInventoryItem[] = []
+    const matching: ClassifiedInventoryItem[] = []
     const matchedItemIds = new Set<number>()
     for (const ci of classifiedItems) {
       const remaining = residueOf(ci)
@@ -215,9 +234,10 @@ export function computeAllRuleAffectedItems(
         atDestination.push(ci)
         continue
       }
-      candidates.push(ci)
+      matching.push(ci)
       matchedItemIds.add(ci.item.itemId)
     }
+    const candidates = oneUniqueCopyToBank(rule, matching, atDestination, factsFor)
 
     beginStockRuleGroup(rule, matchedItemIds, heldOf(candidates, residueOf))
     beginUseRuleGroup(candidates, residueOf)

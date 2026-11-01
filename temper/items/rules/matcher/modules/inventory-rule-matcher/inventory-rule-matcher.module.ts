@@ -26,9 +26,14 @@ export const inventoryRuleMatcher = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A move to the bank takes one copy of a unique item, and none where the bank holds one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A run whose rules are unchanged answers from the cache.",
     },
   ],
   createdAt: "2026-09-02T08:51:47.597Z",
-  updatedAt: "2026-09-21T15:36:01.000Z",
+  updatedAt: "2026-11-01T19:43:14.537Z",
 } as const satisfies Module

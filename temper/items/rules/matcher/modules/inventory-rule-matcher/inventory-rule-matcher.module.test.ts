@@ -4,6 +4,7 @@ import {
   IMPLICIT_TERMINAL_RULE_ID,
   type ItemRule,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { makeItem } from "akasha/temper/items/rules/core/test-fixtures/inventory-rule-test-utils/inventory-rule-test-utils.test-fixture.code.ts"
 import { computeAllRuleAffectedItems } from "akasha/temper/items/rules/matcher/modules/inventory-rule-matcher/inventory-rule-matcher.module.code.ts"
 import { compile } from "akasha/temper/items/rules/matcher/test-fixtures/compile-rules/compile-rules.test-fixture.code.ts"
 import {
@@ -112,5 +113,38 @@ describe("An item no rule claims falls to the implicit terminal rule.", () => {
         expect(new Set(terminal.map((affected) => affected.item))).toEqual(fell)
       })
     )
+  })
+})
+
+describe("The bank is sent one copy of a unique item and no more.", () => {
+  const bankRule: CategoryRule = {
+    id: "bank-it",
+    categoryId: "all",
+    action: "move-to",
+    destination: "bank",
+    active: true,
+  }
+
+  function heldBy(locationKey: string, itemId: number, unique: boolean) {
+    return {
+      item: makeItem({ itemId, ...(unique ? { unique: true } : {}) }),
+      locationKey,
+      locationDisplayName: locationKey,
+      nodeIds: ["all", "equipment"],
+      bagId: 1,
+    }
+  }
+
+  test("one character's copy goes to the bank and the others' copies stay", () => {
+    const talismans = ["1001", "1002", "1003"].map((at) => heldBy(at, 224365, true))
+    const plain = ["1001", "1002"].map((at) => heldBy(at, 500, false))
+
+    const found = computeAllRuleAffectedItems(compile([bankRule]), [...talismans, ...plain])
+
+    const banked = found.ruleMap.get("bank-it") ?? []
+    expect(banked.filter((one) => one.item.itemId === 224365)).toHaveLength(1)
+    expect(banked.filter((one) => one.item.itemId === 500)).toHaveLength(2)
+    const stayed = found.ruleMap.get(IMPLICIT_TERMINAL_RULE_ID) ?? []
+    expect(stayed.map((one) => one.item.itemId)).toEqual([224365, 224365])
   })
 })
