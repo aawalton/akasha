@@ -2,7 +2,7 @@ import { asObjectRecord } from "akasha/code/type/narrowing/modules/as-object-rec
 import { buildGetCharacterCurseState } from "akasha/temper/addon/pages/items/modules/inventory-curse-state/inventory-curse-state.module.code.ts"
 import { getCompiledConfig } from "akasha/temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
 import {
-  characterWornMatchCount,
+  characterWornPieces,
   isCompanionWornSlotFilled,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-character-finders-companion/inventory-rules-core-character-finders-companion.module.code.ts"
 import {
@@ -26,9 +26,11 @@ import {
   addonIsCompanionTrait,
   addonTraitOfEso,
 } from "akasha/temper/addon/pages/items/modules/inventory-trait-lookup/inventory-trait-lookup.module.code.ts"
-import { signatureMatchesItem } from "akasha/temper/items/core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
+import {
+  firstUnfilledWanter,
+  signatureMatchesItem,
+} from "akasha/temper/items/core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
 import { roomsIn } from "akasha/temper/items/rules/core/modules/house-destination/house-destination.module.code.ts"
-import type { WantedEquipmentSignature } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 
 import type { ItemKey } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
 import type { EvalEnv } from "akasha/temper/items/rules/eval/modules/eval-env/eval-env.module.code.ts"
@@ -137,18 +139,6 @@ function getKnownScriptsForOther(charId: string): Set<number> {
   return result
 }
 
-function sameSignature(a: WantedEquipmentSignature, b: WantedEquipmentSignature): boolean {
-  return (
-    a.esoCharId === b.esoCharId &&
-    a.equipType === b.equipType &&
-    a.traitType === b.traitType &&
-    a.quality === b.quality &&
-    a.armorType === b.armorType &&
-    a.weaponType === b.weaponType &&
-    a.setId === b.setId
-  )
-}
-
 export function buildEsoEvalEnv(): EvalEnv {
   const compiled = getCompiledConfig()
   const currentId = tostring(GetCurrentCharacterId())
@@ -214,14 +204,7 @@ export function buildEsoEvalEnv(): EvalEnv {
       ),
     findCharacterForWantedEquipment: (facts) => {
       if (!compiled) return undefined
-      const wanted = compiled.wantedEquipment
-      for (const [i, sig] of wanted.entries()) {
-        if (!signatureMatchesItem(sig, facts)) continue
-        const alikeBefore = wanted.slice(0, i).filter((one) => sameSignature(one, sig)).length
-        if (characterWornMatchCount(sig) > alikeBefore) continue
-        return sig.esoCharId
-      }
-      return undefined
+      return firstUnfilledWanter(compiled.wantedEquipment, facts, characterWornPieces)?.esoCharId
     },
     findCompanionForWantedEquipment: (facts) => {
       if (!compiled) return undefined

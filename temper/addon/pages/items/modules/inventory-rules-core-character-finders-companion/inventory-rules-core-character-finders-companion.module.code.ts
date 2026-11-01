@@ -1,8 +1,7 @@
 import { LOC_COMPANION_PREFIX } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
 import { getDatabase } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import type { ItemData } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
-import { signatureMatchesItem } from "akasha/temper/items/core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
-import type { WantedEquipmentSignature } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
@@ -141,47 +140,41 @@ export function isCompanionWornSlotFilled(
   return false
 }
 
-function characterWornSlotsOf(equipType: number): number[] {
-  if (equipType === EQUIP_TYPE_RING) return [EQUIP_SLOT_RING1, EQUIP_SLOT_RING2]
-  if (equipType === EQUIP_TYPE_ONE_HAND) {
-    return [
-      EQUIP_SLOT_MAIN_HAND,
-      EQUIP_SLOT_OFF_HAND,
-      EQUIP_SLOT_BACKUP_MAIN,
-      EQUIP_SLOT_BACKUP_OFF,
-    ]
-  }
-  if (equipType === EQUIP_TYPE_MAIN_HAND || equipType === EQUIP_TYPE_TWO_HAND) {
-    return [EQUIP_SLOT_MAIN_HAND, EQUIP_SLOT_BACKUP_MAIN]
-  }
-  if (equipType === EQUIP_TYPE_OFF_HAND) return [EQUIP_SLOT_OFF_HAND, EQUIP_SLOT_BACKUP_OFF]
-  const slot = equipTypeToEquipSlot(equipType)
-  return slot === undefined ? [] : [slot]
+interface WornPiece {
+  equipType: number
+  traitType: number
+  quality: number
+  armorType: number
+  weaponType: number
+  setId?: number
 }
 
-function liveCharacterSlotMatches(sig: WantedEquipmentSignature, slot: number): boolean {
+function livePieceAt(slot: number): WornPiece | undefined {
   const link = GetItemLink(BAG_WORN, slot, LINK_STYLE_BRACKETS)
-  if (link === "") return false
+  if (link === "") return undefined
   const [hasSet, , , , , setId] = GetItemLinkSetInfo(link, true)
-  return signatureMatchesItem(sig, {
+  return {
     equipType: GetItemLinkEquipType(link),
     traitType: GetItemLinkTraitType(link),
     quality: GetItemLinkDisplayQuality(link),
     armorType: GetItemLinkArmorType(link),
     weaponType: GetItemLinkWeaponType(link),
     setId: hasSet ? setId : undefined,
-  })
+  }
 }
 
-export function characterWornMatchCount(sig: WantedEquipmentSignature): number {
-  const slots = characterWornSlotsOf(sig.equipType)
-  if (sig.esoCharId === tostring(GetCurrentCharacterId())) {
-    return slots.filter((slot) => liveCharacterSlotMatches(sig, slot)).length
+export function characterWornPieces(
+  this: void,
+  charId: string
+): ReadonlyArray<WornPiece | ItemData> {
+  if (charId === tostring(GetCurrentCharacterId())) {
+    const pieces: WornPiece[] = []
+    for (let slot = 0; slot < GetBagSize(BAG_WORN); slot++) {
+      const piece = livePieceAt(slot)
+      if (piece !== undefined) pieces.push(piece)
+    }
+    return pieces
   }
-  const bag = getDatabase().locations[sig.esoCharId]?.bags[BAG_WORN]
-  if (bag === undefined) return 0
-  return slots.filter((slot) => {
-    const item = bag[slot]
-    return item !== undefined && signatureMatchesItem(sig, item)
-  }).length
+  const bag = getDatabase().locations[charId]?.bags[BAG_WORN]
+  return bag === undefined ? [] : Object.values(bag)
 }

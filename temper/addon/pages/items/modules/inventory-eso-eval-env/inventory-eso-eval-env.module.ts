@@ -18,9 +18,9 @@ export const inventoryEsoEvalEnv = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Build gear goes to no character already wearing each piece alike its build wants.",
+        "What the character playing wears is read from the game, and another's from its scan.",
     },
   ],
   createdAt: "2026-09-02T13:39:35.850Z",
-  updatedAt: "2026-11-01T14:57:21.279Z",
+  updatedAt: "2026-11-01T15:01:34.302Z",
 } as const satisfies Module
