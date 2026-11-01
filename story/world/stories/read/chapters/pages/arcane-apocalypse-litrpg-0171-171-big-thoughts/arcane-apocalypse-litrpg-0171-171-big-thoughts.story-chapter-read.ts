@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg0171171BigThoughts = {
     },
   ],
   createdAt: "2026-10-28T16:29:36.261Z",
-  updatedAt: "2026-10-28T16:29:36.261Z",
+  updatedAt: "2026-11-01T02:25:49.080Z",
+  ownProgress: 3563,
+  progressedAt: "2026-11-01T02:25:49.080Z",
 } as const satisfies StoryChapterRead

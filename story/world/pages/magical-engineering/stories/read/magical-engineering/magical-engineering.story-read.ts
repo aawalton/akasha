@@ -36,8 +36,8 @@ export const magicalEngineering = {
     "System Invasion",
     "Technologically Engineered",
   ],
-  publicationStatus: "hiatus",
+  publicationStatus: "ongoing",
   readLater: true,
   createdAt: "2026-10-23T06:51:34.207Z",
-  updatedAt: "2026-10-23T06:51:34.207Z",
+  updatedAt: "2026-11-01T02:25:49.080Z",
 } as const satisfies StoryRead
