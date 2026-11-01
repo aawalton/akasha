@@ -18,8 +18,10 @@ export const buildInterface = {
     "relation-property/passive-skill",
     "boolean-property/every-passive-star",
     "multi-relation-property/slotted-stars",
+    "boolean-property/every-build",
   ],
   properties: [
+    { pageProperty: "boolean-property/every-build", required: false, many: false },
     {
       pageProperty: "multi-relation-property/passive-lines",
       required: false,
@@ -69,5 +71,5 @@ export const buildInterface = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-11-01T19:38:18.901Z",
-  updatedAt: "2026-11-01T19:38:18.901Z",
+  updatedAt: "2026-11-01T19:59:55.834Z",
 } as const satisfies PageType
