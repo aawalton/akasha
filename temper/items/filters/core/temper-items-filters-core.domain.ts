@@ -29,6 +29,7 @@ export const temperItemsFiltersCore = {
     "module/search-range-value-parse",
     "module/search-recipe-subtype-filter",
     "module/search-reconstructed-filter",
+    "module/search-reconstruction-cost-filter",
     "module/search-server-narrowing",
     "module/search-set-filter",
     "module/search-stack-fullness-filter",
@@ -70,5 +71,5 @@ export const temperItemsFiltersCore = {
     },
   ],
   createdAt: "2026-09-02T08:27:23.699Z",
-  updatedAt: "2026-09-27T03:35:37.000Z",
+  updatedAt: "2026-11-01T20:12:03.020Z",
 } as const satisfies Domain

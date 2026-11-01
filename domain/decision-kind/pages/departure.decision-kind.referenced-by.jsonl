@@ -6368,6 +6368,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-range-value-parse/search-range-value-parse.module.ts","id":"01a0613a-e0ac-785c-a9b6-1aa6dca2564d"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-recipe-subtype-filter/search-recipe-subtype-filter.module.ts","id":"01a0613a-e0ad-73d1-95f0-27bb2a879d89"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-reconstructed-filter/search-reconstructed-filter.module.ts","id":"01a0613a-e0ad-779f-95eb-2ce9443f70a6"}
+{"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-reconstruction-cost-filter/search-reconstruction-cost-filter.module.ts","id":"01a198bd-924c-7d83-b6fe-ecf353c2a61c"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-server-narrowing/search-server-narrowing.module.ts","id":"01a0613a-e0ae-75b0-9cbe-58f1edfb2323"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-set-filter/search-set-filter.module.ts","id":"01a0613a-e0ae-7974-b12a-1ebb5ce2d7f4"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-stack-fullness-filter/search-stack-fullness-filter.module.ts","id":"01a0613a-e0ae-7c58-9f5e-7a0a707c9698"}

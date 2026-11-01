@@ -18,6 +18,7 @@ import { POTION_EFFECTS_FILTER } from "akasha/temper/items/filters/core/modules/
 import { QUALITY_FILTER } from "akasha/temper/items/filters/core/modules/search-quality-filter/search-quality-filter.module.code.ts"
 import { RECIPE_SUBTYPE_FILTER } from "akasha/temper/items/filters/core/modules/search-recipe-subtype-filter/search-recipe-subtype-filter.module.code.ts"
 import { RECONSTRUCTED_FILTER } from "akasha/temper/items/filters/core/modules/search-reconstructed-filter/search-reconstructed-filter.module.code.ts"
+import { RECONSTRUCTION_COST_FILTER } from "akasha/temper/items/filters/core/modules/search-reconstruction-cost-filter/search-reconstruction-cost-filter.module.code.ts"
 import { SET_FILTER } from "akasha/temper/items/filters/core/modules/search-set-filter/search-set-filter.module.code.ts"
 import { STACK_FULLNESS_FILTER } from "akasha/temper/items/filters/core/modules/search-stack-fullness-filter/search-stack-fullness-filter.module.code.ts"
 import { STOLEN_FILTER } from "akasha/temper/items/filters/core/modules/search-stolen-filter/search-stolen-filter.module.code.ts"
@@ -37,6 +38,7 @@ export const TEMPER_FILTERS: readonly AnyTemperFilter[] = [
   ARMOR_WEIGHT_FILTER,
   WEAPON_TYPE_FILTER,
   SET_FILTER,
+  RECONSTRUCTION_COST_FILTER,
   LEVEL_FILTER,
   VALUE_FILTER,
   MARKET_VALUE_FILTER,
