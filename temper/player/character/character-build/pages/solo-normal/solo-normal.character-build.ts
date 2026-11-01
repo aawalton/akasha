@@ -7,12 +7,12 @@ export const soloNormal = {
   title: "Solo Normal",
   accountPage: "temper-account/alanarre",
   buildHash:
-    "ATQONMVgAABhxAkDE_tnELIDE_tnELJDJgtuULJDJgtnELJC5gtuULJDJgtuULJC5gtuULIgihtuULIQna1uULIgihtuULIBoL7bcoWSMX20AQgBEEx1tyhZQCK6OSJ4pcaIzpIROlxJKu4CJ1-Sob_eBJnFCTjV6eD4F3_8duBroZNIrogUj33VRZ_Xpx4iVCIjIiAgAyMyAiIiIyIiIgMgIjUiIiACMiIzQiACI0IDIyMzMjQCAEQyIjA6IyNAOgIiZDMyI0IAAAI4IiAiJCozIDQiIiIjAjos-nXqNSLEmVjyZZcybOz6NOrXtn0KNKnU8VayxXCZHDx9cvQMWSFoibN0bp2kSpk79QpgqoSuOsMEjhs2AAlSwIwDCBQxk0HEGzgoWMGjh5AiSOkw-CAyZYCCTXhks54mMEgMYUCEebBdYrXKZhiLngklCIAe3mbWvaea4eygYBQAAAAA",
+    "ATQONMVgAABhxAkDE_tnELIDE_tnELJDJgtuULJDJgtnELIjJgtnELJDJgtuULJC5gtuULIgihtuULIQna1uULIgihtuULIBoL7bcoWSMX20AQgBEEx1tyhZQCK6OSJ4pcaIzpIROlxJKu4CJ1-Sob_eBJnFCTjV6eD4F3_8duBroZNIrogUj33VRZ_Xpx4iVCIjIiAgAyMyAiIiIyIiIgMgIjUiIiACMiIzQiACI0IDIyMzMjQCAEQyIjA6IyNAOgIiZDMyI0IAAAI4IiAiJCozIDQiIiIjAjos-nXqNSLEmVjyZZcybOz6NOrXtn0KNKnU8VayxXCZHDx9cvQMWSFoibN0bp2kSpk79QpgqoSuOsMEjhs2AAlSwIwDCBQxk0HEGzgoWMGjh5AiSOkw-AAyZYCCTXhks54mMEgMYUCEebBdYrXKZhiLngklCIAe3mbWvaea4eygYBQAAAAA",
   visibility: "target",
   correlationId: "5fe0e27e-3e5c-4d42-ad0c-9ce6101ac657",
   characterName: "Erin Solstice",
   buildIcon: 1,
-  editId: "e77c5136-30c5-4602-b082-d09673883dfd",
+  editId: "49696689-b9d8-4cf8-9ff8-55f91d73bbb9",
   createdAt: "2026-11-01T21:54:36.943Z",
-  updatedAt: "2026-11-01T22:16:34.094Z",
+  updatedAt: "2026-11-01T23:40:37.146Z",
 } as const satisfies CharacterBuild
