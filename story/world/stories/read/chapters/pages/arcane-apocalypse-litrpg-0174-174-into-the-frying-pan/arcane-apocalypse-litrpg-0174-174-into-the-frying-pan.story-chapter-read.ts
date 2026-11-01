@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg0174174IntoTheFryingPan = {
     },
   ],
   createdAt: "2026-10-28T16:29:36.261Z",
-  updatedAt: "2026-10-28T16:29:36.261Z",
+  updatedAt: "2026-11-01T03:22:59.224Z",
+  ownProgress: 4785,
+  progressedAt: "2026-11-01T03:22:59.224Z",
 } as const satisfies StoryChapterRead
