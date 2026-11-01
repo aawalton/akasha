@@ -92,6 +92,7 @@
 {"propertySlug":"import","fileName":"temper-keybinding.page-type.types.ts","path":"temper/addon/shared/temper-keybindings/temper-keybinding/pages/move-backward.temper-keybinding.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-keybinding.page-type.types.ts","path":"temper/addon/shared/temper-keybindings/temper-keybinding/pages/move-forward.temper-keybinding.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-keybinding.page-type.types.ts","path":"temper/addon/shared/temper-keybindings/temper-keybinding/pages/move-jumpascend.temper-keybinding.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-keybinding.page-type.types.ts","path":"temper/addon/shared/temper-keybindings/temper-keybinding/pages/personnalassistant-10184.temper-keybinding.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-keybinding.page-type.types.ts","path":"temper/addon/shared/temper-keybindings/temper-keybinding/pages/personnalassistant-267.temper-keybinding.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-keybinding.page-type.types.ts","path":"temper/addon/shared/temper-keybindings/temper-keybinding/pages/personnalassistant-301.temper-keybinding.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-keybinding.page-type.types.ts","path":"temper/addon/shared/temper-keybindings/temper-keybinding/pages/player-to-player-interact-accept.temper-keybinding.ts","typed":true,"deferred":false}

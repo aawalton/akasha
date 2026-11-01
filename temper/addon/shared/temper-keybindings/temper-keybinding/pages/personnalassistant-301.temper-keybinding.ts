@@ -8,12 +8,9 @@ export const personnalassistant301 = {
   key: "PERSONNALASSISTANT_301",
   layer: "general",
   category: "assistants",
-  bindings: [
-    { slot: 1, key: "KEY_F5" },
-    { slot: 2, key: "KEY_DELETE" },
-  ],
+  bindings: [{ slot: 1, key: "KEY_F5" }],
   shared: true,
-  changedAt: "2026-10-28T21:42:33.155Z",
+  changedAt: "2026-11-01T19:30:46.155Z",
   createdAt: "2026-10-28T21:53:40.236Z",
-  updatedAt: "2026-10-29T12:42:48.616Z",
+  updatedAt: "2026-11-01T19:31:03.360Z",
 } as const satisfies TemperKeybinding
