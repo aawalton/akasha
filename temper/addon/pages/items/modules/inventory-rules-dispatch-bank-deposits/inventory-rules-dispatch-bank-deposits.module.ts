@@ -43,7 +43,11 @@ export const inventoryRulesDispatchBankDeposits = {
       decisionKind: "decision-kind/departure",
       statement: "A stock rule's lowest-priority items are banked first, so its first-listed stay.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A house storage visit deposits nothing unless the storage carrier is playing.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.856Z",
-  updatedAt: "2026-09-27T15:47:35.000Z",
+  updatedAt: "2026-11-01T19:39:42.858Z",
 } as const satisfies Module

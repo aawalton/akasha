@@ -34,7 +34,10 @@ import {
 import type { ItemAction } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { planStockChainVisit } from "akasha/temper/items/rules/core/modules/stock-chain-visit/stock-chain-visit.module.code.ts"
 import { stockPriorityRank } from "akasha/temper/items/rules/core/modules/stock-item-priority/stock-item-priority.module.code.ts"
-import { isConsolidateDest } from "akasha/temper/items/rules/routing/core/modules/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
+import {
+  carriesStorage,
+  isConsolidateDest,
+} from "akasha/temper/items/rules/routing/core/modules/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
@@ -109,9 +112,11 @@ export function executeBankDeposits(
     dest: string
     ruleIndex: number
   }[] = []
+  const carriedOnly =
+    ctx.isHouseStorage && !carriesStorage(getCompiledConfig()?.characterPriority, currentCharId)
 
   forEachPendingAction(function (this: void, bagId, slotIndex, action, destination): undefined {
-    if (bagId !== BAG_BACKPACK) return
+    if (bagId !== BAG_BACKPACK || carriedOnly) return
     const isMoveLike =
       action === "move-to" ||
       action === "stock" ||
