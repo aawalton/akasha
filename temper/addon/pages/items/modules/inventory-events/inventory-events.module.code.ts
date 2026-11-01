@@ -15,6 +15,7 @@ import {
   recordBankPhaseMs,
   recordSettlingMs,
 } from "akasha/temper/addon/pages/items/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
+import { carriesStorageHere } from "akasha/temper/addon/pages/items/modules/inventory-character-priority/inventory-character-priority.module.code.ts"
 import { getInventoryConfig } from "akasha/temper/addon/pages/items/modules/inventory-config/inventory-config.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
 import {
@@ -249,7 +250,7 @@ function listenAtBanks(ns: string): undefined {
     function (this: void): undefined {
       scanCurrentGuildBank()
       openJunkGate()
-      onOpenGuildBank()
+      if (carriesStorageHere()) onOpenGuildBank()
       dispatchGuildBankCurrency()
     }
   )

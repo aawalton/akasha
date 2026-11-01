@@ -47,6 +47,10 @@ export const inventoryEvents = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A guild bank visit deposits items only where the storage carrier is playing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A backpack slot changing while containers wait for room opens them once room is there.",
     },
@@ -61,5 +65,5 @@ export const inventoryEvents = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.851Z",
-  updatedAt: "2026-10-28T21:08:20.548Z",
+  updatedAt: "2026-11-01T19:38:20.097Z",
 } as const satisfies Module

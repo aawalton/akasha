@@ -6,6 +6,7 @@ export const inventoryConsolidateDest = {
   slug: "inventory-consolidate-dest",
   definition: "whether a destination gathers a thing from every character into one place",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -29,7 +30,21 @@ export const inventoryConsolidateDest = {
       decisionKind: "decision-kind/departure",
       statement: "A house a furnishing is placed in gathers furnishings, so Erin carries it there.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Only the storage carrier acts at the guild bank, house storage, the furniture vault or a house.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Another character holding an item bound for a gathering place puts it in the bank for the carrier.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where no priority list is known, whoever is playing carries storage.",
+    },
   ],
   createdAt: "2026-09-02T08:51:47.591Z",
-  updatedAt: "2026-10-28T19:42:44.161Z",
+  updatedAt: "2026-11-01T19:38:20.097Z",
 } as const satisfies Module

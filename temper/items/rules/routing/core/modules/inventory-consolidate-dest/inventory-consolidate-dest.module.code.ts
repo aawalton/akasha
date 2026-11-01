@@ -23,3 +23,11 @@ export function storageCarrierOf(
 ): string | undefined {
   return characterPriority?.[0]
 }
+
+export function carriesStorage(
+  characterPriority: readonly string[] | undefined,
+  characterId: string
+): boolean {
+  const carrier = storageCarrierOf(characterPriority)
+  return carrier === undefined || carrier === characterId
+}
