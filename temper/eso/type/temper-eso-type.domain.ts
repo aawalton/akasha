@@ -10,6 +10,7 @@ export const temperEsoType = {
     "type-declaration/eso-addon-manager",
     "type-declaration/eso-addon-screen",
     "type-declaration/eso-alchemy-station",
+    "type-declaration/eso-armory",
     "type-declaration/eso-api",
     "type-declaration/eso-api-2",
     "type-declaration/eso-api-3",
@@ -109,5 +110,5 @@ export const temperEsoType = {
     "type-declaration/eso-hud-manager",
   ],
   createdAt: "2026-09-02T05:20:24.696Z",
-  updatedAt: "2026-10-27T19:24:45.897Z",
+  updatedAt: "2026-11-01T20:29:38.352Z",
 } as const satisfies Domain
