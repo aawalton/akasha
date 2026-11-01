@@ -9,7 +9,16 @@ export const filterPill = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The colours and sizes follow the website's filter popover and its chips.",
+      statement: "The sizes follow the website's filter popover and its chips.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Pill text is the game's body color, and a filter's name is its heading color.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A pill's fill is a faint light wash over the panel, and stronger under the pointer.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -35,5 +44,5 @@ export const filterPill = {
     },
   ],
   createdAt: "2026-11-01T22:08:58.608Z",
-  updatedAt: "2026-11-01T22:08:58.608Z",
+  updatedAt: "2026-11-01T23:35:29.308Z",
 } as const satisfies Module

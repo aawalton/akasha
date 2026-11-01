@@ -41,7 +41,11 @@ export const filterBar = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The panel is a flat rounded fill, laid out as the website's filter popover is.",
+      statement: "The panel is laid out as the website's filter popover is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The panel takes the inventory plan's backdrop and text colors.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -57,5 +61,5 @@ export const filterBar = {
     },
   ],
   createdAt: "2026-09-02T08:45:26.709Z",
-  updatedAt: "2026-11-01T22:11:58.614Z",
+  updatedAt: "2026-11-01T23:35:29.308Z",
 } as const satisfies Module

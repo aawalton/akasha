@@ -36,6 +36,7 @@
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-colors/leads-unit-colors.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/items/filters/addon/modules/filter-pill/filter-pill.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-data-lines/skill-point-finder-data-lines.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/window/modules/window-controls/window-controls.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/window/modules/window-data-state/window-data-state.module.code.ts","typed":false,"deferred":false}

@@ -95,7 +95,7 @@ export function createFilterBar(config: FilterBarConfig): undefined {
 
   fillPanel(tlw)
 
-  const add = comboPill(tlw, "$(parent)AddCombo", ADD_FILTER_LABEL, false, true)
+  const add = comboPill(tlw, "$(parent)AddCombo", ADD_FILTER_LABEL, false)
   add.comboBox.SetSortsItems(false)
 
   const byId = new Map<FilterId, AnyTemperFilter>()
