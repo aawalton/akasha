@@ -34,17 +34,29 @@ export function compileWantedEquipment(
       automationSettings?.global?.characters
     )
     if (!charToggles.equipment) continue
-    if (char.targetBuildId == null) continue
-    const build = buildById.get(char.targetBuildId)
-    if (build?.buildHash == null) continue
+    for (const buildId of targetBuildsOf(char)) {
+      const build = buildById.get(buildId)
+      if (build?.buildHash == null) continue
 
-    const decoded = decodeBuild(toBuildHash(build.buildHash))
-    if (!decoded) continue
+      const decoded = decodeBuild(toBuildHash(build.buildHash))
+      if (!decoded) continue
 
-    signatures.push(...compileWantedEquipmentForBuild(decoded, char.esoCharacterId))
+      const backpack = buildId !== char.targetBuildId
+      for (const sig of compileWantedEquipmentForBuild(decoded, char.esoCharacterId)) {
+        signatures.push(backpack ? { ...sig, buildId, backpack } : { ...sig, buildId })
+      }
+    }
   }
 
   return signatures
+}
+
+function targetBuildsOf(char: CompletionCharacterInput): readonly string[] {
+  const ids: string[] = char.targetBuildId == null ? [] : [char.targetBuildId]
+  for (const id of char.targetBuildIds ?? []) {
+    if (!ids.includes(id)) ids.push(id)
+  }
+  return ids
 }
 
 export function compileWantedCompanionEquipment(

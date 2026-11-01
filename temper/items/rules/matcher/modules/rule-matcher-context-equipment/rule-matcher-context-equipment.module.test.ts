@@ -15,6 +15,7 @@ import { encodeBuild } from "akasha/temper/player/character/build/build-codec/mo
 import type { AutomationSettings } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import { encodeCompanion } from "akasha/temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import { createNewCharacter } from "akasha/temper/player/character/build/modules/build-factory/build-factory.module.code.ts"
+import { holdSetCatalogFromCheckout } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts"
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 
 holdCompanionCatalogFromCheckout()
@@ -128,5 +129,27 @@ describe("A build wanting no trait in a slot wants no gear for that slot.", () =
     }
 
     expect(compileWantedEquipment([charWanting(BUILD), second], builds(), ON)).toEqual([])
+  })
+})
+
+const WEREWOLF =
+  "ATQOcokAAIBihYwmaFtAEIBC3qtAEIAi1ntAEIAi1ntAEIAi1ntAEIAi1ntAEIAi1ntAEIAQXqtAEIAQXqtAEIAQXa1AEIAgaPVbcoWRAueq25Qss4KNzho7GNbMAAAAAAAAAAAAidfKpOWXiOTBAkQDeHgbAdgWHdSaoUTKq2IHJOZ8EGdY4McIUISMiICADIjMCIjIiAiIgMjUjAjIjNBACIiAyIQACEzIiMDoyMDoiIiZCMyMjIAICgiIiQqMwIiIjAjrLnsazUixJwyseTLLmTZ2fRp1a9s-hRpU6niqsjr3xs8fXL0DFkhaImyN07SJUyd-oUwVUJXHWGDhskbAlSwIwDCBQxk0HECTZwULGDRw8gRJHSYbBAZAgABgAAA"
+
+describe("Every target build a character has wants its gear.", () => {
+  holdSetCatalogFromCheckout()
+  const both = new Map([...builds(), ["ww", { id: "ww", buildHash: WEREWOLF }]])
+
+  test("a target build the character is not set up as wants its gear in the backpack", () => {
+    const char = { ...charWanting(BUILD), targetBuildIds: [BUILD, "ww"] }
+    const wanted = compileWantedEquipment([char], both, ON)
+    expect(wanted.length).toBeGreaterThan(0)
+    expect(wanted.every((one) => one.buildId === "ww" && one.backpack === true)).toBe(true)
+  })
+
+  test("the target build the character is set up as wants its gear worn", () => {
+    const char = { ...charWanting("ww"), targetBuildIds: [BUILD, "ww"] }
+    const wanted = compileWantedEquipment([char], both, ON)
+    expect(wanted.length).toBeGreaterThan(0)
+    expect(wanted.every((one) => one.buildId === "ww" && one.backpack === undefined)).toBe(true)
   })
 })

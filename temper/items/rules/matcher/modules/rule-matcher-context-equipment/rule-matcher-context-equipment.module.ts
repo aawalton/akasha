@@ -28,7 +28,17 @@ export const ruleMatcherContextEquipment = {
       decisionKind: "decision-kind/departure",
       statement: "A build hash that does not decode yields no wanted gear.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every target build a character has wants its gear, the one it is set up as first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The gear of a target build the character is not set up as is wanted in its backpack.",
+    },
   ],
   createdAt: "2026-09-02T14:23:54.928Z",
-  updatedAt: "2026-09-21T15:36:01.000Z",
+  updatedAt: "2026-11-01T18:56:39.829Z",
 } as const satisfies Module

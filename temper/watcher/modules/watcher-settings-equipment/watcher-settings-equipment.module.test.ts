@@ -41,9 +41,16 @@ const ROWS: Record<string, PageValues[]> = {
     { esoCharacterId: "char-early", accountPage: "u1", displayOrder: 1, targetBuildId: "b1" },
     { esoCharacterId: "char-unsorted", accountPage: "u1", targetBuildId: "missing-build" },
     { esoCharacterId: 42, accountPage: "u1", displayOrder: 0 },
+    {
+      esoCharacterId: "char-two",
+      accountPage: "u2",
+      targetBuildId: "b1",
+      targetBuildIds: ["b3", "b1"],
+    },
   ],
   [CHARACTER_BUILD_PAGE_TYPE_SLUG]: [
     { id: "b1", buildHash: CHARACTER_BUILD_HASH },
+    { id: "b3", buildHash: CHARACTER_BUILD_HASH },
     { id: "b2", buildHash: "not-a-real-hash" },
   ],
   [COMPANION_PAGE_TYPE_SLUG]: [
@@ -155,12 +162,24 @@ test("an account naming no character comes back with no character", async () => 
 test("the gear a target build wants is compiled for every character whose toggle is on", async () => {
   const { reader } = reading()
   expect(await compileWantedEquipment("u1", CHARACTERS_ON, reader)).toEqual([
-    { esoCharId: "char-early", equipType: 1, traitType: 18, quality: 5, armorType: 3 },
-    { esoCharId: "char-early", equipType: 2, traitType: 22, quality: 5 },
-    { esoCharId: "char-early", equipType: 5, traitType: 3, quality: 5, weaponType: 1 },
-    { esoCharId: "char-late", equipType: 1, traitType: 18, quality: 5, armorType: 3 },
-    { esoCharId: "char-late", equipType: 2, traitType: 22, quality: 5 },
-    { esoCharId: "char-late", equipType: 5, traitType: 3, quality: 5, weaponType: 1 },
+    ...wantedBy("char-early", { buildId: "b1" }),
+    ...wantedBy("char-late", { buildId: "b1" }),
+  ])
+})
+
+function wantedBy(esoCharId: string, build: { buildId: string; backpack?: boolean }) {
+  return [
+    { esoCharId, ...build, equipType: 1, traitType: 18, quality: 5, armorType: 3 },
+    { esoCharId, ...build, equipType: 2, traitType: 22, quality: 5 },
+    { esoCharId, ...build, equipType: 5, traitType: 3, quality: 5, weaponType: 1 },
+  ]
+}
+
+test("every target build a character has wants its gear, the one it is set up as first", async () => {
+  const { reader } = reading()
+  expect(await compileWantedEquipment("u2", CHARACTERS_ON, reader)).toEqual([
+    ...wantedBy("char-two", { buildId: "b1" }),
+    ...wantedBy("char-two", { buildId: "b3", backpack: true }),
   ])
 })
 

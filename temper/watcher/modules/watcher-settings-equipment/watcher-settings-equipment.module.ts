@@ -42,6 +42,10 @@ export const watcherSettingsEquipment = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every target build a character names is read for the gear it wants.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A live build is read only where the live build hash is asked for.",
     },
     {
@@ -72,5 +76,5 @@ export const watcherSettingsEquipment = {
     },
   ],
   createdAt: "2026-09-02T19:03:27.439Z",
-  updatedAt: "2026-09-26T16:06:48.000Z",
+  updatedAt: "2026-11-01T18:56:39.829Z",
 } as const satisfies Module

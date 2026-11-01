@@ -1,4 +1,5 @@
 import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/parse-number.module.code.ts"
+import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import { getPage } from "akasha/page/access/modules/get/get.module.code.ts"
 import { collectPages } from "akasha/page/access/modules/iterate/iterate.module.code.ts"
 import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
@@ -62,6 +63,7 @@ type CharacterRow = {
   esoCharacterId: string
   sortOrder: number | undefined
   targetBuildId: string | undefined
+  targetBuildIds: readonly string[]
   liveBuildId: string | undefined
 }
 
@@ -103,6 +105,7 @@ async function readCharacterRows(accountPage: string, reader: PageReader): Promi
       esoCharacterId,
       sortOrder: countOf(row.displayOrder),
       targetBuildId: textOf(row.targetBuildId),
+      targetBuildIds: stringsIn(row.targetBuildIds),
       liveBuildId: textOf(row.liveBuildId),
     })
   }
@@ -194,7 +197,7 @@ export async function compileWantedEquipment(
   const rows = await readCharacterRows(accountPage, reader)
   const builds = await readBuildsById(
     CHARACTER_BUILD_PAGE_TYPE_SLUG,
-    rows.map((row) => row.targetBuildId),
+    rows.flatMap((row) => [row.targetBuildId, ...row.targetBuildIds]),
     reader
   )
 
@@ -206,6 +209,7 @@ export async function compileWantedEquipment(
   const characters: CompletionCharacterInput[] = rows.map((row) => ({
     esoCharacterId: row.esoCharacterId,
     targetBuildId: row.targetBuildId,
+    targetBuildIds: row.targetBuildIds,
     sortOrder: row.sortOrder,
   }))
 

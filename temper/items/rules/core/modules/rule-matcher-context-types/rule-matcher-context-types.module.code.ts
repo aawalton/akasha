@@ -39,6 +39,7 @@ export function lookupKnownMotifChapters(
 export interface CompletionCharacterInput {
   esoCharacterId: string
   targetBuildId: string | null | undefined
+  targetBuildIds?: readonly string[]
   sortOrder: number | null | undefined
   completion?: unknown
 }
