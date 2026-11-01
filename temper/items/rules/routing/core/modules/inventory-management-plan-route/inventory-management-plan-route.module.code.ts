@@ -3,7 +3,6 @@ import {
   classifyLocation,
   type LocationTypeId,
 } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
-import { chestIdOfHouseBankKey } from "akasha/temper/items/rules/core/modules/house-storage-chest/house-storage-chest.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type {
   ItemAction,
@@ -22,6 +21,7 @@ import {
   resolveStorageKey,
 } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-route-helpers/inventory-management-plan-route-helpers.module.code.ts"
 import {
+  buildCarrierHandoffSteps,
   buildCrossCharSteps,
   buildSharedStorageSteps,
 } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-route-steps/inventory-management-plan-route-steps.module.code.ts"
@@ -42,6 +42,8 @@ const SHARED_STORAGE_SOURCES: ReadonlySet<LocationTypeId> = new Set([
   "housing-storage",
   "guild",
 ])
+
+const CARRIER_ONLY_SOURCES: ReadonlySet<LocationTypeId> = new Set(["housing-storage", "guild"])
 
 export function resolveItemRoute(
   entry: AffectedItem,
@@ -103,11 +105,11 @@ export function resolveItemRoute(
   const movesOutOfStorage =
     SHARED_STORAGE_SOURCES.has(locationType) && (action === "move-to" || action === "stock")
   const carrier = storageCarrierOf(context?.characterPriority)
-  const leavesHouseChest = chestIdOfHouseBankKey(entry.locationKey) !== undefined
+  const carrierOnlySource = CARRIER_ONLY_SOURCES.has(locationType)
   if (
     targetCharId == null &&
     carrier !== undefined &&
-    (leavesHouseChest || isStorageCarrierMove(destination, movesOutOfStorage))
+    (carrierOnlySource || isStorageCarrierMove(destination, movesOutOfStorage))
   ) {
     targetCharId = carrier
   }
@@ -151,6 +153,24 @@ export function resolveItemRoute(
     }
     return []
   } else {
+    if (
+      carrierOnlySource &&
+      carrier !== undefined &&
+      targetCharId !== null &&
+      targetCharId !== carrier &&
+      retrievalVenue != null
+    ) {
+      return buildCarrierHandoffSteps(
+        carrier,
+        targetCharId,
+        { venue: retrievalVenue, detail: retrievalDetail, storageKey: retrievalStorageKey },
+        effectiveActionVenue,
+        actionDetail,
+        actionStorageKey,
+        action,
+        planItem
+      )
+    }
     if (options?.chainTierDirect === true && effectiveActionVenue != null) {
       return [
         {

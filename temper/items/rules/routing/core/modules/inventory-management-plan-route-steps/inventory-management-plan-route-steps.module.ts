@@ -17,6 +17,11 @@ export const inventoryManagementPlanRouteSteps = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A hand-off out of a place only the carrier reaches opens with the carrier withdrawing there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The deposit and withdraw notes are plan phrase pages.",
     },
     {
@@ -25,5 +30,5 @@ export const inventoryManagementPlanRouteSteps = {
     },
   ],
   createdAt: "2026-09-02T08:51:47.593Z",
-  updatedAt: "2026-10-28T19:31:05.753Z",
+  updatedAt: "2026-11-01T19:51:40.077Z",
 } as const satisfies Module

@@ -68,6 +68,42 @@ export function buildCrossCharSteps(
   return steps
 }
 
+export function buildCarrierHandoffSteps(
+  carrierId: string,
+  targetCharId: string,
+  retrieval: {
+    readonly venue: VenueType
+    readonly detail: string | undefined
+    readonly storageKey: string | undefined
+  },
+  effectiveActionVenue: VenueType | null,
+  actionDetail: string | undefined,
+  actionStorageKey: string | undefined,
+  action: ItemAction,
+  planItem: PlanItem
+): readonly RouteStep[] {
+  return [
+    {
+      characterId: carrierId,
+      venue: retrieval.venue,
+      venueDetail: retrieval.detail,
+      storageKey: retrieval.storageKey,
+      operation: "retrieve",
+      item: { ...planItem, note: planPhraseOf(withdraw) },
+      itemId: planItem.itemId,
+    },
+    ...buildCrossCharSteps(
+      carrierId,
+      targetCharId,
+      effectiveActionVenue,
+      actionDetail,
+      actionStorageKey,
+      action,
+      planItem
+    ),
+  ]
+}
+
 export function buildSharedStorageSteps(
   charId: string,
   retrievalVenue: VenueType | null,

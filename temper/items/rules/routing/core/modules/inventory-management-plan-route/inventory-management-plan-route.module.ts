@@ -33,7 +33,12 @@ export const inventoryManagementPlanRoute = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every item leaving a house chest is withdrawn by the storage carrier.",
+      statement:
+        "Every item leaving house storage, the vault or a guild bank is withdrawn by the carrier.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The carrier banks such an item for another character, who withdraws it there.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -46,5 +51,5 @@ export const inventoryManagementPlanRoute = {
     },
   ],
   createdAt: "2026-09-02T08:51:47.593Z",
-  updatedAt: "2026-10-28T19:31:05.753Z",
+  updatedAt: "2026-11-01T19:51:40.077Z",
 } as const satisfies Module

@@ -17,12 +17,15 @@ const WEALTH = "HouseBank:5462:4676"
 
 const GUILD = "Walton Mountain"
 
+const VAULT = "FurnitureVault"
+
 const HOUSE_BANK_BAG = 10
 
 const holdings = makeInventory(
   {
     [WEALTH]: makeLocation("Wealth", {}),
     [GUILD]: makeLocation(GUILD, {}),
+    [VAULT]: makeLocation("Furniture Vault", {}),
     Bank: makeLocation("Bank", {}),
   },
   { [CERIA]: { displayName: "Ceria Springwater" }, [ERIN]: { displayName: "Erin Solstice" } }
@@ -78,11 +81,58 @@ describe("Every item leaving a house chest is withdrawn by the storage carrier."
     ])
   })
 
-  test("an item a rule sends to a character is withdrawn by that character", () => {
+  test("an item a rule sends to another character is banked by the carrier for that character", () => {
     const entry = makeAffected(makeItem("Essence of Health", 1), WEALTH, "Wealth", HOUSE_BANK_BAG)
     expect(
       stops(resolveItemRoute(entry, "move-to", `character:${CERIA}`, holdings, context))
-    ).toEqual([[CERIA, "house-storage", "retrieve"]])
+    ).toEqual([
+      [ERIN, "house-storage", "retrieve"],
+      [ERIN, "bank", "deposit"],
+      [CERIA, "bank", "retrieve"],
+    ])
+  })
+
+  test("stock a house chest holds for another character is banked by the carrier", () => {
+    const entry = makeAffected(makeItem("Essence of Health", 1), WEALTH, "Wealth", HOUSE_BANK_BAG)
+    const steps = resolveItemRoute(entry, "stock", "character:by-priority", holdings, context, {
+      useTargetCharIdOverride: CERIA,
+      stackCountOverride: 1,
+    })
+    expect(stops(steps)).toEqual([
+      [ERIN, "house-storage", "retrieve"],
+      [ERIN, "bank", "deposit"],
+      [CERIA, "bank", "retrieve"],
+    ])
+  })
+
+  test("stock a house chest holds for the carrier is withdrawn by the carrier alone", () => {
+    const entry = makeAffected(makeItem("Essence of Health", 1), WEALTH, "Wealth", HOUSE_BANK_BAG)
+    const steps = resolveItemRoute(entry, "stock", "character:by-priority", holdings, context, {
+      useTargetCharIdOverride: ERIN,
+      stackCountOverride: 1,
+    })
+    expect(stops(steps)).toEqual([[ERIN, "house-storage", "retrieve"]])
+  })
+})
+
+describe("Only the storage carrier takes an item out of the furniture vault or a guild bank.", () => {
+  test("a furnishing leaving the vault to be sold is withdrawn and sold by the carrier", () => {
+    const entry = makeAffected(makeItem("Alinor Tapestry", 3), VAULT, "Furniture Vault")
+    expect(stops(resolveItemRoute(entry, "sell", undefined, holdings, context))).toEqual([
+      [ERIN, "house-storage", "retrieve"],
+      [ERIN, "vendor", "act"],
+    ])
+  })
+
+  test("an item leaving a guild bank for another character is banked by the carrier", () => {
+    const entry = makeAffected(makeItem("Uncracked Geode", 1), GUILD, GUILD)
+    expect(
+      stops(resolveItemRoute(entry, "move-to", `character:${CERIA}`, holdings, context))
+    ).toEqual([
+      [ERIN, "guild-bank", "retrieve"],
+      [ERIN, "bank", "deposit"],
+      [CERIA, "bank", "retrieve"],
+    ])
   })
 })
 
