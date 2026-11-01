@@ -20519,7 +20519,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 0,
+            "numCompleted": 2,
             "numRequired": 200
           }
         }
@@ -20546,7 +20546,7 @@
       }
     },
     "3115": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 3
@@ -67406,7 +67406,7 @@
       "name": "Storm-Cursed's Revenge",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Shipwright's Regret",
-      "slotsUnlocked": 4,
+      "slotsUnlocked": 5,
       "totalSlots": 22,
       "reconstructionCost": 75,
       "pieces": [
@@ -67440,7 +67440,7 @@
         },
         {
           "name": "Storm-Cursed Amulet",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Storm-Cursed Ring",
@@ -67972,7 +67972,7 @@
       "name": "Nazaray",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Shipwright's Regret",
-      "slotsUnlocked": 3,
+      "slotsUnlocked": 4,
       "totalSlots": 6,
       "reconstructionCost": 55,
       "pieces": [
@@ -67986,7 +67986,7 @@
         },
         {
           "name": "Nazaray Visage",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Nazaray Epaulets",
