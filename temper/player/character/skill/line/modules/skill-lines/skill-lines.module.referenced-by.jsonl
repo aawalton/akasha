@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"skill-lines.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-skill-lines/rule-matcher-context-skill-lines.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"skill-lines.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"skill-lines.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52/build-codec-v52.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"skill-lines.module.code.ts","path":"temper/player/character/build/modules/build-interface-expanding/build-interface-expanding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"skill-lines.module.code.ts","path":"temper/player/character/build/modules/build-types/build-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"skill-lines.module.code.ts","path":"temper/player/character/skill/modules/character-skill-template/character-skill-template.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"skill-lines.module.code.ts","path":"temper/player/character/skill/modules/grimoire-template/grimoire-template.module.code.ts","typed":true,"deferred":false}

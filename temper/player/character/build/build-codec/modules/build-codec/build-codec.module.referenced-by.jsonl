@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52-equipment/build-codec-v52-equipment.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52-masteries/build-codec-v52-masteries.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec/build-codec.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/player/character/build/modules/build-interface-expanding/build-interface-expanding.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/player/character/stat/modules/character-rotation-reading/character-rotation-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/player/character/stat/modules/combat-case/combat-case.module.code.ts","typed":false,"deferred":false}
