@@ -26,6 +26,12 @@ export interface TargetGear {
   readonly traitName: string
 }
 
+export interface TargetPassive {
+  readonly name: string
+  readonly abilityId: number
+  readonly rank: number
+}
+
 export interface TargetAttributes {
   readonly health: number
   readonly magicka: number
@@ -41,4 +47,5 @@ export interface CharacterTarget {
   readonly mundus?: { readonly name: string; readonly abilityId: number }
   readonly food?: { readonly name: string; readonly abilityId: number; readonly itemId: number }
   readonly gear: readonly TargetGear[]
+  readonly passives: readonly TargetPassive[]
 }

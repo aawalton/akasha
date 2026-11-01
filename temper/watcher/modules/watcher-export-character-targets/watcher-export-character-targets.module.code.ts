@@ -21,6 +21,7 @@ import {
   type TargetDiscipline,
   type TargetDisciplineKey,
   type TargetGear,
+  type TargetPassive,
   type TargetStar,
 } from "akasha/temper/player/character/build/modules/character-target-types/character-target-types.module.code.ts"
 import { buildInterface } from "akasha/temper/player/character/build-interface/build-interface.page-type.ts"
@@ -159,7 +160,19 @@ export function characterTargetOf(
     ...(mundusTarget === undefined ? {} : { mundus: mundusTarget }),
     ...(foodTarget === undefined ? {} : { food: foodTarget }),
     gear: gearListOf(build),
+    passives: passivesOf(build),
   }
+}
+
+function passivesOf(build: CharacterState): readonly TargetPassive[] {
+  const passives: TargetPassive[] = []
+  for (const id of build.passives) {
+    const skill = skills.data[id]
+    if (skill === undefined || skill.esoAbilityId === 0) continue
+    const rank = build.passiveRanks?.[id] ?? skill.rank
+    passives.push({ name: skill.name, abilityId: skill.esoAbilityId, rank })
+  }
+  return passives
 }
 
 export async function compileCharacterTargets(

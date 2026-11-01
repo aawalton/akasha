@@ -137,6 +137,20 @@ test("a target holds the stars of the build interfaces its build includes", asyn
   ])
 })
 
+test("a target names each passive its build holds, with the rank it is held to", () => {
+  const build = {
+    ...decoded(),
+    passives: ["continuous-attack", "tailoring"],
+    passiveRanks: { "continuous-attack": 1 },
+  }
+  const passives = characterTargetOf(build, "", "").passives
+  expect(passives.map((one) => [one.name, one.rank])).toEqual([
+    ["Continuous Attack", 1],
+    ["Tailoring", 10],
+  ])
+  expect(passives.every((one) => one.abilityId > 0)).toBe(true)
+})
+
 test("no character with a target reads no catalog", async () => {
   let read = 0
   await compileCharacterTargets(ACCOUNT, readerOf([{ esoCharacterId: "1" }]), async () => {
