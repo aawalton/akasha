@@ -6,11 +6,12 @@ import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
-import type {
-  CharacterBuildInput,
-  CompanionBuildInput,
-  CompletionCharacterInput,
-  CompletionCompanionInput,
+import {
+  type CharacterBuildInput,
+  type CompanionBuildInput,
+  type CompletionCharacterInput,
+  type CompletionCompanionInput,
+  targetBuildIdsOf,
 } from "akasha/temper/items/rules/core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
@@ -34,7 +35,7 @@ export function compileWantedEquipment(
       automationSettings?.global?.characters
     )
     if (!charToggles.equipment) continue
-    for (const buildId of targetBuildsOf(char)) {
+    for (const buildId of targetBuildIdsOf(char)) {
       const build = buildById.get(buildId)
       if (build?.buildHash == null) continue
 
@@ -49,14 +50,6 @@ export function compileWantedEquipment(
   }
 
   return signatures
-}
-
-function targetBuildsOf(char: CompletionCharacterInput): readonly string[] {
-  const ids: string[] = char.targetBuildId == null ? [] : [char.targetBuildId]
-  for (const id of char.targetBuildIds ?? []) {
-    if (!ids.includes(id)) ids.push(id)
-  }
-  return ids
 }
 
 export function compileWantedCompanionEquipment(

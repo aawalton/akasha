@@ -33,6 +33,7 @@ export interface TargetAttributes {
 }
 
 export interface CharacterTarget {
+  readonly buildId: string
   readonly title: string
   readonly attributes: TargetAttributes
   readonly champion: readonly TargetDiscipline[]

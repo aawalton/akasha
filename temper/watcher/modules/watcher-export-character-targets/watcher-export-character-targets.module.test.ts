@@ -19,7 +19,7 @@ function decoded() {
   return build
 }
 
-const TARGET = characterTargetOf(decoded(), maxMaxStamina.title)
+const TARGET = characterTargetOf(decoded(), maxMaxStamina.title, maxMaxStamina.id)
 
 test("a target carries its build's title and attribute points", () => {
   expect(TARGET.title).toBe("Max Max Stamina")
@@ -91,7 +91,24 @@ test("only a character with a target build that decodes has a target, keyed by i
     async () => undefined
   )
   expect(Object.keys(targets)).toEqual(["1001"])
-  expect(targets["1001"]?.title).toBe("Max Max Stamina")
+  expect(targets["1001"]?.map((one) => one.title)).toEqual(["Max Max Stamina"])
+})
+
+test("a character's targets list each target build that decodes, the one it is set up as first", async () => {
+  const targets = await compileCharacterTargets(
+    ACCOUNT,
+    readerOf([
+      {
+        esoCharacterId: "1001",
+        targetBuildId: maxMaxStamina.id,
+        targetBuildIds: ["no-such-build", maxMaxStamina.id],
+      },
+      { esoCharacterId: "1002", targetBuildIds: [maxMaxStamina.id] },
+    ]),
+    async () => undefined
+  )
+  expect(targets["1001"]?.map((one) => one.buildId)).toEqual([maxMaxStamina.id])
+  expect(targets["1002"]?.map((one) => one.buildId)).toEqual([maxMaxStamina.id])
 })
 
 test("no character with a target reads no catalog", async () => {

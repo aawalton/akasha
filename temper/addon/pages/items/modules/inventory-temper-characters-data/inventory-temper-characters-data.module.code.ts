@@ -1,5 +1,14 @@
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 export function getTemperCharactersData(): Record<string, unknown> | undefined {
+  return accountWideRecord("characters")
+}
+
+export function chosenBuildOf(this: void, charId: string): string | undefined {
+  const chosen = accountWideRecord("activeBuilds")?.[charId]
+  return typeof chosen === "string" ? chosen : undefined
+}
+
+function accountWideRecord(key: string): Record<string, unknown> | undefined {
   const g: Record<string, unknown> = globalThis
   const tcSv = g["TemperCharacters_SavedVariables"]
   if (!isObjectRecord(tcSv)) return undefined
@@ -18,6 +27,6 @@ export function getTemperCharactersData(): Record<string, unknown> | undefined {
     }
   }
   if (!accountWide) return undefined
-  const characters = accountWide["characters"]
-  return isObjectRecord(characters) ? characters : undefined
+  const held = accountWide[key]
+  return isObjectRecord(held) ? held : undefined
 }

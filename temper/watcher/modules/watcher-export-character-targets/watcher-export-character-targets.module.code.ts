@@ -1,9 +1,11 @@
 import { stringAt } from "akasha/code/type/narrowing/modules/string-at/string-at.module.code.ts"
+import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import { championPoints } from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
 import {
   esoNumberOfTrait,
   traitTable,
 } from "akasha/temper/catalog/gear/equipment/modules/trait-reading/trait-reading.module.code.ts"
+import { targetBuildIdsOf } from "akasha/temper/items/rules/core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import {
@@ -131,10 +133,15 @@ function foodOf(build: CharacterState): CharacterTarget["food"] {
   return { name: food.name, abilityId: food.abilityId, itemId: food.itemId }
 }
 
-export function characterTargetOf(build: CharacterState, title: string): CharacterTarget {
+export function characterTargetOf(
+  build: CharacterState,
+  title: string,
+  buildId: string
+): CharacterTarget {
   const mundusTarget = mundusOf(build)
   const foodTarget = foodOf(build)
   return {
+    buildId,
     title,
     attributes: { ...build.character.attributes },
     champion: TARGET_DISCIPLINES.map((discipline) => disciplineOf(build, discipline)),
@@ -152,30 +159,46 @@ export async function compileCharacterTargets(
   accountPage: string,
   reader: PageReader = DEFAULT_PAGE_READER,
   catalogsRead: () => Promise<unknown> = () => Promise.all([loadSkillCatalog(), loadSetCatalog()])
-): Promise<Record<string, CharacterTarget>> {
+): Promise<Record<string, readonly CharacterTarget[]>> {
   const characters = await reader.collect({
     pageTypeSlug: CHARACTER_PAGE_TYPE_SLUG,
     where: [{ key: "accountPage", eq: accountPage }],
     pageSize: ROWS_PER_READ,
   })
-  const targets: Record<string, CharacterTarget> = {}
+  const targets: Record<string, readonly CharacterTarget[]> = {}
   let catalogs: Promise<unknown> | null = null
+  const readCatalogs = (): Promise<unknown> => (catalogs ??= catalogsRead())
   for (const character of characters) {
     const esoCharacterId = stringAt(character, "esoCharacterId")
-    const targetBuildId = stringAt(character, "targetBuildId")
-    if (esoCharacterId === null || targetBuildId === null) continue
-    const build = await reader.get({
-      pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
-      where: [{ key: "id", eq: targetBuildId }],
-      select: ["buildHash", "title"],
-    })
-    const hash = build === null ? null : stringAt(build, "buildHash")
-    if (build === null || hash === null) continue
-    catalogs ??= catalogsRead()
-    await catalogs
-    const decoded = decodeBuild(buildHash(hash))
-    if (decoded === null) continue
-    targets[esoCharacterId] = characterTargetOf(decoded, stringAt(build, "title") ?? "")
+    if (esoCharacterId === null) continue
+    const listed: CharacterTarget[] = []
+    const named = {
+      targetBuildId: stringAt(character, "targetBuildId"),
+      targetBuildIds: stringsIn(character["targetBuildIds"]),
+    }
+    for (const buildId of targetBuildIdsOf(named)) {
+      const target = await targetOf(buildId, reader, readCatalogs)
+      if (target !== null) listed.push(target)
+    }
+    if (listed.length > 0) targets[esoCharacterId] = listed
   }
   return targets
+}
+
+async function targetOf(
+  buildId: string,
+  reader: PageReader,
+  readCatalogs: () => Promise<unknown>
+): Promise<CharacterTarget | null> {
+  const build = await reader.get({
+    pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
+    where: [{ key: "id", eq: buildId }],
+    select: ["buildHash", "title"],
+  })
+  const hash = build === null ? null : stringAt(build, "buildHash")
+  if (build === null || hash === null) return null
+  await readCatalogs()
+  const decoded = decodeBuild(buildHash(hash))
+  if (decoded === null) return null
+  return characterTargetOf(decoded, stringAt(build, "title") ?? "", buildId)
 }

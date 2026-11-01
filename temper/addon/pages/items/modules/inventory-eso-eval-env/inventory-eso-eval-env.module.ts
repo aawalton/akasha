@@ -20,7 +20,11 @@ export const inventoryEsoEvalEnv = {
       statement:
         "What the character playing wears is read from the game, and another's from its scan.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The build a character is set up as is the one chosen in the game, where one was.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.850Z",
-  updatedAt: "2026-11-01T15:01:34.302Z",
+  updatedAt: "2026-11-01T19:01:52.055Z",
 } as const satisfies Module

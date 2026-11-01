@@ -9,7 +9,11 @@ export const charactersBuildChecklist = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The target is read from the characters config by the current character's id.",
+      statement: "The targets are read from the characters config by the current character's id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The target is the one chosen in the game, else the first the config lists.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -33,5 +37,5 @@ export const charactersBuildChecklist = {
     },
   ],
   createdAt: "2026-10-28T19:54:38.440Z",
-  updatedAt: "2026-10-28T19:54:38.440Z",
+  updatedAt: "2026-11-01T19:01:52.055Z",
 } as const satisfies Module

@@ -19,7 +19,11 @@ export const ruleMatcherContextTypes = {
       decisionKind: "decision-kind/departure",
       statement: "Known motif chapters are read by motif number from the lore books alone.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character's target builds are its target build first, then the rest in order.",
+    },
   ],
   createdAt: "2026-09-02T07:23:20.443Z",
-  updatedAt: "2026-09-27T01:35:08.000Z",
+  updatedAt: "2026-11-01T19:01:52.055Z",
 } as const satisfies Module

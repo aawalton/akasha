@@ -18,6 +18,15 @@ export const watcherExportCharacterTargets = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A character's targets are each target build it has, the one it is set up as first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A target names the build it was read from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The add-on is handed game ids and names, and never decodes a build hash.",
     },
     {
@@ -46,5 +55,5 @@ export const watcherExportCharacterTargets = {
     },
   ],
   createdAt: "2026-10-28T19:46:21.781Z",
-  updatedAt: "2026-10-28T19:46:21.781Z",
+  updatedAt: "2026-11-01T19:01:52.055Z",
 } as const satisfies Module

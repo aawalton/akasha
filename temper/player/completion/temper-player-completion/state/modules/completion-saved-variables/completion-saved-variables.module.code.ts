@@ -69,6 +69,7 @@ export interface SavedVariablesData {
     { date: string; value: number; reached?: number; charId?: string }
   >
   characterPriority: string[]
+  activeBuilds?: Record<string, string>
   completionOverrides?: Record<string, CompletionOverride[]>
   taskPanelPosition: { x: number; y: number } | undefined
   guildSalesPostedDate?: string

@@ -6,6 +6,12 @@ export const completionSavedVariables = {
   slug: "completion-saved-variables",
   definition: "the completion addon's saved table and the migrations onto it",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The build each character is set up as is saved by the character's id.",
+    },
+  ],
   createdAt: "2026-09-02T13:34:15.695Z",
-  updatedAt: "2026-09-21T15:58:34.000Z",
+  updatedAt: "2026-11-01T19:01:52.055Z",
 } as const satisfies Module

@@ -15,6 +15,7 @@ import {
   type ChecklistSection,
   checklistOf,
   currentCharacterTarget,
+  currentCharacterTargets,
 } from "akasha/temper/addon/pages/characters/modules/characters-build-checklist/characters-build-checklist.module.code.ts"
 import { applyGearTarget } from "akasha/temper/addon/pages/characters/modules/characters-build-gear/characters-build-gear.module.code.ts"
 import {
@@ -22,6 +23,8 @@ import {
   PANEL_GAP,
 } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import type { CharacterTarget } from "akasha/temper/player/character/build/modules/character-target-types/character-target-types.module.code.ts"
+import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+import "akasha/temper/addon/type/temper-items-global/temper-items-global.type-declaration.d.ts"
 import {
   colorOf,
   colorText,
@@ -81,6 +84,7 @@ function applyText(titles: readonly string[]): string {
 interface TargetPanel {
   readonly window: TopLevelWindow
   readonly title: LabelControl
+  readonly choose: ButtonControl
   readonly apply: ButtonControl
   readonly said: LabelControl
   readonly lines: readonly LabelControl[]
@@ -107,6 +111,26 @@ function applyTarget(): undefined {
   return undefined
 }
 
+function nextTarget(): CharacterTarget | undefined {
+  const targets = currentCharacterTargets()
+  if (targets.length < 2) return undefined
+  const at = targets.findIndex((one) => one.buildId === currentCharacterTarget()?.buildId)
+  return targets[(at + 1) % targets.length]
+}
+
+function chooseNextTarget(): undefined {
+  const next = nextTarget()
+  if (next === undefined || held === undefined) return undefined
+  const sv = getSavedVariables()
+  const chosen = sv.activeBuilds ?? {}
+  chosen[GetCurrentCharacterId()] = next.buildId
+  sv.activeBuilds = chosen
+  held.said.SetText("")
+  TemperItems?.Rescan()
+  refreshTargetPanel()
+  return undefined
+}
+
 function createTargetPanel(): TargetPanel {
   const window = WINDOW_MANAGER.CreateTopLevelWindow(PANEL_NAME)
   window.SetHidden(true)
@@ -114,6 +138,9 @@ function createTargetPanel(): TargetPanel {
 
   const title = WINDOW_MANAGER.CreateControl("$(parent)Title", window, CT_LABEL)
   styleText(title, "heading")
+
+  const choose = buildButton(window, undefined, "Switch build", "default")
+  choose.SetHandler("OnClicked", chooseNextTarget)
 
   const apply = buildButton(window, undefined, "Apply", "default")
   apply.SetHandler("OnClicked", applyTarget)
@@ -126,7 +153,7 @@ function createTargetPanel(): TargetPanel {
   const lines: LabelControl[] = []
   for (let at = 0; at < LINES_SHOWN; at++) lines.push(lineLabel(window))
 
-  return { window, title, apply, said, lines }
+  return { window, title, choose, apply, said, lines }
 }
 
 function placeAt(control: Control, panel: TargetPanel, top: number, indent: number): number {
@@ -236,6 +263,9 @@ function refreshTargetPanel(this: void): undefined {
   }
   panel.title.SetWidth(0)
   panel.title.SetText(`Target Build — ${target.title}`)
+  const next = nextTarget()
+  panel.choose.SetHidden(next === undefined)
+  if (next !== undefined) setButtonText(panel.choose, `Switch to ${next.title}`)
   const sections = checklistOf(target)
   const applying = toApply(sections)
   panel.apply.SetHidden(applying.length === 0)
@@ -243,6 +273,7 @@ function refreshTargetPanel(this: void): undefined {
   const rows = showRows(panel, sections)
 
   let widest = math.max(MIN_WIDTH, panel.title.GetTextWidth())
+  if (next !== undefined) widest = math.max(widest, panel.choose.GetWidth())
   if (applying.length > 0) widest = math.max(widest, panel.apply.GetWidth())
   if (panel.said.GetText() !== "") widest = math.max(widest, SAID_WIDTH)
   for (const row of rows) widest = math.max(widest, row.label.GetTextWidth() + row.indent)
@@ -261,6 +292,7 @@ function refreshTargetPanel(this: void): undefined {
   }
 
   let top = placeAt(panel.title, panel, PADDING, 0) + HEADER_GAP
+  if (next !== undefined) top = placeAt(panel.choose, panel, top, 0) + HEADER_GAP
   if (applying.length > 0) top = placeAt(panel.apply, panel, top, 0) + HEADER_GAP
   if (panel.said.GetText() !== "") {
     placeAt(panel.said, panel, top, 0)

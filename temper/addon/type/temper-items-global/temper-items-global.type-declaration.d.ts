@@ -39,6 +39,7 @@ interface TemperItemsApi {
   TravelToNextInventoryHouse: (this: void) => undefined
   getInventoryActionSummary: (this: void) => TemperItemsActionSummary | undefined
   getSavedVariables: (this: void) => TemperItemsSavedVariables
+  Rescan: (this: void) => undefined
 }
 
 declare var TemperItems: TemperItemsApi | undefined

@@ -65,7 +65,16 @@ export const charactersBuildTargetPanel = {
       decisionKind: "decision-kind/departure",
       statement: "The checklist is read again a moment after an apply.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A character with more than one target build shows a button switching to the next.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Switching saves the choice and has the items add-on judge every item again.",
+    },
   ],
   createdAt: "2026-10-28T19:54:38.440Z",
-  updatedAt: "2026-10-29T14:41:01.658Z",
+  updatedAt: "2026-11-01T19:01:52.055Z",
 } as const satisfies Module

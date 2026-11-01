@@ -44,6 +44,16 @@ export interface CompletionCharacterInput {
   completion?: unknown
 }
 
+export function targetBuildIdsOf(
+  char: Pick<CompletionCharacterInput, "targetBuildId" | "targetBuildIds">
+): readonly string[] {
+  const ids: string[] = char.targetBuildId == null ? [] : [char.targetBuildId]
+  for (const id of char.targetBuildIds ?? []) {
+    if (!ids.includes(id)) ids.push(id)
+  }
+  return ids
+}
+
 export interface CharacterBuildInput {
   id: string
   buildHash: string

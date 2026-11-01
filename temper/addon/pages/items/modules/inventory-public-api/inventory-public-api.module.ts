@@ -6,6 +6,12 @@ export const inventoryPublicApi = {
   slug: "inventory-public-api",
   definition: "the global table this add-on publishes for keybinds and other add-ons",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Another add-on may have the rules judge every item again.",
+    },
+  ],
   createdAt: "2026-09-02T13:39:35.854Z",
-  updatedAt: "2026-09-21T17:37:10.000Z",
+  updatedAt: "2026-11-01T19:01:52.055Z",
 } as const satisfies Module

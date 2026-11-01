@@ -7,6 +7,7 @@ import {
   toggleHoveredItemLock,
   toggleHoveredItemSell,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-keybind/inventory-rules-keybind.module.code.ts"
+import { RESCAN_INVENTORY_HOLDER } from "akasha/temper/addon/pages/items/modules/inventory-rules-rescan-ref/inventory-rules-rescan-ref.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 
 globalThis.TemperItems = {
@@ -16,4 +17,8 @@ globalThis.TemperItems = {
   TravelToNextInventoryHouse: travelToNextInventoryHouse,
   getInventoryActionSummary,
   getSavedVariables,
+  Rescan: () => {
+    RESCAN_INVENTORY_HOLDER.fn?.()
+    return undefined
+  },
 }

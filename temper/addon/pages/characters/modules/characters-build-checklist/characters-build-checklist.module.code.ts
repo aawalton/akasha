@@ -30,6 +30,7 @@ import type {
   TargetDiscipline,
   TargetGear,
 } from "akasha/temper/player/character/build/modules/character-target-types/character-target-types.module.code.ts"
+import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 interface ChecklistLine {
   readonly text: string
@@ -47,9 +48,10 @@ const DISCIPLINE_TITLES: Readonly<Record<string, string>> = {
   craft: "Craft",
 }
 
-function isCharacterTarget(value: unknown): value is CharacterTarget {
+function isCharacterTarget(this: void, value: unknown): value is CharacterTarget {
   if (!isObjectRecord(value)) return false
   return (
+    typeof value["buildId"] === "string" &&
     typeof value["title"] === "string" &&
     isObjectRecord(value["attributes"]) &&
     isObjectRecord(value["champion"]) &&
@@ -58,13 +60,20 @@ function isCharacterTarget(value: unknown): value is CharacterTarget {
   )
 }
 
-export function currentCharacterTarget(): CharacterTarget | undefined {
+export function currentCharacterTargets(): readonly CharacterTarget[] {
   const config: unknown = globalThis.TemperCharactersConfig
-  if (!isObjectRecord(config)) return undefined
+  if (!isObjectRecord(config)) return []
   const targets = config["characterTargets"]
-  if (!isObjectRecord(targets)) return undefined
-  const target = targets[GetCurrentCharacterId()]
-  return isCharacterTarget(target) ? target : undefined
+  if (!isObjectRecord(targets)) return []
+  const listed = targets[GetCurrentCharacterId()]
+  if (!Array.isArray(listed)) return []
+  return listed.filter(isCharacterTarget)
+}
+
+export function currentCharacterTarget(): CharacterTarget | undefined {
+  const targets = currentCharacterTargets()
+  const chosen = getSavedVariables().activeBuilds?.[GetCurrentCharacterId()]
+  return targets.find((one) => one.buildId === chosen) ?? targets[0]
 }
 
 function attributesSection(target: CharacterTarget): ChecklistSection {

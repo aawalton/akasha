@@ -22,7 +22,10 @@ import { countScripts } from "akasha/temper/addon/pages/items/modules/inventory-
 import { setCategoryOf } from "akasha/temper/addon/pages/items/modules/inventory-set-categories/inventory-set-categories.module.code.ts"
 import { buildGetCharacterSkillLineRanks } from "akasha/temper/addon/pages/items/modules/inventory-skill-line-ranks/inventory-skill-line-ranks.module.code.ts"
 import { canCharacterLevelMorphs } from "akasha/temper/addon/pages/items/modules/inventory-skill-morphs-progress/inventory-skill-morphs-progress.module.code.ts"
-import { getTemperCharactersData } from "akasha/temper/addon/pages/items/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
+import {
+  chosenBuildOf,
+  getTemperCharactersData,
+} from "akasha/temper/addon/pages/items/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
 import {
   addonIsCompanionTrait,
   addonTraitOfEso,
@@ -208,6 +211,7 @@ export function buildEsoEvalEnv(): EvalEnv {
       return wantedHolderOf(compiled.wantedEquipment, facts, {
         wornBy: characterWornPieces,
         heldBy: characterHeldPieces,
+        chosenBuildOf,
         holder,
       })
     },
