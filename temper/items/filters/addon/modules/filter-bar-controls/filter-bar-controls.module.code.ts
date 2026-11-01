@@ -48,6 +48,7 @@ const RANGE_BOX_WIDTH = 70
 const MULTISELECT_DROPDOWN_WIDTH = 120
 const TOGGLE_WIDTH = 70
 const VALUE_PLACEHOLDER = "Amount"
+const LISTED_PICKS_LENGTH = 24
 const DEFAULT_OP: ComparisonOp = "<="
 
 type ComparisonOp = NonNullable<FilterRangeValue["op"]>
@@ -236,7 +237,7 @@ export function buildMultiselectEditor(
         : GetItemQualityColor(option.itemQuality).Colorize(option.label)
     const item = comboBox.CreateItemEntry(label, pushPicked)
     comboBox.AddItem(item)
-    entries.push({ item, value: option.value, label })
+    entries.push({ item, value: option.value, label: option.label })
   }
 
   ctx.addReset(function (this: void): undefined {
@@ -250,9 +251,9 @@ export function buildMultiselectEditor(
 }
 
 function pickedText(names: readonly string[]): string {
-  const only = names[0]
-  if (only === undefined) return ALL_OPTION_LABEL
-  if (names.length === 1) return only
+  if (names.length === 0) return ALL_OPTION_LABEL
+  const listed = names.join(", ")
+  if (listed.length <= LISTED_PICKS_LENGTH) return listed
   return `${names.length} selected`
 }
 

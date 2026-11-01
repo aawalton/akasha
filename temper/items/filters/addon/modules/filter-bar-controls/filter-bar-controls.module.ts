@@ -60,7 +60,7 @@ export const filterBarControls = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A multiselect pill names its one pick, or counts its picks.",
+      statement: "A multiselect pill lists its picks, or counts them where the list would not fit.",
     },
 
     {
@@ -69,5 +69,5 @@ export const filterBarControls = {
     },
   ],
   createdAt: "2026-09-02T08:45:26.710Z",
-  updatedAt: "2026-11-01T22:11:58.614Z",
+  updatedAt: "2026-11-01T22:26:37.178Z",
 } as const satisfies Module
