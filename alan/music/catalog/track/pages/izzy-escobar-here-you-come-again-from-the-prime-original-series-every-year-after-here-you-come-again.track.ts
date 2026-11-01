@@ -5,11 +5,11 @@ export const izzyEscobarHereYouComeAgainFromThePrimeOriginalSeriesEveryYearAfter
   type: "page-type/track",
   slug: "izzy-escobar-here-you-come-again-from-the-prime-original-series-every-year-after-here-you-come-again",
   ownLength: 3.44585,
-  ownProgress: 0,
+  ownProgress: 3.44585,
   partOfCollections: [
     "release/izzy-escobar-here-you-come-again-from-the-prime-original-series-every-year-after",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Here You Come Again - From the Prime Original Series Every Year After",
   trackType: "studio",
@@ -29,5 +29,6 @@ export const izzyEscobarHereYouComeAgainFromThePrimeOriginalSeriesEveryYearAfter
     },
   ],
   createdAt: "2026-10-18T13:45:27.615Z",
-  updatedAt: "2026-10-18T13:45:27.615Z",
+  updatedAt: "2026-11-01T16:00:59.062Z",
+  progressedAt: "2026-11-01T16:00:59.062Z",
 } as const satisfies Track
