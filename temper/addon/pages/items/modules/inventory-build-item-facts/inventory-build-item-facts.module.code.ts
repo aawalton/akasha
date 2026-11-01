@@ -34,11 +34,13 @@ import {
 } from "akasha/temper/items/rules/core/modules/potion-restore-resolve/potion-restore-resolve.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-facts/item-facts.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
@@ -138,6 +140,12 @@ function isDailyWritNeededOf(isCrafted: boolean, itemLink: string, slot: SlotSig
   return isSlotNeededForDailyWrit(slot.at.bagId, slot.at.slotIndex)
 }
 
+function reconstructionCostOf(setId: number | undefined): number | undefined {
+  if (setId === undefined) return undefined
+  const cost = GetItemReconstructionCurrencyOptionCost(setId, CURT_TRANSMUTE_CRYSTALS)
+  return cost !== undefined && cost > 0 ? cost : undefined
+}
+
 function buildFactsCore(itemLink: string, slot: SlotSignals): ItemFacts {
   const signals = gatherSignals(0, 0, itemLink)
   const nodeId = classifyItem(signals)
@@ -164,6 +172,7 @@ function buildFactsCore(itemLink: string, slot: SlotSignals): ItemFacts {
 
   const [hasSet, , , , , setIdRaw] = GetItemLinkSetInfo(itemLink, false)
   const setId = hasSet && setIdRaw !== 0 ? setIdRaw : undefined
+  const reconstructionCost = reconstructionCostOf(setId)
 
   const isContainer = IsItemLinkContainer(itemLink)
   const isCrafted =
@@ -221,6 +230,7 @@ function buildFactsCore(itemLink: string, slot: SlotSignals): ItemFacts {
     marketValue,
     merchantValue: slot.merchantValue,
     replacementValue,
+    reconstructionCost,
     known,
     isKnowledgeItem: isKnowledge,
     potionEffectMetricIds,

@@ -62,6 +62,7 @@
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-server-request/sales-history-server-request.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-settings/sales-history-settings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-window-debug/sales-history-status-window-debug.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-entry/inventory-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-events/inventory-events.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-furnishing-scanner/inventory-furnishing-scanner.module.code.ts","typed":false,"deferred":false}

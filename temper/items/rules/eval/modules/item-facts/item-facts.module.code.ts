@@ -41,6 +41,7 @@ export interface ItemFacts {
   readonly marketValue?: number
   readonly merchantValue?: number
   readonly replacementValue?: number
+  readonly reconstructionCost?: number
 
   readonly known?: boolean
 

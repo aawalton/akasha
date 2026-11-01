@@ -29,7 +29,11 @@ export const inventoryBuildItemFacts = {
       decisionKind: "decision-kind/departure",
       statement: "A furnishing's facts carry the house limit type its link counts against.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A set item's reconstruction cost is read live, and a cost of zero is unknown.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.849Z",
-  updatedAt: "2026-10-28T20:47:31.599Z",
+  updatedAt: "2026-11-01T20:10:43.346Z",
 } as const satisfies Module
