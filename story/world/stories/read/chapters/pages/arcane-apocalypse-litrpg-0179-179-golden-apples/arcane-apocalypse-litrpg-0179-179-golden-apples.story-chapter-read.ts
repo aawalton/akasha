@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg0179179GoldenApples = {
     },
   ],
   createdAt: "2026-10-28T16:29:36.261Z",
-  updatedAt: "2026-10-28T16:29:36.261Z",
+  updatedAt: "2026-11-01T13:24:51.258Z",
+  ownProgress: 3723,
+  progressedAt: "2026-11-01T13:24:51.258Z",
 } as const satisfies StoryChapterRead

@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg0178178Arwen = {
     },
   ],
   createdAt: "2026-10-28T16:29:36.261Z",
-  updatedAt: "2026-10-28T16:29:36.261Z",
+  updatedAt: "2026-11-01T13:24:51.258Z",
+  ownProgress: 4021,
+  progressedAt: "2026-11-01T13:24:51.258Z",
 } as const satisfies StoryChapterRead
