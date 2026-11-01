@@ -24,6 +24,7 @@ export const craftingStation = {
     "module/craft-cook",
     "module/craft-cooking",
     "module/craft-cooking-lists",
+    "module/craft-deconstruction-filter",
     "module/craft-crafting",
     "module/craft-defined",
     "module/craft-furnisher",
@@ -337,5 +338,5 @@ export const craftingStation = {
     },
   ],
   createdAt: "2026-09-22T03:19:08.039Z",
-  updatedAt: "2026-09-27T20:08:27.000Z",
+  updatedAt: "2026-11-01T19:28:52.845Z",
 } as const satisfies Domain

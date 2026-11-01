@@ -3716,6 +3716,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-cooking-lists/craft-cooking-lists.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-cooking/craft-cooking.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-crafting/craft-crafting.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-deconstruction-filter/craft-deconstruction-filter.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-defined/craft-defined.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-furnisher-early/craft-furnisher-early.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-furnisher-late/craft-furnisher-late.module.ts","typed":true,"deferred":false}

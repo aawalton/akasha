@@ -3,6 +3,7 @@ import "akasha/temper/addon/pages/items/crafting-station/modules/crafting-entry/
 import "akasha/temper/addon/pages/items/modules/sales-addon-entry/sales-addon-entry.module.code.ts"
 import "akasha/temper/addon/pages/items/modules/trading-entry/trading-entry.module.code.ts"
 
+import { initializeDeconstructionFilter } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-deconstruction-filter/craft-deconstruction-filter.module.code.ts"
 import { initializeInventoryActionPanel } from "akasha/temper/addon/pages/items/modules/inventory-action-panel/inventory-action-panel.module.code.ts"
 import { initializeBankActionPanel } from "akasha/temper/addon/pages/items/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts"
 import {
@@ -96,6 +97,7 @@ function initialize(): undefined {
   registerConfirmDialog()
   initializeInventoryActionPanel()
   initializeBankActionPanel()
+  initializeDeconstructionFilter()
   initializeFilterBar()
   initializeInventoryBrowser()
   registerHudFields()
