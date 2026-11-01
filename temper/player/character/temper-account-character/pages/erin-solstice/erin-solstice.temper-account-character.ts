@@ -13,10 +13,10 @@ export const erinSolstice = {
   race: "temper-race/imperial",
   class: "temper-class/dragonknight",
   firstName: "Erin",
-  targetBuildIds: ["01a198e6-6cc4-7ceb-b875-875f1260222c"],
+  targetBuildIds: ["01a198e6-6cc4-7ceb-b875-875f1260222c", "01a1991b-790f-716d-970d-07dc4d919d00"],
   fights: "jsonl",
   readings: "jsonl",
   removedReadings: "jsonl",
   createdAt: "2026-04-29T16:44:26.851Z",
-  updatedAt: "2026-11-01T20:56:41.929Z",
+  updatedAt: "2026-11-01T21:54:37.823Z",
 } as const satisfies TemperAccountCharacter
