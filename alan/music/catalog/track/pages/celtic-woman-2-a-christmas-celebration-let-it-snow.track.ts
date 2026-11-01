@@ -6,7 +6,10 @@ export const celticWoman2AChristmasCelebrationLetItSnow = {
   slug: "celtic-woman-2-a-christmas-celebration-let-it-snow",
   ownLength: 2.50955,
   ownProgress: 2.50955,
-  partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
+  partOfCollections: [
+    "release/celtic-woman-2-a-christmas-celebration",
+    "release/celtic-woman-2-the-best-of-christmas",
+  ],
   status: "completed",
   unit: "unit/minutes",
   title: "Let It Snow",
@@ -23,7 +26,14 @@ export const celticWoman2AChristmasCelebrationLetItSnow = {
       externalId: "44FJNOq0COMcht2LWn21FW",
       externalLink: "https://open.spotify.com/track/44FJNOq0COMcht2LWn21FW",
     },
+    {
+      release: "release/celtic-woman-2-the-best-of-christmas",
+      discNumber: 1,
+      position: 12,
+      externalId: "4yosfD7HdHmRAFIBy9jhkh",
+      externalLink: "https://open.spotify.com/track/4yosfD7HdHmRAFIBy9jhkh",
+    },
   ],
   createdAt: "2026-09-16T20:31:05.233Z",
-  updatedAt: "2026-09-24T19:58:53.000Z",
+  updatedAt: "2026-11-01T14:47:55.150Z",
 } as const satisfies Track

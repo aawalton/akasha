@@ -23,11 +23,11 @@ export const celticWoman = {
       source: "spotify",
       externalId: "6NWtt9pNOL2Gx7kBykdE5x",
       externalLink: "https://open.spotify.com/artist/6NWtt9pNOL2Gx7kBykdE5x",
-      lastSyncedAt: "2026-09-24",
+      lastSyncedAt: "2026-11-01",
     },
   ],
   title: "Celtic Woman",
   genre: ["celtic", "celtic new age", "classical", "classical crossover", "folk", "new age"],
   createdAt: "2026-09-03T16:04:08.683Z",
-  updatedAt: "2026-09-24T22:15:33.000Z",
+  updatedAt: "2026-11-01T14:47:55.150Z",
 } as const satisfies Artist
