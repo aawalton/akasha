@@ -22,6 +22,7 @@ import {
   type TargetDisciplineKey,
   type TargetGear,
   type TargetPassive,
+  type TargetQuickslot,
   type TargetStar,
 } from "akasha/temper/player/character/build/modules/character-target-types/character-target-types.module.code.ts"
 import { buildInterface } from "akasha/temper/player/character/build-interface/build-interface.page-type.ts"
@@ -45,6 +46,7 @@ import {
   mundus,
   mundusAt,
 } from "akasha/temper/player/character/source/modules/mundus-source/mundus-source.module.code.ts"
+import { quickslotsIn } from "akasha/temper/watcher/modules/watcher-build-edit-landing/watcher-build-edit-landing.module.code.ts"
 import {
   CHARACTER_BUILD_PAGE_TYPE_SLUG,
   CHARACTER_PAGE_TYPE_SLUG,
@@ -148,6 +150,7 @@ export interface TargetPageValues {
   readonly updatedAt?: string
   readonly editId?: string
   readonly correlationId?: string
+  readonly quickslots?: readonly TargetQuickslot[]
 }
 
 const FIRST_ICON = 1
@@ -183,6 +186,7 @@ export function characterTargetOf(
     ...(foodTarget === undefined ? {} : { food: foodTarget }),
     gear: gearListOf(build),
     passives: passivesOf(build),
+    ...(page.quickslots === undefined ? {} : { quickslots: page.quickslots }),
   }
 }
 
@@ -254,6 +258,7 @@ async function targetOf(
       "updatedAt",
       "editId",
       "correlationId",
+      "quickslots",
     ],
   })
   const hash = build === null ? null : stringAt(build, "buildHash")
@@ -275,11 +280,13 @@ function targetPageValuesOf(build: PageValues): TargetPageValues {
   const updatedAt = stringAt(build, "updatedAt")
   const editId = stringAt(build, "editId")
   const correlationId = stringAt(build, "correlationId")
+  const quickslots = quickslotsIn(build)
   return {
     ...(typeof icon === "number" ? { icon } : {}),
     ...(updatedAt === null ? {} : { updatedAt }),
     ...(editId === null ? {} : { editId }),
     ...(correlationId === null ? {} : { correlationId }),
+    ...(quickslots === undefined ? {} : { quickslots }),
   }
 }
 

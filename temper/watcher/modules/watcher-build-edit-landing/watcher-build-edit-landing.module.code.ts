@@ -82,7 +82,7 @@ function quickslotOf(value: unknown): TargetQuickslot | undefined {
   return { slot, kind: kind as TargetQuickslot["kind"], id, name }
 }
 
-function quickslotsIn(view: unknown): readonly TargetQuickslot[] | undefined {
+export function quickslotsIn(view: unknown): readonly TargetQuickslot[] | undefined {
   const held = asRecord(view)?.["quickslots"]
   if (held === undefined) return undefined
   const entries = Array.isArray(held) ? held : Object.values(asRecord(held) ?? {})

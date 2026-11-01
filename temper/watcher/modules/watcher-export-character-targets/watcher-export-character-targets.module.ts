@@ -64,6 +64,10 @@ export const watcherExportCharacterTargets = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A target carries its build's quickslots, and none where its build holds none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The catalogs are read only once a character has a target build.",
     },
     {
@@ -72,5 +76,5 @@ export const watcherExportCharacterTargets = {
     },
   ],
   createdAt: "2026-10-28T19:46:21.781Z",
-  updatedAt: "2026-11-01T22:06:14.366Z",
+  updatedAt: "2026-11-01T22:44:43.412Z",
 } as const satisfies Module

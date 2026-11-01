@@ -191,6 +191,24 @@ test("a build stating no icon shows the first icon", () => {
   expect(TARGET.icon).toBe(1)
 })
 
+test("a target carries the quickslots its build holds, and none where it holds none", async () => {
+  const potion = { slot: 3, kind: "item", id: 27036, name: "Essence of Health" } as const
+  const reader: PageReader = {
+    collect: async (args) =>
+      args.pageTypeSlug === buildInterface.slug
+        ? []
+        : [{ esoCharacterId: "1001", targetBuildId: maxMaxStamina.id }],
+    get: async () => ({
+      buildHash: maxMaxStamina.buildHash,
+      title: maxMaxStamina.title,
+      quickslots: [potion],
+    }),
+  }
+  const targets = await compileCharacterTargets(ACCOUNT, reader, async () => undefined)
+  expect(targets["1001"]?.[0]?.quickslots).toEqual([potion])
+  expect(TARGET.quickslots).toBeUndefined()
+})
+
 test("no character with a target reads no catalog", async () => {
   let read = 0
   await compileCharacterTargets(ACCOUNT, readerOf([{ esoCharacterId: "1" }]), async () => {
