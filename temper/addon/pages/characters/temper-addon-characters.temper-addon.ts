@@ -199,6 +199,7 @@ export const temperAddonCharacters = {
     "module/characters-armory-actions",
     "module/characters-armory-window",
     "module/characters-hud-line",
+    "module/characters-build-target-rows",
   ],
   interfaces: [
     "eso-interface/skill-point-finder-layout",
@@ -246,5 +247,5 @@ export const temperAddonCharacters = {
     },
   ],
   createdAt: "2026-09-02T15:52:42.403Z",
-  updatedAt: "2026-11-01T21:59:40.292Z",
+  updatedAt: "2026-11-01T22:27:26.250Z",
 } as const satisfies TemperAddon
