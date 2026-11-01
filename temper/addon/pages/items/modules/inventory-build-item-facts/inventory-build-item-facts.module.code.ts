@@ -217,6 +217,7 @@ function buildFactsCore(itemLink: string, slot: SlotSignals): ItemFacts {
     isReconstructed,
     isTransmuted,
     isUncollected: isUncollectedPiece(itemLink, itemId, slot.isBound),
+    isUnique: IsItemLinkUnique(itemLink),
     marketValue,
     merchantValue: slot.merchantValue,
     replacementValue,
