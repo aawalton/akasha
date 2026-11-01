@@ -17,9 +17,13 @@ export const charactersArmoryRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A row's button sits as far in from the right as its icon sits from the left.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A build names no outfit, and a build with no mundus stone names none.",
     },
   ],
   createdAt: "2026-11-01T20:43:39.700Z",
-  updatedAt: "2026-11-01T20:43:39.700Z",
+  updatedAt: "2026-11-01T21:26:33.589Z",
 } as const satisfies Module

@@ -22,6 +22,10 @@ const NEW_BUILD_TEXT = "Save as New Build"
 
 const NO_MUNDUS = "None"
 
+const ICON_MARGIN = 10
+
+const ICON_SIZE = 48
+
 export interface ArmoryRow {
   readonly build?: ArmoryBuild
   readonly data?: ArmoryBuildData
@@ -72,6 +76,14 @@ function onClicked(control: Control | undefined, act: () => undefined): undefine
   control?.SetHandler("OnMouseUp", (_control: Control, _button: number, upInside: boolean) => {
     if (upInside) act()
   })
+  return undefined
+}
+
+function matchIconColumn(button: Control | undefined): undefined {
+  if (button === undefined) return undefined
+  const parent = button.GetParent()
+  button.ClearAnchors()
+  button.SetAnchor(CENTER, parent, RIGHT, -(ICON_MARGIN + ICON_SIZE / 2), 0)
   return undefined
 }
 
@@ -132,16 +144,19 @@ export function addArmoryRows(list: Control, acts: ArmoryRowActs): undefined {
     const build = row.build
     if (build === undefined) return undefined
     showHeader(control as ArmoryEntry, build)
+    matchIconColumn(control.GetNamedChild("ContainerExpand"))
     return onClicked(control.GetNamedChild("Container"), () => acts.select(build.key))
   }
   const expanded = (control: Control, row: ArmoryRow): undefined => {
     const { build, data } = row
     if (build === undefined || data === undefined) return undefined
     showExpanded(control as ArmoryExpandedEntry, build, data)
+    matchIconColumn(control.GetNamedChild("ContainerHeaderCollapse"))
     return onClicked(control.GetNamedChild("ContainerHeader"), () => acts.select(undefined))
   }
   const newBuild = (control: Control): undefined => {
     control.GetNamedChild<LabelControl>("ContainerUnlockText")?.SetText(NEW_BUILD_TEXT)
+    matchIconColumn(control.GetNamedChild("ContainerUnlock"))
     return onClicked(control.GetNamedChild("Container"), () => acts.saveNew())
   }
   ZO_ScrollList_AddDataType<ArmoryRow>(
