@@ -67406,7 +67406,7 @@
       "name": "Storm-Cursed's Revenge",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Shipwright's Regret",
-      "slotsUnlocked": 1,
+      "slotsUnlocked": 2,
       "totalSlots": 22,
       "reconstructionCost": 75,
       "pieces": [
@@ -67424,7 +67424,7 @@
         },
         {
           "name": "Storm-Cursed Gloves",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Storm-Cursed Sash",
