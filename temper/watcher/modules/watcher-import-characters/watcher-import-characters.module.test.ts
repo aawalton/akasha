@@ -234,6 +234,28 @@ test("every character of a file of undecodable hashes is skipped", () => {
   })
 })
 
+test("a build changed in the game reaches the landing with its character", async () => {
+  const withEdit = ONE_REAL_CHARACTER.replace(
+    '["characters"] =',
+    `["buildEdits"] = { ["e-1"] = { ["characterId"] = "12345", ["title"] = "Tank" } },
+                ["characters"] =`
+  )
+  const landed: unknown[] = []
+  await runImportCharacters(
+    withEdit,
+    NO_SUPABASE,
+    { userId: "@alan" },
+    {
+      ...{ upsert: recording("page-1").upsert, report: () => undefined, addressOf },
+      file: fileNothing,
+      landEdits: async (edits, context) => {
+        landed.push(edits, [...context.characters.keys()])
+      },
+    }
+  )
+  expect(landed).toEqual([[{ editId: "e-1", characterId: "12345", title: "Tank" }], ["12345"]])
+})
+
 test("a plan holding no action upserts nothing and reports nothing", async () => {
   const { upsert, seen } = recording("page-1")
   const { report, lines } = reporting()

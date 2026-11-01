@@ -67,10 +67,14 @@ export const watcherImportCharacters = {
       statement: "A choice over a build no longer the target, or of no target build, is left.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The builds changed in the game are landed once its characters are written.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a file.",
     },
   ],
   createdAt: "2026-09-02T19:03:27.439Z",
-  updatedAt: "2026-11-01T19:05:45.327Z",
+  updatedAt: "2026-11-01T20:24:08.983Z",
 } as const satisfies Module

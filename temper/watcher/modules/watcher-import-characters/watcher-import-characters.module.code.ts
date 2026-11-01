@@ -27,6 +27,12 @@ import {
 } from "akasha/temper/player/character/temper-account-character/modules/character-race-class/character-race-class.module.code.ts"
 import { resolveAccountPageId } from "akasha/temper/watcher/modules/watcher-account-page/watcher-account-page.module.code.ts"
 import {
+  type BuildEdit,
+  buildEditsIn,
+  type EditedCharacter,
+  landBuildEdits,
+} from "akasha/temper/watcher/modules/watcher-build-edit-landing/watcher-build-edit-landing.module.code.ts"
+import {
   type SignedInReader,
   userIdFor,
 } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
@@ -77,6 +83,7 @@ type CharacterImportAction = CharacterImportSkip | CharacterImportUpsert
 
 interface CharacterImportPlan {
   actions: readonly CharacterImportAction[]
+  buildEdits?: readonly BuildEdit[]
 }
 
 export type PageUpsert = typeof upsertPage
@@ -92,6 +99,7 @@ interface CharacterImportSeams {
   report?: ReportLine
   addressOf?: AccountAddressOf
   file?: CharacterBuildFiler
+  landEdits?: typeof landBuildEdits
 }
 
 function filedLine(filed: FiledCharacterBuild): string {
@@ -130,7 +138,7 @@ export function padEveryTree(championPoints: ChampionPointTrees): ChampionPointT
   return padded
 }
 
-export function parseCharacterSavedVariables(content: string): readonly ParsedCharacterEntry[] {
+function accountWideIn(content: string): Record<string, unknown> {
   const root = parseLuaSavedVariablesFile(content, CHARACTERS_GLOBAL)
 
   const defaultTable = asRecord(root.Default)
@@ -142,6 +150,11 @@ export function parseCharacterSavedVariables(content: string): readonly ParsedCh
   if (!accountWide) {
     throw new Error("Could not find $AccountWide in saved variables")
   }
+  return accountWide
+}
+
+export function parseCharacterSavedVariables(content: string): readonly ParsedCharacterEntry[] {
+  const accountWide = accountWideIn(content)
 
   const charactersTable = asRecord(accountWide.characters) ?? {}
   const chosenTable = asRecord(accountWide.activeBuilds) ?? {}
@@ -179,6 +192,25 @@ function chosenTargetOf(
   return stringsIn(page.targetBuildIds).includes(chosen.buildId) ? chosen.buildId : undefined
 }
 
+function canonicalOf(decoded: CharacterState, characterName: string): string {
+  return encodeBuild({
+    ...decoded,
+    name: characterName,
+    character: {
+      ...decoded.character,
+      name: characterName,
+      skillLineIds: keepKnownSkillLineIds(decoded.character.skillLineIds),
+    },
+    championPoints: padEveryTree(decoded.championPoints),
+    account: { esoPlus: "no-eso-plus" },
+  })
+}
+
+export function canonicalHashOf(hash: string, characterName: string): string | null {
+  const decoded = decodeBuild(toBuildHash(hash))
+  return decoded ? canonicalOf(decoded, characterName) : null
+}
+
 function toCharacterImportAction(entry: ParsedCharacterEntry): CharacterImportAction {
   const decoded = decodeBuild(toBuildHash(entry.buildHash))
   if (!decoded) {
@@ -189,30 +221,22 @@ function toCharacterImportAction(entry: ParsedCharacterEntry): CharacterImportAc
     }
   }
 
-  const buildState: CharacterState = {
-    ...decoded,
-    name: entry.characterName,
-    character: {
-      ...decoded.character,
-      name: entry.characterName,
-      skillLineIds: keepKnownSkillLineIds(decoded.character.skillLineIds),
-    },
-    championPoints: padEveryTree(decoded.championPoints),
-    account: { esoPlus: "no-eso-plus" },
-  }
-
   return {
     action: "upsert",
     characterName: entry.characterName,
     esoCharacterId: entry.esoCharacterId,
-    canonicalHash: encodeBuild(buildState),
+    canonicalHash: canonicalOf(decoded, entry.characterName),
     raceAndClass: raceAndClassNamed(decoded.character.race, decoded.character.class),
     ...(entry.chosen ? { chosen: entry.chosen } : {}),
   }
 }
 
 export function planCharacterImport(content: string): CharacterImportPlan {
-  return { actions: parseCharacterSavedVariables(content).map(toCharacterImportAction) }
+  const buildEdits = buildEditsIn(accountWideIn(content).buildEdits)
+  return {
+    actions: parseCharacterSavedVariables(content).map(toCharacterImportAction),
+    ...(buildEdits.length > 0 ? { buildEdits } : {}),
+  }
 }
 
 export async function executeCharacterImportPlan(
@@ -240,6 +264,7 @@ export async function executeCharacterImportPlan(
     report(`  ${skip.characterName}: ${skip.reason}, skipping`)
   }
 
+  const edited = new Map<string, EditedCharacter>()
   for (const action of upserts) {
     const where = [
       { key: "accountPage", eq: accountPage },
@@ -256,6 +281,11 @@ export async function executeCharacterImportPlan(
       },
       select: ["id", "targetBuildId", "targetBuildIds"],
     })
+    edited.set(action.esoCharacterId, {
+      name: action.characterName,
+      where,
+      targetBuildIds: [...stringsIn(page.targetBuildIds)],
+    })
 
     report(`  ${action.characterName}: captured hash ${action.canonicalHash}`)
 
@@ -269,6 +299,12 @@ export async function executeCharacterImportPlan(
     })
     report(`  ${action.characterName}: set up as build ${chosen}`)
   }
+
+  await (seams.landEdits ?? landBuildEdits)(
+    plan.buildEdits ?? [],
+    { accountPage, characters: edited, canonical: canonicalHashOf },
+    report
+  )
 
   const filed = await (seams.file ?? fileCharacterBuilds)(accountPage)
   for (const one of filed) report(filedLine(one))
