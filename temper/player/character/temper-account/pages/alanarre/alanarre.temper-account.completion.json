@@ -67309,8 +67309,9 @@
       "name": "Turning Tide",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Shipwright's Regret",
-      "slotsUnlocked": 0,
+      "slotsUnlocked": 1,
       "totalSlots": 22,
+      "reconstructionCost": 75,
       "pieces": [
         {
           "name": "Helm of the Turning Tide",
@@ -67346,7 +67347,7 @@
         },
         {
           "name": "Ring of the Turning Tide",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Dagger of the Turning Tide",
@@ -67972,13 +67973,13 @@
       "name": "Nazaray",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Shipwright's Regret",
-      "slotsUnlocked": 4,
+      "slotsUnlocked": 5,
       "totalSlots": 6,
       "reconstructionCost": 55,
       "pieces": [
         {
           "name": "Nazaray Guise",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Nazaray Mask",
