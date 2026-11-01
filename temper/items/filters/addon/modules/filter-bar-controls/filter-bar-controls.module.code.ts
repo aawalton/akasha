@@ -8,6 +8,8 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
 import type { FilterController } from "akasha/temper/items/filters/addon/modules/panel-filter-binding/panel-filter-binding.module.code.ts"
 import type {
   AnyTemperFilter,
@@ -42,6 +44,16 @@ export interface BarButton {
   button: ButtonControl
   backdrop: BackdropControl
   label: LabelControl
+}
+
+interface MultiSelectComboBox extends ComboBox {
+  EnableMultiSelect: (
+    this: MultiSelectComboBox,
+    textFormatter: string,
+    noSelectionText: string
+  ) => void
+  IsItemSelected: (this: MultiSelectComboBox, item: ComboBoxItem) => boolean
+  ClearAllSelections: (this: MultiSelectComboBox) => void
 }
 
 export interface BarContext {
@@ -169,29 +181,43 @@ export function buildMultiselectEditor(
   container.SetDimensions(width, CONTROL_HEIGHT)
   container.SetAnchor(TOPLEFT, parent, TOPLEFT, xOffset, PADDING_Y)
 
-  const comboBox = ZO_ComboBox_ObjectFromContainer(container)
+  const comboBox = ZO_ComboBox_ObjectFromContainer(container) as MultiSelectComboBox
+  comboBox.SetSortsItems(false)
+  comboBox.EnableMultiSelect(
+    GetString(SI_COMBO_BOX_DEFAULT_MULTISELECTION_TEXT_FORMATTER),
+    ALL_OPTION_LABEL
+  )
   const id = filter.id
   const cell: { syncing: boolean } = { syncing: false }
+  const entries: { readonly item: ComboBoxItem; readonly value: string }[] = []
 
-  const allEntry = comboBox.CreateItemEntry(ALL_OPTION_LABEL, function (this: void): undefined {
+  function pushPicked(this: void): undefined {
     if (cell.syncing) return
-    ctx.controller.clearFilter(id)
-  })
-  comboBox.AddItem(allEntry)
-
-  for (const option of options) {
-    const value = option.value
-    const entry = comboBox.CreateItemEntry(option.label, function (this: void): undefined {
-      if (cell.syncing) return
-      ctx.controller.setFilter(id, [value])
-    })
-    comboBox.AddItem(entry)
+    const picked: string[] = []
+    for (const entry of entries) {
+      if (comboBox.IsItemSelected(entry.item)) picked.push(entry.value)
+    }
+    if (picked.length === 0) {
+      ctx.controller.clearFilter(id)
+    } else {
+      ctx.controller.setFilter(id, picked)
+    }
   }
 
-  selectAllEntry(comboBox, cell)
+  for (const option of options) {
+    const label =
+      option.itemQuality === undefined
+        ? option.label
+        : GetItemQualityColor(option.itemQuality).Colorize(option.label)
+    const item = comboBox.CreateItemEntry(label, pushPicked)
+    comboBox.AddItem(item)
+    entries.push({ item, value: option.value })
+  }
 
   ctx.addReset(function (this: void): undefined {
-    selectAllEntry(comboBox, cell)
+    cell.syncing = true
+    comboBox.ClearAllSelections()
+    cell.syncing = false
   })
 
   return xOffset + width + CONTROL_GAP

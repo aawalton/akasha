@@ -21,6 +21,14 @@ export const filterBarControls = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A multiselect dropdown picks any set of entries, and picking none turns it off.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An entry naming an item quality is shown in that quality's color.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "An editor registers a reset with the bar context so the clear button can reach that reset.",
     },
@@ -44,5 +52,5 @@ export const filterBarControls = {
     },
   ],
   createdAt: "2026-09-02T08:45:26.710Z",
-  updatedAt: "2026-10-18T19:12:02.917Z",
+  updatedAt: "2026-11-01T21:30:20.157Z",
 } as const satisfies Module
