@@ -18,6 +18,7 @@ export type FilterGroup =
 export interface FilterEditorOption {
   readonly value: string
   readonly label: string
+  readonly itemQuality?: number
 }
 
 type FilterEditorSpec =

@@ -6,10 +6,15 @@ export const searchStringArrayParse = {
   slug: "search-string-array-parse",
   definition: "a list of strings read out of whatever a saved search or an editor handed in",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A value that is no array is read as no value.",
+      statement: "A value that is no array is read as no value, unless read as one-or-many.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Read as one-or-many, a single string or number is a list of that one string.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -17,5 +22,5 @@ export const searchStringArrayParse = {
     },
   ],
   createdAt: "2026-09-02T08:27:23.695Z",
-  updatedAt: "2026-09-21T15:36:37.000Z",
+  updatedAt: "2026-11-01T21:28:40.921Z",
 } as const satisfies Module

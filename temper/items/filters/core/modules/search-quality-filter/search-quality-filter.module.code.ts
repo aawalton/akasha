@@ -6,19 +6,23 @@ import {
   type FilterEditorOption,
 } from "akasha/temper/items/filters/core/modules/search-filter-types/search-filter-types.module.code.ts"
 import { selectedIdsToServerTerms } from "akasha/temper/items/filters/core/modules/search-server-narrowing/search-server-narrowing.module.code.ts"
-import { parseStringArray } from "akasha/temper/items/filters/core/modules/search-string-array-parse/search-string-array-parse.module.code.ts"
+import { parseStringArrayOrOne } from "akasha/temper/items/filters/core/modules/search-string-array-parse/search-string-array-parse.module.code.ts"
 
-type QualityRow = Pick<TemperQuality, "available" | "esoDisplayQuality" | "gameName">
+type QualityRow = Pick<TemperQuality, "esoDisplayQuality" | "gameName">
 
 function qualityOptionsOf(this: void, rows: readonly QualityRow[]): readonly FilterEditorOption[] {
   const offered: { readonly quality: number; readonly name: string }[] = []
   for (const row of rows) {
-    if (row.available && row.gameName !== undefined) {
+    if (row.gameName !== undefined) {
       offered.push({ quality: row.esoDisplayQuality, name: row.gameName })
     }
   }
   offered.sort((one, other) => one.quality - other.quality)
-  return offered.map((one) => ({ value: String(one.quality), label: one.name }))
+  return offered.map((one) => ({
+    value: String(one.quality),
+    label: one.name,
+    itemQuality: one.quality,
+  }))
 }
 
 const QUALITY_OPTIONS = qualityOptionsOf($pagesOfType<QualityRow>(temperQuality))
@@ -40,6 +44,6 @@ export const QUALITY_FILTER = defineFilter<readonly string[]>({
     return [...value]
   },
   deserialize(raw) {
-    return parseStringArray(raw)
+    return parseStringArrayOrOne(raw)
   },
 })

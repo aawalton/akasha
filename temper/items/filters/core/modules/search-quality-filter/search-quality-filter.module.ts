@@ -4,7 +4,7 @@ export const searchQualityFilter = {
   id: "01a0613a-e0ab-7528-b275-c36c451d9da6",
   type: "page-type/module",
   slug: "search-quality-filter",
-  definition: "the item quality, narrowed by a multiselect of the six quality tiers",
+  definition: "the item quality, narrowed by a multiselect of the quality tiers",
   code: "ts",
   decisions: [
     {
@@ -17,13 +17,21 @@ export const searchQualityFilter = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The options are the available quality pages, compiled in as the add-on compiles.",
+      statement: "The options are every quality page, compiled in as the add-on compiles.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "An option's value is the quality's game number and its label the game's name.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item matches where its display quality is one of the picked qualities.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A saved single quality reads back as a set of that one quality.",
+    },
   ],
   createdAt: "2026-09-02T08:27:23.691Z",
-  updatedAt: "2026-09-27T04:12:35.000Z",
+  updatedAt: "2026-11-01T21:28:40.921Z",
 } as const satisfies Module
