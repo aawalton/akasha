@@ -273,6 +273,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/source/temper-food-or-drink/properties/food-or-drink-item-ids.number-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/source/temper-target/properties/source-effects.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/temper-account-character/properties/character-roles.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/temper-account-character/properties/target-build-ids.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/temper-companion-progress/properties/companion-roles.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/temper-mine/properties/set-bonuses.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/holdings/temper-item-category-tree/properties/armor-types.number-property.types.ts","typed":true,"deferred":false}

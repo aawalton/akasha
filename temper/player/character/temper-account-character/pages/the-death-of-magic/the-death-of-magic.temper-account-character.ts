@@ -10,10 +10,11 @@ export const theDeathOfMagic = {
   esoCharacterId: "8796093072548641",
   accountPage: "temper-account/alanarre",
   targetBuildId: "01a19752-9b74-7754-95fa-1ef1e76a8226",
+  targetBuildIds: ["01a19752-9b74-7754-95fa-1ef1e76a8226"],
   race: "temper-race/altmer",
   class: "temper-class/arcanist",
   firstName: "The Death of Magic",
   readings: "jsonl",
   createdAt: "2026-04-29T16:44:20.913Z",
-  updatedAt: "2026-11-01T13:35:53.027Z",
+  updatedAt: "2026-11-01T18:43:46.704Z",
 } as const satisfies TemperAccountCharacter

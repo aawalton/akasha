@@ -649,6 +649,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/stat/temper-metric/properties/metric-value-type.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/temper-account-character/properties/first-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/temper-account-character/properties/live-build-id.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/temper-account-character/properties/target-build-ids.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/collectible-link.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/completion-visibility.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/currency-scope.text-property.ts","typed":true,"deferred":false}

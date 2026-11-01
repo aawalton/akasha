@@ -10,6 +10,7 @@ export const kheltaTheEternal = {
   esoCharacterId: "8796093063486855",
   accountPage: "temper-account/alanarre",
   targetBuildId: "01a1840c-70dd-7eca-aac8-d45018a8a265",
+  targetBuildIds: ["01a1840c-70dd-7eca-aac8-d45018a8a265"],
   race: "temper-race/imperial",
   class: "temper-class/necromancer",
   firstName: "Khelta",
@@ -17,5 +18,5 @@ export const kheltaTheEternal = {
   readings: "jsonl",
   removedReadings: "jsonl",
   createdAt: "2026-04-29T16:44:20.194Z",
-  updatedAt: "2026-10-28T19:46:52.655Z",
+  updatedAt: "2026-11-01T18:43:46.704Z",
 } as const satisfies TemperAccountCharacter

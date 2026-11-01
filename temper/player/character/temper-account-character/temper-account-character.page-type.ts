@@ -12,6 +12,7 @@ export const temperAccountCharacter = {
     "relation-property/character-class",
     "text-property/first-name",
     "text-property/live-build-id",
+    "text-property/target-build-ids",
     "file-property/fights",
     "module/character-lines-landing",
     "module/character-race-class",
@@ -25,6 +26,12 @@ export const temperAccountCharacter = {
     { pageProperty: "relation-property/character-class", required: true, many: false },
     { pageProperty: "text-property/first-name", required: false, many: false },
     { pageProperty: "text-property/live-build-id", required: false, many: false },
+    {
+      pageProperty: "text-property/target-build-ids",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
     {
       pageProperty: "multi-relation-property/character-roles",
       required: false,
@@ -48,5 +55,5 @@ export const temperAccountCharacter = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T01:48:48.327Z",
-  updatedAt: "2026-10-20T11:30:13.417Z",
+  updatedAt: "2026-11-01T18:43:46.704Z",
 } as const satisfies PageType
