@@ -10,7 +10,7 @@ export const charactersArmoryLive = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A saved build shows the attributes, bars, slotted stars and gear worn as it was saved.",
+        "A saved build shows the attributes, bars, stars, gear and curse as they were saved.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -19,5 +19,5 @@ export const charactersArmoryLive = {
     },
   ],
   createdAt: "2026-11-01T20:43:39.700Z",
-  updatedAt: "2026-11-01T20:43:39.700Z",
+  updatedAt: "2026-11-01T21:55:53.400Z",
 } as const satisfies Module

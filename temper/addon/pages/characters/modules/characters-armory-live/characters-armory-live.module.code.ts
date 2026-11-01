@@ -1,4 +1,5 @@
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
@@ -54,9 +55,15 @@ export function newLiveTarget(base: CharacterTarget | undefined, title: string):
   })
 }
 
+function curseNow(): string {
+  const curse = GetPlayerCurseType()
+  return curse === CURSE_TYPE_NONE ? "" : GetString("SI_CURSETYPE", curse)
+}
+
 export function liveTargetOf(base: CharacterTarget): CharacterTarget {
   return {
     ...base,
+    curseName: curseNow(),
     attributes: spentAttributes(),
     champion: TARGET_DISCIPLINES.map((discipline) => disciplineNow(discipline, base)),
     bars: { primary: barNow(HOTBAR_CATEGORY_PRIMARY), backup: barNow(HOTBAR_CATEGORY_BACKUP) },
