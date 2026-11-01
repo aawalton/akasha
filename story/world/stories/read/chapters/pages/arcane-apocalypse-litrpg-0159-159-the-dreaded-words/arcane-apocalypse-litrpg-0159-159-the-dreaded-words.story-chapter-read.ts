@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg0159159TheDreadedWords = {
     },
   ],
   createdAt: "2026-10-28T16:29:36.261Z",
-  updatedAt: "2026-10-28T16:29:36.261Z",
+  updatedAt: "2026-11-01T00:23:28.092Z",
+  ownProgress: 4188,
+  progressedAt: "2026-11-01T00:23:28.092Z",
 } as const satisfies StoryChapterRead

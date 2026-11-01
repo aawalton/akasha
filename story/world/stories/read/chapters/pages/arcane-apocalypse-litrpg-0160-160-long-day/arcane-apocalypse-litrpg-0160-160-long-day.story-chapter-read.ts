@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg0160160LongDay = {
     },
   ],
   createdAt: "2026-10-28T16:29:36.261Z",
-  updatedAt: "2026-10-28T16:29:36.261Z",
+  updatedAt: "2026-11-01T00:23:28.092Z",
+  ownProgress: 3149,
+  progressedAt: "2026-11-01T00:23:28.092Z",
 } as const satisfies StoryChapterRead
