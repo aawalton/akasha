@@ -20519,7 +20519,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 2,
+            "numCompleted": 4,
             "numRequired": 200
           }
         }
