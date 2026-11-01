@@ -17,9 +17,9 @@ export const adele = {
       source: "spotify",
       externalId: "4dpARuHxo51G3z768sgnrY",
       externalLink: "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY",
-      lastSyncedAt: "2026-09-24",
+      lastSyncedAt: "2026-11-01",
     },
   ],
   createdAt: "2026-09-03T16:04:08.682Z",
-  updatedAt: "2026-09-24T20:46:51.000Z",
+  updatedAt: "2026-11-01T14:47:42.932Z",
 } as const satisfies Artist
