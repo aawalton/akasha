@@ -102,14 +102,18 @@ function lineLabel(window: Control): LabelControl {
   return label
 }
 
+export function applyCharacterTarget(target: CharacterTarget): string {
+  const said: string[] = []
+  for (const title of toApply(checklistOf(target))) said.push(APPLIERS[title]?.(target) ?? "")
+  zo_callLater(refreshTargetPanel, REFRESH_AFTER_APPLY_MS)
+  return said.join("\n")
+}
+
 function applyTarget(): undefined {
   if (held === undefined) return undefined
   const target = currentCharacterTarget()
   if (target === undefined) return undefined
-  const said: string[] = []
-  for (const title of toApply(checklistOf(target))) said.push(APPLIERS[title]?.(target) ?? "")
-  held.said.SetText(said.join("\n"))
-  zo_callLater(refreshTargetPanel, REFRESH_AFTER_APPLY_MS)
+  held.said.SetText(applyCharacterTarget(target))
   return undefined
 }
 
@@ -120,18 +124,22 @@ function nextTarget(): CharacterTarget | undefined {
   return targets[(at + 1) % targets.length]
 }
 
-function chooseNextTarget(): undefined {
-  const next = nextTarget()
+export function chooseCharacterTarget(buildId: string): undefined {
   const over = currentCharacterTargets()[0]?.buildId
-  if (next === undefined || over === undefined || held === undefined) return undefined
+  if (over === undefined) return undefined
   const sv = getSavedVariables()
   const chosen = sv.activeBuilds ?? {}
-  chosen[GetCurrentCharacterId()] = { buildId: next.buildId, over }
+  chosen[GetCurrentCharacterId()] = { buildId, over }
   sv.activeBuilds = chosen
-  held.said.SetText("")
+  held?.said.SetText("")
   TemperItems?.Rescan()
   refreshTargetPanel()
   return undefined
+}
+
+function chooseNextTarget(): undefined {
+  const next = nextTarget()
+  return next === undefined ? undefined : chooseCharacterTarget(next.buildId)
 }
 
 function createTargetPanel(): TargetPanel {

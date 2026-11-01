@@ -4,6 +4,9 @@
       <Action name="TEMPER_TOGGLE_WINDOW">
         <Down>TemperCharacters.ToggleWindow()</Down>
       </Action>
+      <Action name="TEMPER_TOGGLE_ARMORY">
+        <Down>TemperCharacters.ToggleArmory()</Down>
+      </Action>
     </Category>
     <Category name="Temper Completion — Skill Points">
       <Action name="USPF_TOGGLE">

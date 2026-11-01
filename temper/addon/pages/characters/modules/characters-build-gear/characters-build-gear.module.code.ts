@@ -76,6 +76,44 @@ export function wornMatches(gear: TargetGear, place: GearPlace): boolean {
   return holdsGear(BAG_WORN, place.equipSlot, gear)
 }
 
+export function gearInSlot(target: CharacterTarget, equipSlot: number): TargetGear | undefined {
+  return target.gear.find((one) => gearPlaceOf(one)?.equipSlot === equipSlot)
+}
+
+interface GearHeld {
+  readonly bag: Bag
+  readonly slotIndex: number
+}
+
+const LOOKED_IN_BAGS = [BAG_BACKPACK, BAG_BANK, BAG_SUBSCRIBER_BANK]
+
+export function gearHeldAt(gear: TargetGear): GearHeld | undefined {
+  const place = gearPlaceOf(gear)
+  if (place === undefined) return undefined
+  if (wornMatches(gear, place)) return { bag: BAG_WORN, slotIndex: place.equipSlot }
+  for (const bag of LOOKED_IN_BAGS) {
+    let at = ZO_GetNextBagSlotIndex(bag, undefined)
+    while (at !== undefined) {
+      const fits = place.fits.includes(GetItemLinkEquipType(GetItemLink(bag, at)))
+      if (fits && holdsGear(bag, at, gear)) return { bag, slotIndex: at }
+      at = ZO_GetNextBagSlotIndex(bag, at)
+    }
+  }
+  return undefined
+}
+
+export function wornGear(): readonly TargetGear[] {
+  const worn: TargetGear[] = []
+  for (const [slot, place] of Object.entries(GEAR_PLACES)) {
+    const link = GetItemLink(BAG_WORN, place.equipSlot)
+    if (link === "") continue
+    const [, setName, , , , setId] = GetItemLinkSetInfo(link)
+    const trait = GetItemTrait(BAG_WORN, place.equipSlot)
+    worn.push({ slot, setId, setName, trait, traitName: GetString("SI_ITEMTRAITTYPE", trait) })
+  }
+  return worn
+}
+
 function inBackpack(gear: TargetGear, place: GearPlace, taken: LuaSet<number>): number | undefined {
   let at = ZO_GetNextBagSlotIndex(BAG_BACKPACK, undefined)
   while (at !== undefined) {

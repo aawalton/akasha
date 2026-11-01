@@ -193,6 +193,11 @@ export const temperAddonCharacters = {
     "module/characters-build-gear",
     "module/characters-build-passives",
     "module/characters-armory-pending",
+    "module/characters-armory-live",
+    "module/characters-armory-build-data",
+    "module/characters-armory-rows",
+    "module/characters-armory-actions",
+    "module/characters-armory-window",
   ],
   interfaces: [
     "eso-interface/skill-point-finder-layout",
@@ -240,5 +245,5 @@ export const temperAddonCharacters = {
     },
   ],
   createdAt: "2026-09-02T15:52:42.403Z",
-  updatedAt: "2026-11-01T20:32:56.237Z",
+  updatedAt: "2026-11-01T20:43:39.700Z",
 } as const satisfies TemperAddon

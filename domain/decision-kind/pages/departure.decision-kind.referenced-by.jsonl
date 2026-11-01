@@ -4523,7 +4523,12 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-advanced-stats/characters-advanced-stats.module.ts","id":"01a15588-1401-7b6f-bb93-7613df4e6887"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-antiquity-lead-checks/characters-antiquity-lead-checks.module.ts","id":"01a062ed-39a0-700a-b328-1ae517d89942"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-archive-boons/characters-archive-boons.module.ts","id":"01a1597d-c5e3-730f-a1cc-e18757d6a7c1"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-armory-actions/characters-armory-actions.module.ts","id":"01a198da-8335-7aa8-bafc-8b4929c7e49b"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-armory-build-data/characters-armory-build-data.module.ts","id":"01a198da-8335-7fee-8697-1b577b4bd49f"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-armory-live/characters-armory-live.module.ts","id":"01a198da-8335-7168-abeb-80394857526b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-armory-pending/characters-armory-pending.module.ts","id":"01a198d0-b1ad-7f9a-9c3e-8caf0dfcd0a0"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-armory-rows/characters-armory-rows.module.ts","id":"01a198da-8336-7054-9e08-80932540b272"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-armory-window/characters-armory-window.module.ts","id":"01a198da-8336-78fc-9ae6-c6db8bc9b299"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-bought-passives/characters-bought-passives.module.ts","id":"01a15e82-6ba6-7309-9979-036d56146f37"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-build-attributes/characters-build-attributes.module.ts","id":"01a18414-31e9-7e31-a45b-a9e067c7681a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-build-bars/characters-build-bars.module.ts","id":"01a18445-63e2-79b0-b525-1660f1845bcb"}

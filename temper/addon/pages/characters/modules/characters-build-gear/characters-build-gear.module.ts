@@ -27,7 +27,11 @@ export const charactersBuildGear = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here takes gear from the bank or makes gear.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A target piece is shown from where it is worn, then the backpack, then the bank.",
+    },
   ],
   createdAt: "2026-10-28T20:48:22.497Z",
-  updatedAt: "2026-10-28T20:48:22.497Z",
+  updatedAt: "2026-11-01T20:43:39.700Z",
 } as const satisfies Module

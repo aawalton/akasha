@@ -1,3 +1,4 @@
+import { toggleArmory } from "akasha/temper/addon/pages/characters/modules/characters-armory-window/characters-armory-window.module.code.ts"
 import { toggleWindow } from "akasha/temper/addon/pages/characters/modules/characters-window/characters-window.module.code.ts"
 import { COMPANION_QOL } from "akasha/temper/addon/pages/characters/modules/companion-qol-state/companion-qol-state.module.code.ts"
 import { toggleTracker } from "akasha/temper/addon/pages/characters/modules/pithka-controls/pithka-controls.module.code.ts"
@@ -12,6 +13,7 @@ function toggleCompanion(this: void, companionId?: number): undefined {
 const PUBLISHED = {
   getSavedVariables,
   ToggleWindow: toggleWindow,
+  ToggleArmory: toggleArmory,
   ToggleCompanion: toggleCompanion,
   TogglePithka: toggleTracker,
   TogglePithkaGroupFinder: toggleGroupFinderWindow,

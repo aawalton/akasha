@@ -4,10 +4,11 @@ import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import type {
-  CharacterTarget,
-  TargetDiscipline,
-  TargetDisciplineKey,
+import {
+  type CharacterTarget,
+  TARGET_DISCIPLINES,
+  type TargetDiscipline,
+  type TargetDisciplineKey,
 } from "akasha/temper/player/character/build/modules/character-target-types/character-target-types.module.code.ts"
 
 const DISCIPLINE_INDEX: Readonly<Record<TargetDisciplineKey, number>> = {
@@ -150,6 +151,19 @@ export function planDiscipline(target: TargetDiscipline): DisciplinePlan {
 
 export function slottedOf(discipline: TargetDisciplineKey): readonly number[] {
   return SLOT_INDICES[discipline].map((slot) => GetSlotBoundId(slot, HOTBAR_CATEGORY_CHAMPION))
+}
+
+interface ChampionSlotPlace {
+  readonly discipline: TargetDisciplineKey
+  readonly at: number
+}
+
+export function championSlotPlace(slot: number): ChampionSlotPlace | undefined {
+  for (const discipline of TARGET_DISCIPLINES) {
+    const at = SLOT_INDICES[discipline].indexOf(slot)
+    if (at >= 0) return { discipline, at }
+  }
+  return undefined
 }
 
 function respecNeeded(plans: readonly DisciplinePlan[]): boolean {
