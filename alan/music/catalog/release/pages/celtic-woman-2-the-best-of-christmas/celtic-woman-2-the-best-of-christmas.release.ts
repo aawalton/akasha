@@ -7,8 +7,8 @@ export const celticWoman2TheBestOfChristmas = {
   title: "The Best of Christmas",
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
-  ownLength: 69.18206666666667,
-  ownProgress: 69.182067,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-11-17",
@@ -20,5 +20,6 @@ export const celticWoman2TheBestOfChristmas = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.284Z",
-  updatedAt: "2026-11-01T14:47:55.150Z",
+  updatedAt: "2026-11-01T15:00:42.655Z",
+  progressedAt: "2026-11-01T15:00:42.655Z",
 } as const satisfies Release

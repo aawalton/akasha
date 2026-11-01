@@ -4,7 +4,7 @@ export const celticWomanJolene = {
   id: "01a19794-d20f-7dcb-b179-e8ab1651eb2b",
   type: "page-type/release",
   slug: "celtic-woman-jolene",
-  ownLength: 2.7273666666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
@@ -21,5 +21,5 @@ export const celticWomanJolene = {
   ],
   title: "Jolene",
   createdAt: "2026-11-01T14:47:55.150Z",
-  updatedAt: "2026-11-01T14:47:55.150Z",
+  updatedAt: "2026-11-01T15:00:42.655Z",
 } as const satisfies Release

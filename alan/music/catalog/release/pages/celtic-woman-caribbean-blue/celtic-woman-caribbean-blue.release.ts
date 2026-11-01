@@ -4,7 +4,7 @@ export const celticWomanCaribbeanBlue = {
   id: "01a19794-d20f-7d9c-9b44-6e9e4b15b9be",
   type: "page-type/release",
   slug: "celtic-woman-caribbean-blue",
-  ownLength: 3.978283333333333,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
@@ -21,5 +21,5 @@ export const celticWomanCaribbeanBlue = {
   ],
   title: "Caribbean Blue",
   createdAt: "2026-11-01T14:47:55.150Z",
-  updatedAt: "2026-11-01T14:47:55.150Z",
+  updatedAt: "2026-11-01T15:00:42.655Z",
 } as const satisfies Release
