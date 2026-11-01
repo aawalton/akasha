@@ -19,6 +19,7 @@ import {
 } from "akasha/temper/addon/pages/characters/modules/characters-build-checklist/characters-build-checklist.module.code.ts"
 import { applyGearTarget } from "akasha/temper/addon/pages/characters/modules/characters-build-gear/characters-build-gear.module.code.ts"
 import { applyPassiveTarget } from "akasha/temper/addon/pages/characters/modules/characters-build-passives/characters-build-passives.module.code.ts"
+import { applyQuickslotTarget } from "akasha/temper/addon/pages/characters/modules/characters-build-quickslots/characters-build-quickslots.module.code.ts"
 import {
   lineLabel,
   linkLabel,
@@ -63,6 +64,7 @@ const APPLIERS: Readonly<Record<string, (target: CharacterTarget) => string>> = 
   "Champion points": applyChampionTarget,
   "Skill bars": applyBarTarget,
   Gear: applyGearTarget,
+  Quickslots: applyQuickslotTarget,
   Passives: applyPassiveTarget,
 }
 

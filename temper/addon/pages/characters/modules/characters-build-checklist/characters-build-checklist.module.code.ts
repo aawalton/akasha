@@ -32,6 +32,7 @@ import {
   passiveHeld,
   passiveRankWanted,
 } from "akasha/temper/addon/pages/characters/modules/characters-build-passives/characters-build-passives.module.code.ts"
+import { quickslotLines } from "akasha/temper/addon/pages/characters/modules/characters-build-quickslots/characters-build-quickslots.module.code.ts"
 import type {
   CharacterTarget,
   TargetBarSlot,
@@ -230,6 +231,7 @@ export function savedPartsHeld(target: CharacterTarget): boolean {
     ...target.champion.flatMap(slotLines),
     ...barsSection(target).lines,
     ...gearSection(target).lines,
+    ...quickslotLines(target),
   ]
   return lines.every((line) => line.met)
 }
@@ -241,6 +243,7 @@ export function checklistOf(target: CharacterTarget): readonly ChecklistSection[
     barsSection(target),
     gearSection(target),
     buffsSection(target),
+    { title: "Quickslots", lines: quickslotLines(target) },
     passivesSection(target),
   ].filter((section) => section.lines.length > 0)
 }

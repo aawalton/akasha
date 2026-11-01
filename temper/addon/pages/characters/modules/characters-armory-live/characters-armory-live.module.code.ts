@@ -8,6 +8,7 @@ import { spentAttributes } from "akasha/temper/addon/pages/characters/modules/ch
 import { BAR_SLOT_INDICES } from "akasha/temper/addon/pages/characters/modules/characters-build-bars/characters-build-bars.module.code.ts"
 import { slottedOf } from "akasha/temper/addon/pages/characters/modules/characters-build-champion/characters-build-champion.module.code.ts"
 import { wornGear } from "akasha/temper/addon/pages/characters/modules/characters-build-gear/characters-build-gear.module.code.ts"
+import { quickslotsNow } from "akasha/temper/addon/pages/characters/modules/characters-build-quickslots/characters-build-quickslots.module.code.ts"
 import {
   type CharacterTarget,
   TARGET_DISCIPLINES,
@@ -68,5 +69,6 @@ export function liveTargetOf(base: CharacterTarget): CharacterTarget {
     champion: TARGET_DISCIPLINES.map((discipline) => disciplineNow(discipline, base)),
     bars: { primary: barNow(HOTBAR_CATEGORY_PRIMARY), backup: barNow(HOTBAR_CATEGORY_BACKUP) },
     gear: wornGear(),
+    quickslots: quickslotsNow(base.quickslots),
   }
 }

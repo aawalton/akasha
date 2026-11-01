@@ -4537,6 +4537,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-build-checklist/characters-build-checklist.module.ts","id":"01a18414-31ea-7f5e-aa76-4640a561f46c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-build-gear/characters-build-gear.module.ts","id":"01a18445-63e2-7293-880b-b59e05fda236"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-build-passives/characters-build-passives.module.ts","id":"01a198a8-0dd7-7c60-9785-926203d69254"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-build-quickslots/characters-build-quickslots.module.ts","id":"01a19947-352b-703a-8b73-b14ed5aa6cd6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-build-target-panel/characters-build-target-panel.module.ts","id":"01a18414-31ea-751e-bea7-ad645881373e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-build-target-rows/characters-build-target-rows.module.ts","id":"01a19939-85ab-73d9-889d-39007bd6f67f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-character-sheet/characters-character-sheet.module.ts","id":"01a15979-efd3-7a6e-bd6e-cfc498088bfc"}
