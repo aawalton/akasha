@@ -11,15 +11,16 @@ import {
   buildRangeEditor,
   buildTextEditor,
   buildToggleEditor,
-  CLEAR_WIDTH,
-  CONTROL_GAP,
-  CONTROL_HEIGHT,
-  createBarButton,
-  createFieldLabel,
-  PADDING_X,
-  PADDING_Y,
+  PILL_TOP,
   sanitizeName,
 } from "akasha/temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
+import {
+  comboPill,
+  createRemoveMark,
+  fillPanel,
+  PILL_HEIGHT,
+  styleFilterName,
+} from "akasha/temper/items/filters/addon/modules/filter-pill/filter-pill.module.code.ts"
 import type { FilterController } from "akasha/temper/items/filters/addon/modules/panel-filter-binding/panel-filter-binding.module.code.ts"
 import { TEMPER_FILTERS } from "akasha/temper/items/filters/core/modules/search-filter-registry/search-filter-registry.module.code.ts"
 import type {
@@ -27,8 +28,6 @@ import type {
   FilterGroup,
   FilterId,
 } from "akasha/temper/items/filters/core/modules/search-filter-types/search-filter-types.module.code.ts"
-
-import { drawPanelBackground } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 
 const PANEL_NAME = "TemperItemsFilterPanel"
 const PLAN_PANEL_NAME = "TemperItemsActionPanel"
@@ -39,14 +38,15 @@ const FALLBACK_LEFT = 200
 const FALLBACK_TOP = 200
 
 export const FILTER_BAR_WIDTH = 250
-const HEADER_HEIGHT = CONTROL_HEIGHT + PADDING_Y * 2
-const ROW_HEIGHT = CONTROL_HEIGHT + PADDING_Y * 2
-const LABEL_COL_WIDTH = 90
-const REMOVE_WIDTH = 22
-const REMOVE_X = FILTER_BAR_WIDTH - PADDING_X - REMOVE_WIDTH
-const EDITOR_WIDTH = REMOVE_X - CONTROL_GAP - LABEL_COL_WIDTH
-const ADD_COMBO_WIDTH = 110
-const CLEAR_X = FILTER_BAR_WIDTH - PADDING_X - CLEAR_WIDTH
+const PANEL_PAD = 12
+const ROW_GAP = 12
+const NAME_HEIGHT = 16
+const NAME_GAP = 8
+const ROW_HEIGHT = NAME_HEIGHT + NAME_GAP + PILL_HEIGHT
+const PILLS_TOP = NAME_HEIGHT + NAME_GAP - PILL_TOP
+const PILLS_HEIGHT = PILL_TOP * 2 + PILL_HEIGHT
+const INNER_WIDTH = FILTER_BAR_WIDTH - PANEL_PAD * 2
+const RANGE_VALUE_WIDTH = 80
 
 const ADD_FILTER_LABEL = "+ Add filter"
 
@@ -91,29 +91,12 @@ export function createFilterBar(config: FilterBarConfig): undefined {
 
   const tlw = WINDOW_MANAGER.CreateTopLevelWindow(panelName)
   tlw.SetHidden(true)
-  tlw.SetDimensions(FILTER_BAR_WIDTH, HEADER_HEIGHT + PADDING_Y)
+  tlw.SetDimensions(FILTER_BAR_WIDTH, PANEL_PAD * 2 + PILL_HEIGHT)
 
-  drawPanelBackground(tlw)
+  fillPanel(tlw)
 
-  const header = WINDOW_MANAGER.CreateControl("$(parent)Header", tlw, CT_CONTROL)
-  header.SetAnchor(TOPLEFT, tlw, TOPLEFT, 0, 0)
-  header.SetAnchor(TOPRIGHT, tlw, TOPRIGHT, 0, 0)
-  header.SetHeight(HEADER_HEIGHT)
-  const title = createFieldLabel(header, "Filters", PADDING_X)
-  title.SetMouseEnabled(false)
-
-  const clearButton = createBarButton(tlw, "$(parent)Clear", "Clear", CLEAR_X, CLEAR_WIDTH)
-  alignRight(clearButton.backdrop, tlw)
-
-  const comboContainer = WINDOW_MANAGER.CreateControlFromVirtual(
-    "$(parent)AddCombo",
-    tlw,
-    "ZO_ComboBox"
-  )
-  comboContainer.SetDimensions(ADD_COMBO_WIDTH, CONTROL_HEIGHT)
-  comboContainer.SetAnchor(TOPRIGHT, clearButton.backdrop, TOPLEFT, -CONTROL_GAP, 0)
-  const combo = ZO_ComboBox_ObjectFromContainer(comboContainer)
-  const addSyncing: { v: boolean } = { v: false }
+  const add = comboPill(tlw, "$(parent)AddCombo", ADD_FILTER_LABEL, false, true)
+  add.comboBox.SetSortsItems(false)
 
   const byId = new Map<FilterId, AnyTemperFilter>()
   for (const filter of TEMPER_FILTERS) {
@@ -129,47 +112,40 @@ export function createFilterBar(config: FilterBarConfig): undefined {
     return false
   }
 
+  let activateRef: (id: FilterId) => undefined = () => undefined
+
+  const fillAddMenu = (): number => {
+    add.comboBox.ClearItems()
+    let offered = 0
+    for (const filter of TEMPER_FILTERS) {
+      const id = filter.id
+      if (isActive(id)) continue
+      const label = `${GROUP_LABELS[filter.group]}: ${filter.label}`
+      const entry = add.comboBox.CreateItemEntry(label, function (this: void): undefined {
+        activateRef(id)
+      })
+      add.comboBox.AddItem(entry)
+      offered += 1
+    }
+    return offered
+  }
+
   const relayout = (): undefined => {
-    let y = HEADER_HEIGHT
+    let y = PANEL_PAD
     for (const id of activeOrder) {
       const row = rows.get(id)
       if (row === undefined) continue
       row.container.ClearAnchors()
       row.container.SetAnchor(TOPLEFT, tlw, TOPLEFT, 0, y)
       row.container.SetAnchor(TOPRIGHT, tlw, TOPRIGHT, 0, y)
-      y += ROW_HEIGHT
+      y += ROW_HEIGHT + ROW_GAP
     }
-    const height = activeOrder.length === 0 ? HEADER_HEIGHT + PADDING_Y : y + PADDING_Y
-    tlw.SetHeight(height)
-  }
-
-  let activateRef: (id: FilterId) => undefined = () => undefined
-
-  const resetAddMenuSelection = (): undefined => {
-    addSyncing.v = true
-    for (const item of combo.GetItems()) {
-      if (item.name === ADD_FILTER_LABEL) {
-        combo.SelectItem(item)
-        break
-      }
-    }
-    addSyncing.v = false
-  }
-
-  const buildAddMenu = (): undefined => {
-    const placeholder = combo.CreateItemEntry(ADD_FILTER_LABEL, function (this: void): undefined {})
-    combo.AddItem(placeholder)
-    for (const filter of TEMPER_FILTERS) {
-      const id = filter.id
-      const label = `${GROUP_LABELS[filter.group]}: ${filter.label}`
-      const entry = combo.CreateItemEntry(label, function (this: void): undefined {
-        if (addSyncing.v) return
-        if (!isActive(id)) activateRef(id)
-        resetAddMenuSelection()
-      })
-      combo.AddItem(entry)
-    }
-    resetAddMenuSelection()
+    const offered = fillAddMenu() > 0
+    add.container.SetHidden(!offered)
+    add.container.ClearAnchors()
+    add.container.SetAnchor(TOPLEFT, tlw, TOPLEFT, PANEL_PAD, y)
+    const bottom = offered ? y + PILL_HEIGHT : y - ROW_GAP
+    tlw.SetHeight(bottom + PANEL_PAD)
   }
 
   const removeFromOrder = (id: FilterId): undefined => {
@@ -198,11 +174,23 @@ export function createFilterBar(config: FilterBarConfig): undefined {
 
   const buildRow = (filter: AnyTemperFilter): FilterRow => {
     const safe = sanitizeName(filter.id)
-    const container = WINDOW_MANAGER.CreateControl(`${panelName}Row_${safe}`, tlw, CT_CONTROL)
+    const container = WINDOW_MANAGER.CreateControl(`${panelName}Block_${safe}`, tlw, CT_CONTROL)
     container.SetHeight(ROW_HEIGHT)
+    const id = filter.id
 
-    const label = createFieldLabel(container, `${filter.label}:`, PADDING_X)
-    label.SetMouseEnabled(false)
+    const name = styleFilterName(WINDOW_MANAGER.CreateControl(undefined, container, CT_LABEL))
+    name.SetText(filter.label)
+    name.SetAnchor(LEFT, container, TOPLEFT, PANEL_PAD, NAME_HEIGHT / 2)
+
+    const remove = createRemoveMark(container, function (this: void): undefined {
+      deactivate(id)
+    })
+    remove.SetAnchor(RIGHT, container, TOPRIGHT, -PANEL_PAD, NAME_HEIGHT / 2)
+
+    const pills = WINDOW_MANAGER.CreateControl(`${panelName}Row_${safe}`, container, CT_CONTROL)
+    pills.SetAnchor(TOPLEFT, container, TOPLEFT, 0, PILLS_TOP)
+    pills.SetAnchor(TOPRIGHT, container, TOPRIGHT, 0, PILLS_TOP)
+    pills.SetHeight(PILLS_HEIGHT)
 
     const resets: ((this: void) => void)[] = []
     const rowCtx: BarContext = {
@@ -217,20 +205,7 @@ export function createFilterBar(config: FilterBarConfig): undefined {
         }
       },
     }
-    renderEditorInto(rowCtx, filter, container)
-
-    const remove = createBarButton(
-      container,
-      `${panelName}Remove_${safe}`,
-      "x",
-      REMOVE_X,
-      REMOVE_WIDTH
-    )
-    alignRight(remove.backdrop, container)
-    const id = filter.id
-    remove.button.SetHandler("OnClicked", function (this: void): undefined {
-      deactivate(id)
-    })
+    renderEditorInto(rowCtx, filter, pills)
 
     const row: FilterRow = { container, resets }
     rows.set(id, row)
@@ -255,18 +230,7 @@ export function createFilterBar(config: FilterBarConfig): undefined {
   }
   activateRef = activate
 
-  clearButton.button.SetHandler("OnClicked", function (this: void): undefined {
-    for (const id of activeOrder) {
-      const row = rows.get(id)
-      if (row === undefined) continue
-      for (const reset of row.resets) {
-        reset()
-      }
-    }
-    controller.clearAll()
-  })
-
-  buildAddMenu()
+  relayout()
 
   if (config.shownBeside !== undefined) {
     showBeside(tlw, config.shownBeside)
@@ -306,23 +270,18 @@ function showBeside(tlw: TopLevelWindow, targetNames: readonly string[]): undefi
 function renderEditorInto(ctx: BarContext, filter: AnyTemperFilter, container: Control): undefined {
   const editor = filter.editor
   if (editor.kind === "text") {
-    buildTextEditor(ctx, filter, LABEL_COL_WIDTH, container, EDITOR_WIDTH)
+    buildTextEditor(ctx, filter, PANEL_PAD, container, INNER_WIDTH)
     return
   }
   if (editor.kind === "multiselect") {
-    buildMultiselectEditor(ctx, filter, editor.options, LABEL_COL_WIDTH, container, EDITOR_WIDTH)
+    buildMultiselectEditor(ctx, filter, editor.options, PANEL_PAD, container, INNER_WIDTH)
     return
   }
   if (editor.kind === "toggle") {
-    buildToggleEditor(ctx, filter, LABEL_COL_WIDTH, container, EDITOR_WIDTH)
+    buildToggleEditor(ctx, filter, PANEL_PAD, container, INNER_WIDTH)
     return
   }
-  buildRangeEditor(ctx, filter, LABEL_COL_WIDTH, container, EDITOR_WIDTH)
-}
-
-function alignRight(control: Control, within: Control): undefined {
-  control.ClearAnchors()
-  control.SetAnchor(TOPRIGHT, within, TOPRIGHT, -PADDING_X, PADDING_Y)
+  buildRangeEditor(ctx, filter, PANEL_PAD, container, RANGE_VALUE_WIDTH)
 }
 
 function applyDefaultAnchor(

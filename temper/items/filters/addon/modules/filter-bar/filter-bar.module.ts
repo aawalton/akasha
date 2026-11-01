@@ -39,7 +39,23 @@ export const filterBar = {
       decisionKind: "decision-kind/departure",
       statement: "A panel shown beside named controls shows and hides with those controls.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The panel is a flat rounded fill, laid out as the website's filter popover is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row is its filter's name and a remove mark, over that filter's pills.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The add menu is a pill under the last row, offering only the filters not shown.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "The panel has no title and no clear button.",
+    },
   ],
   createdAt: "2026-09-02T08:45:26.709Z",
-  updatedAt: "2026-11-01T20:17:12.958Z",
+  updatedAt: "2026-11-01T22:11:58.614Z",
 } as const satisfies Module

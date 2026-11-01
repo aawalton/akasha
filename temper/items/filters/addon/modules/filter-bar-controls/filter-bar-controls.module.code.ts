@@ -60,7 +60,6 @@ const OP_LABELS: Readonly<Record<ComparisonOp, string>> = {
   "=": "Exactly",
   "!=": "Not",
 }
-export const CLEAR_WIDTH = 50
 
 export interface BarButton {
   button: ButtonControl

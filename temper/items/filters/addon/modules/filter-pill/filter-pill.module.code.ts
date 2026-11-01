@@ -46,6 +46,16 @@ const MAX_INPUT_CHARS = 64
 
 const HANDLER_NAME = "TemperFilterPill"
 
+const PANEL_RADIUS = 6
+
+const PANEL_LEVEL = 1
+
+const PANEL_FILL: Rgb = [0.18, 0.18, 0.18]
+
+const NAME_FONT = "$(MEDIUM_FONT)|14"
+
+const REMOVE_GLYPH = "×"
+
 interface Pill {
   readonly area: Control
   readonly label: LabelControl
@@ -171,7 +181,7 @@ export function editPill(
   const area = WINDOW_MANAGER.CreateControl(`${name}Pill`, parent, CT_CONTROL)
   area.SetDimensions(width, PILL_HEIGHT)
   const rects = fillRects(area, PILL_FILL, PILL_RADIUS, PILL_LEVEL)
-  const edit = WINDOW_MANAGER.CreateControl(name, area, CT_EDITBOX)
+  const edit = WINDOW_MANAGER.CreateControl(name, parent, CT_EDITBOX)
   edit.SetAnchor(TOPLEFT, area, TOPLEFT, PILL_PAD_X, EDIT_TOP)
   edit.SetAnchor(BOTTOMRIGHT, area, BOTTOMRIGHT, -PILL_PAD_X, 0)
   edit.SetFont(PILL_FONT)
@@ -186,4 +196,34 @@ export function editPill(
   })
   lightOnPointing(rects, edit)
   return { area, edit }
+}
+
+export function fillPanel(panel: Control): undefined {
+  fillRects(panel, PANEL_FILL, PANEL_RADIUS, PANEL_LEVEL)
+  return undefined
+}
+
+export function styleFilterName(label: LabelControl): LabelControl {
+  label.SetFont(NAME_FONT)
+  label.SetModifyTextType(MODIFY_TEXT_TYPE_UPPERCASE)
+  label.SetMouseEnabled(false)
+  paintText(label, SECONDARY_TEXT)
+  return label
+}
+
+export function createRemoveMark(parent: Control, onRemove: (this: void) => void): LabelControl {
+  const mark = WINDOW_MANAGER.CreateControl(undefined, parent, CT_LABEL)
+  mark.SetFont(PILL_FONT)
+  mark.SetText(REMOVE_GLYPH)
+  paintText(mark, TERTIARY_TEXT)
+  mark.SetMouseEnabled(true)
+  mark.SetHandler("OnMouseEnter", () => paintText(mark, PRIMARY_TEXT), HANDLER_NAME)
+  mark.SetHandler("OnMouseExit", () => paintText(mark, TERTIARY_TEXT), HANDLER_NAME)
+  mark.SetHandler(
+    "OnMouseUp",
+    function (this: void, _control: Control, _button: number, upInside: boolean): undefined {
+      if (upInside) onRemove()
+    }
+  )
+  return mark
 }

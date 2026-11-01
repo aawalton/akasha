@@ -30,7 +30,7 @@ export const filterBarControls = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An editor registers a reset with the bar context so the clear button can reach that reset.",
+        "An editor registers a reset with the bar context so removing its row can reach that reset.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -69,5 +69,5 @@ export const filterBarControls = {
     },
   ],
   createdAt: "2026-09-02T08:45:26.710Z",
-  updatedAt: "2026-11-01T22:08:58.608Z",
+  updatedAt: "2026-11-01T22:11:58.614Z",
 } as const satisfies Module
