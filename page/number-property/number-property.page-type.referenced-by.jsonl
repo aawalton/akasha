@@ -512,6 +512,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/world/zone/properties/item-browser-place-kind.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/world/zone/properties/poi-index.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/world/zone/properties/poi-type.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/character-build/properties/build-icon.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/character-build/properties/build-target-count.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/character-build/version/properties/version-number.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/skill-activation/properties/coefficient.number-property.ts","typed":true,"deferred":false}

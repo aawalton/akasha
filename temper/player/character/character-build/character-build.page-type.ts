@@ -19,6 +19,8 @@ export const characterBuild = {
     "multi-relation-property/build-interfaces",
     "text-property/build-correlation-id",
     "domain/temper-build-optimization",
+    "number-property/build-icon",
+    "text-property/build-edit-id",
   ],
   properties: [
     { pageProperty: "text-property/build-hash", required: true, many: false },
@@ -38,6 +40,8 @@ export const characterBuild = {
       many: true,
       maxCount: null,
     },
+    { pageProperty: "number-property/build-icon", required: false, many: false },
+    { pageProperty: "text-property/build-edit-id", required: false, many: false },
   ],
   decisions: [
     {
@@ -66,9 +70,28 @@ export const characterBuild = {
       decisionKind: "decision-kind/departure",
       statement: "A build's name is its title rather than a second field saying the same.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A build is saved, renamed and equipped in the game the way the game's Armory does it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A build changed in the game reaches its page when the game next writes its saved variables.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A build changed on alanwalton.com after the game last read it keeps that change over the game's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The game says when a change made in it was not kept.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:59:23.240Z",
-  updatedAt: "2026-11-01T19:38:18.901Z",
+  updatedAt: "2026-11-01T20:16:30.196Z",
 } as const satisfies PageType

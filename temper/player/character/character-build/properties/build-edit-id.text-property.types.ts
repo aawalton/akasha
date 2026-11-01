@@ -1,0 +1,1 @@
+export type BuildEditId = string
