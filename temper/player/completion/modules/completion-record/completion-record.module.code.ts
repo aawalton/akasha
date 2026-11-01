@@ -93,6 +93,7 @@ const itemSetProgressSchema = z.strictObject({
   subcategoryName: z.string().optional(),
   slotsUnlocked: z.number(),
   totalSlots: z.number(),
+  reconstructionCost: z.number().optional(),
   pieces: luaArrayOrEmpty(itemSetPieceProgressSchema).optional(),
 })
 

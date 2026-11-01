@@ -2,6 +2,7 @@ import { resolveCategoryNames } from "akasha/temper/catalog/gear/item-set/module
 import type { ItemSetProgress } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
@@ -25,6 +26,10 @@ function scanPieces(itemSetId: number, totalSlots: number): { name: string; unlo
   return pieces
 }
 
+function reconstructionCostOf(itemSetId: number): number | undefined {
+  return GetItemReconstructionCurrencyOptionCost(itemSetId, CURT_TRANSMUTE_CRYSTALS)
+}
+
 function readItemSet(itemSetId: number, includePieces: boolean): ItemSetProgress | undefined {
   const name = GetItemSetName(itemSetId)
   const totalSlots = GetNumItemSetCollectionPieces(itemSetId)
@@ -35,6 +40,7 @@ function readItemSet(itemSetId: number, includePieces: boolean): ItemSetProgress
     ...resolveCategoryNames(itemSetId),
     slotsUnlocked: GetNumItemSetCollectionSlotsUnlocked(itemSetId),
     totalSlots,
+    reconstructionCost: reconstructionCostOf(itemSetId),
     pieces: includePieces ? scanPieces(itemSetId, totalSlots) : undefined,
   }
 }
@@ -58,8 +64,11 @@ function populatePieces(): undefined {
   if (itemSets === undefined) return
 
   for (const [esoIdStr, setProgress] of Object.entries(itemSets)) {
-    if (setProgress === undefined || setProgress.pieces !== undefined) continue
+    if (setProgress === undefined) continue
     const esoSetId = Number(esoIdStr)
+    setProgress.slotsUnlocked = GetNumItemSetCollectionSlotsUnlocked(esoSetId)
+    setProgress.reconstructionCost = reconstructionCostOf(esoSetId)
+    if (setProgress.pieces !== undefined) continue
     setProgress.pieces = scanPieces(esoSetId, setProgress.totalSlots)
   }
 }
@@ -86,6 +95,7 @@ export function updateItemSet(itemSetId: number): undefined {
     return
   }
   existing.slotsUnlocked = fresh.slotsUnlocked
+  existing.reconstructionCost = fresh.reconstructionCost
   existing.pieces = fresh.pieces
 }
 

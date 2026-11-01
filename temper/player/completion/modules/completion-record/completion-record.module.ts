@@ -27,6 +27,10 @@ export const completionRecord = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An item set keeps the transmute crystals the game says reconstructing it costs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A character's reported stats are the character sheet's numbers as the game gave them, for each bar.",
     },
@@ -148,5 +152,5 @@ export const completionRecord = {
     },
   ],
   createdAt: "2026-09-02T04:57:23.388Z",
-  updatedAt: "2026-10-21T12:49:27.974Z",
+  updatedAt: "2026-11-01T14:24:19.756Z",
 } as const satisfies Module
