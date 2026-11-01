@@ -19,6 +19,7 @@ export const git = {
     "module/git-store-sweeping",
     "module/head-commit",
     "module/holding",
+    "service-workstation/checkout-maintaining",
   ],
   decisions: [
     {
@@ -48,5 +49,5 @@ export const git = {
     },
   ],
   createdAt: "2026-09-01T15:03:28.508Z",
-  updatedAt: "2026-09-25T16:11:33.000Z",
+  updatedAt: "2026-11-01T16:16:42.513Z",
 } as const satisfies Domain

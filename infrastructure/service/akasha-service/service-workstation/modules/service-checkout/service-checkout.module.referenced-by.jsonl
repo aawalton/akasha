@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"service-checkout.module.code.ts","path":"check/service-workstations/audit-running/audit-running.service-workstation.running.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"service-checkout.module.code.ts","path":"code/shell-script/service-workstations/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.running.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"service-checkout.module.code.ts","path":"code/shell-script/service-workstations/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.running.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"service-checkout.module.code.ts","path":"git/service-workstations/checkout-maintaining/checkout-maintaining.service-workstation.running.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"service-checkout.module.code.ts","path":"infrastructure/service/akasha-service/modules/deploy-looping/deploy-looping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"service-checkout.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/cluster-watching/cluster-watching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"service-checkout.module.code.ts","path":"infrastructure/service/akasha-service/service-inference/modules/inference-watching/inference-watching.module.code.ts","typed":false,"deferred":false}
