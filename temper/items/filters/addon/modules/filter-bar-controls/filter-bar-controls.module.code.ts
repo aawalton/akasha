@@ -47,7 +47,7 @@ const NAME_BOX_WIDTH = 140
 const RANGE_BOX_WIDTH = 70
 const MULTISELECT_DROPDOWN_WIDTH = 120
 const TOGGLE_WIDTH = 70
-const VALUE_PLACEHOLDER = "Amount"
+const VALUE_PLACEHOLDER = "Any"
 const LISTED_PICKS_LENGTH = 24
 const DEFAULT_OP: ComparisonOp = "<="
 
