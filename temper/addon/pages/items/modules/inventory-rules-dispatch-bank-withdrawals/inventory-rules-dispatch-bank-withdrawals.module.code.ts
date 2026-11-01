@@ -103,12 +103,10 @@ function collectBankWithdrawals(
   const transitionTally = newBankTransitionTally()
   const carrier = storageCarrierOf(getCompiledConfig()?.characterPriority)
   const carriesStorage = carrier === undefined || carrier === currentCharId
+  if (ctx.isHouseStorage && !carriesStorage) return { withdrawals, transitionTally }
 
   function isCarriedOnly(this: void, dest: string | undefined): boolean {
-    if (ctx.isBank) return isConsolidateDest(dest)
-    if (!ctx.isHouseStorage) return false
-    if (dest === undefined) return true
-    return dest.substring(0, BANK_CHARACTER_PREFIX.length) !== BANK_CHARACTER_PREFIX
+    return ctx.isBank && isConsolidateDest(dest)
   }
 
   function collectBackpackRequired(

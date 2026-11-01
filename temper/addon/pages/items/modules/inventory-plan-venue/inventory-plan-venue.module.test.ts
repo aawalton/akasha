@@ -18,8 +18,9 @@ describe("An item a rule takes out of a house chest is planned as a withdrawal t
     expect(chestGivesUp("move-to", "house-storage:Crown Items", WEALTH, false)).toBe(false)
   })
 
-  test("an item bound for a character is withdrawn by whoever visits", () => {
-    expect(chestGivesUp("move-to", "character:42", WEALTH, false)).toBe(true)
+  test("an item bound for a character is withdrawn by the carrier alone", () => {
+    expect(chestGivesUp("move-to", "character:42", WEALTH, false)).toBe(false)
+    expect(chestGivesUp("move-to", "character:42", WEALTH, true)).toBe(true)
   })
 
   test("an item already in the chest its rule names stays", () => {

@@ -30,7 +30,7 @@ export const inventoryRulesDispatchBank = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A vault visit deposits nothing unless the storage carrier is playing.",
+      statement: "A vault visit moves nothing unless the storage carrier is playing.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -71,5 +71,5 @@ export const inventoryRulesDispatchBank = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.857Z",
-  updatedAt: "2026-11-01T19:40:22.760Z",
+  updatedAt: "2026-11-01T19:53:37.529Z",
 } as const satisfies Module

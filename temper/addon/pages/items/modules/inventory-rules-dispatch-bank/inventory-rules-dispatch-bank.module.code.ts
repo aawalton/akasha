@@ -117,6 +117,7 @@ export function onOpenBank(): BankTransitionSummary | undefined {
   const bankingBag = GetBankingBag()
 
   if (bankingBag === BAG_FURNITURE_VAULT) {
+    if (!carriesStorageHere()) return undefined
     dispatchingBank = true
     const vaultCtx: BankSlotContext = {
       reserved: new LuaMap<number, true>(),
@@ -147,7 +148,7 @@ export function onOpenBank(): BankTransitionSummary | undefined {
     }
     dispatchingBank = false
     runPaced(sends, vaultStillOpen, function (this: void, finished: boolean): undefined {
-      if (finished && carriesStorageHere()) startVaultDeposits(moveItem, withdrawnLinks.length)
+      if (finished) startVaultDeposits(moveItem, withdrawnLinks.length)
     })
     return undefined
   }

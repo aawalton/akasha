@@ -83,7 +83,7 @@ export function chestGivesUp(
     if (dest === "house-storage") return false
     const target = houseStorageTarget(dest)
     if (target !== undefined && matchStorageChest(target, [chest]).kind === "one") return false
-    return carriesStorage || dest.startsWith(CHARACTER_PREFIX)
+    return carriesStorage
   }
   if (CHEST_KEEPS.has(action)) return false
   const known = itemActionOf(action)
