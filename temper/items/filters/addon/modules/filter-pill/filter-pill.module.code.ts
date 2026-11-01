@@ -40,6 +40,8 @@ const OPAQUE = 1
 
 const UNSEEN = 0
 
+const NO_EDGE = 0
+
 const EDIT_TOP = 2
 
 const MAX_INPUT_CHARS = 64
@@ -59,7 +61,7 @@ const REMOVE_GLYPH = "×"
 interface Pill {
   readonly area: Control
   readonly label: LabelControl
-  readonly rects: readonly TextureControl[]
+  readonly rects: readonly BackdropControl[]
   readonly chevron: boolean
 }
 
@@ -69,34 +71,43 @@ function paintText(label: LabelControl | EditControl, color: Rgb): undefined {
   return undefined
 }
 
-function paintFill(rects: readonly TextureControl[], color: Rgb): undefined {
+function paintFill(rects: readonly BackdropControl[], color: Rgb): undefined {
   const [red, green, blue] = color
   for (const rect of rects) {
-    rect.SetColor(red, green, blue, OPAQUE)
+    rect.SetCenterColor(red, green, blue, OPAQUE)
   }
   return undefined
 }
 
-function fillRects(parent: Control, color: Rgb, radius: number, level: number): TextureControl[] {
-  const rects: TextureControl[] = []
+function flatRect(parent: Control, level: number): BackdropControl {
+  const rect = WINDOW_MANAGER.CreateControl(undefined, parent, CT_BACKDROP)
+  rect.SetCenterTexture(undefined)
+  rect.SetEdgeTexture(undefined, 1, 1, NO_EDGE)
+  rect.SetEdgeColor(NO_EDGE, NO_EDGE, NO_EDGE, NO_EDGE)
+  rect.SetInsets(NO_EDGE, NO_EDGE, NO_EDGE, NO_EDGE)
+  rect.SetDrawLayer(DL_BACKGROUND)
+  rect.SetDrawLevel(level)
+  return rect
+}
+
+function fillRects(parent: Control, color: Rgb, radius: number, level: number): BackdropControl[] {
+  const rects: BackdropControl[] = []
   let lastInset = -1
   for (let step = 0; step <= radius; step += 1) {
     const rise = radius - step
     const inset = math.floor(radius - math.sqrt(radius * radius - rise * rise) + 0.5)
     if (inset === lastInset) continue
     lastInset = inset
-    const rect = WINDOW_MANAGER.CreateControl(undefined, parent, CT_TEXTURE)
+    const rect = flatRect(parent, level)
     rect.SetAnchor(TOPLEFT, parent, TOPLEFT, inset, step)
     rect.SetAnchor(BOTTOMRIGHT, parent, BOTTOMRIGHT, -inset, -step)
-    rect.SetDrawLayer(DL_BACKGROUND)
-    rect.SetDrawLevel(level)
     rects.push(rect)
   }
   paintFill(rects, color)
   return rects
 }
 
-function lightOnPointing(rects: readonly TextureControl[], pointer: Control): undefined {
+function lightOnPointing(rects: readonly BackdropControl[], pointer: Control): undefined {
   pointer.SetHandler("OnMouseEnter", () => paintFill(rects, PILL_HOVER_FILL), HANDLER_NAME)
   pointer.SetHandler("OnMouseExit", () => paintFill(rects, PILL_FILL), HANDLER_NAME)
   return undefined
