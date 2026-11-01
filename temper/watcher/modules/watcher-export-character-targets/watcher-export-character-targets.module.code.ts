@@ -49,6 +49,7 @@ import {
   CHARACTER_PAGE_TYPE_SLUG,
   DEFAULT_PAGE_READER,
   type PageReader,
+  type PageValues,
 } from "akasha/temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.code.ts"
 
 const ROWS_PER_READ = 1000
@@ -188,6 +189,16 @@ export async function compileCharacterTargets(
   const targets: Record<string, readonly CharacterTarget[]> = {}
   let catalogs: Promise<unknown> | null = null
   const readCatalogs = (): Promise<unknown> => (catalogs ??= catalogsRead())
+  let everyBuild: Promise<readonly PageValues[]> | null = null
+  const readEveryBuild = (): Promise<readonly PageValues[]> =>
+    (everyBuild ??= reader
+      .collect({
+        pageTypeSlug: buildInterface.slug,
+        where: [],
+        select: ["slug", "everyBuild", ...INTERFACE_KEYS],
+        pageSize: ROWS_PER_READ,
+      })
+      .then((pages) => pages.filter((page) => page["everyBuild"] === true)))
   for (const character of characters) {
     const esoCharacterId = stringAt(character, "esoCharacterId")
     if (esoCharacterId === null) continue
@@ -197,7 +208,7 @@ export async function compileCharacterTargets(
       targetBuildIds: stringsIn(character["targetBuildIds"]),
     }
     for (const buildId of targetBuildIdsOf(named)) {
-      const target = await targetOf(buildId, reader, readCatalogs)
+      const target = await targetOf(buildId, reader, readCatalogs, readEveryBuild)
       if (target !== null) listed.push(target)
     }
     if (listed.length > 0) targets[esoCharacterId] = listed
@@ -208,7 +219,8 @@ export async function compileCharacterTargets(
 async function targetOf(
   buildId: string,
   reader: PageReader,
-  readCatalogs: () => Promise<unknown>
+  readCatalogs: () => Promise<unknown>,
+  readEveryBuild: () => Promise<readonly PageValues[]>
 ): Promise<CharacterTarget | null> {
   const build = await reader.get({
     pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
@@ -220,7 +232,7 @@ async function targetOf(
   await readCatalogs()
   const decoded = decodeBuild(buildHash(hash))
   if (decoded === null) return null
-  const held = await interfacesOf(stringsIn(build["buildInterfaces"]), reader)
+  const held = await interfacesOf(stringsIn(build["buildInterfaces"]), reader, readEveryBuild)
   return characterTargetOf(
     withBuildInterfaces(decoded, held),
     stringAt(build, "title") ?? "",
@@ -239,10 +251,14 @@ const INTERFACE_KEYS = [
 
 async function interfacesOf(
   named: readonly string[],
-  reader: PageReader
+  reader: PageReader,
+  readEveryBuild: () => Promise<readonly PageValues[]>
 ): Promise<readonly BuildInterfaceHeld[]> {
-  const held: BuildInterfaceHeld[] = []
+  const every = await readEveryBuild()
+  const held: BuildInterfaceHeld[] = every.map(buildInterfaceHeldOf)
+  const included = new Set(every.map((page) => stringAt(page, "slug")))
   for (const address of named) {
+    if (included.has(slugOf(address))) continue
     const page = await reader.get({
       pageTypeSlug: buildInterface.slug,
       where: [{ key: "slug", eq: slugOf(address) }],

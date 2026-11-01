@@ -38,6 +38,7 @@ export const foundations = {
     { skill: "temper-skill/persuasive-will", rank: 1 },
     { skill: "temper-skill/keen-eye-treasure-chests", rank: 2 },
   ],
+  everyBuild: true,
   everyPassiveStar: true,
   slottedStars: [
     "temper-champion-star/master-gatherer",
@@ -46,5 +47,5 @@ export const foundations = {
     "temper-champion-star/war-mount",
   ],
   createdAt: "2026-11-01T19:38:52.355Z",
-  updatedAt: "2026-11-01T19:38:52.355Z",
+  updatedAt: "2026-11-01T20:00:48.906Z",
 } as const satisfies BuildInterface
