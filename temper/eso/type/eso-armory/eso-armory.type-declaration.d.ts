@@ -17,6 +17,8 @@ declare const ZO_ARMORY_MANAGER: ZoArmoryManager
 
 declare const STATS_BG_FRAGMENT: SceneFragment
 
+declare const ZO_SkillsActionBarData: object
+
 declare const ZO_Character_GetEmptyEquipSlotTexture: (this: void, equipSlot: number) => string
 
 declare const ZO_GenerateCommaSeparatedListWithoutAnd: (

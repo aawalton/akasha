@@ -14,6 +14,10 @@ export const charactersArmoryBuildData = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A build passes as the skills bar data the game's skills bars check for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A piece of gear is shown from where it is held, and missing where it is held nowhere.",
     },
@@ -28,5 +32,5 @@ export const charactersArmoryBuildData = {
     },
   ],
   createdAt: "2026-11-01T20:43:39.700Z",
-  updatedAt: "2026-11-01T20:43:39.700Z",
+  updatedAt: "2026-11-01T21:00:01.028Z",
 } as const satisfies Module

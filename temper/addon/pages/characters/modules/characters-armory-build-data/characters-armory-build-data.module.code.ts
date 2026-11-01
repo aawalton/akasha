@@ -20,6 +20,7 @@ export interface ArmoryBuildData {
   readonly build: ArmoryBuild
   name: string
   icon: number
+  IsInstanceOf: (this: ArmoryBuildData, kind: object) => boolean
   GetBuildIndex: (this: ArmoryBuildData) => number
   GetName: (this: ArmoryBuildData) => string
   SetName: (this: ArmoryBuildData, name: string) => void
@@ -82,6 +83,7 @@ export function armoryBuildDataOf(build: ArmoryBuild, index: number): ArmoryBuil
     build,
     name: build.title,
     icon: build.icon,
+    IsInstanceOf: (kind) => kind === ZO_SkillsActionBarData,
     GetBuildIndex: () => index,
     GetName() {
       return this.name
