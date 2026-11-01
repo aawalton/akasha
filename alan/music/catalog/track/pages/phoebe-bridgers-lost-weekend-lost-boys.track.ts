@@ -5,13 +5,13 @@ export const phoebeBridgersLostWeekendLostBoys = {
   type: "page-type/track",
   slug: "phoebe-bridgers-lost-weekend-lost-boys",
   ownLength: 4.243566666666666,
-  ownProgress: 0,
+  ownProgress: 4.243566666666666,
   partOfCollections: [
     "release/phoebe-bridgers-lost-weekend",
     "release/phoebe-bridgers-lost-boys-acoustic",
     "release/phoebe-bridgers-lost-boys",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Lost Boys",
   trackType: "studio",
@@ -43,5 +43,6 @@ export const phoebeBridgersLostWeekendLostBoys = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-11-01T19:01:00.483Z",
+  progressedAt: "2026-11-01T19:01:00.483Z",
 } as const satisfies Track
