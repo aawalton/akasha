@@ -9,7 +9,10 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/addon/pages/characters/characters-config-declarations/characters-config-declarations.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
-import { armoryBuilds } from "akasha/temper/addon/pages/characters/modules/characters-armory-pending/characters-armory-pending.module.code.ts"
+import {
+  type ArmoryBuild,
+  armoryBuilds,
+} from "akasha/temper/addon/pages/characters/modules/characters-armory-pending/characters-armory-pending.module.code.ts"
 import { spentAttributes } from "akasha/temper/addon/pages/characters/modules/characters-build-attributes/characters-build-attributes.module.code.ts"
 import {
   BAR_SLOT_INDICES,
@@ -76,19 +79,19 @@ export function currentCharacterTargets(): readonly CharacterTarget[] {
   return listed.filter(isCharacterTarget)
 }
 
-function chosenTarget(
-  targets: readonly CharacterTarget[],
-  chosen: string
-): CharacterTarget | undefined {
-  const listed = targets.find((one) => one.buildId === chosen || one.correlationId === chosen)
-  return listed ?? armoryBuilds(targets).find((build) => build.key === chosen)?.target
+export function currentCharacterBuild(): ArmoryBuild | undefined {
+  const targets = currentCharacterTargets()
+  if (targets.length === 0) return undefined
+  const builds = armoryBuilds(targets)
+  const chosen = getSavedVariables().activeBuilds?.[GetCurrentCharacterId()]
+  if (chosen === undefined || chosen.over !== targets[0]?.buildId) return builds[0]
+  const named = (build: ArmoryBuild): boolean =>
+    build.key === chosen.buildId || build.target.correlationId === chosen.buildId
+  return builds.find(named) ?? builds[0]
 }
 
 export function currentCharacterTarget(): CharacterTarget | undefined {
-  const targets = currentCharacterTargets()
-  const chosen = getSavedVariables().activeBuilds?.[GetCurrentCharacterId()]
-  if (chosen === undefined || chosen.over !== targets[0]?.buildId) return targets[0]
-  return chosenTarget(targets, chosen.buildId) ?? targets[0]
+  return currentCharacterBuild()?.target
 }
 
 function attributesSection(target: CharacterTarget): ChecklistSection {
@@ -113,25 +116,31 @@ function matchesPlan(plan: DisciplinePlan): boolean {
   )
 }
 
-function disciplineLines(target: TargetDiscipline): readonly ChecklistLine[] {
+function slotLines(target: TargetDiscipline): readonly ChecklistLine[] {
   const title = DISCIPLINE_TITLES[target.discipline] ?? target.discipline
-  const plan = planDiscipline(target)
-  const full = target.stars.filter(
-    (star) => GetNumPointsSpentOnChampionSkill(star.id) >= GetChampionSkillMaxPoints(star.id)
-  ).length
-  const lines: ChecklistLine[] = [
-    {
-      text: `${title}: ${full} of ${target.stars.length} stars full, the target's points reach ${plan.starsFull}`,
-      met: matchesPlan(plan),
-    },
-  ]
   const bound = slottedOf(target.discipline)
+  const lines: ChecklistLine[] = []
   for (let at = 0; at < target.slotted.length; at++) {
     const star = target.slotted[at]
     if (star === undefined || star.id === 0) continue
     lines.push({ text: `${title} slot: ${star.name}`, met: bound.includes(star.id) })
   }
   return lines
+}
+
+function disciplineLines(target: TargetDiscipline): readonly ChecklistLine[] {
+  const title = DISCIPLINE_TITLES[target.discipline] ?? target.discipline
+  const plan = planDiscipline(target)
+  const full = target.stars.filter(
+    (star) => GetNumPointsSpentOnChampionSkill(star.id) >= GetChampionSkillMaxPoints(star.id)
+  ).length
+  return [
+    {
+      text: `${title}: ${full} of ${target.stars.length} stars full, the target's points reach ${plan.starsFull}`,
+      met: matchesPlan(plan),
+    },
+    ...slotLines(target),
+  ]
 }
 
 function championSection(target: CharacterTarget): ChecklistSection {
@@ -213,6 +222,16 @@ function passivesSection(target: CharacterTarget): ChecklistSection {
       met: passiveHeld(passive),
     })),
   }
+}
+
+export function savedPartsHeld(target: CharacterTarget): boolean {
+  const lines = [
+    ...attributesSection(target).lines,
+    ...target.champion.flatMap(slotLines),
+    ...barsSection(target).lines,
+    ...gearSection(target).lines,
+  ]
+  return lines.every((line) => line.met)
 }
 
 export function checklistOf(target: CharacterTarget): readonly ChecklistSection[] {

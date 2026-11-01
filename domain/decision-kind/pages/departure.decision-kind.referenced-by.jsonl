@@ -4524,6 +4524,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-antiquity-lead-checks/characters-antiquity-lead-checks.module.ts","id":"01a062ed-39a0-700a-b328-1ae517d89942"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-archive-boons/characters-archive-boons.module.ts","id":"01a1597d-c5e3-730f-a1cc-e18757d6a7c1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-armory-actions/characters-armory-actions.module.ts","id":"01a198da-8335-7aa8-bafc-8b4929c7e49b"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-armory-autosave/characters-armory-autosave.module.ts","id":"01a19940-3526-71c8-9e5f-4d606793c705"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-armory-build-data/characters-armory-build-data.module.ts","id":"01a198da-8335-7fee-8697-1b577b4bd49f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-armory-live/characters-armory-live.module.ts","id":"01a198da-8335-7168-abeb-80394857526b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-armory-pending/characters-armory-pending.module.ts","id":"01a198d0-b1ad-7f9a-9c3e-8caf0dfcd0a0"}

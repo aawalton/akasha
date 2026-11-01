@@ -19,6 +19,7 @@ import {
   armoryKeybinds,
   saveNewBuild,
 } from "akasha/temper/addon/pages/characters/modules/characters-armory-actions/characters-armory-actions.module.code.ts"
+import { startArmoryAutosave } from "akasha/temper/addon/pages/characters/modules/characters-armory-autosave/characters-armory-autosave.module.code.ts"
 import { armoryBuildDataOf } from "akasha/temper/addon/pages/characters/modules/characters-armory-build-data/characters-armory-build-data.module.code.ts"
 import {
   type ArmoryBuild,
@@ -33,7 +34,7 @@ import {
   NEW_BUILD_ROW,
 } from "akasha/temper/addon/pages/characters/modules/characters-armory-rows/characters-armory-rows.module.code.ts"
 import {
-  currentCharacterTarget,
+  currentCharacterBuild,
   currentCharacterTargets,
 } from "akasha/temper/addon/pages/characters/modules/characters-build-checklist/characters-build-checklist.module.code.ts"
 import {
@@ -165,7 +166,7 @@ function addScene(armory: Armory): undefined {
       ZO_ARMORY_MANAGER.PerformDeferredInitialization()
       PlaySound(SOUNDS["ARMORY_OPEN"])
       KEYBIND_STRIP.AddKeybindButtonGroup(KEYBINDS)
-      selectedKey ??= currentCharacterTarget()?.buildId
+      selectedKey ??= currentCharacterBuild()?.key
       refresh()
     } else if (newState === SCENE_HIDDEN) {
       KEYBIND_STRIP.RemoveKeybindButtonGroup(KEYBINDS)
@@ -199,5 +200,6 @@ export function initializeArmory(): undefined {
   addArmoryDialogs(VIEW)
   SLASH_COMMANDS["/temperarmory"] = toggleArmory
   ZO_CreateStringId("SI_BINDING_NAME_TEMPER_TOGGLE_ARMORY", `Toggle ${TITLE}`)
+  startArmoryAutosave()
   return sayUnkept()
 }

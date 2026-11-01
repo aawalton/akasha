@@ -17,6 +17,10 @@ export const charactersBuildChecklist = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The target carries what was saved over it in the game and not yet read back.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A choice made over a build the config no longer lists first is ignored.",
     },
     {
@@ -54,5 +58,5 @@ export const charactersBuildChecklist = {
     },
   ],
   createdAt: "2026-10-28T19:54:38.440Z",
-  updatedAt: "2026-11-01T22:08:40.518Z",
+  updatedAt: "2026-11-01T22:34:44.390Z",
 } as const satisfies Module

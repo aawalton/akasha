@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/catalog-api-test/catalog-api-test.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-armory-actions/characters-armory-actions.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-armory-autosave/characters-armory-autosave.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-armory-build-data/characters-armory-build-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-armory-live/characters-armory-live.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-armory-rows/characters-armory-rows.module.code.ts","typed":false,"deferred":false}
