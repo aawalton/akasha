@@ -40,6 +40,10 @@ export const charactersBuildTargetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The panel ends above the screen's bottom, its last line saying how many more.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every line is drawn as a task HUD line is, over no backdrop.",
     },
     {
@@ -98,5 +102,5 @@ export const charactersBuildTargetPanel = {
     },
   ],
   createdAt: "2026-10-28T19:54:38.440Z",
-  updatedAt: "2026-11-01T22:03:44.113Z",
+  updatedAt: "2026-11-01T22:19:25.334Z",
 } as const satisfies Module

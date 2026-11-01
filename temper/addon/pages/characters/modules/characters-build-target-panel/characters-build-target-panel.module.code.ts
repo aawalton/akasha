@@ -268,27 +268,35 @@ interface ShownRow {
   readonly trailing: number
 }
 
-function showRows(panel: TargetPanel, sections: readonly ChecklistSection[]): readonly ShownRow[] {
+function showRows(
+  panel: TargetPanel,
+  sections: readonly ChecklistSection[],
+  budget: number
+): readonly ShownRow[] {
   const rows: ShownRow[] = []
-  let used = 0
+  const room = math.min(budget, panel.lines.length)
   for (const section of sections) {
-    const label = panel.lines[used]
-    const count = panel.counts[used]
-    if (label === undefined || count === undefined) break
-    used++
-    const met = section.lines.filter((line) => line.met).length
+    const label = panel.lines[rows.length]
+    const count = panel.counts[rows.length]
+    if (rows.length >= room || label === undefined || count === undefined) break
+    const unmet = section.lines.filter((line) => !line.met)
+    const met = section.lines.length - unmet.length
     const trailing = showHeading(label, count, section.title, met, section.lines.length)
     rows.push({ label, count, trailing })
-    for (const line of section.lines) {
-      if (line.met) continue
-      const row = panel.lines[used]
-      if (row === undefined) break
-      used++
-      showUnmet(row, line.text)
+    for (let at = 0; at < unmet.length; at++) {
+      const row = panel.lines[rows.length]
+      if (rows.length >= room || row === undefined) break
+      const left = unmet.length - at
+      const cropped = rows.length === room - 1 && left > 1
+      showUnmet(row, cropped ? `and ${left} more` : (unmet[at]?.text ?? ""))
       rows.push({ label: row, trailing: 0 })
     }
   }
   return rows
+}
+
+function panelTop(): number {
+  return besideTarget()?.GetTop() ?? PANEL_GAP
 }
 
 function placeRow(row: ShownRow, panel: TargetPanel, top: number): number {
@@ -326,11 +334,15 @@ function refreshTargetPanel(this: void): undefined {
   const sections = checklistOf(target)
   const applying = toApply(sections)
   if (applying.length > 0) panel.apply.SetText(applyText(applying))
-  const rows = showRows(panel, sections)
 
   const tops = [panel.title]
   if (next !== undefined) tops.push(panel.choose)
   if (applying.length > 0) tops.push(panel.apply)
+  const saidHeight = panel.said.GetText() === "" ? 0 : panel.said.GetTextHeight() + HEADER_GAP
+  const head = PADDING * 2 + tops.length * HUD_ROW_HEIGHT + HEADER_GAP + saidHeight
+  const budget = math.floor((GuiRoot.GetHeight() - panelTop() - head) / HUD_ROW_HEIGHT)
+  const rows = showRows(panel, sections, budget)
+
   let widest = MIN_WIDTH
   for (const line of tops) widest = math.max(widest, line.GetTextWidth())
   if (panel.said.GetText() !== "") widest = math.max(widest, SAID_WIDTH)
