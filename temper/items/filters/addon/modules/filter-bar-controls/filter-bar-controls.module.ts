@@ -43,7 +43,24 @@ export const filterBarControls = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The bar's buttons, fields and dropdowns are Temper's window controls.",
+      statement: "A bar button and a bare edit box are Temper's window controls.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every editor is shown as filter pills.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A range editor is an operator pill and a value pill.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An operator pill opens a menu of comparisons where the filter offers more than one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A multiselect pill names its one pick, or counts its picks.",
     },
 
     {
@@ -52,5 +69,5 @@ export const filterBarControls = {
     },
   ],
   createdAt: "2026-09-02T08:45:26.710Z",
-  updatedAt: "2026-11-01T21:30:20.157Z",
+  updatedAt: "2026-11-01T22:08:58.608Z",
 } as const satisfies Module

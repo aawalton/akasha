@@ -5903,6 +5903,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/shard-inventory/shard-inventory.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/filters/addon/modules/filter-bar/filter-bar.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/filters/addon/modules/filter-pill/filter-pill.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/filters/addon/modules/panel-filter-binding/panel-filter-binding.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/filters/core/modules/saved-search/saved-search.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/filters/core/modules/search-armor-weight-filter/search-armor-weight-filter.module.ts","typed":true,"deferred":false}

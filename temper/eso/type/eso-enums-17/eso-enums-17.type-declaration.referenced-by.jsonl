@@ -249,6 +249,7 @@
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-settings/skyshards-pc-settings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/items/filters/addon/modules/filter-bar/filter-bar.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/items/filters/addon/modules/filter-pill/filter-pill.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/modules/movable-window/movable-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/modules/surface-backdrop/surface-backdrop.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-panels/skill-point-finder-panels.module.code.ts","typed":false,"deferred":false}

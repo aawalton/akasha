@@ -6,7 +6,12 @@ export const temperItemsFiltersAddon = {
   slug: "temper-items-filters-addon",
   definition:
     "the filter panel a player narrows the inventory with, and the binding that narrows the rows",
-  parts: ["module/filter-bar", "module/filter-bar-controls", "module/panel-filter-binding"],
+  parts: [
+    "module/filter-bar",
+    "module/filter-bar-controls",
+    "module/panel-filter-binding",
+    "module/filter-pill",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
@@ -27,5 +32,5 @@ export const temperItemsFiltersAddon = {
     },
   ],
   createdAt: "2026-09-02T08:45:26.708Z",
-  updatedAt: "2026-10-28T15:49:51.199Z",
+  updatedAt: "2026-11-01T22:08:58.608Z",
 } as const satisfies Domain

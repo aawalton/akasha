@@ -149,6 +149,7 @@
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-tooltip/skyshards-pc-tooltip.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/items/filters/addon/modules/filter-bar/filter-bar.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/items/filters/addon/modules/filter-pill/filter-pill.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-char-list/skill-point-finder-char-list.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-global/item-browser-global.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-list/item-browser-list.module.code.ts","typed":false,"deferred":false}

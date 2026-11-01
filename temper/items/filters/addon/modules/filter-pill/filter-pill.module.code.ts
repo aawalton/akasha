@@ -1,0 +1,189 @@
+import type { Rgb } from "akasha/design/interface/token/modules/color-shape/color-shape.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+
+export const PILL_HEIGHT = 24
+
+export const PILL_GAP = 6
+
+const PILL_PAD_X = 10
+
+const PILL_RADIUS = 5
+
+const PILL_LEVEL = 2
+
+const PILL_FONT = "$(MEDIUM_FONT)|16"
+
+const PILL_FILL: Rgb = [0.227, 0.227, 0.227]
+
+const PILL_HOVER_FILL: Rgb = [0.282, 0.282, 0.282]
+
+const PRIMARY_TEXT: Rgb = [0.843, 0.843, 0.843]
+
+const SECONDARY_TEXT: Rgb = [0.643, 0.643, 0.643]
+
+const TERTIARY_TEXT: Rgb = [0.455, 0.455, 0.455]
+
+const CHEVRON_ART = "EsoUI/Art/Buttons/scrollbox_downArrow_up.dds"
+
+const CHEVRON_SIZE = 12
+
+const CHEVRON_GAP = 4
+
+const GREY = 1
+
+const OPAQUE = 1
+
+const UNSEEN = 0
+
+const EDIT_TOP = 2
+
+const MAX_INPUT_CHARS = 64
+
+const HANDLER_NAME = "TemperFilterPill"
+
+interface Pill {
+  readonly area: Control
+  readonly label: LabelControl
+  readonly rects: readonly TextureControl[]
+  readonly chevron: boolean
+}
+
+function paintText(label: LabelControl | EditControl, color: Rgb): undefined {
+  const [red, green, blue] = color
+  label.SetColor(red, green, blue, OPAQUE)
+  return undefined
+}
+
+function paintFill(rects: readonly TextureControl[], color: Rgb): undefined {
+  const [red, green, blue] = color
+  for (const rect of rects) {
+    rect.SetColor(red, green, blue, OPAQUE)
+  }
+  return undefined
+}
+
+function fillRects(parent: Control, color: Rgb, radius: number, level: number): TextureControl[] {
+  const rects: TextureControl[] = []
+  let lastInset = -1
+  for (let step = 0; step <= radius; step += 1) {
+    const rise = radius - step
+    const inset = math.floor(radius - math.sqrt(radius * radius - rise * rise) + 0.5)
+    if (inset === lastInset) continue
+    lastInset = inset
+    const rect = WINDOW_MANAGER.CreateControl(undefined, parent, CT_TEXTURE)
+    rect.SetAnchor(TOPLEFT, parent, TOPLEFT, inset, step)
+    rect.SetAnchor(BOTTOMRIGHT, parent, BOTTOMRIGHT, -inset, -step)
+    rect.SetDrawLayer(DL_BACKGROUND)
+    rect.SetDrawLevel(level)
+    rects.push(rect)
+  }
+  paintFill(rects, color)
+  return rects
+}
+
+function lightOnPointing(rects: readonly TextureControl[], pointer: Control): undefined {
+  pointer.SetHandler("OnMouseEnter", () => paintFill(rects, PILL_HOVER_FILL), HANDLER_NAME)
+  pointer.SetHandler("OnMouseExit", () => paintFill(rects, PILL_FILL), HANDLER_NAME)
+  return undefined
+}
+
+export function setPillText(pill: Pill, text: string): undefined {
+  pill.label.SetText(text)
+  const tail = pill.chevron ? CHEVRON_GAP + CHEVRON_SIZE : 0
+  pill.area.SetWidth(PILL_PAD_X * 2 + pill.label.GetTextWidth() + tail)
+  return undefined
+}
+
+function paintPill(area: Control, text: string, chevron: boolean, muted: boolean): Pill {
+  area.SetHeight(PILL_HEIGHT)
+  const rects = fillRects(area, PILL_FILL, PILL_RADIUS, PILL_LEVEL)
+  const label = WINDOW_MANAGER.CreateControl(undefined, area, CT_LABEL)
+  label.SetAnchor(LEFT, area, LEFT, PILL_PAD_X, 0)
+  label.SetFont(PILL_FONT)
+  label.SetMouseEnabled(false)
+  paintText(label, muted ? SECONDARY_TEXT : PRIMARY_TEXT)
+  if (chevron) {
+    const mark = WINDOW_MANAGER.CreateControl(undefined, area, CT_TEXTURE)
+    mark.SetTexture(CHEVRON_ART)
+    mark.SetDimensions(CHEVRON_SIZE, CHEVRON_SIZE)
+    mark.SetAnchor(RIGHT, area, RIGHT, -PILL_PAD_X, 0)
+    mark.SetDesaturation(GREY)
+    const [red, green, blue] = SECONDARY_TEXT
+    mark.SetColor(red, green, blue, OPAQUE)
+  }
+  const pill: Pill = { area, label, rects, chevron }
+  setPillText(pill, text)
+  return pill
+}
+
+function hideComboArt(container: Control): Control {
+  let pointer: Control = container
+  for (let at = 1; at <= container.GetNumChildren(); at += 1) {
+    const child = container.GetChild<Control>(at)
+    if (child === undefined) continue
+    if (child.GetType() === CT_BUTTON) {
+      child.SetAlpha(UNSEEN)
+      child.ClearAnchors()
+      child.SetAnchorFill()
+      pointer = child
+    } else {
+      child.SetHidden(true)
+    }
+  }
+  return pointer
+}
+
+export function comboPill(
+  parent: Control,
+  name: string,
+  text: string,
+  chevron: boolean,
+  muted = false
+): { container: Control; comboBox: ComboBox; pill: Pill } {
+  const container = WINDOW_MANAGER.CreateControlFromVirtual(name, parent, "ZO_ComboBox")
+  const pointer = hideComboArt(container)
+  const pill = paintPill(container, text, chevron, muted)
+  lightOnPointing(pill.rects, pointer)
+  return { container, comboBox: ZO_ComboBox_ObjectFromContainer(container), pill }
+}
+
+export function staticPill(
+  parent: Control,
+  name: string,
+  text: string
+): { area: Control; pill: Pill } {
+  const area = WINDOW_MANAGER.CreateControl(name, parent, CT_CONTROL)
+  const pill = paintPill(area, text, false, false)
+  return { area, pill }
+}
+
+export function editPill(
+  parent: Control,
+  name: string,
+  width: number,
+  placeholder: string
+): { area: Control; edit: EditControl } {
+  const area = WINDOW_MANAGER.CreateControl(`${name}Pill`, parent, CT_CONTROL)
+  area.SetDimensions(width, PILL_HEIGHT)
+  const rects = fillRects(area, PILL_FILL, PILL_RADIUS, PILL_LEVEL)
+  const edit = WINDOW_MANAGER.CreateControl(name, area, CT_EDITBOX)
+  edit.SetAnchor(TOPLEFT, area, TOPLEFT, PILL_PAD_X, EDIT_TOP)
+  edit.SetAnchor(BOTTOMRIGHT, area, BOTTOMRIGHT, -PILL_PAD_X, 0)
+  edit.SetFont(PILL_FONT)
+  paintText(edit, PRIMARY_TEXT)
+  const [red, green, blue] = TERTIARY_TEXT
+  edit.SetDefaultTextColor(red, green, blue, OPAQUE)
+  edit.SetDefaultText(placeholder)
+  edit.SetMaxInputChars(MAX_INPUT_CHARS)
+  edit.SetMouseEnabled(true)
+  edit.SetHandler("OnMouseUp", function (this: void): undefined {
+    edit.TakeFocus()
+  })
+  lightOnPointing(rects, edit)
+  return { area, edit }
+}

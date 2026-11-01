@@ -10,6 +10,14 @@ import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
+import {
+  comboPill,
+  editPill,
+  PILL_GAP,
+  PILL_HEIGHT,
+  setPillText,
+  staticPill,
+} from "akasha/temper/items/filters/addon/modules/filter-pill/filter-pill.module.code.ts"
 import type { FilterController } from "akasha/temper/items/filters/addon/modules/panel-filter-binding/panel-filter-binding.module.code.ts"
 import type {
   AnyTemperFilter,
@@ -33,11 +41,25 @@ export const PADDING_Y = 6
 export const CONTROL_HEIGHT = WINDOW_CONTROL_HEIGHT
 export const CONTROL_GAP = spaceOf("2")
 export const LABEL_GAP = 4
+export const PILL_TOP = PADDING_Y + (CONTROL_HEIGHT - PILL_HEIGHT) / 2
 
 const NAME_BOX_WIDTH = 140
 const RANGE_BOX_WIDTH = 70
 const MULTISELECT_DROPDOWN_WIDTH = 120
 const TOGGLE_WIDTH = 70
+const VALUE_PLACEHOLDER = "Amount"
+const DEFAULT_OP: ComparisonOp = "<="
+
+type ComparisonOp = NonNullable<FilterRangeValue["op"]>
+
+const OP_LABELS: Readonly<Record<ComparisonOp, string>> = {
+  "<=": "At most",
+  "<": "Under",
+  ">=": "At least",
+  ">": "Over",
+  "=": "Exactly",
+  "!=": "Not",
+}
 export const CLEAR_WIDTH = 50
 
 export interface BarButton {
@@ -142,7 +164,8 @@ export function buildTextEditor(
   const placeholder =
     editor.kind === "text" && editor.placeholder !== undefined ? editor.placeholder : "Search…"
   const safe = sanitizeName(filter.id)
-  const edit = createEditBox(parent, `$(parent)Text_${safe}`, xOffset, width, placeholder)
+  const { area, edit } = editPill(parent, `$(parent)Text_${safe}`, width, placeholder)
+  area.SetAnchor(TOPLEFT, parent, TOPLEFT, xOffset, PILL_TOP)
 
   const controller = ctx.controller
   const id = filter.id
@@ -173,15 +196,10 @@ export function buildMultiselectEditor(
   width: number = MULTISELECT_DROPDOWN_WIDTH
 ): number {
   const safe = sanitizeName(filter.id)
-  const container = WINDOW_MANAGER.CreateControlFromVirtual(
-    `$(parent)Ms_${safe}`,
-    parent,
-    "ZO_ComboBox"
-  )
-  container.SetDimensions(width, CONTROL_HEIGHT)
-  container.SetAnchor(TOPLEFT, parent, TOPLEFT, xOffset, PADDING_Y)
+  const made = comboPill(parent, `$(parent)Ms_${safe}`, ALL_OPTION_LABEL, true)
+  made.container.SetAnchor(TOPLEFT, parent, TOPLEFT, xOffset, PILL_TOP)
 
-  const comboBox = ZO_ComboBox_ObjectFromContainer(container) as MultiSelectComboBox
+  const comboBox = made.comboBox as MultiSelectComboBox
   comboBox.SetSortsItems(false)
   comboBox.EnableMultiSelect(
     GetString(SI_COMBO_BOX_DEFAULT_MULTISELECTION_TEXT_FORMATTER),
@@ -189,14 +207,22 @@ export function buildMultiselectEditor(
   )
   const id = filter.id
   const cell: { syncing: boolean } = { syncing: false }
-  const entries: { readonly item: ComboBoxItem; readonly value: string }[] = []
+  const entries: {
+    readonly item: ComboBoxItem
+    readonly value: string
+    readonly label: string
+  }[] = []
 
   function pushPicked(this: void): undefined {
     if (cell.syncing) return
     const picked: string[] = []
+    const names: string[] = []
     for (const entry of entries) {
-      if (comboBox.IsItemSelected(entry.item)) picked.push(entry.value)
+      if (!comboBox.IsItemSelected(entry.item)) continue
+      picked.push(entry.value)
+      names.push(entry.label)
     }
+    setPillText(made.pill, pickedText(names))
     if (picked.length === 0) {
       ctx.controller.clearFilter(id)
     } else {
@@ -211,16 +237,24 @@ export function buildMultiselectEditor(
         : GetItemQualityColor(option.itemQuality).Colorize(option.label)
     const item = comboBox.CreateItemEntry(label, pushPicked)
     comboBox.AddItem(item)
-    entries.push({ item, value: option.value })
+    entries.push({ item, value: option.value, label })
   }
 
   ctx.addReset(function (this: void): undefined {
     cell.syncing = true
     comboBox.ClearAllSelections()
     cell.syncing = false
+    setPillText(made.pill, ALL_OPTION_LABEL)
   })
 
   return xOffset + width + CONTROL_GAP
+}
+
+function pickedText(names: readonly string[]): string {
+  const only = names[0]
+  if (only === undefined) return ALL_OPTION_LABEL
+  if (names.length === 1) return only
+  return `${names.length} selected`
 }
 
 function selectAllEntry(comboBox: ComboBox, cell: { syncing: boolean }): undefined {
@@ -249,32 +283,30 @@ export function buildToggleEditor(
     editor.kind === "toggle" && editor.excludeLabel !== undefined ? editor.excludeLabel : "No"
 
   const safe = sanitizeName(filter.id)
-  const container = WINDOW_MANAGER.CreateControlFromVirtual(
-    `$(parent)Tog_${safe}`,
-    parent,
-    "ZO_ComboBox"
-  )
-  container.SetDimensions(width, CONTROL_HEIGHT)
-  container.SetAnchor(TOPLEFT, parent, TOPLEFT, xOffset, PADDING_Y)
+  const made = comboPill(parent, `$(parent)Tog_${safe}`, ALL_OPTION_LABEL, true)
+  made.container.SetAnchor(TOPLEFT, parent, TOPLEFT, xOffset, PILL_TOP)
 
-  const comboBox = ZO_ComboBox_ObjectFromContainer(container)
+  const comboBox = made.comboBox
   const id = filter.id
   const cell: { syncing: boolean } = { syncing: false }
 
   const allEntry = comboBox.CreateItemEntry(ALL_OPTION_LABEL, function (this: void): undefined {
     if (cell.syncing) return
+    setPillText(made.pill, ALL_OPTION_LABEL)
     ctx.controller.clearFilter(id)
   })
   comboBox.AddItem(allEntry)
 
   const includeEntry = comboBox.CreateItemEntry(includeLabel, function (this: void): undefined {
     if (cell.syncing) return
+    setPillText(made.pill, includeLabel)
     ctx.controller.setFilter(id, "include")
   })
   comboBox.AddItem(includeEntry)
 
   const excludeEntry = comboBox.CreateItemEntry(excludeLabel, function (this: void): undefined {
     if (cell.syncing) return
+    setPillText(made.pill, excludeLabel)
     ctx.controller.setFilter(id, "exclude")
   })
   comboBox.AddItem(excludeEntry)
@@ -283,6 +315,7 @@ export function buildToggleEditor(
 
   ctx.addReset(function (this: void): undefined {
     selectAllEntry(comboBox, cell)
+    setPillText(made.pill, ALL_OPTION_LABEL)
   })
 
   return xOffset + width + CONTROL_GAP
@@ -295,39 +328,78 @@ export function buildRangeEditor(
   parent: Control = ctx.tlw,
   width: number = RANGE_BOX_WIDTH
 ): number {
-  const op = rangeOp(filter)
+  const ops = rangeOps(filter)
+  const first = ops[0] ?? DEFAULT_OP
+  const cell: RangeCell = { op: first, value: undefined }
   const safe = sanitizeName(filter.id)
-  const edit = createEditBox(parent, `$(parent)Range_${safe}`, xOffset, width, op)
-
   const controller = ctx.controller
   const id = filter.id
-  edit.SetHandler("OnTextChanged", function (this: void): undefined {
-    const text = edit.GetText()
-    const parsed = parseNumber(text)
-    if (parsed === undefined) {
+
+  function push(this: void): undefined {
+    if (cell.value === undefined) {
       controller.clearFilter(id)
-    } else {
-      const value: FilterRangeValue = { value: parsed, op }
-      controller.setFilter(id, value)
+      return undefined
     }
+    const value: FilterRangeValue = { value: cell.value, op: cell.op }
+    controller.setFilter(id, value)
+    return undefined
+  }
+
+  const op = opPill(parent, safe, ops, cell, push)
+  op.area.SetAnchor(TOPLEFT, parent, TOPLEFT, xOffset, PILL_TOP)
+  const { area, edit } = editPill(parent, `$(parent)Range_${safe}`, width, VALUE_PLACEHOLDER)
+  area.SetAnchor(TOPLEFT, op.area, TOPRIGHT, PILL_GAP, 0)
+
+  edit.SetHandler("OnTextChanged", function (this: void): undefined {
+    cell.value = parseNumber(edit.GetText())
+    push()
   })
 
   ctx.addReset(function (this: void): undefined {
+    cell.op = first
+    op.show(first)
     edit.SetText("")
   })
 
-  return xOffset + width + CONTROL_GAP
+  return xOffset + op.area.GetWidth() + PILL_GAP + width + CONTROL_GAP
 }
 
-function rangeOp(filter: AnyTemperFilter): NonNullable<FilterRangeValue["op"]> {
-  const editor = filter.editor
-  if (editor.kind === "range" && editor.ops !== undefined) {
-    const first = editor.ops[0]
-    if (first !== undefined) {
-      return first
-    }
+interface RangeCell {
+  op: ComparisonOp
+  value: number | undefined
+}
+
+function opPill(
+  parent: Control,
+  safe: string,
+  ops: readonly ComparisonOp[],
+  cell: RangeCell,
+  push: (this: void) => undefined
+): { area: Control; show: (this: void, op: ComparisonOp) => void } {
+  const name = `$(parent)Op_${safe}`
+  if (ops.length <= 1) {
+    const plain = staticPill(parent, name, OP_LABELS[cell.op])
+    return { area: plain.area, show: (op) => setPillText(plain.pill, OP_LABELS[op]) }
   }
-  return "<="
+  const made = comboPill(parent, name, OP_LABELS[cell.op], true)
+  made.comboBox.SetSortsItems(false)
+  for (const op of ops) {
+    const entry = made.comboBox.CreateItemEntry(OP_LABELS[op], function (this: void): undefined {
+      cell.op = op
+      setPillText(made.pill, OP_LABELS[op])
+      push()
+    })
+    made.comboBox.AddItem(entry)
+  }
+  return { area: made.container, show: (op) => setPillText(made.pill, OP_LABELS[op]) }
+}
+
+function rangeOps(filter: AnyTemperFilter): readonly ComparisonOp[] {
+  const editor = filter.editor
+  if (editor.kind === "range" && editor.ops !== undefined && editor.ops.length > 0) {
+    return editor.ops
+  }
+  return [DEFAULT_OP]
 }
 
 function parseNumber(text: string): number | undefined {
