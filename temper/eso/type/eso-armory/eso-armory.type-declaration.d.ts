@@ -19,6 +19,10 @@ declare const STATS_BG_FRAGMENT: SceneFragment
 
 declare const ZO_SkillsActionBarData: object
 
+declare const MARKET_OPEN_OPERATION_DIRECT: number
+
+declare const ShowMarketAndSearch: (this: void, search: string, source: number) => void
+
 declare const ZO_Character_GetEmptyEquipSlotTexture: (this: void, equipSlot: number) => string
 
 declare const ZO_GenerateCommaSeparatedListWithoutAnd: (

@@ -21,6 +21,11 @@ export const charactersBuildChecklist = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A build made in the game is chosen by the change that made it, and shown as saved.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A discipline is met when every star holds the points the plan gives it.",
     },
     {
@@ -49,5 +54,5 @@ export const charactersBuildChecklist = {
     },
   ],
   createdAt: "2026-10-28T19:54:38.440Z",
-  updatedAt: "2026-11-01T19:48:32.854Z",
+  updatedAt: "2026-11-01T22:08:40.518Z",
 } as const satisfies Module

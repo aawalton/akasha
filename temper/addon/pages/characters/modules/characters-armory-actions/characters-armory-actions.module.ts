@@ -17,6 +17,18 @@ export const charactersArmoryActions = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A build saved new in the game is set up by the change that made it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Equipping a build with no curse while cursed offers the Crown Store's free cure.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Equipping never buys a curse, as a curse costs crowns.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "What an equip did is said in a dialog once it is asked for.",
     },
     {
@@ -33,5 +45,5 @@ export const charactersArmoryActions = {
     },
   ],
   createdAt: "2026-11-01T20:43:39.700Z",
-  updatedAt: "2026-11-01T20:43:39.700Z",
+  updatedAt: "2026-11-01T22:08:40.518Z",
 } as const satisfies Module

@@ -9,6 +9,7 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/addon/pages/characters/characters-config-declarations/characters-config-declarations.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
+import { armoryBuilds } from "akasha/temper/addon/pages/characters/modules/characters-armory-pending/characters-armory-pending.module.code.ts"
 import { spentAttributes } from "akasha/temper/addon/pages/characters/modules/characters-build-attributes/characters-build-attributes.module.code.ts"
 import {
   BAR_SLOT_INDICES,
@@ -72,11 +73,19 @@ export function currentCharacterTargets(): readonly CharacterTarget[] {
   return listed.filter(isCharacterTarget)
 }
 
+function chosenTarget(
+  targets: readonly CharacterTarget[],
+  chosen: string
+): CharacterTarget | undefined {
+  const listed = targets.find((one) => one.buildId === chosen || one.correlationId === chosen)
+  return listed ?? armoryBuilds(targets).find((build) => build.key === chosen)?.target
+}
+
 export function currentCharacterTarget(): CharacterTarget | undefined {
   const targets = currentCharacterTargets()
   const chosen = getSavedVariables().activeBuilds?.[GetCurrentCharacterId()]
   if (chosen === undefined || chosen.over !== targets[0]?.buildId) return targets[0]
-  return targets.find((one) => one.buildId === chosen.buildId) ?? targets[0]
+  return chosenTarget(targets, chosen.buildId) ?? targets[0]
 }
 
 function attributesSection(target: CharacterTarget): ChecklistSection {

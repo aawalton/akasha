@@ -2,4 +2,5 @@
 {"propertySlug":"import","fileName":"characters-armory-pending.module.code.ts","path":"temper/addon/pages/characters/modules/characters-armory-build-data/characters-armory-build-data.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"characters-armory-pending.module.code.ts","path":"temper/addon/pages/characters/modules/characters-armory-rows/characters-armory-rows.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"characters-armory-pending.module.code.ts","path":"temper/addon/pages/characters/modules/characters-armory-window/characters-armory-window.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"characters-armory-pending.module.code.ts","path":"temper/addon/pages/characters/modules/characters-build-checklist/characters-build-checklist.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/characters/temper-addon-characters.temper-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}

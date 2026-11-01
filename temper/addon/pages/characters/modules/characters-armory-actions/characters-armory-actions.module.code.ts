@@ -1,5 +1,6 @@
 import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-armory/eso-armory.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
@@ -31,6 +32,12 @@ const SAVE_DIALOG = "TEMPER_CHARACTERS_ARMORY_SAVE"
 
 const SAID_DIALOG = "TEMPER_CHARACTERS_ARMORY_SAID"
 
+const CURE_DIALOG = "TEMPER_CHARACTERS_ARMORY_CURE"
+
+const CURE_SEARCH = "Cure"
+
+const CURE_BUTTON = "Cure in Crown Store"
+
 const SETTINGS_DIALOG = "ArmorySettingsDialog"
 
 const SAVED_DIALOG = "ARMORY_BUILD_SAVE_SUCCESS_DIALOG"
@@ -54,13 +61,24 @@ function saidSaved(view: ArmoryView, title: string): undefined {
   return undefined
 }
 
+function cureText(build: ArmoryBuild): string | undefined {
+  const curse = GetPlayerCurseType()
+  if (build.target.curseName !== "" || curse === CURSE_TYPE_NONE) return undefined
+  const named = GetString("SI_CURSETYPE", curse)
+  return `${build.title} has no curse. The Crown Store cures your ${named} curse for free.`
+}
+
 function equip(view: ArmoryView, build: ArmoryBuild | undefined): undefined {
   if (build === undefined) return undefined
-  if (build.buildId !== undefined) chooseCharacterTarget(build.buildId)
-  const said = applyCharacterTarget(build.target)
+  const key = build.buildId ?? build.madeIn
+  if (key !== undefined) chooseCharacterTarget(key)
+  const applied = applyCharacterTarget(build.target)
+  const said = applied === "" ? EQUIPPED_ALREADY : applied
   PlaySound(SOUNDS["ARMORY_RESTORE_SUCCESS"])
   view.refresh()
-  ZO_Dialogs_ShowDialog(SAID_DIALOG, { said: said === "" ? EQUIPPED_ALREADY : said })
+  const cure = cureText(build)
+  if (cure === undefined) ZO_Dialogs_ShowDialog(SAID_DIALOG, { said })
+  else ZO_Dialogs_ShowDialog(CURE_DIALOG, { said: `${said}\n\n${cure}` })
   return undefined
 }
 
@@ -162,15 +180,26 @@ export function addArmoryDialogs(view: ArmoryView): undefined {
     SAVE_DIALOG,
     confirmDialog(view, SI_ARMORY_SAVE_BUILD_ACTION, saveText, save)
   )
+  const saidText = (dialog: ZO_DialogData): string => {
+    const said = dialog.data["said"]
+    return typeof said === "string" ? said : ""
+  }
   ZO_Dialogs_RegisterCustomDialog(SAID_DIALOG, {
     title: { text: SI_ARMORY_RESTORE_BUILD_ACTION },
-    mainText: {
-      text: (dialog) => {
-        const said = dialog.data["said"]
-        return typeof said === "string" ? said : ""
-      },
-    },
+    mainText: { text: saidText },
     buttons: [{ text: SI_OK, keybind: "DIALOG_NEGATIVE" }],
+  })
+  ZO_Dialogs_RegisterCustomDialog(CURE_DIALOG, {
+    title: { text: SI_ARMORY_RESTORE_BUILD_ACTION },
+    mainText: { text: saidText },
+    buttons: [
+      {
+        text: CURE_BUTTON,
+        keybind: "DIALOG_PRIMARY",
+        callback: () => ShowMarketAndSearch(CURE_SEARCH, MARKET_OPEN_OPERATION_DIRECT),
+      },
+      { text: SI_OK, keybind: "DIALOG_NEGATIVE" },
+    ],
   })
   return undefined
 }
