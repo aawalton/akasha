@@ -9,6 +9,7 @@ import {
   recordStacking,
 } from "akasha/temper/addon/pages/items/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
 import type { BankTraceStackingCount } from "akasha/temper/addon/pages/items/modules/inventory-bank-trace-types/inventory-bank-trace-types.module.code.ts"
+import { carriesStorageHere } from "akasha/temper/addon/pages/items/modules/inventory-character-priority/inventory-character-priority.module.code.ts"
 import { getInventoryConfig } from "akasha/temper/addon/pages/items/modules/inventory-config/inventory-config.module.code.ts"
 import { HOUSE_BANK_BAGS } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
 import { moveItem } from "akasha/temper/addon/pages/items/modules/inventory-move-item/inventory-move-item.module.code.ts"
@@ -146,7 +147,7 @@ export function onOpenBank(): BankTransitionSummary | undefined {
     }
     dispatchingBank = false
     runPaced(sends, vaultStillOpen, function (this: void, finished: boolean): undefined {
-      if (finished) startVaultDeposits(moveItem, withdrawnLinks.length)
+      if (finished && carriesStorageHere()) startVaultDeposits(moveItem, withdrawnLinks.length)
     })
     return undefined
   }
