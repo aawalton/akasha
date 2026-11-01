@@ -57,7 +57,12 @@ export const inventoryPlanVenue = {
       statement:
         "Only the storage carrier withdraws from a house chest, but for an item a rule sends to a character.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An item another character holds for a gathering place is planned as a deposit at the bank.",
+    },
   ],
   createdAt: "2026-10-10T14:06:10.424Z",
-  updatedAt: "2026-11-01T14:25:15.907Z",
+  updatedAt: "2026-11-01T19:42:05.335Z",
 } as const satisfies Module

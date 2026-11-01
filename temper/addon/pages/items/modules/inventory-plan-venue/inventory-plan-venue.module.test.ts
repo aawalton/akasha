@@ -130,6 +130,71 @@ describe("inventory-plan-venue", () => {
     })
   })
 
+  test("an item bound for a gathering place is planned at the bank for any but the carrier", () => {
+    const heldBack = (): undefined => undefined
+    for (const destination of [
+      "guild-bank",
+      "guild-bank:Walton Mountain",
+      "house-storage",
+      "house-storage:Wealth",
+      "furniture-vault",
+      "house:1060",
+    ]) {
+      for (const action of ["move-to", "stock"] as const) {
+        expect(
+          classifyPendingVenue(action, destination, false, craftBagRefuses, "7", heldBack, false)
+        ).toEqual({ venue: "bank", verb: "deposit" })
+      }
+    }
+  })
+
+  test("the carrier plans an item bound for a gathering place at that place", () => {
+    const heldBack = (): undefined => undefined
+    expect(
+      classifyPendingVenue(
+        "move-to",
+        "guild-bank:Walton Mountain",
+        false,
+        craftBagRefuses,
+        "7",
+        heldBack,
+        true
+      )
+    ).toEqual({ venue: "guild-bank", verb: "deposit" })
+    expect(
+      classifyPendingVenue(
+        "move-to",
+        "furniture-vault",
+        false,
+        craftBagRefuses,
+        "7",
+        heldBack,
+        true
+      )
+    ).toEqual({ venue: "furniture-vault", verb: "deposit" })
+    expect(
+      classifyPendingVenue(
+        "move-to",
+        "house-storage:Wealth",
+        false,
+        craftBagRefuses,
+        "7",
+        heldBack,
+        true
+      )
+    ).toEqual({ venue: "house-storage:Wealth", verb: "deposit" })
+  })
+
+  test("an item bound for the bank or a character is planned the same for every character", () => {
+    const heldBack = (): undefined => undefined
+    expect(
+      classifyPendingVenue("move-to", "bank", false, craftBagRefuses, "7", heldBack, false)
+    ).toEqual({ venue: "bank", verb: "deposit" })
+    expect(
+      classifyPendingVenue("move-to", "character:42", false, craftBagRefuses, "7", heldBack, false)
+    ).toEqual({ venue: "bank", verb: "withdraw" })
+  })
+
   test("a fish to fillet is planned at a crafting station", () => {
     expect(classifyPendingVenue("fillet", undefined, false, craftBagRefuses)).toEqual({
       venue: "crafting-station",

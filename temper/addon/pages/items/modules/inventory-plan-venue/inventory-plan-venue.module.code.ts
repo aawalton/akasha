@@ -9,6 +9,7 @@ import {
   ITEM_ACTION_VALUES,
   type ItemAction,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { isConsolidateDest } from "akasha/temper/items/rules/routing/core/modules/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
 
 interface PlanVenueSlot {
   readonly venue: string
@@ -95,7 +96,8 @@ export function classifyPendingVenue(
   isStolen: boolean,
   craftBagTakes: (this: void) => boolean,
   currentCharId = "",
-  listingHeld: (this: void) => string | undefined = () => undefined
+  listingHeld: (this: void) => string | undefined = () => undefined,
+  carriesStorage = true
 ): PlanVenueSlot | undefined {
   if (isVendorAction(action) && isForAnotherCharacter(destination, currentCharId)) {
     return { venue: "bank", verb: "deposit" }
@@ -122,6 +124,7 @@ export function classifyPendingVenue(
   if (action === "move-to" || action === "stock") {
     const dest = destination ?? "bank"
     if (dest === "craft-bag" && !craftBagTakes()) return undefined
+    if (!carriesStorage && isConsolidateDest(dest)) return { venue: "bank", verb: "deposit" }
     const venue = destinationToVenue(dest)
     if (venue === undefined) return undefined
     return { venue, verb: action === "stock" ? "stock" : moveVerb(dest) }

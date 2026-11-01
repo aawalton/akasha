@@ -1,3 +1,4 @@
+import { carriesStorageHere } from "akasha/temper/addon/pages/items/modules/inventory-character-priority/inventory-character-priority.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
 import {
   getChestDisplayName,
@@ -30,7 +31,6 @@ import {
   houseStorageTarget,
   matchStorageChest,
 } from "akasha/temper/items/rules/core/modules/house-storage-chest/house-storage-chest.module.code.ts"
-import { storageCarrierOf } from "akasha/temper/items/rules/routing/core/modules/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
@@ -178,6 +178,7 @@ function computePlanVenues(): VenuePlan[] | undefined {
 
   const stockTotals = backpackStockTotals(GetBagSize(BAG_BACKPACK))
   const currentCharId = tostring(GetCurrentCharacterId())
+  const carriesStorage = carriesStorageHere()
 
   forEachPendingAction(function (
     this: void,
@@ -197,7 +198,8 @@ function computePlanVenues(): VenuePlan[] | undefined {
       currentCharId,
       function (this: void): string | undefined {
         return listingHoldReason(bagId, slotIndex)
-      }
+      },
+      carriesStorage
     )
     if (classified === undefined) return
     if (classified.held !== undefined) {
@@ -222,7 +224,6 @@ function computePlanVenues(): VenuePlan[] | undefined {
   const chestVenues: string[] = []
   const chestLabels = new LuaMap<string, string>()
   const chestItems = new LuaMap<string, PlanItem[]>()
-  const carriesStorage = currentCharId === storageCarrierOf(compiled.characterPriority)
   const openKey = IsBankOpen() ? getLocationKeyForBag(GetBankingBag()) : undefined
   for (const [key, location] of Object.entries(getDatabase().locations)) {
     const chestId = chestIdOfHouseBankKey(key)
