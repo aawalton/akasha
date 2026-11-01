@@ -60,6 +60,10 @@ export const watcherExportCharacterTargets = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A target whose build has no curse names no curse.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The catalogs are read only once a character has a target build.",
     },
     {
@@ -68,5 +72,5 @@ export const watcherExportCharacterTargets = {
     },
   ],
   createdAt: "2026-10-28T19:46:21.781Z",
-  updatedAt: "2026-11-01T20:18:32.212Z",
+  updatedAt: "2026-11-01T22:06:14.366Z",
 } as const satisfies Module

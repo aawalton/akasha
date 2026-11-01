@@ -153,7 +153,8 @@ export interface TargetPageValues {
 const FIRST_ICON = 1
 
 function curseNameOf(build: CharacterState): string {
-  return curses().data[build.character.curseState]?.name ?? ""
+  const curse = build.character.curseState
+  return curse === "no-curse" ? "" : (curses().data[curse]?.name ?? "")
 }
 
 export function characterTargetOf(
