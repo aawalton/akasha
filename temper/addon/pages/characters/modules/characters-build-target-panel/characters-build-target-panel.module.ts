@@ -13,7 +13,8 @@ export const charactersBuildTargetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The panel hangs left of the window showing it, skills before stats.",
+      statement:
+        "The panel hangs left of the window showing it: skills, then advanced stats, then stats.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -76,5 +77,5 @@ export const charactersBuildTargetPanel = {
     },
   ],
   createdAt: "2026-10-28T19:54:38.440Z",
-  updatedAt: "2026-11-01T19:01:52.055Z",
+  updatedAt: "2026-11-01T22:00:26.035Z",
 } as const satisfies Module

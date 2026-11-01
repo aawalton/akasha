@@ -40,7 +40,7 @@ import { LINE_HEIGHT } from "akasha/temper/window/modules/window-rows/window-row
 
 const PANEL_NAME = "TemperCharactersTargetBuild"
 
-const BESIDE_NAMES = ["ZO_Skills", "ZO_StatsPanel"]
+const BESIDE_NAMES = ["ZO_Skills", "ZO_AdvancedStatsPanel", "ZO_StatsPanel"]
 
 const SKILLS_SCENE_NAME = "skills"
 
