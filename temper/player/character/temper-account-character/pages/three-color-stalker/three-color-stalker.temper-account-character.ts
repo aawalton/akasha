@@ -13,7 +13,8 @@ export const threeColorStalker = {
   race: "temper-race/khajiit",
   class: "temper-class/nightblade",
   firstName: "Three-Color",
+  fights: "jsonl",
   readings: "jsonl",
   createdAt: "2026-04-29T16:44:24.627Z",
-  updatedAt: "2026-11-01T14:17:09.761Z",
+  updatedAt: "2026-11-01T14:31:04.838Z",
 } as const satisfies TemperAccountCharacter
