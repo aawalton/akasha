@@ -15,6 +15,5 @@
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"story/world/stories/played/turns/modules/turn-waiting/turn-waiting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"story/world/stories/played/turns/modules/turn-waiting/turn-waiting.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
-{"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-test-story-flex-3/iris-story-recorder-test-story-flex-3.seat.ts","id":"01a17ef5-427a-7474-8ce2-38153a81a8e4"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-test-story-flex-4/iris-story-recorder-test-story-flex-4.seat.ts","id":"01a17ef5-684f-77bd-ad6b-9b6af352940b"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-test-story-flex-5/iris-story-recorder-test-story-flex-5.seat.ts","id":"01a17eec-dedd-73aa-a1d3-e70a54cd4868"}
