@@ -1,0 +1,335 @@
+Nobody spoke or immediately asked another question about Keeper #4,091.
+
+Bart looked down at the glowing blue timeline one last time. There were still questions…why the old Keeper had severed his own authority, what he had hoped to accomplish by walking back into a dying building as an ordinary man, and what had finally become of him after Morzath left.
+
+But there were no more witnesses in the room who could answer them. Months ago, Bart would have kept digging anyway. Now, however, he reached down and closed the historical timeline. He had an institution to run.
+
+He turned to Morzath.
+
+“What happens now?” Bart asked.
+
+“Now?” Morzath repeated.
+
+“To the continuity service.”
+
+Morzath shifted his weight slightly, looking almost relieved to be discussing something other than the old Keeper and Ruin.
+
+“Now your institution accepts return to primary responsibility,” Morzath said.
+
+Gregor blinked, leaning an elbow back onto the edge of the counter. “You mean we get our paperwork back.”
+
+“No,” Morzath said.
+
+At the sound of the warlord’s phrasing, the interface chimed softly. The historical logs vanished, replaced by an active operational prompt.
+
+PRIMARY SERVICE STATUS: RESTORED
+
+EXTERNAL CONTINUITY CUSTODY: ACTIVE
+
+HANDOVER CONDITION: SATISFIED
+
+FORMAL RETURN REVIEW: AVAILABLE
+
+Bart paused, reading the first and third lines together. It connected directly back to the initial prompt that had started this entire inquiry. Primary service restoration: confirmed.
+
+That confirmation hadn't merely been a piece of historical trivia. It was the mechanical key that unlocked the handover.
+
+“So when I restored the primary service,” Bart said slowly, “I triggered your release conditions.”
+
+“You did indeed” Morzath said.
+
+Gregor stared at the 7 foot tall undead warlord. “You’ve been waiting 600 odd years to get rid of this?”
+
+Morzath’s violet eye flames narrowed slightly. “I have been waiting centuries to complete it correctly.”
+
+The distinction was quiet, and entirely genuine. Morzath had never resented the burden he had agreed to carry. He simply intended to finish the job according to the rules.
+
+Bart straightened his shoulders and gestured toward the glowing interface. The solution seemed obvious enough. The library was open, the staff was present, and the Keeper was standing at the desk.
+
+“Fine,” Bart said. “Transfer it.”
+
+Morzath did not move.
+
+“It doesn't exactly work that way,” Morzath said.
+
+Bart frowned. “Why not?”
+
+“Because you have not accepted it.”
+
+Bart gestured around the restored marble expanse of the entrance hall. “I am the Keeper.”
+
+“That is an office,” Morzath replied evenly. “It is not an audit.”
+
+Before Bart could argue, the System expanded the prompt, displaying the formal parameters of the handover protocol.
+
+CONTINUITY HANDOVER - RECEIVING INSTITUTION REVIEW
+
+INSTITUTIONAL IDENTITY: VERIFIED
+
+PRIMARY SERVICE STATUS: RESTORED
+
+RECEIVING AUTHORITY: VERIFIED
+
+OPERATIONAL CAPACITY: PARTIAL
+
+OBLIGATION ACCEPTANCE: REQUIRED
+
+AUTOMATIC BULK TRANSFER: PROHIBITED
+
+Gregor groaned, rubbing his forehead. “Of course bulk transfer is prohibited.”
+
+“A sensible precaution, sir,” Albert murmured, finally setting the bristles of his broom gently back against the stone.
+
+Gregor looked over at the skeleton. “You would say that.”
+
+Morzath tapped one heavy claw against the edge of the interface.
+
+“You are still thinking of the continuity package as a box of stored files,” Morzath said to Bart. “It is not. Inside my hold are outstanding institutional claims, credentials issued under the old seal, active agreements with partner realms, unresolved patron deposits, custody acknowledgements, and external verification duties that have never legally expired.”
+
+Morzath looked down into Bart’s eyes.
+
+“I did not preserve paperwork, Keeper Sanders,” Morzath said. “I preserved obligations.”
+
+Bart looked back at the line on the screen: Operational capacity: partial.
+
+The danger clicked into place at once.
+
+While an obligation sat in Morzath’s continuity service, it existed in a legally suspended grace period….acknowledged as valid, maintained in good faith, yet deferred until the primary facility returned. The moment Bart signed a receipt returning an obligation to primary service, that grace period ended. The Infinite Archive would be stating, under binding institutional law, We are back, and we can fulfill this now.
+
+And in a great many cases, they couldn't.
+
+“Show me the first item,” Bart said.
+
+Morzath inclined his helm. A single entry unfolded on the glass.. It was thoroughly mundane.
+
+HANDOVER ITEM: 0001
+
+TYPE: EXTERNAL CREDENTIAL VERIFICATION
+
+ISSUED TO: COLLEGIUM OF NINE LANTERNS
+
+STATUS: ACTIVE
+
+LAST VERIFIED: 604 YEARS AGO
+
+CURRENT DESTINATION STATUS: UNKNOWN
+
+Bart stared at the fifth line. “Six hundred years?”
+
+“Six hundred and four,” Morzath corrected.
+
+Gregor glanced at the warlord. “Important distinction.”
+
+“It is,” Morzath said without a trace of irony.
+
+Bart ran a diagnostic check on the destination anchor attached to the Collegium of Nine Lanterns.
+
+DESTINATION ANCHOR: VALID
+
+ROUTE: CLOSED
+
+CURRENT INSTITUTIONAL STATUS: UNVERIFIED
+
+HANDOVER RECOMMENDATION: DEFER
+
+Bart frowned at the recommendation. The Collegium’s credential was still legally active in the index, but the road leading to their realm had been sealed for centuries. Bart had no way of knowing whether the Collegium still stood, whether its scholars had turned to dust, or what lay waiting on the far side of that closed door.
+
+Still, every instinct in Bart’s head resisted leaving an Archive record sitting in someone else’s fortress.
+
+“But it’s ours,” Bart said.
+
+“It was yours,” Morzath replied.
+
+“And you maintained it for us.”
+
+“I did.”
+
+“So you should give it back,” Bart said.
+
+Morzath’s violet flames did not waver. “To do what exactly with it?”
+
+Bart opened his mouth, then stopped.
+
+If he took the Collegium’s file back into primary service, he couldn't verify their credentials. He couldn't send a courier. He couldn't open the road without violating containment. All he would be doing was moving an unfulfillable promise from an external holding queue…where it was legally protected by emergency status ….into an active queue where the Archive would immediately be in default.
+
+Bart swallowed his pride. He marked Item 0001 as deferred and opened the second entry.
+
+HANDOVER ITEM: 0002
+
+TYPE: ANNUAL NEUTRAL ARBITRATION REPOSITORY
+
+COUNTERPART: CONCORD OF THE THREE RIVERS
+
+DESTINATION STATUS: ACTIVE / REACHABLE
+
+REQUIRED CAPABILITY: TRIPLE-REALM ADJUDICATION CHAMBER
+
+CURRENT CAPABILITY: UNAVAILABLE
+
+Bart looked up from the slate. This time, the road was actually open. The counterpart still existed.
+
+“We don’t have a triple-realm adjudication chamber,” Bart said.
+
+“Not presently, sir,” Albert said politely.
+
+Gregor squinted at the ceiling, as if trying to guess where one would even fit. “Did we ever?”
+
+“Yes, of course Sir!” Albert replied.
+
+Bart marked the second item as deferred as well, then pulled up the third.
+
+HANDOVER ITEM: 0003
+
+TYPE: HISTORICAL CREDENTIAL AUTHENTICATION
+
+COUNTERPART: THE CHARTERHOUSE OF DINKHAVEN
+
+REQUIRED CAPABILITY: RECORD AUTHORITY
+
+CURRENT CAPABILITY: AVAILABLE
+
+DESTINATION STATUS: ACTIVE
+
+ROUTE STATUS: AVAILABLE / RESTRICTED
+
+Bart read every line twice. He checked the counterpart’s anchor status and security flags on the restricted route. He also checked his own permissions. They had the record. He had Record Authority. The route was stable enough for standard verification traffic.
+
+“This one we can do,” Bart said.
+
+“Then please go ahead and accept it,” Morzath said.
+
+Bart placed his thumb against the verification pad on the interface and confirmed the transfer.
+
+The interface chimed …a deeper, clearer note than before.
+
+OBLIGATION TRANSFER: ACCEPTED
+
+CUSTODIAL RESPONSIBILITY: RETURNED TO PRIMARY SERVICE
+
+EXTERNAL CONTINUITY CUSTODIAN: RELEASED FROM ITEM 0003
+
+It was a tiny, ordinary piece of clerical authentication for a regional charterhouse. Yet as the blue text settled on the screen, Morzath’s violet flames shifted subtly inside his helm. For the first time in more than 600 years, a piece of the Infinite Archive had officially come home.
+
+Gregor blinked at the screen. “That’s it?”
+
+“That is how handovers work,” Morzath said.
+
+“Right,” Bart said, feeling a sudden wave of practical momentum. If they simply had to sort what they could do from what they couldn't, they could work through the list methodically. “System. Display the complete continuity handover index.”
+
+The interface hummed.
+
+CONTINUITY HANDOVER ITEMS: 18,441
+
+Bart stared at the number.
+
+“Oh, dear” Bart said.
+
+Gregor leaned slowly over the counter, looking at the five digits. “That’s a lot of continuity.”
+
+“Six centuries is a long time,” Morzath noted.
+
+Bart rubbed his eyes. Reviewing 18K obligations one by one at the counter would take months. He stopped, thought like an archivist instead of a clerk, and looked at the metadata fields they had just used on the first three items.
+
+“System,” Bart said. “Can we filter the handover index by obligations we currently have the operational capacity to fulfill?”
+
+FILTER QUERY: SUPPORTED
+
+Bart let out a breath. “Apply filter. Break down the full index by current transfer eligibility.”
+
+The slate processed the eighteen thousand records, sorting 600 years of deferred promises into structured stacks.
+
+HANDOVER INDEX CLASSIFICATION:
+
+CURRENTLY SUPPORTABLE: 1,104
+
+CAPABILITY DEFICIT: 4,892
+
+DESTINATION UNREACHABLE: 6,310
+
+DESTINATION CLOSED: 3,419
+
+COUNTERPART STATUS UNKNOWN: 1,980
+
+CONFLICTED CLAIM: 512
+
+ROUTE REACTIVATION REQUIRED: 224
+
+Beside Bart, the Curator stirred. His gloved hands remained clasped behind his back, but his gaze fixed sharply on the bottom line of the display.
+
+“Those 224 do not transfer automatically,” the Curator said.
+
+“I wasn’t going to transfer them,” Bart replied without looking up.
+
+The Curator studied Bart’s profile for a quiet moment. Before he would have immediately filed an administrative block to stop the new Keeper from touching the route locks. Now, he simply gave a slight nod.
+
+“Good,” the Curator replied.
+
+Bart stood looking at the categories on the screen.
+
+Taken together, the numbers told a story that was just as clear as the timeline of the Ruin. Over six thousand destinations that couldn't be reached at all. Nearly five thousand obligations requiring rooms, chambers, or magical faculties the current Archive no longer possessed. Thousands more sitting behind routes the Curator and others had sealed for everyone’s safety.
+
+Suddenly, the true shape of Keeper #4,091’s design came into focus.
+
+“If he had expected the facility to come back whole, he would have set the package to dump everything back into primary service the moment a new Keeper took the desk,” Bart said, following the logic to its end. “Instead, the handover prohibits bulk transfer. It forces the next Keeper to review what the Archive can actually support.”
+
+Bart looked up at Morzath.
+
+“He expected whoever came after him to decide what still belonged in the new one,” Bart said.
+
+“That was my understanding,” Morzath replied.
+
+It changed the weight on Bart’s shoulders entirely. Keeper #4,091 had not left behind a crushing mandate demanding that his successor rebuild six centuries of lost institution brick for brick. He had prepared for the possibility that whatever came next would be smaller …that rooms might be lost, roads might remain closed, and some old obligations might no longer be safely fulfilled.
+
+He hadn't preserved the old Archive to force Bart to become it. He had preserved the obligations so that a future Keeper could decide which promises the restored Archive was capable of keeping.
+
+Bart turned his head and looked at Albert.
+
+“You’ve been trying to restore everything,” Bart said gently.
+
+Albert’s skull tilted a fraction of an inch, the blue light of the  interface catching the bones of his jaw.
+
+“I was trying to preserve what remained, sir,” Albert said softly.
+
+Bart realized for the first time that those two things were not the same.
+
+Albert had spent 600 years preserving what remained inside the walls. Morzath had spent 600 years preserving what remained outside them. And the Curator had stood on the threshold between the two, making sure one did not destroy the other.
+
+None of the three had been empowered to decide what the rebuilt Archive would actually be. That responsibility belonged solely to the Keeper who accepted the handover.
+
+Bart turned back to the slate and placed both hands on the edge of the desk.
+
+“System,” Bart ordered. “Begin receiving review.”
+
+SPECIFY RECEIVING SCOPE
+
+Bart spoke clearly and deliberately.
+
+“Accept only obligations whose required operational capability currently exists, whose counterpart institution can be actively verified, and whose fulfillment does not require reopening a Closed route.”
+
+In the quiet hall, the Curator looked at him. Morzath’s violet flames burned steady and bright. Beside the railing, Albert quietly straightened his posture.
+
+The interface chimed and updated.
+
+INITIAL HANDOVER SCOPE: ACCEPTED
+
+ELIGIBLE ITEMS QUEUED: 1,104
+
+RETURN TO PRIMARY: PARTIAL
+
+“For now,” Bart said. “We only promise what we can actually keep.”
+
+The queue began processing the clean, verifiable transfers, returning the first surviving commitments to the Archive’s active ledger while leaving the unreachable and dangerous safely deferred in Morzath’s custody.
+
+Then the smooth hum of the interface hit a snag. A sharp, amber warning line flashed across the bottom of the transfer screen.
+
+HANDOVER EXCEPTIONS DETECTED
+
+LEGACY TERMS REQUIRING DIRECT KEEPER REVIEW: 19
+
+FIRST EXCEPTION: CUSTODIAL OBLIGATION - NONSTANDARD
+
+Bart frowned, leaned closer. “Nonstandard how?”
+
+Morzath did not look at the screen. He already knew what the 19 amber flags were.
+
+“That,” Morzath said, “is why we need to discuss the terms.”
