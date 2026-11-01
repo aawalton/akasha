@@ -21,6 +21,11 @@ export const characterBuild = {
     "domain/temper-build-optimization",
     "number-property/build-icon",
     "text-property/build-edit-id",
+    "record-property/build-quickslots",
+    "number-property/quickslot-slot",
+    "select-property/quickslot-kind",
+    "number-property/quickslot-id",
+    "text-property/quickslot-name",
   ],
   properties: [
     { pageProperty: "text-property/build-hash", required: true, many: false },
@@ -42,6 +47,12 @@ export const characterBuild = {
     },
     { pageProperty: "number-property/build-icon", required: false, many: false },
     { pageProperty: "text-property/build-edit-id", required: false, many: false },
+    {
+      pageProperty: "record-property/build-quickslots",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {
@@ -93,5 +104,5 @@ export const characterBuild = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:59:23.240Z",
-  updatedAt: "2026-11-01T20:16:30.196Z",
+  updatedAt: "2026-11-01T22:41:56.096Z",
 } as const satisfies PageType

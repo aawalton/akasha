@@ -6625,7 +6625,9 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/properties/build-edit-id.text-property.ts","id":"01a198c1-a5f5-7fa7-8d3d-bf20866e2262"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/properties/build-icon.number-property.ts","id":"01a198c1-a5f5-70b3-a362-57bb2de152a8"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/properties/build-interfaces.multi-relation-property.ts","id":"01a1989e-af97-7ff6-896d-23361634b122"}
+{"propertySlug":"decision-kind","path":"temper/player/character/character-build/properties/build-quickslots.record-property.ts","id":"01a19946-cb81-7b50-b2ca-bf77abcdcde8"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/properties/build-visibility.select-property.ts","id":"01a06862-c4ee-7a6d-886a-f9af2859fd5f"}
+{"propertySlug":"decision-kind","path":"temper/player/character/character-build/properties/quickslot-id.number-property.ts","id":"01a19946-cb82-70eb-977f-9c33cebc5f5e"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/version/character-build-version.page-type.ts","id":"019dbb6c-51c0-7b3c-b483-0a739f32d9fb"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/version/properties/character-build-version-build.relation-property.ts","id":"01a0d89d-06ef-7056-b5d4-54f6aac7beb1"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.ts","id":"01a0616f-8e17-7a0c-8406-2388ce2938e6"}

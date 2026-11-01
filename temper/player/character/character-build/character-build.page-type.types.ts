@@ -4,6 +4,7 @@ import type { BuildCorrelationId } from "akasha/temper/player/character/characte
 import type { BuildEditId } from "akasha/temper/player/character/character-build/properties/build-edit-id.text-property.types.ts"
 import type { BuildIcon } from "akasha/temper/player/character/character-build/properties/build-icon.number-property.types.ts"
 import type { BuildInterfaces } from "akasha/temper/player/character/character-build/properties/build-interfaces.multi-relation-property.types.ts"
+import type { BuildQuickslots } from "akasha/temper/player/character/character-build/properties/build-quickslots.record-property.types.ts"
 import type { BuildTargetCount } from "akasha/temper/player/character/character-build/properties/build-target-count.number-property.types.ts"
 import type { BuildVisibility } from "akasha/temper/player/character/character-build/properties/build-visibility.select-property.types.ts"
 import type { CharacterRoles } from "akasha/temper/player/character/temper-account-character/properties/character-roles.multi-relation-property.types.ts"
@@ -19,4 +20,5 @@ export type CharacterBuild = TemperCharacterThing & {
   buildInterfaces?: BuildInterfaces
   buildIcon?: BuildIcon
   editId?: BuildEditId
+  quickslots?: BuildQuickslots
 }

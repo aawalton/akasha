@@ -86,6 +86,7 @@
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/catalog/skill/properties/skill-variants.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/map-positions.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/player/character/build-interface/properties/interface-passives.record-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/player/character/character-build/properties/build-quickslots.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/player/character/source/temper-target/properties/source-effects.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/set-bonuses.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/player/progress/temper-inventory-rule/properties/character-conditions.record-property.ts","typed":true,"deferred":false}
