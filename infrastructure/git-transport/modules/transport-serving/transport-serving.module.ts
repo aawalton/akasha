@@ -29,6 +29,14 @@ export const transportServing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A git route is never closed for going quiet while either side builds a pack.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The caller of a git route bounds that route, and the server bounds nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A path that is no repository and endpoint is answered as not found.",
     },
     {
@@ -41,5 +49,5 @@ export const transportServing = {
     },
   ],
   createdAt: "2026-09-03T16:24:39.441Z",
-  updatedAt: "2026-09-22T14:07:45.000Z",
+  updatedAt: "2026-11-01T15:44:01.241Z",
 } as const satisfies Module

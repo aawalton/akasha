@@ -12,11 +12,13 @@ const ANSWERED_ABOUT = transportRepo("akasha").bareRepoPath
 const GIT_ROUTE = /^\/([^/]+\/[^/]+\.git)\/(info\/refs|git-upload-pack|git-receive-pack)$/
 const GIT_ROUTE_CAPTURES = z.tuple([z.string(), z.string()])
 
+const NEVER_CLOSED_IDLE = 0
+
 function serving(): Bun.Server<undefined> {
   const server = Bun.serve({
     port: PORT,
     hostname: "0.0.0.0",
-    async fetch(req) {
+    async fetch(req, answering) {
       const url = new URL(req.url)
 
       if (url.pathname === "/health" && req.method === "GET") {
@@ -152,6 +154,8 @@ function serving(): Bun.Server<undefined> {
             headers: { "WWW-Authenticate": 'Basic realm="git"' },
           })
         }
+
+        answering.timeout(req, NEVER_CLOSED_IDLE)
 
         const pathInfo = `/${repoPath}/${endpoint}`
         const queryString = url.search !== "" ? url.search.slice(1) : ""
