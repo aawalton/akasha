@@ -25,7 +25,10 @@ import {
   gearText,
   wornMatches,
 } from "akasha/temper/addon/pages/characters/modules/characters-build-gear/characters-build-gear.module.code.ts"
-import { passiveHeld } from "akasha/temper/addon/pages/characters/modules/characters-build-passives/characters-build-passives.module.code.ts"
+import {
+  passiveHeld,
+  passiveRankWanted,
+} from "akasha/temper/addon/pages/characters/modules/characters-build-passives/characters-build-passives.module.code.ts"
 import type {
   CharacterTarget,
   TargetBarSlot,
@@ -206,7 +209,7 @@ function passivesSection(target: CharacterTarget): ChecklistSection {
   return {
     title: "Passives",
     lines: target.passives.map((passive) => ({
-      text: `${passive.name} ${passive.rank}`,
+      text: `${passive.name} ${passiveRankWanted(passive)}`,
       met: passiveHeld(passive),
     })),
   }

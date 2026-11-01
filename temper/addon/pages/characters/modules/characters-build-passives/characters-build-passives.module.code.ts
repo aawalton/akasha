@@ -7,10 +7,17 @@ import type {
 
 const NAMES_SAID = 5
 
-function allocatorOf(passive: TargetPassive): SlottableSkillAllocator | undefined {
-  return SKILLS_DATA_MANAGER.GetProgressionDataByAbilityId(passive.abilityId)
-    ?.GetSkillData()
-    .GetPointAllocator()
+function skillDataOf(passive: TargetPassive): SlottableSkillData | undefined {
+  return SKILLS_DATA_MANAGER.GetProgressionDataByAbilityId(passive.abilityId)?.GetSkillData()
+}
+
+function rankWanted(passive: TargetPassive, skill: SlottableSkillData | undefined): number {
+  const top = skill?.GetNumRanks?.()
+  return top === undefined ? passive.rank : Math.min(passive.rank, top)
+}
+
+export function passiveRankWanted(passive: TargetPassive): number {
+  return rankWanted(passive, skillDataOf(passive))
 }
 
 function rankHeld(allocator: SlottableSkillAllocator): number {
@@ -18,8 +25,8 @@ function rankHeld(allocator: SlottableSkillAllocator): number {
 }
 
 export function passiveHeld(passive: TargetPassive): boolean {
-  const allocator = allocatorOf(passive)
-  return allocator !== undefined && rankHeld(allocator) >= passive.rank
+  const skill = skillDataOf(passive)
+  return skill !== undefined && rankHeld(skill.GetPointAllocator()) >= rankWanted(passive, skill)
 }
 
 function raise(allocator: SlottableSkillAllocator, rank: number): boolean {
@@ -42,13 +49,15 @@ export function applyPassiveTarget(target: CharacterTarget): string {
   let raised = 0
   const unbought: string[] = []
   for (const passive of target.passives) {
-    const allocator = allocatorOf(passive)
-    if (allocator === undefined) {
+    const skill = skillDataOf(passive)
+    if (skill === undefined) {
       unbought.push(passive.name)
       continue
     }
-    if (rankHeld(allocator) >= passive.rank) continue
-    if (raise(allocator, passive.rank)) raised++
+    const allocator = skill.GetPointAllocator()
+    const rank = rankWanted(passive, skill)
+    if (rankHeld(allocator) >= rank) continue
+    if (raise(allocator, rank)) raised++
     else unbought.push(passive.name)
   }
   return [

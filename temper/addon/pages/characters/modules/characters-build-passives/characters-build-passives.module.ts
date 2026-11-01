@@ -16,6 +16,10 @@ export const charactersBuildPassives = {
       statement: "A passive is held once it is bought to its target rank or higher.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A target rank above the passive's top rank in the game is read as that top rank.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No passive is sold, and no respec is started for one.",
     },
@@ -25,5 +29,5 @@ export const charactersBuildPassives = {
     },
   ],
   createdAt: "2026-11-01T19:48:32.854Z",
-  updatedAt: "2026-11-01T19:48:32.854Z",
+  updatedAt: "2026-11-01T22:25:15.853Z",
 } as const satisfies Module

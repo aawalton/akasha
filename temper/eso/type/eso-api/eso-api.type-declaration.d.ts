@@ -98,6 +98,7 @@ interface SlottableSkillData {
   GetPointAllocator: () => SlottableSkillAllocator
   IsPassive: () => boolean
   IsCraftedAbility: () => boolean
+  GetNumRanks?: () => number
 }
 
 interface SkillLineData {
