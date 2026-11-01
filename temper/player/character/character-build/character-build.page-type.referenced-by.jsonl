@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"character-build.page-type.ts","path":"command/pages/temper/build-show/modules/build-show-naming/build-show-naming.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-build.page-type.ts","path":"command/pages/temper/build-show/temper-build-show.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"character-build.page-type.ts","path":"temper/watcher/modules/watcher-build-choosing/watcher-build-choosing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-build.page-type.ts","path":"temper/watcher/modules/watcher-build-edit-landing/watcher-build-edit-landing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-build.page-type.ts","path":"temper/watcher/modules/watcher-build-edit-landing/watcher-build-edit-landing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-build.page-type.ts","path":"temper/web/modules/build-version-page-type/build-version-page-type.module.test.ts","typed":false,"deferred":false}

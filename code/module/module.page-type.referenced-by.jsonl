@@ -6451,6 +6451,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/saved-variables-reader/saved-variables-reader.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-account-page/watcher-account-page.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-build-choosing/watcher-build-choosing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-build-edit-landing/watcher-build-edit-landing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-champion-star-landing/watcher-champion-star-landing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-completion-landing/watcher-completion-landing.module.ts","typed":true,"deferred":false}

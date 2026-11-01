@@ -81,6 +81,8 @@
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/player/character/temper-account/modules/account-address/account-address.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/watcher/modules/watcher-build-choosing/watcher-build-choosing.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/watcher/modules/watcher-build-choosing/watcher-build-choosing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/watcher/modules/watcher-build-edit-landing/watcher-build-edit-landing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/watcher/modules/watcher-build-edit-landing/watcher-build-edit-landing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/watcher/modules/watcher-completion-landing/watcher-completion-landing.module.code.ts","typed":true,"deferred":false}

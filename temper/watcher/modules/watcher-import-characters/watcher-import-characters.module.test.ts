@@ -314,17 +314,13 @@ function choosing(page: Record<string, unknown>) {
       },
     ],
   }
+  const getPages = async () => ({ rows: [] })
   const run = () =>
     executeCharacterImportPlan(
       plan,
       NO_SUPABASE,
       { userId: "@alan" },
-      {
-        upsert,
-        report: () => undefined,
-        addressOf,
-        file: fileNothing,
-      }
+      { upsert, report: () => undefined, addressOf, file: fileNothing, getPages }
     )
   return { run, seen }
 }

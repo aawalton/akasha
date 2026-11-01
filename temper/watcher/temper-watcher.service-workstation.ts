@@ -133,7 +133,8 @@ export const temperWatcher = {
     "module/saved-variables-reader",
     "module/watcher-export-keybindings",
     "module/watcher-keybindings-landing",
+    "module/watcher-build-choosing",
   ],
   createdAt: "2026-09-02T03:46:23.499Z",
-  updatedAt: "2026-11-01T20:22:09.235Z",
+  updatedAt: "2026-11-01T22:04:54.982Z",
 } as const satisfies ServiceWorkstation

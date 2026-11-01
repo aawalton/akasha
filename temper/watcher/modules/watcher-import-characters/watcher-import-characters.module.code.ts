@@ -1,5 +1,6 @@
 import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
+import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { upsertPage } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
 import type { ChampionPointId } from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
@@ -27,6 +28,13 @@ import {
 } from "akasha/temper/player/character/temper-account-character/modules/character-race-class/character-race-class.module.code.ts"
 import { resolveAccountPageId } from "akasha/temper/watcher/modules/watcher-account-page/watcher-account-page.module.code.ts"
 import {
+  type ChoosingCharacter,
+  type ChoosingPages,
+  type ChosenBuild,
+  chooseBuild,
+  chosenBuildIn,
+} from "akasha/temper/watcher/modules/watcher-build-choosing/watcher-build-choosing.module.code.ts"
+import {
   type BuildEdit,
   buildEditsIn,
   type EditedCharacter,
@@ -51,11 +59,6 @@ const NO_STAR_PLACEHOLDERS = {
 } as const satisfies Record<ChampionPointTree, ChampionPointId>
 
 const CHAMPION_POINT_TREES = Object.keys(NO_STAR_PLACEHOLDERS) as readonly ChampionPointTree[]
-
-interface ChosenBuild {
-  buildId: string
-  over: string
-}
 
 interface ParsedCharacterEntry {
   esoCharacterId: string
@@ -100,6 +103,7 @@ interface CharacterImportSeams {
   addressOf?: AccountAddressOf
   file?: CharacterBuildFiler
   landEdits?: typeof landBuildEdits
+  getPages?: ChoosingPages["get"]
 }
 
 function filedLine(filed: FiledCharacterBuild): string {
@@ -177,21 +181,6 @@ export function parseCharacterSavedVariables(content: string): readonly ParsedCh
   return entries
 }
 
-function chosenBuildIn(value: unknown): ChosenBuild | undefined {
-  const record = asRecord(value)
-  if (typeof record?.buildId !== "string" || typeof record.over !== "string") return undefined
-  return { buildId: record.buildId, over: record.over }
-}
-
-function chosenTargetOf(
-  chosen: ChosenBuild | undefined,
-  page: Awaited<ReturnType<PageUpsert>>
-): string | undefined {
-  if (chosen === undefined || chosen.buildId === chosen.over) return undefined
-  if (page.targetBuildId !== chosen.over) return undefined
-  return stringsIn(page.targetBuildIds).includes(chosen.buildId) ? chosen.buildId : undefined
-}
-
 function canonicalOf(decoded: CharacterState, characterName: string): string {
   return encodeBuild({
     ...decoded,
@@ -265,6 +254,7 @@ export async function executeCharacterImportPlan(
   }
 
   const edited = new Map<string, EditedCharacter>()
+  const choices: (ChoosingCharacter & { readonly name: string })[] = []
   for (const action of upserts) {
     const where = [
       { key: "accountPage", eq: accountPage },
@@ -281,23 +271,15 @@ export async function executeCharacterImportPlan(
       },
       select: ["id", "targetBuildId", "targetBuildIds"],
     })
-    edited.set(action.esoCharacterId, {
-      name: action.characterName,
-      where,
-      targetBuildIds: [...stringsIn(page.targetBuildIds)],
-    })
+    const targetBuildIds = [...stringsIn(page.targetBuildIds)]
+    edited.set(action.esoCharacterId, { name: action.characterName, where, targetBuildIds })
 
     report(`  ${action.characterName}: captured hash ${action.canonicalHash}`)
 
-    const chosen = chosenTargetOf(action.chosen, page)
+    const chosen = action.chosen
     if (chosen === undefined) continue
-    await upsert({
-      pageTypeSlug: CHARACTER_PAGE_TYPE_SLUG,
-      where,
-      set: { targetBuildId: chosen },
-      select: ["id"],
-    })
-    report(`  ${action.characterName}: set up as build ${chosen}`)
+    const name = action.characterName
+    choices.push({ name, where, targetBuildId: page.targetBuildId, targetBuildIds, chosen })
   }
 
   await (seams.landEdits ?? landBuildEdits)(
@@ -305,6 +287,11 @@ export async function executeCharacterImportPlan(
     { accountPage, characters: edited, canonical: canonicalHashOf },
     report
   )
+
+  for (const held of choices) {
+    const chosen = await chooseBuild(held, { get: seams.getPages ?? getPages, upsert })
+    if (chosen !== undefined) report(`  ${held.name}: set up as build ${chosen}`)
+  }
 
   const filed = await (seams.file ?? fileCharacterBuilds)(accountPage)
   for (const one of filed) report(filedLine(one))

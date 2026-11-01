@@ -62,10 +62,7 @@ export const watcherImportCharacters = {
       decisionKind: "decision-kind/departure",
       statement: "A build chosen in the game over the target build becomes the target build.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A choice over a build no longer the target, or of no target build, is left.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "The builds changed in the game are landed once its characters are written.",
@@ -76,5 +73,5 @@ export const watcherImportCharacters = {
     },
   ],
   createdAt: "2026-09-02T19:03:27.439Z",
-  updatedAt: "2026-11-01T20:24:08.983Z",
+  updatedAt: "2026-11-01T22:04:54.982Z",
 } as const satisfies Module
