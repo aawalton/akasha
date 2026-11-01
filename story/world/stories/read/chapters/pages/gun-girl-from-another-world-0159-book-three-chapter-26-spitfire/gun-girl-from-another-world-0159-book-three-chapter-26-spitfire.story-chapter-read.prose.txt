@@ -1,0 +1,117 @@
+Chapter 26
+
+Spitfire
+
+Making Essence Alcohol proved to be way easier than I had ever imagined. After manually sorting through my whole marketplace of general skills, I finally found one that allowed me to age inanimate objects.
+
+Chronal Polish
+
+----------------------
+
+Expend mana to alter an object as if it had set undisturbed for a specific quantity of time. For the purposes of this spell, an object may refer to a collection of objects so long as they are contained as one item, such as a jar of pickles or a century egg. Any quantity of fluid or number of physical components may be considered part of the meta-object targeted by this spell, so long as they are fully contained within it. However, no substantive living object may be considered to be a target or component of a target, and the spell will fail to trigger if attempted against such an invalid target or target component.
+
+The time to be simulated must be determined at the time of casting, and the total mana cost will be determined based on the quantity of time and the size and complexity of the object. If you do not have the mana necessary to complete the process, the set time will be rejected, and the spell will fail.
+
+Casting Cost: Variable
+
+Of course, as quickly as I got my hands on it, I was off to see what it could do, my head full of strawberry wine and gouda. My initial experiments, however, were … ripe with learning opportunities, and required another new spell for cleaning the funk out of the air. The slimes ate well, though.
+
+It forced me to back up and slow down, to respect the process. I won’t say that brewing and caseiculture are more art than science; that would just be pretentious romanticism, and my house runs on logic and methodology. It is simply a very complex process where each step exists for a reason. I can rush the long parts, but I still have to go through the steps.
+
+So, once I’d learned my lesson, that’s what I did. I paid meticulous attention to every stage and condition, and made sure my casting was precise rather than just in the ballpark. If it needed sixty hours, I didn’t give it three days. I started simple and treated it as the exact science it was. Eventually, I was rewarded with my first successes. They were only a simple vodka and farmer’s ricotta, but I felt so pleased with myself that I mentally gave them both a blue ribbon.
+
+Once I was confident in my understanding of the process, confirmed with a few more types of simple spirits, where the primary ingredient is time more than complex additives, my drive to experiment again returned. This time, however, it met with much greater success, and one of my proudest ones is exactly what a student of mine needs.
+
+Korrigan has been struggling with the thermobaric part of our explosions. She just can’t seem to wrap her head around aerosolization. I don’t know, maybe I just haven’t been explaining it well enough. I can definitely understand how it can be hard to visualize if you’ve never been given an example.
+
+I’ve already checked it, of course, but I pull up the Identify window again just to look it over once more.
+
+ESSENCE SPITFIRE WHISKEY
+
+--------------------------------
+
+Need some get up and go? Get up and get gone with this cinnamon whiskey in your belly! Just don’t be caught driving! At 100 Proof and brewed entirely out of Essence ingredients, including Essence Barley, fresh water filtered through Essence Charcoal, and yeast that has never consumed anything but Essence Flour, then aged in Essence White Oak casks for the better part of a decade before being infused with Essence Ceylon Cinnamon, this beverage is literally out of this world!
+
+Spitfire Whiskey! Guaranteed to put a hotfoot up your ass and get ya goin’!
+
+Consuming this beverage grants the following bonuses:
+
++25% Movement Speed for 1 hour
+
++25% Action Speed for 1 hour
+
+-50% Ability Cooldown for 1 hour
+
+Replenishes 50% Maximum Stamina
+
++300% Fire Damage for 15 minutes
+
+Cures ailments afflicting the lungs or sinuses
+
+May spontaneously produce chest hair
+
+I can think of more than one sacred person that would promptly purify me via hypersonic beat down if they catch even a whiff of this stuff, but it should be perfect for goosing Korrigan past her stump. She's an oni, so it probably won't even give her alcohol poisoning!
+
+With the small ceramic bottle and an even smaller cup in hand, I head out from the workshop. I had to store it there. With the house under construction, we've been staying at the inn. I can't keep something this stout there, even if the place didn't have a hard rule against potent alchemical substances. There's too much of a risk of someone taking it, even by accident. And I definitely can't leave it at the guild! That place has too many yahoos that would almost certainly down it, no matter the promises of it being hands-off.
+
+Besides, if I did bring it to the guild, they'd make me register it like with the Essence Arabica coffee, and then force me to sell it to the Empire. Oh, I don't mind selling to them, and I'm sure I can whip up some literal Liquid Courage they'll be ecstatic for, but this particular batch is for facilitating the growth of me and mine.
+
+Speaking of the house, the crew pounded the entire building footprint flat with such accuracy that I'm genuinely impressed. They took my marble, string, and liquid tests with good humor, and treated my astoundment as a compliment, rather than an insulting doubting of their abilities. The base that followed, though, took some convincing.
+
+Like the workshop, the floor of the house is laid with piping and conduits, but they are rather more involved than the simple drains of the other building. To the crew's credit, the reason the workshop could still be done in brick is because they use a uniform drain pipe, and they use a mold to form however many bricks they need with an arch to accommodate it. That would prove entirely unfeasible for the house, however, especially with the plumbing and electrical I had them run. It would mean countless custom bricks, none of which are the standard they normally use.
+
+Which means Daelon finally had to let me have my concrete!
+
+We had to order all of the ingredients individually, but we hashed it out before they even started on the workshop, so they had plenty of time to arrive. I then had to personally supervise the crushing of seashells and shale, then their baking, then their mixing with gypsum, then their baking again, and then more crushing, but at the end of it, I finally had Portland cement, the secret ingredient to modern concrete. It would have been a lot easier, and I wouldn’t have had to run my industrial kiln nearly so hard, if I had gone with Roman concrete, but I don’t want to spend months waiting for it to set before my house could be built.
+
+… Actually, now that I think about it, couldn’t I have used my new spell to cure the whole thing in a moment?
+
+Shit …
+
+Oh well, at least I can take solace in the fact that going about it the hard way means it’ll be nearly impossible for Daelon’s crew to reproduce it, and their reaction as the gray oatmeal went in contrasted nicely with the one when they saw it solidified into a single, continuous, perfectly flat monolith.
+
+Of course, I could have had that part without the extra work … But moving on! There’s nothing gained from dwelling on a screw-up longer than necessary to learn from it!
+
+The Empire doesn’t really have rebar for reinforcing the concrete, though. I could have custom-ordered some, but I opted to try for something else instead, something I’ve been wanting to try.
+
+I’ve grown a whole lot of pine, in addition to other woods (Mental Note: See if Chronal Polish works on plants), and I cut a bunch of it into bars. I then boiled them in a mixture of lye from Essence White Oak ash and sulfur-rich ash from Essence Mustard and Essence Horseradish to delignify the wood.
+
+While it was still wet and soft, I twisted all of the bars like long rotini noodles and threaded them together into a loose mesh, sort of like industrial basket weaving. Then they went into my new heavy iron press, its massive heads able to handle a square Remmi of sheeting at a time and heated by fire stone conduction. This process condenses the cellulose and causes the cell walls to fuse back together at a far greater density. In fact, back on Earth, the end result is actually called densified wood, and it rivals steel at a fraction of the weight.
+
+Of course, it’s still wood, which means it will greedily soak up water from the concrete if left to its own devices, so I went over every sheet of the stuff with a mixture of resin made from Essence Pine Sap and silica from Essence Horsetails. Not only will this completely seal and preserve the wood, but the silicates will further increase the grip surface for the concrete.
+
+Some mud bricks are still used to support the mesh, and the mesh is held to them with iron construction staples so it doesn’t float to the top of the concrete, but then the slab went right over the top of the whole mess without the need for a single custom brick, especially with the addition of a little lignin to the concrete mix.
+
+I made densified wood for the frame and support beams of the house too, though those required some special steps. For one, the hardness means all screw holes had to be pre-drilled while they were soft and then held open with densified wood bolts and dowels. Braces were pressed too, and for an extra measure, I made a wood glue from the removed lignin with tannins.
+
+Basically, my walls are going together like a 3D jigsaw puzzle, but once they’re up, even an Imperial siege won’t bring them down. While the initial setup and pre-planning are intensive, Daelon and his team have been impressed at how quickly it then comes together.
+
+It occurs to me that if I’m going to continue insisting that as much of this house gets built of Essence materials as possible, I’m going to be writing myself out of being able to outsource any of it. Some of that will be a must because there’s no alternative here. For example, insulation batting just isn’t a thing, so I’ll have to make my own out of milkweed and flax. Others will be a quality-of-life investment, like making my own tatami mats; I’ll bet Essence Rice Straw will basically never mold, and Essence Rush Grass will be silky soft.
+
+Everything else, though, I think I’ll let them do. Except maybe the countertops; sealed densified oak will beat the tar out of granite. Oh, and I should probably count on making densified sheets of wood for the internal walls if I don’t want to try making sheetrock. And I’ll have to do the wood for the porch, and the shingles for the roof. But everything else. Yeah. Everything else.
+
+Anyway, that’s going on the back burner, and I’m heading across the field away from the construction that will eventually be my house. I’ll put together a list of everything I need to make for it and thank Auto-Mode for its hard work later.
+
+My path takes me past the grazing field, where I’m immediately beset by adorable chickens. I let Kyuuga train them after all, and he and they both have taken to it with gusto. I think he likes having students to teach, and my big concern about a spike in aggression has proven unnecessary. Yes, they’re attacking me on sight, but they’re not doing it out of hostility. They’re eager to show off their gains, and it’s become a game.
+
+I don’t strike them back; instead, I dodge, grab them, and ring them out by giving them a kiss on the forehead. This is the mark that they have been defeated and will have to wait to make their next attempt another day. It’s great fun for everyone, everyone gets a little cuddle time, and I can tell they’re definitely improving, even if they’re nowhere near a Gold-Rank yet.
+
+When I finally get to the training grounds, Korrigan is already there, sitting on a bench under the eaves and kicking her feet back and forth. Somehow, I always expect a pointed hat on her head, like the one that girl Rune from Leuke’s hometown has, but nope, always just the cute little cap that I know happens to conceal her horns.
+
+“Heya, Popper,” I greet her by nickname, drawing her attention. “You ready to master that spell today?”
+
+But that puts an unconfident frown on her face. “I dunno. You make it sound so easy, Remmi, but I just can’t make what you say happen.”
+
+I grin back and lift the bottle and cup, giving the former a little shake. “Well, I think I’ve got something here that’ll help you break through that deadlock!”
+
+Her gaze changes to curious. “What is it?”
+
+Instead of answering, I just set the cup next to her and uncork the bottle. Her eyes stay trained on the red-amber fluid pooling into the cup. If she weren’t so small, I’d give her a double shot, but I leave it at a single. Once it’s poured, I cap the bottle again, set it aside, and lift the cup to hold it toward her.
+
+“Drink. All at once.”
+
+She takes it and stares at it for a moment like she wishes she, too, had the Identify spell. Soon enough, however, she obediently tosses it back, though her shoulders clinch as she swallows. There’s a few seconds where her mouth is held in an O as she tries to process it, and then there’s a quick rumble that comes out as a fiery belch. And I don’t just mean I smell the cinnamon on her breath, though I do. No, I mean a literal spicy meatball comes rolling out of this child’s mouth into the open air.
+
+“Wow,” she proclaims after a moment as she takes a step to steady herself. “Even Grandpa could cast fire magic with this stuff!”
+
+That brings my grin back as I kneel down next to her to deliver the secret trick. “Now, Korrigan, the way that’s feeling in your chest? Make the air feel like that.”
