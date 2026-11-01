@@ -5,11 +5,11 @@ export const kpopDemonHuntersCastGuerreirasDoKPopTrilhaSonoraDoFilmeDaNetflixLet
   type: "page-type/track",
   slug: "kpop-demon-hunters-cast-guerreiras-do-k-pop-trilha-sonora-do-filme-da-netflix-letal-takedown",
   ownLength: 3.0336,
-  ownProgress: 0,
+  ownProgress: 3.0336,
   partOfCollections: [
     "release/kpop-demon-hunters-cast-guerreiras-do-k-pop-trilha-sonora-do-filme-da-netflix",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Letal (Takedown)",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const kpopDemonHuntersCastGuerreirasDoKPopTrilhaSonoraDoFilmeDaNetflixLet
     },
   ],
   createdAt: "2026-09-22T13:40:04.820Z",
-  updatedAt: "2026-09-24T20:00:07.000Z",
+  updatedAt: "2026-11-01T18:00:19.304Z",
+  progressedAt: "2026-11-01T18:00:19.304Z",
 } as const satisfies Track

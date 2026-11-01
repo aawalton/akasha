@@ -5,11 +5,11 @@ export const kpopDemonHuntersCastGuerreirasDoKPopTrilhaSonoraDoFilmeDaNetflixNao
   type: "page-type/track",
   slug: "kpop-demon-hunters-cast-guerreiras-do-k-pop-trilha-sonora-do-filme-da-netflix-nao-tem-perdao-how-its",
   ownLength: 2.9343166666666667,
-  ownProgress: 0,
+  ownProgress: 2.9343166666666667,
   partOfCollections: [
     "release/kpop-demon-hunters-cast-guerreiras-do-k-pop-trilha-sonora-do-filme-da-netflix",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Não Tem Perdão (How It’s Done)",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const kpopDemonHuntersCastGuerreirasDoKPopTrilhaSonoraDoFilmeDaNetflixNao
     },
   ],
   createdAt: "2026-09-22T13:40:04.679Z",
-  updatedAt: "2026-09-24T20:00:07.000Z",
+  updatedAt: "2026-11-01T18:00:19.304Z",
+  progressedAt: "2026-11-01T18:00:19.304Z",
 } as const satisfies Track
