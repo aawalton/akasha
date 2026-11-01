@@ -151,6 +151,20 @@ test("a target names each passive its build holds, with the rank it is held to",
   expect(passives.every((one) => one.abilityId > 0)).toBe(true)
 })
 
+test("a build naming no interface still includes one every build includes", async () => {
+  const reader: PageReader = {
+    collect: async (args) =>
+      args.pageTypeSlug === buildInterface.slug
+        ? [{ ...foundations }]
+        : [{ esoCharacterId: "1001", targetBuildId: maxMaxStamina.id }],
+    get: async () => ({ buildHash: maxMaxStamina.buildHash, title: maxMaxStamina.title }),
+  }
+  const targets = await compileCharacterTargets(ACCOUNT, reader, async () => undefined)
+  const craft = targets["1001"]?.[0]?.champion.find((one) => one.discipline === "craft")
+  expect(craft?.slotted.map((star) => star.name)).toContain("War Mount")
+  expect(targets["1001"]?.[0]?.passives.map((one) => one.name)).toContain("Continuous Attack")
+})
+
 test("no character with a target reads no catalog", async () => {
   let read = 0
   await compileCharacterTargets(ACCOUNT, readerOf([{ esoCharacterId: "1" }]), async () => {
