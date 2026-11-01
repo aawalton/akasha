@@ -45,6 +45,25 @@ const CRAFTING_OPENS = `
     .TEMPER_ITEMS_CRAFTING_API
 `
 
+const OPENS_ACTIVE_FILTERS = `
+  local function pick(container, wanted)
+    local combo = ZO_ComboBox_ObjectFromContainer(container)
+    for _, item in ipairs(combo:GetItems()) do
+      if string.find(item.name, wanted, 1, true) then combo:SelectItem(item) end
+    end
+  end
+  SCENE_MANAGER:CallWhen("inventory", SCENE_SHOWN, function()
+    pick(TemperItemsFilterPanelAddCombo, "Quality: Quality")
+    pick(TemperItemsFilterPanelRow_qualityMs_quality, "Epic")
+    pick(TemperItemsFilterPanelRow_qualityMs_quality, "Legendary")
+    pick(TemperItemsFilterPanelAddCombo, "State: Reconstructed")
+    pick(TemperItemsFilterPanelRow_reconstructedTog_reconstructed, "Yes")
+    pick(TemperItemsFilterPanelAddCombo, "Set: Reconstruction cost")
+    TemperItemsFilterPanelRow_reconstruction_costRange_reconstruction_cost:SetText("25")
+  end)
+  SCENE_MANAGER:Show("inventory")
+`
+
 function inventoryWindow(slug: string, control: string): UiWindow {
   return {
     slug,
@@ -415,6 +434,10 @@ const WINDOWS: readonly UiWindow[] = [
   inventoryWindow("inventory-browser", "TemperItemsBrowser"),
   inventoryWindow("inventory-plan", "TemperItemsActionPanel"),
   inventoryWindow("inventory-filters", "TemperItemsFilterPanel"),
+  {
+    ...inventoryWindow("inventory-filters-active", "TemperItemsFilterPanel"),
+    opens: OPENS_ACTIVE_FILTERS,
+  },
   ...STAGED_WINDOWS,
 ]
 
