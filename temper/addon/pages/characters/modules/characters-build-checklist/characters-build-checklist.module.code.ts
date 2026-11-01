@@ -73,7 +73,8 @@ export function currentCharacterTargets(): readonly CharacterTarget[] {
 export function currentCharacterTarget(): CharacterTarget | undefined {
   const targets = currentCharacterTargets()
   const chosen = getSavedVariables().activeBuilds?.[GetCurrentCharacterId()]
-  return targets.find((one) => one.buildId === chosen) ?? targets[0]
+  if (chosen === undefined || chosen.over !== targets[0]?.buildId) return targets[0]
+  return targets.find((one) => one.buildId === chosen.buildId) ?? targets[0]
 }
 
 function attributesSection(target: CharacterTarget): ChecklistSection {

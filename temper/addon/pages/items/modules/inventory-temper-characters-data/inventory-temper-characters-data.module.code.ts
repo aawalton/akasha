@@ -1,11 +1,19 @@
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
+import type { WantedEquipmentSignature } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+
 export function getTemperCharactersData(): Record<string, unknown> | undefined {
   return accountWideRecord("characters")
 }
 
-export function chosenBuildOf(this: void, charId: string): string | undefined {
-  const chosen = accountWideRecord("activeBuilds")?.[charId]
-  return typeof chosen === "string" ? chosen : undefined
+export function chosenBuildIn(
+  wanted: readonly WantedEquipmentSignature[]
+): (this: void, charId: string) => string | undefined {
+  return (charId) => {
+    const chosen = accountWideRecord("activeBuilds")?.[charId]
+    if (!isObjectRecord(chosen) || typeof chosen["buildId"] !== "string") return undefined
+    const setUp = wanted.find((one) => one.esoCharId === charId && one.backpack !== true)
+    return setUp?.buildId === chosen["over"] ? chosen["buildId"] : undefined
+  }
 }
 
 function accountWideRecord(key: string): Record<string, unknown> | undefined {

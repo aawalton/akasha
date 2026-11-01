@@ -120,10 +120,11 @@ function nextTarget(): CharacterTarget | undefined {
 
 function chooseNextTarget(): undefined {
   const next = nextTarget()
-  if (next === undefined || held === undefined) return undefined
+  const over = currentCharacterTargets()[0]?.buildId
+  if (next === undefined || over === undefined || held === undefined) return undefined
   const sv = getSavedVariables()
   const chosen = sv.activeBuilds ?? {}
-  chosen[GetCurrentCharacterId()] = next.buildId
+  chosen[GetCurrentCharacterId()] = { buildId: next.buildId, over }
   sv.activeBuilds = chosen
   held.said.SetText("")
   TemperItems?.Rescan()

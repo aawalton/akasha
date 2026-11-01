@@ -31,6 +31,11 @@ export type SavedCharacterEntry = CharacterCompletion & {
   dailyWritStates?: DailyWritStates
 }
 
+export interface ChosenBuild {
+  buildId: string
+  over: string
+}
+
 export interface TaskData {
   title: string
   description?: string
@@ -69,7 +74,7 @@ export interface SavedVariablesData {
     { date: string; value: number; reached?: number; charId?: string }
   >
   characterPriority: string[]
-  activeBuilds?: Record<string, string>
+  activeBuilds?: Record<string, ChosenBuild>
   completionOverrides?: Record<string, CompletionOverride[]>
   taskPanelPosition: { x: number; y: number } | undefined
   guildSalesPostedDate?: string

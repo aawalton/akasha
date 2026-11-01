@@ -11,7 +11,11 @@ export const completionSavedVariables = {
       decisionKind: "decision-kind/departure",
       statement: "The build each character is set up as is saved by the character's id.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A saved choice names the target build it was chosen over.",
+    },
   ],
   createdAt: "2026-09-02T13:34:15.695Z",
-  updatedAt: "2026-11-01T19:01:52.055Z",
+  updatedAt: "2026-11-01T19:05:45.327Z",
 } as const satisfies Module

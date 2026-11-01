@@ -269,9 +269,57 @@ test("the account page is upserted before any character page", async () => {
         esoCharacterId: "12345",
         title: "Shalidor",
       },
-      select: ["id"],
+      select: ["id", "targetBuildId", "targetBuildIds"],
     },
   ])
+})
+
+function choosing(page: Record<string, unknown>) {
+  const seen: unknown[] = []
+  const upsert = (async (args: unknown) => {
+    seen.push(args)
+    return { id: "page-1", ...page } as never
+  }) as PageUpsert
+  const plan = {
+    actions: [
+      {
+        action: "upsert" as const,
+        characterName: "Yvlon",
+        esoCharacterId: "12345",
+        canonicalHash: CANONICAL_HASH,
+        raceAndClass: {},
+        chosen: { buildId: "b-2", over: "b-1" },
+      },
+    ],
+  }
+  const run = () =>
+    executeCharacterImportPlan(
+      plan,
+      NO_SUPABASE,
+      { userId: "@alan" },
+      {
+        upsert,
+        report: () => undefined,
+        addressOf,
+        file: fileNothing,
+      }
+    )
+  return { run, seen }
+}
+
+test("a build chosen in the game becomes the character's target build", async () => {
+  const { run, seen } = choosing({ targetBuildId: "b-1", targetBuildIds: ["b-1", "b-2"] })
+  await run()
+  expect(seen[2]).toMatchObject({ set: { targetBuildId: "b-2" } })
+})
+
+test("a choice made over a build no longer the target, or of no target build, is left", async () => {
+  const moved = choosing({ targetBuildId: "b-3", targetBuildIds: ["b-1", "b-2", "b-3"] })
+  await moved.run()
+  expect(moved.seen).toHaveLength(2)
+  const dropped = choosing({ targetBuildId: "b-1", targetBuildIds: ["b-1"] })
+  await dropped.run()
+  expect(dropped.seen).toHaveLength(2)
 })
 
 test("a character page takes the race and class its build hash names", async () => {

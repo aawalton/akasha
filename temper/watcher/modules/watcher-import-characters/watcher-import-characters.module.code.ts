@@ -1,4 +1,5 @@
 import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
+import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import { upsertPage } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
 import type { ChampionPointId } from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
@@ -45,10 +46,16 @@ const NO_STAR_PLACEHOLDERS = {
 
 const CHAMPION_POINT_TREES = Object.keys(NO_STAR_PLACEHOLDERS) as readonly ChampionPointTree[]
 
+interface ChosenBuild {
+  buildId: string
+  over: string
+}
+
 interface ParsedCharacterEntry {
   esoCharacterId: string
   characterName: string
   buildHash: string
+  chosen?: ChosenBuild
 }
 
 interface CharacterImportSkip {
@@ -63,6 +70,7 @@ interface CharacterImportUpsert {
   esoCharacterId: string
   canonicalHash: string
   raceAndClass: RaceAndClass
+  chosen?: ChosenBuild
 }
 
 type CharacterImportAction = CharacterImportSkip | CharacterImportUpsert
@@ -136,6 +144,7 @@ export function parseCharacterSavedVariables(content: string): readonly ParsedCh
   }
 
   const charactersTable = asRecord(accountWide.characters) ?? {}
+  const chosenTable = asRecord(accountWide.activeBuilds) ?? {}
 
   const entries: ParsedCharacterEntry[] = []
   for (const [esoCharacterId, entry] of Object.entries(charactersTable)) {
@@ -148,10 +157,26 @@ export function parseCharacterSavedVariables(content: string): readonly ParsedCh
     const characterName =
       typeof record.name === "string" ? record.name : `Character ${esoCharacterId}`
 
-    entries.push({ esoCharacterId, characterName, buildHash })
+    const chosen = chosenBuildIn(chosenTable[esoCharacterId])
+    entries.push({ esoCharacterId, characterName, buildHash, ...(chosen ? { chosen } : {}) })
   }
 
   return entries
+}
+
+function chosenBuildIn(value: unknown): ChosenBuild | undefined {
+  const record = asRecord(value)
+  if (typeof record?.buildId !== "string" || typeof record.over !== "string") return undefined
+  return { buildId: record.buildId, over: record.over }
+}
+
+function chosenTargetOf(
+  chosen: ChosenBuild | undefined,
+  page: Awaited<ReturnType<PageUpsert>>
+): string | undefined {
+  if (chosen === undefined || chosen.buildId === chosen.over) return undefined
+  if (page.targetBuildId !== chosen.over) return undefined
+  return stringsIn(page.targetBuildIds).includes(chosen.buildId) ? chosen.buildId : undefined
 }
 
 function toCharacterImportAction(entry: ParsedCharacterEntry): CharacterImportAction {
@@ -182,6 +207,7 @@ function toCharacterImportAction(entry: ParsedCharacterEntry): CharacterImportAc
     esoCharacterId: entry.esoCharacterId,
     canonicalHash: encodeBuild(buildState),
     raceAndClass: raceAndClassNamed(decoded.character.race, decoded.character.class),
+    ...(entry.chosen ? { chosen: entry.chosen } : {}),
   }
 }
 
@@ -215,22 +241,33 @@ export async function executeCharacterImportPlan(
   }
 
   for (const action of upserts) {
-    await upsert({
+    const where = [
+      { key: "accountPage", eq: accountPage },
+      { key: "esoCharacterId", eq: action.esoCharacterId },
+    ]
+    const page = await upsert({
       pageTypeSlug: CHARACTER_PAGE_TYPE_SLUG,
-      where: [
-        { key: "accountPage", eq: accountPage },
-        { key: "esoCharacterId", eq: action.esoCharacterId },
-      ],
+      where,
       set: {
         accountPage,
         esoCharacterId: action.esoCharacterId,
         title: action.characterName,
         ...action.raceAndClass,
       },
-      select: ["id"],
+      select: ["id", "targetBuildId", "targetBuildIds"],
     })
 
     report(`  ${action.characterName}: captured hash ${action.canonicalHash}`)
+
+    const chosen = chosenTargetOf(action.chosen, page)
+    if (chosen === undefined) continue
+    await upsert({
+      pageTypeSlug: CHARACTER_PAGE_TYPE_SLUG,
+      where,
+      set: { targetBuildId: chosen },
+      select: ["id"],
+    })
+    report(`  ${action.characterName}: set up as build ${chosen}`)
   }
 
   const filed = await (seams.file ?? fileCharacterBuilds)(accountPage)

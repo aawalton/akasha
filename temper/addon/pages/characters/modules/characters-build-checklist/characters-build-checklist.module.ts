@@ -17,6 +17,10 @@ export const charactersBuildChecklist = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A choice made over a build the config no longer lists first is ignored.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A discipline is met when every star holds the points the plan gives it.",
     },
     {
@@ -37,5 +41,5 @@ export const charactersBuildChecklist = {
     },
   ],
   createdAt: "2026-10-28T19:54:38.440Z",
-  updatedAt: "2026-11-01T19:01:52.055Z",
+  updatedAt: "2026-11-01T19:05:45.327Z",
 } as const satisfies Module
