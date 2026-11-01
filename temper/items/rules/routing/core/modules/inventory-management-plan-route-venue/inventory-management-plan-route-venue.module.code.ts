@@ -82,6 +82,7 @@ export function getActionVenue(
     case "research":
       return "crafting-station"
     case "character-equip":
+      return "backpack"
     case "companion-equip":
       return "companion-menu"
     case "use":

@@ -24,7 +24,15 @@ export const inventoryManagementPlanRouteVenue = {
       decisionKind: "decision-kind/departure",
       statement: "An item bound for a house is placed in that house, a stop named for the house.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Gear a character equips is equipped from the backpack.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Gear a companion equips is equipped at the companion menu.",
+    },
   ],
   createdAt: "2026-09-02T08:51:47.594Z",
-  updatedAt: "2026-10-28T21:13:33.607Z",
+  updatedAt: "2026-11-01T14:26:00.933Z",
 } as const satisfies Module
