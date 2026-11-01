@@ -161,6 +161,39 @@ test("a change to a build made in the game finds the build by the change that ma
   )
 })
 
+const POTION = { slot: 3, kind: "item", id: 27036, name: "Essence of Health" } as const
+
+const MOUNT = { slot: 1, kind: "collectible", id: 1234, name: "Horse" } as const
+
+test("a change's quickslots are read from what the game saved, in slot order", () => {
+  const view = { quickslots: { "1": POTION, "2": MOUNT, "3": { slot: 4, kind: "spell" } } }
+  const [edit] = buildEditsIn({ [EDIT_ID]: { characterId: "1001", buildId: "build-1", view } })
+  expect(edit?.quickslots).toEqual([MOUNT, POTION])
+})
+
+test("a change lands its quickslots where the build holds others, and not where it holds them", async () => {
+  const rows = [buildRow()]
+  const saved: BuildEdit = { ...RENAME, title: "Tank", quickslots: [POTION] }
+  expect(await landBuildEdit(saved, contextOf(), pagesOf(rows).pages)).toBe("landed")
+  expect(rows[0]?.["quickslots"]).toEqual([POTION])
+  const held = pagesOf(rows)
+  expect(await landBuildEdit(saved, contextOf(), held.pages)).toBe("already")
+  expect(held.writes()).toBe(0)
+})
+
+test("a build made in the game holds the quickslots it was saved with", async () => {
+  const rows: Record<string, unknown>[] = []
+  const made: BuildEdit = {
+    editId: EDIT_ID,
+    characterId: "1001",
+    buildHash: "h",
+    quickslots: [MOUNT],
+  }
+  expect(await landBuildEdit(made, contextOf(), pagesOf(rows).pages)).toBe("made")
+  const build = rows.find((row) => row["pageTypeSlug"] === characterBuild.slug)
+  expect(build?.["quickslots"]).toEqual([MOUNT])
+})
+
 test("the game's pending changes are read by their ids, in the order they were made", () => {
   const edits = buildEditsIn({
     "e-2": { characterId: "1001", buildId: "build-1", order: 2, after: "e-1" },

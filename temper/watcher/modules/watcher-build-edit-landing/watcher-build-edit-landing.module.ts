@@ -46,7 +46,12 @@ export const watcherBuildEditLanding = {
       decisionKind: "decision-kind/departure",
       statement: "A build hash from the game is written as the character import writes one.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A change's quickslots are read from the build the game shows, and land beside its hash.",
+    },
   ],
   createdAt: "2026-11-01T20:22:09.235Z",
-  updatedAt: "2026-11-01T20:25:54.450Z",
+  updatedAt: "2026-11-01T22:43:26.994Z",
 } as const satisfies Module

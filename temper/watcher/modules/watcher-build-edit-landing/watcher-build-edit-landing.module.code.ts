@@ -10,7 +10,9 @@ import {
   upsertPage,
 } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
 import type { Page, PageWhere } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import type { TargetQuickslot } from "akasha/temper/player/character/build/modules/character-target-types/character-target-types.module.code.ts"
 import { characterBuild } from "akasha/temper/player/character/character-build/character-build.page-type.ts"
+import { quickslotKind } from "akasha/temper/player/character/character-build/properties/quickslot-kind.select-property.ts"
 
 const CHARACTER = "temper-account-character"
 
@@ -27,6 +29,7 @@ export interface BuildEdit {
   readonly title?: string
   readonly icon?: number
   readonly buildHash?: string
+  readonly quickslots?: readonly TargetQuickslot[]
 }
 
 export interface EditedCharacter {
@@ -67,6 +70,32 @@ function textIn(record: Readonly<Record<string, unknown>>, key: string): string 
   return typeof value === "string" && value !== "" ? value : undefined
 }
 
+function quickslotOf(value: unknown): TargetQuickslot | undefined {
+  const one = asRecord(value)
+  if (one === undefined) return undefined
+  const { slot, kind, id, name } = one
+  const kinds: readonly unknown[] = quickslotKind.values
+  if (typeof slot !== "number" || typeof id !== "number" || typeof name !== "string") {
+    return undefined
+  }
+  if (!kinds.includes(kind)) return undefined
+  return { slot, kind: kind as TargetQuickslot["kind"], id, name }
+}
+
+function quickslotsIn(view: unknown): readonly TargetQuickslot[] | undefined {
+  const held = asRecord(view)?.["quickslots"]
+  if (held === undefined) return undefined
+  const entries = Array.isArray(held) ? held : Object.values(asRecord(held) ?? {})
+  return entries
+    .map(quickslotOf)
+    .filter((one): one is TargetQuickslot => one !== undefined)
+    .sort((one, other) => one.slot - other.slot)
+}
+
+function sameQuickslots(edit: readonly TargetQuickslot[], page: unknown): boolean {
+  return JSON.stringify(edit) === JSON.stringify(quickslotsIn({ quickslots: page ?? [] }))
+}
+
 export function buildEditsIn(table: unknown): readonly BuildEdit[] {
   const edits: BuildEdit[] = []
   for (const [editId, value] of Object.entries(asRecord(table) ?? {})) {
@@ -81,6 +110,7 @@ export function buildEditsIn(table: unknown): readonly BuildEdit[] {
     const madeIn = textIn(one, "madeIn")
     const icon = one["icon"]
     const order = one["order"]
+    const quickslots = quickslotsIn(one["view"])
     edits.push({
       editId,
       characterId,
@@ -92,6 +122,7 @@ export function buildEditsIn(table: unknown): readonly BuildEdit[] {
       ...(title === undefined ? {} : { title }),
       ...(typeof icon === "number" ? { icon } : {}),
       ...(buildHash === undefined ? {} : { buildHash }),
+      ...(quickslots === undefined ? {} : { quickslots }),
     })
   }
   return edits.sort((one, other) => (one.order ?? 0) - (other.order ?? 0))
@@ -113,6 +144,9 @@ function changesOf(edit: BuildEdit, hash: string | undefined, page: Page): Recor
     set["buildIcon"] = edit.icon
   }
   if (hash !== undefined && hash !== page["buildHash"]) set["buildHash"] = hash
+  if (edit.quickslots !== undefined && !sameQuickslots(edit.quickslots, page["quickslots"])) {
+    set["quickslots"] = edit.quickslots.map((one) => ({ ...one }))
+  }
   return set
 }
 
@@ -135,6 +169,9 @@ async function makeBuild(
       accountPage: context.accountPage,
       correlationId: edit.editId,
       editId: edit.editId,
+      ...(edit.quickslots === undefined
+        ? {}
+        : { quickslots: edit.quickslots.map((one) => ({ ...one })) }),
     },
     select: ["id"],
   })

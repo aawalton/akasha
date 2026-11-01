@@ -32,7 +32,7 @@ export interface TargetPassive {
   readonly rank: number
 }
 
-interface TargetQuickslot {
+export interface TargetQuickslot {
   readonly slot: number
   readonly kind: "item" | "collectible" | "emote" | "quick-chat"
   readonly id: number
