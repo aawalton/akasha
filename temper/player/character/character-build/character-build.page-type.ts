@@ -16,6 +16,7 @@ export const characterBuild = {
     "number-property/build-target-count",
     "select-property/build-visibility",
     "text-property/build-character-name",
+    "multi-relation-property/build-interfaces",
     "text-property/build-correlation-id",
     "domain/temper-build-optimization",
   ],
@@ -31,6 +32,12 @@ export const characterBuild = {
       maxCount: null,
     },
     { pageProperty: "text-property/build-character-name", required: false, many: false },
+    {
+      pageProperty: "multi-relation-property/build-interfaces",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {
@@ -63,5 +70,5 @@ export const characterBuild = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:59:23.240Z",
-  updatedAt: "2026-10-30T16:36:41.594Z",
+  updatedAt: "2026-11-01T19:38:18.901Z",
 } as const satisfies PageType

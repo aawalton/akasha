@@ -6,6 +6,7 @@ export const temperCharacter = {
   slug: "temper-character",
   definition: "an account, the characters on it, and what each character is built as",
   parts: [
+    "page-type/build-interface",
     "page-type/character-build",
     "page-type/companion-build",
     "page-type/temper-account",
@@ -36,5 +37,5 @@ export const temperCharacter = {
     },
   ],
   createdAt: "2026-09-02T01:12:12.929Z",
-  updatedAt: "2026-09-25T12:44:26.000Z",
+  updatedAt: "2026-11-01T19:38:18.901Z",
 } as const satisfies Domain

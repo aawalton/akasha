@@ -6563,6 +6563,10 @@
 {"propertySlug":"decision-kind","path":"temper/modules/slug-union-keeping/slug-union-keeping.module.ts","id":"01a0df08-262b-7037-9e76-8d0575d4ef36"}
 {"propertySlug":"decision-kind","path":"temper/modules/surface-backdrop/surface-backdrop.module.ts","id":"01a0ca1b-9819-771f-8b2f-507f18be812b"}
 {"propertySlug":"decision-kind","path":"temper/modules/unpack-color/unpack-color.module.ts","id":"01a090aa-4938-7f89-a924-2a3c86c77dd2"}
+{"propertySlug":"decision-kind","path":"temper/player/character/build-interface/build-interface.page-type.ts","id":"01a1989e-af96-747b-99be-1f9b7961d2c5"}
+{"propertySlug":"decision-kind","path":"temper/player/character/build-interface/properties/interface-passives.record-property.ts","id":"01a1989e-af96-75e3-a4e8-76393a205216"}
+{"propertySlug":"decision-kind","path":"temper/player/character/build-interface/properties/passive-line-categories.multi-relation-property.ts","id":"01a1989e-af97-77ca-ace6-d6f4dd1a3b34"}
+{"propertySlug":"decision-kind","path":"temper/player/character/build-interface/properties/slotted-stars.multi-relation-property.ts","id":"01a1989e-af97-77d8-84f4-eb43ba459187"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/bit-codec/modules/base64url/base64url.module.ts","id":"01a060b3-77c9-7461-8481-e41383ba9583"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/bit-codec/modules/bit-reader/bit-reader.module.ts","id":"01a060b3-77ca-7b4f-a569-3dce9d9f75ad"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/bit-codec/modules/bit-writer/bit-writer.module.ts","id":"01a060af-2560-7182-8953-f9402a4521e1"}
@@ -6601,6 +6605,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/modules/filing/character-build-filing.module.ts","id":"01a1590a-2fef-7e1d-b86d-c75dd57e85ac"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/properties/build-character-name.text-property.ts","id":"01a0a545-7c20-7000-8e8e-c96525a19c3e"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/properties/build-correlation-id.text-property.ts","id":"01a06862-c4ee-7eb3-a4f2-21c62306945a"}
+{"propertySlug":"decision-kind","path":"temper/player/character/character-build/properties/build-interfaces.multi-relation-property.ts","id":"01a1989e-af97-7ff6-896d-23361634b122"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/properties/build-visibility.select-property.ts","id":"01a06862-c4ee-7a6d-886a-f9af2859fd5f"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/version/character-build-version.page-type.ts","id":"019dbb6c-51c0-7b3c-b483-0a739f32d9fb"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/version/properties/character-build-version-build.relation-property.ts","id":"01a0d89d-06ef-7056-b5d4-54f6aac7beb1"}

@@ -1487,6 +1487,8 @@
 {"propertySlug":"import","fileName":"temper-skill.page-type.types.ts","path":"temper/catalog/skill/pages/zenas-empowering-disc/zenas-empowering-disc.temper-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill.page-type.types.ts","path":"temper/catalog/skill/temper-scribed-skill/temper-scribed-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/temper-catalog.domain.ts","id":"01a05fac-7580-7d88-a660-0f4eff1ab95e"}
+{"propertySlug":"target-page-type","path":"temper/player/character/build-interface/properties/left-out-passives.multi-relation-property.ts","id":"01a1989e-af96-7dbd-9130-7724c29420f0"}
+{"propertySlug":"target-page-type","path":"temper/player/character/build-interface/properties/passive-skill.relation-property.ts","id":"01a1989e-af97-7667-8075-0349c0784782"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/extract-sets/extract-sets.module.ts","id":"01a06271-abcf-7e09-9c2e-cff7fd7c0f46"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.ts","id":"01a06271-abd0-7258-9fc4-ca306f191976"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/stat-case/stat-case.module.ts","id":"01a13b6c-6cf8-7106-b132-ed425b58823b"}

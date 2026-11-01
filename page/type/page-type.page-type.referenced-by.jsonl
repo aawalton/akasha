@@ -788,6 +788,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/items/rules/core/temper-deconstruct-mode/temper-deconstruct-mode.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/items/rules/routing/core/temper-plan-phrase/temper-plan-phrase.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/build-interface/build-interface.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/character-build/character-build.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/character-build/version/character-build-version.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/companion-build/companion-build.page-type.ts","typed":true,"deferred":false}

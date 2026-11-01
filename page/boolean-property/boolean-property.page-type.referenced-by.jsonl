@@ -174,6 +174,7 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/world/temper-source-category/properties/worn-gear.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/world/temper-zone/properties/drops-scripts.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/world/temper-zone/properties/is-dlc.boolean-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/player/character/build-interface/properties/every-passive-star.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/player/character/character-build/version/properties/is-checkpoint.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/player/character/source/temper-mundus-stone/properties/boon-at-tooltip.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/player/character/stat/temper-metric/properties/fully-implemented.boolean-property.ts","typed":true,"deferred":false}

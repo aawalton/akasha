@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"skill-rank.number-property.types.ts","path":"temper/catalog/skill/temper-skill.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"skill-rank.number-property.types.ts","path":"temper/player/character/build-interface/properties/interface-passives.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
+{"propertySlug":"page-property","path":"temper/player/character/build-interface/properties/interface-passives.record-property.ts","id":"01a1989e-af96-75e3-a4e8-76393a205216"}
 {"propertySlug":"parts","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
