@@ -44,7 +44,6 @@
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-report-rows/combat-ui-report-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-load-sets-checktype/sets-core-load-sets-checktype.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-tip-item-link/sets-tip-item-link.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-deconstruction-filter/craft-deconstruction-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-ui-updates/craft-ui-updates.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-utilities/craft-utilities.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-public-research/knowledge-public-research.module.code.ts","typed":false,"deferred":false}

@@ -4775,7 +4775,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/alchemy-station-types/alchemy-station-types.module.ts","id":"01a06054-98bd-71bf-8f8d-ba29e4db147c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/alchemy-station/alchemy-station.module.ts","id":"01a06054-98bc-78f0-afbb-f7343cb932bb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/craft-cooking-lists/craft-cooking-lists.module.ts","id":"01a08e69-e336-7e71-b562-58e9c8e75d47"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/craft-deconstruction-filter/craft-deconstruction-filter.module.ts","id":"01a19896-0c6e-7a0d-afb0-f8a888524455"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/craft-knowledge/craft-knowledge.module.ts","id":"01a061c7-e852-7375-898b-883039b51d97"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/craft-list-state/craft-list-state.module.ts","id":"01a0d9f8-89e5-7095-8daa-434e41286c2f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/craft-panel-init/craft-panel-init.module.ts","id":"01a061c7-e85d-7dbd-badd-8852eeaa18f0"}

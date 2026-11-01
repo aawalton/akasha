@@ -248,11 +248,6 @@ export interface SavedVariablesData {
   bankActionPanel?: { left: number; top: number }
   inventoryFilterPanel?: { left: number; top: number }
   inventoryBrowser?: { position?: { left: number; top: number } }
-  deconstructionFilter?: {
-    reconstructed: boolean
-    twentyFiveCrystal: boolean
-    hiddenQualities: number[]
-  }
   diagnostics?: DiagnosticsData
   openCooldowns?: Record<string, number>
   transmuteCrystalCap?: number

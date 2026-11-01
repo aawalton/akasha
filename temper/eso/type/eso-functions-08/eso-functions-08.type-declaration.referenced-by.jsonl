@@ -54,7 +54,6 @@
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-text-set-text-fields/sets-set-text-set-text-fields.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-tip-item-link/sets-tip-item-link.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-cooking/craft-cooking.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-deconstruction-filter/craft-deconstruction-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-inventory/craft-inventory.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-item-mark/craft-item-mark.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-knowledge/craft-knowledge.module.code.ts","typed":false,"deferred":false}

@@ -42,7 +42,6 @@
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-tip-header/sets-tip-header.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-tip-hooks/sets-tip-hooks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-tip-preview/sets-tip-preview.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-deconstruction-filter/craft-deconstruction-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-queue/craft-queue.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-tooltip-handler/craft-tooltip-handler.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-tooltips/craft-tooltips.module.code.ts","typed":false,"deferred":false}

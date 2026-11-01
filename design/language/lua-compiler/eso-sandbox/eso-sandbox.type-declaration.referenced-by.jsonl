@@ -288,7 +288,6 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-characters/craft-characters.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-cooking-lists/craft-cooking-lists.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-cooking/craft-cooking.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-deconstruction-filter/craft-deconstruction-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-defined/craft-defined.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-inventory/craft-inventory.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-item-types/craft-item-types.module.code.ts","typed":false,"deferred":false}

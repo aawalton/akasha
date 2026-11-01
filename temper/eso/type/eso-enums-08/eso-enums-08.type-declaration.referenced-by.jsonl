@@ -11,7 +11,6 @@
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-const-settypes/sets-const-settypes.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-saved-variables/sets-core-saved-variables.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-deconstruction-filter/craft-deconstruction-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-item-mark/craft-item-mark.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-lang-shared/craft-lang-shared.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-validation/craft-validation.module.code.ts","typed":false,"deferred":false}

@@ -1997,7 +1997,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-casts/data-encode-casts.module.ts","id":"01a06061-96a1-7301-8024-72c93d42cc87"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-data-register-data/sets-data-register-data.module.ts","id":"01a061fc-cee8-7e0a-a57e-257c1300fc25"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/alchemy-station-declarations/alchemy-station-declarations.type-declaration.ts","id":"01a0620a-a167-700f-b76f-c3f7f43297aa"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/craft-deconstruction-filter/craft-deconstruction-filter.module.ts","id":"01a19896-0c6e-7a0d-afb0-f8a888524455"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/knowledge-casts/knowledge-casts.module.ts","id":"01a061fa-8003-7294-ab90-2fa2f73b33f0"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/price-casts/price-casts.module.ts","id":"01a0615d-c219-7729-a4bf-b8c0493920a7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/slash-commander-casts/slash-commander-casts.module.ts","id":"01a06066-8403-7a32-b1b3-df88bb610cb2"}
