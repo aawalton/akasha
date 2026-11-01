@@ -12,7 +12,7 @@ export const soloNormal = {
   correlationId: "5fe0e27e-3e5c-4d42-ad0c-9ce6101ac657",
   characterName: "Erin Solstice",
   buildIcon: 1,
-  editId: "872f3d3d-f72f-4f65-9a3c-8dc420ba7b2f",
+  editId: "68890f21-bd5c-4b62-8fca-4c0a77e4119c",
   createdAt: "2026-11-01T21:54:36.943Z",
-  updatedAt: "2026-11-01T23:40:38.717Z",
+  updatedAt: "2026-11-01T23:40:39.456Z",
 } as const satisfies CharacterBuild
