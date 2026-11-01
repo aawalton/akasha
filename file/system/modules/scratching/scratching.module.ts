@@ -22,6 +22,15 @@ export const scratching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A sweep renames each root aside at once and leaves deleting it to a process apart.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sweep takes the same time however busy the disk is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A scratch root sits under `/var/tmp` named here and never asked of the system.",
     },
     {
@@ -51,5 +60,5 @@ export const scratching = {
     },
   ],
   createdAt: "2026-08-29T15:52:25.641Z",
-  updatedAt: "2026-09-25T16:09:55.000Z",
+  updatedAt: "2026-11-01T06:50:33.152Z",
 } as const satisfies Module

@@ -1,7 +1,22 @@
-import { mkdtempSync, rmSync } from "node:fs"
-import { join } from "node:path"
+import { spawn } from "node:child_process"
+import { existsSync, mkdtempSync, renameSync } from "node:fs"
+import { basename, join } from "node:path"
 
 export const SCRATCH_AT = "/var/tmp"
+
+const SWEPT = ".swept-"
+
+function setAside(one: string): readonly string[] {
+  if (!existsSync(one)) return []
+  const aside = join(SCRATCH_AT, `${SWEPT}${basename(one)}`)
+  renameSync(one, aside)
+  return [aside]
+}
+
+function takenAway(aside: readonly string[]): undefined {
+  if (aside.length === 0) return
+  spawn("rm", ["-rf", "--", ...aside], { detached: true, stdio: "ignore" }).unref()
+}
 
 export type Scratch = {
   readonly rootFor: (prefix: string) => string
@@ -17,7 +32,7 @@ export function scratchWorld(): Scratch {
       return root
     },
     sweep: (): undefined => {
-      for (const one of held) rmSync(one, { recursive: true, force: true })
+      takenAway(held.splice(0).flatMap(setAside))
     },
   }
 }
