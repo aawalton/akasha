@@ -37,9 +37,17 @@ export const charactersBuildChecklist = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A passive is met when it is bought to its target rank or higher.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Passives come last, so their many lines push no other part off the panel.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A part the target leaves empty is no line.",
     },
   ],
   createdAt: "2026-10-28T19:54:38.440Z",
-  updatedAt: "2026-11-01T19:05:45.327Z",
+  updatedAt: "2026-11-01T19:48:32.854Z",
 } as const satisfies Module

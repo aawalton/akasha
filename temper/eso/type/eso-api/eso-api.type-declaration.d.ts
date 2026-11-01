@@ -90,6 +90,8 @@ interface SlottableSkillAllocator {
   Sell: () => boolean
   Morph: (morphSlot: number) => boolean
   Unmorph: () => boolean
+  IncreaseRank: () => boolean
+  GetSkillProgressionKey: () => number
 }
 
 interface SlottableSkillData {

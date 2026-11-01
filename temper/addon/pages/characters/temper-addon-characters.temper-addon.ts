@@ -191,6 +191,7 @@ export const temperAddonCharacters = {
     "module/characters-task-hud-fit",
     "module/characters-build-bars",
     "module/characters-build-gear",
+    "module/characters-build-passives",
   ],
   interfaces: [
     "eso-interface/skill-point-finder-layout",
@@ -238,5 +239,5 @@ export const temperAddonCharacters = {
     },
   ],
   createdAt: "2026-09-02T15:52:42.403Z",
-  updatedAt: "2026-10-29T19:56:38.732Z",
+  updatedAt: "2026-11-01T19:48:32.854Z",
 } as const satisfies TemperAddon

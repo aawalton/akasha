@@ -18,6 +18,7 @@ import {
   currentCharacterTargets,
 } from "akasha/temper/addon/pages/characters/modules/characters-build-checklist/characters-build-checklist.module.code.ts"
 import { applyGearTarget } from "akasha/temper/addon/pages/characters/modules/characters-build-gear/characters-build-gear.module.code.ts"
+import { applyPassiveTarget } from "akasha/temper/addon/pages/characters/modules/characters-build-passives/characters-build-passives.module.code.ts"
 import {
   drawPanelBackground,
   PANEL_GAP,
@@ -66,6 +67,7 @@ const APPLIERS: Readonly<Record<string, (target: CharacterTarget) => string>> = 
   "Champion points": applyChampionTarget,
   "Skill bars": applyBarTarget,
   Gear: applyGearTarget,
+  Passives: applyPassiveTarget,
 }
 
 function toApply(sections: readonly ChecklistSection[]): readonly string[] {

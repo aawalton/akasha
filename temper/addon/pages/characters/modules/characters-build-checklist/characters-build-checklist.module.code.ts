@@ -24,6 +24,7 @@ import {
   gearText,
   wornMatches,
 } from "akasha/temper/addon/pages/characters/modules/characters-build-gear/characters-build-gear.module.code.ts"
+import { passiveHeld } from "akasha/temper/addon/pages/characters/modules/characters-build-passives/characters-build-passives.module.code.ts"
 import type {
   CharacterTarget,
   TargetBarSlot,
@@ -56,7 +57,8 @@ function isCharacterTarget(this: void, value: unknown): value is CharacterTarget
     isObjectRecord(value["attributes"]) &&
     isObjectRecord(value["champion"]) &&
     isObjectRecord(value["bars"]) &&
-    isObjectRecord(value["gear"])
+    isObjectRecord(value["gear"]) &&
+    isObjectRecord(value["passives"])
   )
 }
 
@@ -191,6 +193,16 @@ function buffsSection(target: CharacterTarget): ChecklistSection {
   return { title: "Mundus and food", lines }
 }
 
+function passivesSection(target: CharacterTarget): ChecklistSection {
+  return {
+    title: "Passives",
+    lines: target.passives.map((passive) => ({
+      text: `${passive.name} ${passive.rank}`,
+      met: passiveHeld(passive),
+    })),
+  }
+}
+
 export function checklistOf(target: CharacterTarget): readonly ChecklistSection[] {
   return [
     attributesSection(target),
@@ -198,5 +210,6 @@ export function checklistOf(target: CharacterTarget): readonly ChecklistSection[
     barsSection(target),
     gearSection(target),
     buffsSection(target),
+    passivesSection(target),
   ].filter((section) => section.lines.length > 0)
 }

@@ -3047,6 +3047,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-build-champion/characters-build-champion.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-build-checklist/characters-build-checklist.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-build-gear/characters-build-gear.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-build-passives/characters-build-passives.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-build-target-panel/characters-build-target-panel.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-cadwell/characters-cadwell.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-character-sheet/characters-character-sheet.module.ts","typed":true,"deferred":false}
