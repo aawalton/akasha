@@ -50,7 +50,12 @@ export const evaluator = {
       decisionKind: "decision-kind/departure",
       statement: "An action the destination resolved takes the rule's own place.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A move to the bank is rejected for a unique item held elsewhere while the bank holds a copy.",
+    },
   ],
   createdAt: "2026-09-02T08:24:13.420Z",
-  updatedAt: "2026-11-01T18:53:00.743Z",
+  updatedAt: "2026-11-01T19:37:42.390Z",
 } as const satisfies Module

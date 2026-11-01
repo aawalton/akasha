@@ -114,3 +114,66 @@ test("the outcome-only run stops at the first match", () => {
   expect(fullAsked).toBe(stoppedAsked * 2)
   expect(stopped).toEqual(full.outcome)
 })
+
+const TALISMAN: ItemFacts = {
+  itemId: 224365,
+  itemName: "Prowler's Talisman",
+  itemLink: "|H1:item:224365|h|h",
+  categoryNodeIds: ["all"],
+  isUnique: true,
+  location: "backpack",
+}
+
+const BANK_IT: CompiledOrderedRule = {
+  id: "bank-it",
+  categoryId: "all",
+  action: "move-to",
+  destination: "bank",
+}
+
+const KEEP_IT: CompiledOrderedRule = { id: "keep-it", categoryId: "all", action: "nothing" }
+
+function bankHolding(count: number) {
+  return ctxWith({ getBankStock: () => count })
+}
+
+test("a unique item the bank already holds falls past a move to the bank", () => {
+  const trace = walkRules([BANK_IT, KEEP_IT], TALISMAN, bankHolding(1))
+
+  expect(trace.perRule[0]?.verdict).toEqual({
+    kind: "rejected",
+    reason: {
+      kind: "destination-resolve-fail",
+      detail: "the bank already holds this unique item",
+    },
+  })
+  expect(trace.outcome.kind === "matched" ? trace.outcome.rule.ruleId : undefined).toBe("keep-it")
+})
+
+test("a unique item the bank holds none of still moves to the bank", () => {
+  const outcome = matchRules([BANK_IT, KEEP_IT], TALISMAN, bankHolding(0))
+
+  expect(outcome.kind === "matched" ? outcome.rule.ruleId : undefined).toBe("bank-it")
+})
+
+test("an item that is not unique moves to the bank whatever the bank holds", () => {
+  const outcome = matchRules([BANK_IT, KEEP_IT], { ...TALISMAN, isUnique: false }, bankHolding(1))
+
+  expect(outcome.kind === "matched" ? outcome.rule.ruleId : undefined).toBe("bank-it")
+})
+
+test("the bank's own copy of a unique item still matches a move to the bank", () => {
+  const outcome = matchRules([BANK_IT, KEEP_IT], { ...TALISMAN, location: "bank" }, bankHolding(1))
+
+  expect(outcome.kind === "matched" ? outcome.rule.ruleId : undefined).toBe("bank-it")
+})
+
+test("a bank whose holdings are unknown leaves a unique item's move to the bank alone", () => {
+  const outcome = matchRules(
+    [BANK_IT, KEEP_IT],
+    TALISMAN,
+    ctxWith({ getBankStock: () => "unknown" })
+  )
+
+  expect(outcome.kind === "matched" ? outcome.rule.ruleId : undefined).toBe("bank-it")
+})

@@ -119,6 +119,17 @@ export function evaluateRule(
     }
   }
 
+  const uniqueHeld = uniqueHeldByBank(dest.action ?? rule.action, dest.concrete, facts, ctx)
+  if (uniqueHeld !== undefined) {
+    return {
+      ...baseResult,
+      verdict: {
+        kind: "rejected",
+        reason: { kind: "destination-resolve-fail", detail: uniqueHeld },
+      },
+    }
+  }
+
   const verdict: RuleVerdict = { kind: "matched" }
   return {
     ...baseResult,
@@ -191,6 +202,19 @@ function checkPlatformBlock(rule: CompiledOrderedRule, facts: ItemFacts): string
     return "stolen containers redirect to fence-sell which rejects containers"
   }
   return undefined
+}
+
+function uniqueHeldByBank(
+  action: string,
+  destination: string,
+  facts: ItemFacts,
+  ctx: EvalContext
+): string | undefined {
+  if (action !== "move-to" || destination !== "bank") return undefined
+  if (facts.isUnique !== true || facts.location === "bank") return undefined
+  const held = ctx.env.getBankStock(facts.itemId)
+  if (held === "unknown" || held === 0) return undefined
+  return "the bank already holds this unique item"
 }
 
 function buildOutcome(
