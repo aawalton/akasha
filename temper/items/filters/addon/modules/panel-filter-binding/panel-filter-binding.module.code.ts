@@ -30,6 +30,81 @@ interface FilterBindingConfig {
   readonly inventoryTypes: readonly number[]
 }
 
+export interface CraftingInventory {
+  AddItemData: (
+    this: CraftingInventory,
+    bagId: number,
+    slotIndex: number,
+    ...rest: unknown[]
+  ) => unknown
+  HandleDirtyEvent?: (this: CraftingInventory) => void
+  PerformFullRefresh?: (this: CraftingInventory) => void
+}
+
+interface CraftingFilterBindingConfig {
+  readonly index: ReadonlyMap<FilterId, AnyTemperFilter>
+  readonly factsSource: (this: void, bagId: number, slotIndex: number) => ItemFacts | undefined
+  readonly inventories: (this: void) => readonly CraftingInventory[]
+}
+
+export function createCraftingFilterController(
+  config: CraftingFilterBindingConfig
+): FilterController {
+  const active = new Map<FilterId, FilterValue>()
+  const wrapped = new Set<CraftingInventory>()
+
+  function passes(bagId: number, slotIndex: number): boolean {
+    if (active.size === 0) return true
+    const facts = config.factsSource(bagId, slotIndex)
+    if (facts === undefined) return true
+    return itemPassesFilters(config.index, active, facts)
+  }
+
+  function wrap(inventory: CraftingInventory): undefined {
+    const original = inventory.AddItemData
+    inventory.AddItemData = function (
+      this: CraftingInventory,
+      bagId: number,
+      slotIndex: number,
+      ...rest: unknown[]
+    ): unknown {
+      if (!passes(bagId, slotIndex)) return undefined
+      return original.call(this, bagId, slotIndex, ...rest)
+    }
+    wrapped.add(inventory)
+  }
+
+  function refresh(): undefined {
+    for (const inventory of config.inventories()) {
+      if (!wrapped.has(inventory)) wrap(inventory)
+      if (inventory.HandleDirtyEvent !== undefined) {
+        inventory.HandleDirtyEvent()
+      } else if (inventory.PerformFullRefresh !== undefined) {
+        inventory.PerformFullRefresh()
+      }
+    }
+  }
+
+  return {
+    setFilter(id, value) {
+      active.set(id, value)
+      refresh()
+    },
+    clearFilter(id) {
+      active.delete(id)
+      refresh()
+    },
+    clearAll() {
+      active.clear()
+      refresh()
+    },
+    getActive() {
+      return active
+    },
+    refresh,
+  }
+}
+
 export function createFilterController(config: FilterBindingConfig): InventoryFilterController {
   const active = new Map<FilterId, FilterValue>()
   const installed = new Set<number>()

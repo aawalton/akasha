@@ -35,7 +35,11 @@ export const filterBar = {
       decisionKind: "decision-kind/departure",
       statement: "The panel under the plan takes the plan's width.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel shown beside named controls shows and hides with those controls.",
+    },
   ],
   createdAt: "2026-09-02T08:45:26.709Z",
-  updatedAt: "2026-10-28T16:10:47.306Z",
+  updatedAt: "2026-11-01T20:17:12.958Z",
 } as const satisfies Module

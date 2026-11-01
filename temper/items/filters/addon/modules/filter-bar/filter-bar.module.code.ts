@@ -1,3 +1,4 @@
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-objects-02/eso-objects-02.type-declaration.d.ts"
@@ -70,6 +71,8 @@ interface SurfaceAnchor {
 interface FilterBarConfig {
   controller: FilterController
   surfaceAnchors?: readonly SurfaceAnchor[]
+  panelName?: string
+  shownBeside?: readonly string[]
 }
 
 interface FilterRow {
@@ -79,13 +82,14 @@ interface FilterRow {
 
 export function createFilterBar(config: FilterBarConfig): undefined {
   const controller = config.controller
+  const panelName = config.panelName ?? PANEL_NAME
 
-  const existing = WINDOW_MANAGER.GetControlByName<TopLevelWindow>(PANEL_NAME)
+  const existing = WINDOW_MANAGER.GetControlByName<TopLevelWindow>(panelName)
   if (existing !== undefined) {
     existing.SetHidden(true)
   }
 
-  const tlw = WINDOW_MANAGER.CreateTopLevelWindow(PANEL_NAME)
+  const tlw = WINDOW_MANAGER.CreateTopLevelWindow(panelName)
   tlw.SetHidden(true)
   tlw.SetDimensions(FILTER_BAR_WIDTH, HEADER_HEIGHT + PADDING_Y)
 
@@ -194,7 +198,7 @@ export function createFilterBar(config: FilterBarConfig): undefined {
 
   const buildRow = (filter: AnyTemperFilter): FilterRow => {
     const safe = sanitizeName(filter.id)
-    const container = WINDOW_MANAGER.CreateControl(`${PANEL_NAME}Row_${safe}`, tlw, CT_CONTROL)
+    const container = WINDOW_MANAGER.CreateControl(`${panelName}Row_${safe}`, tlw, CT_CONTROL)
     container.SetHeight(ROW_HEIGHT)
 
     const label = createFieldLabel(container, `${filter.label}:`, PADDING_X)
@@ -217,7 +221,7 @@ export function createFilterBar(config: FilterBarConfig): undefined {
 
     const remove = createBarButton(
       container,
-      `${PANEL_NAME}Remove_${safe}`,
+      `${panelName}Remove_${safe}`,
       "x",
       REMOVE_X,
       REMOVE_WIDTH
@@ -264,6 +268,11 @@ export function createFilterBar(config: FilterBarConfig): undefined {
 
   buildAddMenu()
 
+  if (config.shownBeside !== undefined) {
+    showBeside(tlw, config.shownBeside)
+    return
+  }
+
   INVENTORY_FRAGMENT.RegisterCallback(
     "StateChange",
     function (this: void, _oldState: number, newState: number): undefined {
@@ -276,6 +285,22 @@ export function createFilterBar(config: FilterBarConfig): undefined {
       tlw.SetHidden(false)
     }
   )
+}
+
+function showBeside(tlw: TopLevelWindow, targetNames: readonly string[]): undefined {
+  for (const name of targetNames) {
+    const target = WINDOW_MANAGER.GetControlByName(name)
+    if (target === undefined) continue
+    ZO_PostHookHandler(target, "OnEffectivelyShown", function (this: void): undefined {
+      tlw.ClearAnchors()
+      tlw.SetWidth(FILTER_BAR_WIDTH)
+      tlw.SetAnchor(TOPRIGHT, target, TOPLEFT, -DEFAULT_ANCHOR_OFFSET_X, 0)
+      tlw.SetHidden(false)
+    })
+    ZO_PostHookHandler(target, "OnEffectivelyHidden", function (this: void): undefined {
+      tlw.SetHidden(true)
+    })
+  }
 }
 
 function renderEditorInto(ctx: BarContext, filter: AnyTemperFilter, container: Control): undefined {

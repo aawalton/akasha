@@ -108,6 +108,7 @@
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-events/skyshards-pc-events.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-skill-panel/skyshards-pc-skill-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-ui-strings/skyshards-ui-strings.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/items/filters/addon/modules/filter-bar/filter-bar.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-points/skill-point-finder-points.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-strings/skill-point-finder-strings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-tooltip-hooks/item-browser-tooltip-hooks.module.code.ts","typed":false,"deferred":false}

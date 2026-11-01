@@ -25,10 +25,14 @@ export const panelFilterBinding = {
       statement: "The craft bag is wrapped again after each backpack layout.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A crafting station's list is narrowed where that list adds each row.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here draws a control.",
     },
   ],
   createdAt: "2026-09-02T08:45:26.710Z",
-  updatedAt: "2026-09-21T15:37:03.000Z",
+  updatedAt: "2026-11-01T20:17:12.958Z",
 } as const satisfies Module
