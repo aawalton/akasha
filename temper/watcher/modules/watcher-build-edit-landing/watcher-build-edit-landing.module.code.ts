@@ -19,6 +19,9 @@ const FIRST_ICON = 1
 export interface BuildEdit {
   readonly editId: string
   readonly characterId: string
+  readonly order?: number
+  readonly after?: string
+  readonly madeIn?: string
   readonly buildId?: string
   readonly basedOn?: string
   readonly title?: string
@@ -74,10 +77,16 @@ export function buildEditsIn(table: unknown): readonly BuildEdit[] {
     const basedOn = textIn(one, "basedOn")
     const title = textIn(one, "title")
     const buildHash = textIn(one, "buildHash")
+    const after = textIn(one, "after")
+    const madeIn = textIn(one, "madeIn")
     const icon = one["icon"]
+    const order = one["order"]
     edits.push({
       editId,
       characterId,
+      ...(typeof order === "number" ? { order } : {}),
+      ...(after === undefined ? {} : { after }),
+      ...(madeIn === undefined ? {} : { madeIn }),
       ...(buildId === undefined ? {} : { buildId }),
       ...(basedOn === undefined ? {} : { basedOn }),
       ...(title === undefined ? {} : { title }),
@@ -85,13 +94,13 @@ export function buildEditsIn(table: unknown): readonly BuildEdit[] {
       ...(buildHash === undefined ? {} : { buildHash }),
     })
   }
-  return edits
+  return edits.sort((one, other) => (one.order ?? 0) - (other.order ?? 0))
 }
 
 async function editedBuild(edit: BuildEdit, pages: BuildEditPages): Promise<Page | undefined> {
   const where: PageWhere =
     edit.buildId === undefined
-      ? [{ key: "correlationId", eq: edit.editId }]
+      ? [{ key: "correlationId", eq: edit.madeIn ?? edit.editId }]
       : [{ key: "id", eq: edit.buildId }]
   const { rows } = await pages.get({ pageTypeSlug: characterBuild.slug, where, limit: 1 })
   return rows[0]
@@ -151,13 +160,15 @@ export async function landBuildEdit(
   if (hash === null) return "bad-hash"
   const page = await editedBuild(edit, pages)
   if (page === undefined) {
-    if (edit.buildId !== undefined || hash === undefined) return "no-build"
+    const named = edit.buildId !== undefined || edit.madeIn !== undefined
+    if (named || hash === undefined) return "no-build"
     return makeBuild(edit, hash, character, context, pages)
   }
-  const ours = page["editId"] === edit.editId
-  if (!ours && page["updatedAt"] !== edit.basedOn) return "kept-site"
+  const landedHere = page["editId"] === edit.editId
+  const follows = landedHere || (edit.after !== undefined && page["editId"] === edit.after)
+  if (!follows && page["updatedAt"] !== edit.basedOn) return "kept-site"
   const set = changesOf(edit, hash, page)
-  if (ours && Object.keys(set).length === 0) return "already"
+  if (landedHere && Object.keys(set).length === 0) return "already"
   await pages.patch({
     pageTypeSlug: characterBuild.slug,
     where: [{ key: "id", eq: page.id }],

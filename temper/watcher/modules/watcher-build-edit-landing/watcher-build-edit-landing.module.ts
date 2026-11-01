@@ -10,16 +10,25 @@ export const watcherBuildEditLanding = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The game holds one pending change for each build, keyed by the id it mints.",
+      statement: "Each change made in the game is pending on its own, keyed by the id it mints.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A pending change names the version of the build it was made over.",
+      statement: "The pending changes land in the order the game made them.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A pending change lands where the build is still that version or last took that same change.",
+        "A pending change names the version of the build it was made over, and the change before it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A pending change lands where the build is that version, or last took it or the change before it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change to a build made in the game names the change that made the build.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -39,5 +48,5 @@ export const watcherBuildEditLanding = {
     },
   ],
   createdAt: "2026-11-01T20:22:09.235Z",
-  updatedAt: "2026-11-01T20:22:09.235Z",
+  updatedAt: "2026-11-01T20:25:54.450Z",
 } as const satisfies Module

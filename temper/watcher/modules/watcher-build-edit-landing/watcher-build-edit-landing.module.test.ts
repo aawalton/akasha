@@ -141,12 +141,34 @@ test("a change on a character the import did not read, or with a bad hash, lands
   expect(held.writes()).toBe(0)
 })
 
-test("the game's pending changes are read by their ids", () => {
+test("a change made after an earlier one lands over what that earlier one landed", async () => {
+  const rows = [buildRow({ updatedAt: "moved", editId: "e-1" })]
+  const next: BuildEdit = { ...RENAME, editId: "e-2", after: "e-1" }
+  expect(await landBuildEdit(next, contextOf(), pagesOf(rows).pages)).toBe("landed")
+  expect(rows[0]?.["editId"]).toBe("e-2")
+})
+
+test("a change to a build made in the game finds the build by the change that made it", async () => {
+  const rows = [buildRow({ correlationId: "e-1", editId: "e-1", updatedAt: "moved" })]
+  const renamed: BuildEdit = { editId: "e-2", characterId: "1001", madeIn: "e-1", after: "e-1" }
+  const held = pagesOf(rows)
+  expect(await landBuildEdit({ ...renamed, title: "Healer" }, contextOf(), held.pages)).toBe(
+    "landed"
+  )
+  expect(rows[0]?.["title"]).toBe("Healer")
+  expect(await landBuildEdit({ ...renamed, madeIn: "e-9" }, contextOf(), held.pages)).toBe(
+    "no-build"
+  )
+})
+
+test("the game's pending changes are read by their ids, in the order they were made", () => {
   const edits = buildEditsIn({
-    [EDIT_ID]: { characterId: "1001", buildId: "build-1", icon: 4, title: "Tank" },
+    "e-2": { characterId: "1001", buildId: "build-1", order: 2, after: "e-1" },
+    [EDIT_ID]: { characterId: "1001", buildId: "build-1", icon: 4, title: "Tank", order: 1 },
     broken: { title: "no character" },
   })
   expect(edits).toEqual([
-    { editId: EDIT_ID, characterId: "1001", buildId: "build-1", title: "Tank", icon: 4 },
+    { editId: EDIT_ID, characterId: "1001", order: 1, buildId: "build-1", title: "Tank", icon: 4 },
+    { editId: "e-2", characterId: "1001", order: 2, after: "e-1", buildId: "build-1" },
   ])
 })
