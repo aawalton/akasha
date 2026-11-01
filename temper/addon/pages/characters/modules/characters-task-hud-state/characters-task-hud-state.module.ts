@@ -9,15 +9,6 @@ export const charactersTaskHudState = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A done, urgent, gold, blue or purple line is the design system's green, red, yellow, blue or purple.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A plain line is the game's body text color.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "Every redraw of the display is counted, with the moment it began.",
     },
     {
@@ -27,5 +18,5 @@ export const charactersTaskHudState = {
     },
   ],
   createdAt: "2026-09-02T16:23:41.352Z",
-  updatedAt: "2026-10-19T16:21:21.551Z",
+  updatedAt: "2026-11-01T21:59:40.292Z",
 } as const satisfies Module

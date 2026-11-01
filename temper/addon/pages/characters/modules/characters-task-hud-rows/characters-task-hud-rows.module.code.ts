@@ -3,6 +3,13 @@ import type {
   QuestHint,
 } from "akasha/temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.code.ts"
 import {
+  HUD_COUNT_GAP,
+  type HudColor,
+  hudColor,
+  hudIndent,
+  styleHudLine,
+} from "akasha/temper/addon/pages/characters/modules/characters-hud-line/characters-hud-line.module.code.ts"
+import {
   countSuffix,
   progressSuffix,
 } from "akasha/temper/addon/pages/characters/modules/characters-progress-format/characters-progress-format.module.code.ts"
@@ -12,8 +19,6 @@ import {
 } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-enrichment/characters-task-hud-enrichment.module.code.ts"
 import {
   getContentContainer,
-  type HudColor,
-  hudColor,
   INDICATOR_WIDTH,
   MIN_HUD_WIDTH,
   PLEDGE_SUB_ROW_HEIGHT,
@@ -28,17 +33,11 @@ import { isTaskComplete } from "akasha/temper/addon/pages/characters/modules/cha
 import { resolveTaskProgress } from "akasha/temper/addon/pages/characters/modules/characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts"
 import type { TaskData } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import {
-  colorText,
-  styleTextOverPlay,
-} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
-import {
   LINE_HEIGHT,
   ROW_PADDING_X,
 } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
-
-const COUNT_GAP = 16
 
 function requireContentContainer(): Control {
   const cc = getContentContainer()
@@ -62,15 +61,15 @@ export function createTaskRow(
   if (containerCount !== undefined) {
     const titleLabel = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
     titleLabel.SetAnchor(LEFT, row, LEFT, INDICATOR_WIDTH + 4, 0)
-    colorText(styleTextOverPlay(titleLabel, "strong"), hudColor("plain"))
+    styleHudLine(titleLabel, hudColor("plain"))
     titleLabel.SetText(task.title)
 
     const countLabel = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
     countLabel.SetAnchor(RIGHT, row, RIGHT, -ROW_PADDING_X, 0)
     countLabel.SetHorizontalAlignment(TEXT_ALIGN_RIGHT)
-    colorText(styleTextOverPlay(countLabel, "strong"), hudColor("plain"))
+    styleHudLine(countLabel, hudColor("plain"))
     countLabel.SetText(countSuffix(containerCount))
-    pushLabel(titleLabel, COUNT_GAP + countLabel.GetTextWidth() + ROW_PADDING_X)
+    pushLabel(titleLabel, HUD_COUNT_GAP + countLabel.GetTextWidth() + ROW_PADDING_X)
 
     return row
   }
@@ -86,7 +85,7 @@ export function createTaskRow(
   label.SetAnchor(LEFT, row, LEFT, INDICATOR_WIDTH + 4, 0)
 
   const titleColor = completed ? hudColor("done") : priorityColor(task.priority)
-  colorText(styleTextOverPlay(label, "strong"), titleColor)
+  styleHudLine(label, titleColor)
   label.SetText(task.title)
 
   let trailingWidth = 0
@@ -94,9 +93,9 @@ export function createTaskRow(
     const progressLabel = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
     progressLabel.SetAnchor(RIGHT, row, RIGHT, -ROW_PADDING_X, 0)
     progressLabel.SetHorizontalAlignment(TEXT_ALIGN_RIGHT)
-    colorText(styleTextOverPlay(progressLabel, "strong"), titleColor)
+    styleHudLine(progressLabel, titleColor)
     progressLabel.SetText(progressSuffix(progress.current, progress.total))
-    trailingWidth = COUNT_GAP + progressLabel.GetTextWidth() + ROW_PADDING_X
+    trailingWidth = HUD_COUNT_GAP + progressLabel.GetTextWidth() + ROW_PADDING_X
   }
   pushLabel(label, trailingWidth)
 
@@ -120,12 +119,6 @@ const PRE_COMPLETION_COLOR: Record<SubRowColor, HudColor> = {
   yellow: "gold",
 }
 
-const INDENT_UNIT = "    "
-
-function indentText(level: number): string {
-  return INDENT_UNIT.repeat(level)
-}
-
 export function createSubRow(spec: SubRowSpec, yOffset: number, completed: boolean): Control {
   const contentContainer = requireContentContainer()
   const row = WINDOW_MANAGER.CreateControl(undefined, contentContainer, CT_CONTROL)
@@ -137,8 +130,8 @@ export function createSubRow(spec: SubRowSpec, yOffset: number, completed: boole
   const rgb = completed
     ? hudColor("done")
     : (spec.rgb ?? hudColor(PRE_COMPLETION_COLOR[spec.color]))
-  colorText(styleTextOverPlay(label, "strong"), rgb)
-  label.SetText(indentText(spec.indent ?? 1) + spec.text)
+  styleHudLine(label, rgb)
+  label.SetText(hudIndent(spec.indent ?? 1) + spec.text)
   pushLabel(label)
 
   return row
@@ -152,8 +145,8 @@ export function createQuestRow(quest: ActiveQuest, yOffset: number): Control {
 
   const questLabel = WINDOW_MANAGER.CreateControl(undefined, questRow, CT_LABEL)
   questLabel.SetAnchor(LEFT, questRow, LEFT, INDICATOR_WIDTH + 4, 0)
-  colorText(styleTextOverPlay(questLabel, "strong"), hudColor(quest.isAssisted ? "gold" : "plain"))
-  questLabel.SetText(indentText(1) + quest.name.trim())
+  styleHudLine(questLabel, hudColor(quest.isAssisted ? "gold" : "plain"))
+  questLabel.SetText(hudIndent(1) + quest.name.trim())
   pushLabel(questLabel)
 
   pushRow(questRow)
@@ -170,16 +163,16 @@ export function appendQuestHintRow(hint: QuestHint, yOffset: number): number {
   if (hint.progress !== undefined) {
     countLabel = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
     countLabel.SetHorizontalAlignment(TEXT_ALIGN_RIGHT)
-    colorText(styleTextOverPlay(countLabel, "strong"), hudColor("gold"))
+    styleHudLine(countLabel, hudColor("gold"))
     countLabel.SetText(progressSuffix(hint.progress.current, hint.progress.total))
-    trailingWidth = COUNT_GAP + countLabel.GetTextWidth() + ROW_PADDING_X
+    trailingWidth = HUD_COUNT_GAP + countLabel.GetTextWidth() + ROW_PADDING_X
   }
 
   const label = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
   label.SetAnchor(LEFT, row, LEFT, INDICATOR_WIDTH + 4, 0)
-  colorText(styleTextOverPlay(label, "strong"), hudColor("gold"))
+  styleHudLine(label, hudColor("gold"))
   label.SetWidth(QUEST_HINT_WIDTH - trailingWidth)
-  label.SetText(indentText(2) + hint.text.trim())
+  label.SetText(hudIndent(2) + hint.text.trim())
   const textHeight = label.GetTextHeight()
   label.SetHeight(textHeight)
   const rowHeight = math.max(ROW_HEIGHT, textHeight + ROW_HEIGHT - LINE_HEIGHT)

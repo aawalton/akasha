@@ -1,12 +1,7 @@
 import {
-  BLUE,
-  GREEN,
-  PURPLE,
-  RED,
-  YELLOW,
-} from "akasha/design/interface/token/modules/semantic-color/semantic-color.module.code.ts"
-import { colorOf } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
-import { STAT_ROW_HEIGHT } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
+  HUD_ROW_HEIGHT,
+  hudColor,
+} from "akasha/temper/addon/pages/characters/modules/characters-hud-line/characters-hud-line.module.code.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
@@ -17,23 +12,12 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 type HudRgb = readonly [number, number, number]
 
-export type HudColor = "plain" | "done" | "urgent" | "gold" | "blue" | "purple"
-
-export function hudColor(kind: HudColor): HudRgb {
-  if (kind === "done") return GREEN
-  if (kind === "urgent") return RED
-  if (kind === "gold") return YELLOW
-  if (kind === "blue") return BLUE
-  if (kind === "purple") return PURPLE
-  return colorOf("body")
-}
-
 export const HUD_NAME = "TemperTaskHUD"
 export const MIN_HUD_WIDTH = 120
-export const ROW_HEIGHT = STAT_ROW_HEIGHT
+export const ROW_HEIGHT = HUD_ROW_HEIGHT
 export const ROW_PADDING = 0
 export const DRAG_HEIGHT = 8
-export const PLEDGE_SUB_ROW_HEIGHT = STAT_ROW_HEIGHT
+export const PLEDGE_SUB_ROW_HEIGHT = HUD_ROW_HEIGHT
 export const UNDAUNTED_SKILL_LINE_ID = 55
 export const INDICATOR_WIDTH = 36
 export const QUEST_HINT_WIDTH = 320
