@@ -14,7 +14,7 @@ export const myLifeSatisfaction = {
     "all-about-alan-topic/the-month-i-crossed-five",
   ],
   settled:
-    "On a scale of zero to ten I am at three right now. The highest I can remember reaching is five, and the lowest is minus two.\n\nI estimated those numbers separately from my safety level, but they feel like they are on the same scale, and my hypothesis is that the two are one construct. I am not certain of it.\n\nI have been living in the one to three range lately and have spent very little time at four or five. I do feel a lot better at four and above.\n\nRelational conflict and spending more than I can afford, the two patterns that were holding me down in September, have not been happening lately, and I still have not broken past three. That is a big part of the discouragement.",
+    "On a scale of zero to ten I am at three right now. The highest I can remember reaching is five, and the lowest is minus two.\n\nI estimated those numbers separately from my safety level, but they feel like they are on the same scale, and my hypothesis is that the two are one construct. I am not certain of it.\n\nI have been living in the one to three range lately and have spent very little time at four or five. I do feel a lot better at four and above.\n\nI did not feel that relational conflict or spending more than I can afford, the two patterns that were holding me down in September, had been happening lately, and I still had not broken past three. That was a big part of the discouragement. Relational conflict had been happening after all.",
   createdAt: "2026-11-01T12:40:34.571Z",
-  updatedAt: "2026-11-01T12:40:34.571Z",
+  updatedAt: "2026-11-01T12:47:41.237Z",
 } as const satisfies AllAboutAlanTopic
