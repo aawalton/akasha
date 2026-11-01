@@ -12,6 +12,7 @@ export default [
     route("design", "routes/alan-web-design/alan-web-design.route.code.tsx"),
     route("settings", "routes/alan-web-settings/alan-web-settings.route.code.tsx"),
     route("therapy", "routes/alan-web-therapy/alan-web-therapy.route.code.tsx"),
+    route("today", "routes/alan-web-today/alan-web-today.route.code.tsx"),
     route(
       ":pageTypeSlug/:pageHrefParam",
       "routes/alan-web-page-detail/alan-web-page-detail.route.code.tsx"
