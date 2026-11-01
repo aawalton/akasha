@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"world-legerdemain.temper-skill-line.ts","path":"temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-legerdemain.temper-skill-line.ts","path":"temper/items/rules/core/modules/inventory-rule-to-pages/inventory-rule-to-pages.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"passive-lines","path":"temper/player/character/build-interface/pages/foundations/foundations.build-interface.ts","id":"01a1989f-3244-790b-befa-268808bcfbfd"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/improved-hiding/improved-hiding.temper-skill.ts","id":"019e6251-4cc6-72b1-bf55-0c8dc32d9e43"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/kickback/kickback.temper-skill.ts","id":"019e6251-4ccb-7838-b518-e0eaa986fc19"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/light-fingers/light-fingers.temper-skill.ts","id":"019e6251-4ccc-7be6-86e9-25fb5d5198dc"}
