@@ -20519,7 +20519,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 4,
+            "numCompleted": 6,
             "numRequired": 200
           }
         }
@@ -67505,7 +67505,7 @@
       "name": "Spriggan's Vigor",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Shipwright's Regret",
-      "slotsUnlocked": 5,
+      "slotsUnlocked": 6,
       "totalSlots": 22,
       "reconstructionCost": 70,
       "pieces": [
@@ -67563,7 +67563,7 @@
         },
         {
           "name": "Battle Axe of Spriggan's Vigor",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Maul of Spriggan's Vigor",
@@ -67973,7 +67973,7 @@
       "name": "Nazaray",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Shipwright's Regret",
-      "slotsUnlocked": 5,
+      "slotsUnlocked": 6,
       "totalSlots": 6,
       "reconstructionCost": 55,
       "pieces": [
@@ -67983,7 +67983,7 @@
         },
         {
           "name": "Nazaray Mask",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Nazaray Visage",
