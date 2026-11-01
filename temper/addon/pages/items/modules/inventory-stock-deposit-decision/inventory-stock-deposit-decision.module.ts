@@ -30,7 +30,16 @@ export const inventoryStockDepositDecision = {
       statement:
         "A holder sells only what its own stock and the room a capped tier's deposit fills leave.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The carrier carries from a house chest her fill and what the others lack past the bank's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "At the bank the carrier puts in what the others lack past what the bank holds.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.860Z",
-  updatedAt: "2026-10-28T22:05:10.993Z",
+  updatedAt: "2026-11-01T19:58:07.808Z",
 } as const satisfies Module

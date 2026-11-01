@@ -12,7 +12,6 @@
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-report-rows/combat-ui-report-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-settings-menu/combat-ui-settings-menu.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-tooltips/combat-ui-tooltips.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-withdrawals/inventory-rules-dispatch-bank-withdrawals.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/items/modules/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/items/modules/inventory-skill-line-ranks/inventory-skill-line-ranks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/items/modules/inventory-skill-morphs-progress/inventory-skill-morphs-progress.module.code.ts","typed":false,"deferred":false}

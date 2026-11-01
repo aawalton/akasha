@@ -13,6 +13,11 @@ import {
 import { getPendingUseDeposits } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-use-deposits/inventory-rules-core-use-deposits.module.code.ts"
 import { isCharacterBoundAction } from "akasha/temper/addon/pages/items/modules/inventory-rules-cross-char/inventory-rules-cross-char.module.code.ts"
 import {
+  bankHandOff,
+  carrierStockTarget,
+  handOffForRule,
+} from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank-deposits/modules/inventory-stock-handoff/inventory-stock-handoff.module.code.ts"
+import {
   type FrozenStockCounts,
   frozenStockCount,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank-reconcile/inventory-rules-dispatch-bank-reconcile.module.code.ts"
@@ -23,14 +28,7 @@ import {
   bankFindPartialStorageSlot,
   bankIsCorrectStorage,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
-
-import { chainFillCharacters } from "akasha/temper/addon/pages/items/modules/inventory-rules-eval-allocation/inventory-rules-eval-allocation.module.code.ts"
-import { getDatabase } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
-import type { LocationData } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
-import {
-  computeStockTierDeposit,
-  stockHandOff,
-} from "akasha/temper/addon/pages/items/modules/inventory-stock-deposit-decision/inventory-stock-deposit-decision.module.code.ts"
+import { computeStockTierDeposit } from "akasha/temper/addon/pages/items/modules/inventory-stock-deposit-decision/inventory-stock-deposit-decision.module.code.ts"
 import type { ItemAction } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { planStockChainVisit } from "akasha/temper/items/rules/core/modules/stock-chain-visit/stock-chain-visit.module.code.ts"
 import { stockPriorityRank } from "akasha/temper/items/rules/core/modules/stock-item-priority/stock-item-priority.module.code.ts"
@@ -69,30 +67,6 @@ function resolveCascadeTierForCtx(
   return undefined
 }
 
-function storedCount(location: LocationData | undefined, itemId: number): number {
-  if (location === undefined) return 0
-  let count = 0
-  for (const slots of Object.values(location.bags)) {
-    for (const item of Object.values(slots)) {
-      if (item.itemId === itemId) count += item.stackCount
-    }
-  }
-  return count
-}
-
-function handOffForRule(ruleIndex: number, itemId: number, currentCharId: string): number {
-  const chain = getCompiledConfig()?.orderedRules[ruleIndex]?.destinationChain
-  const plan = chain === undefined ? undefined : planStockChainVisit(chain)
-  if (plan === undefined) return 0
-  const locations = getDatabase().locations
-  const heldByOthers: number[] = []
-  for (const charId of chainFillCharacters(plan)) {
-    if (charId === currentCharId) continue
-    heldByOthers.push(storedCount(locations[charId], itemId))
-  }
-  return stockHandOff(plan.fillTargetQuantity, heldByOthers)
-}
-
 export function executeBankDeposits(
   ctx: BankSlotContext,
   currentCharId: string,
@@ -112,8 +86,14 @@ export function executeBankDeposits(
     dest: string
     ruleIndex: number
   }[] = []
-  const carriedOnly =
-    ctx.isHouseStorage && !carriesStorage(getCompiledConfig()?.characterPriority, currentCharId)
+  const carries = carriesStorage(getCompiledConfig()?.characterPriority, currentCharId)
+  const carriedOnly = ctx.isHouseStorage && !carries
+  function handsOffAtBank(this: void, dest: string, bagId: number, slotIndex: number): boolean {
+    if (!ctx.isBank || !carries || !isConsolidateDest(dest)) return false
+    const itemId = GetItemLinkItemId(GetItemLink(bagId, slotIndex, LINK_STYLE_BRACKETS))
+    const ruleIndex = getPendingRuleIndex(bagId, slotIndex)
+    return (bankHandOff(ruleIndex, itemId, currentCharId) ?? 0) > 0
+  }
 
   forEachPendingAction(function (this: void, bagId, slotIndex, action, destination): undefined {
     if (bagId !== BAG_BACKPACK || carriedOnly) return
@@ -168,6 +148,8 @@ export function executeBankDeposits(
     }
     if (!shouldDeposit && action === "stock") {
       if (resolveCascadeTierForCtx(ctx, bagId, slotIndex) !== undefined) {
+        shouldDeposit = true
+      } else if (handsOffAtBank(dest, bagId, slotIndex)) {
         shouldDeposit = true
       }
     }
@@ -237,7 +219,9 @@ export function executeBankDeposits(
           const backpackCount = frozenStockCount(frozen, ruleIndex, itemId)
           const alreadyDispatched = stockDepositedCounts.get(accumKey) ?? 0
           const tier = resolveCascadeTierForCtx(ctx, dep.bagId, dep.slotIndex)
-          const tierCap = tier?.cap
+          const carrierBank =
+            tier === undefined && handsOffAtBank(dep.dest, dep.bagId, dep.slotIndex)
+          const tierCap = carrierBank ? 0 : tier?.cap
           const tierAccountWideCount =
             tierCap !== undefined ? bankCountItemInStorage(ctx, itemId) : 0
           let handOff = 0
@@ -249,7 +233,9 @@ export function executeBankDeposits(
           toMove = computeStockTierDeposit({
             stackCount,
             backpackCount,
-            selfTarget: tq,
+            selfTarget: ctx.isHouseStorage
+              ? carrierStockTarget(tq, ruleIndex, itemId, currentCharId)
+              : tq,
             alreadyDispatched,
             tierCap,
             tierAccountWideCount,

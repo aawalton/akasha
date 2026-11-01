@@ -28,7 +28,16 @@ export const inventoryRulesDispatchBankWithdrawals = {
       decisionKind: "decision-kind/departure",
       statement: "At a house chest, only the carrier withdraws anything.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "At a house chest the carrier also takes out what the others lack past the bank's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "At the bank every character takes its own stock, whatever tier holds the rest.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.856Z",
-  updatedAt: "2026-11-01T19:53:37.529Z",
+  updatedAt: "2026-11-01T19:58:07.808Z",
 } as const satisfies Module

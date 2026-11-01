@@ -1,5 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import {
+  carrierCarryTarget,
   computeStockTierDeposit,
   computeStockTierSale,
   type StockTierDepositInput,
@@ -84,6 +85,25 @@ describe("inventory-stock-deposit-decision", () => {
       handOff: 0,
     })
     expect(moved).toEqual([200, 100, 0])
+  })
+})
+
+describe("The carrier carries stock out of a house chest for the bank to hand to the others.", () => {
+  test("the carrier takes her own fill and what the others are short of past what the bank holds", () => {
+    expect(carrierCarryTarget(20, stockHandOff(20, [0, 5, 20]), 0)).toBe(55)
+    expect(carrierCarryTarget(20, stockHandOff(20, [0, 5, 20]), 10)).toBe(45)
+    expect(carrierCarryTarget(20, stockHandOff(20, [0, 5, 20]), 100)).toBe(20)
+  })
+
+  test("at the bank the carrier puts in what the others are short of and no more", () => {
+    const moved = depositVisit([30, 30], {
+      backpackCount: 75,
+      selfTarget: 20,
+      tierCap: 0,
+      tierAccountWideCount: 10,
+      handOff: 35,
+    })
+    expect(moved).toEqual([25, 0])
   })
 })
 

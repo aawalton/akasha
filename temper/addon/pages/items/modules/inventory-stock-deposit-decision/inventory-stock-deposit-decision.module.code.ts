@@ -14,6 +14,10 @@ export function stockHandOff(fillTarget: number, heldByOthers: readonly number[]
   return handOff
 }
 
+export function carrierCarryTarget(selfTarget: number, handOff: number, bankHeld: number): number {
+  return selfTarget + Math.max(0, handOff - bankHeld)
+}
+
 interface StockTierSaleInput {
   readonly backpackCount: number
   readonly selfTarget: number

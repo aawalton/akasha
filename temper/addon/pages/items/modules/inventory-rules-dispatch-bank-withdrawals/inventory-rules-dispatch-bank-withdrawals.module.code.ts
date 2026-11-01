@@ -1,4 +1,3 @@
-import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 import { getConfiguredBufferSlots } from "akasha/temper/addon/pages/items/modules/inventory-backpack-buffer/inventory-backpack-buffer.module.code.ts"
 import {
   type BankTransitionTally,
@@ -20,6 +19,7 @@ import {
   isCharacterBoundAction,
   isVendorCrossCharDestination,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-cross-char/inventory-rules-cross-char.module.code.ts"
+import { carrierStockTarget } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank-deposits/modules/inventory-stock-handoff/inventory-stock-handoff.module.code.ts"
 import {
   type FrozenStockCounts,
   frozenStockCount,
@@ -36,8 +36,8 @@ import {
   evaluateRules,
   type MatchedRuleResult,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"
+import { canCurrentCharacterBenefitFromXP } from "akasha/temper/addon/pages/items/modules/inventory-skill-morphs-progress/inventory-skill-morphs-progress.module.code.ts"
 import { slotKey } from "akasha/temper/addon/pages/items/modules/inventory-slot-key/inventory-slot-key.module.code.ts"
-import { getTemperCharactersData } from "akasha/temper/addon/pages/items/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
 import { isBackpackRequiredAction } from "akasha/temper/items/rules/core/modules/action-storage-capability/action-storage-capability.module.code.ts"
 import { stockPriorityRank } from "akasha/temper/items/rules/core/modules/stock-item-priority/stock-item-priority.module.code.ts"
 import { planStockReconcile } from "akasha/temper/items/rules/core/modules/stock-reconcile-plan/stock-reconcile-plan.module.code.ts"
@@ -57,39 +57,6 @@ import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const BANK_CHARACTER_PREFIX = "character:"
-
-function canCurrentCharacterBenefitFromXP(): boolean {
-  if (GetPlayerChampionPointsEarned() < 3600) return true
-
-  if (GetUnitLevel("player") < 50) return true
-
-  const characters = getTemperCharactersData()
-  if (!characters) return true
-
-  const currentId = tostring(GetCurrentCharacterId())
-  const charData = characters[currentId]
-  if (!isObjectRecord(charData)) return true
-
-  const skillLineProgress = charData["skillLineProgress"]
-  if (!isObjectRecord(skillLineProgress)) return true
-
-  for (const slEntry of Object.values(skillLineProgress)) {
-    if (!isObjectRecord(slEntry)) continue
-    const skills = slEntry["skills"]
-    if (!isObjectRecord(skills)) continue
-    for (const skillEntry of Object.values(skills)) {
-      if (!isObjectRecord(skillEntry)) continue
-      for (const morphKey of ["base", "morph1", "morph2"] as const) {
-        const morphData = skillEntry[morphKey]
-        if (!isObjectRecord(morphData)) continue
-        const rank = morphData["rank"]
-        if (typeof rank === "number" && rank < 4) return true
-      }
-    }
-  }
-
-  return false
-}
 
 function collectBankWithdrawals(
   ctx: BankSlotContext,
@@ -168,7 +135,8 @@ function collectBankWithdrawals(
     }
     const dest = destination ?? "bank"
 
-    if (action === "stock" && bankIsCorrectStorage(ctx, dest)) {
+    const stockHere = bankIsCorrectStorage(ctx, dest) || (ctx.isBank && isConsolidateDest(dest))
+    if (action === "stock" && stockHere) {
       const scope = getPendingStockScope(bagId, slotIndex)
       if (scope === "any-character") {
         const tq = getPendingTargetQuantity(bagId, slotIndex) ?? 0
@@ -183,12 +151,12 @@ function collectBankWithdrawals(
         }
 
         const pendingRuleIndex = getPendingRuleIndex(bagId, slotIndex)
-        const backpackCount = frozenStockCount(
-          frozen,
-          pendingRuleIndex,
-          GetItemLinkItemId(itemLink)
-        )
-        if (backpackCount < tq) {
+        const stockItemId = GetItemLinkItemId(itemLink)
+        const backpackCount = frozenStockCount(frozen, pendingRuleIndex, stockItemId)
+        const carry = ctx.isHouseStorage
+          ? carrierStockTarget(tq, pendingRuleIndex, stockItemId, currentCharId)
+          : tq
+        if (backpackCount < carry) {
           withdrawals.push({
             bagId,
             slotIndex,
@@ -347,7 +315,9 @@ export function executeBankWithdrawals(
         const alreadyWithdrawn = stockWithdrawnCounts.get(accumKey) ?? 0
         const backpackCount = frozenStockCount(frozen, ruleIndex, itemId) + alreadyWithdrawn
         const plan = planStockReconcile({
-          selfTarget: tq,
+          selfTarget: ctx.isHouseStorage
+            ? carrierStockTarget(tq, ruleIndex, itemId, currentCharId)
+            : tq,
           backpackCount,
           openTierCap: undefined,
           openTierStorageCount: 0,

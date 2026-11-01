@@ -6,6 +6,7 @@ export const inventoryRulesDispatchBankDeposits = {
   slug: "inventory-rules-dispatch-bank-deposits",
   definition: "depositing items into the bank by rule, reserving slots as it goes",
   code: "ts",
+  parts: ["module/inventory-stock-handoff"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -25,15 +26,7 @@ export const inventoryRulesDispatchBankDeposits = {
       decisionKind: "decision-kind/departure",
       statement: "A fill tier naming a character hands off stock to that character alone.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "What another character holds toward a stocking rule is read from that character's last capture.",
-    },
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement: "That holding is counted by the item deposited rather than by the whole rule.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
@@ -47,7 +40,12 @@ export const inventoryRulesDispatchBankDeposits = {
       decisionKind: "decision-kind/departure",
       statement: "A house storage visit deposits nothing unless the storage carrier is playing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The carrier banks the stock a house chest holds for the others, and keeps it from the chest.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.856Z",
-  updatedAt: "2026-11-01T19:39:42.858Z",
+  updatedAt: "2026-11-01T19:58:07.808Z",
 } as const satisfies Module
