@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg0161161Elections = {
     },
   ],
   createdAt: "2026-10-28T16:29:36.261Z",
-  updatedAt: "2026-10-28T16:29:36.261Z",
+  updatedAt: "2026-11-01T01:21:47.692Z",
+  ownProgress: 4088,
+  progressedAt: "2026-11-01T01:21:47.692Z",
 } as const satisfies StoryChapterRead
