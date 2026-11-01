@@ -15,7 +15,12 @@ export const inventoryManagementPlanCollect = {
       decisionKind: "decision-kind/departure",
       statement: "An item of a rule whose chain names a house is routed to the leg chosen for it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A stack shared out among characters is routed once for each character it reaches.",
+    },
   ],
   createdAt: "2026-09-02T09:02:04.763Z",
-  updatedAt: "2026-10-28T19:47:43.000Z",
+  updatedAt: "2026-11-01T20:35:31.611Z",
 } as const satisfies Module

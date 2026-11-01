@@ -11,6 +11,10 @@ import type {
 import type { RuleMatcherContext } from "akasha/temper/items/rules/core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import type { CharacterId } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
 import { resolveItemRoute } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-route/inventory-management-plan-route.module.code.ts"
+import {
+  backpackSlotsFor,
+  mergeCarrierHandoffs,
+} from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-route-steps/inventory-management-plan-route-steps.module.code.ts"
 import type { RouteStep } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import {
   buildExistingStorageItems,
@@ -91,8 +95,7 @@ export function collectSimSteps(
         let backpackSlots: number
         if (isCraftBag && rs.operation === "act") backpackSlots = 0
         else if (isSourceChar && rs.operation !== "retrieve") backpackSlots = sourceSlotCount
-        else if (rs.operation === "retrieve") backpackSlots = 1
-        else backpackSlots = 1
+        else backpackSlots = backpackSlotsFor(rs.item)
         const occupiesStorage =
           (rs.operation === "deposit" || rs.operation === "act") && rs.storageKey !== undefined
             ? needsStorageSlot(rs.itemId, stackable, rs.storageKey)
@@ -132,14 +135,20 @@ export function collectSimSteps(
     const allocation = entry.useAllocation
     if (allocation !== undefined) {
       if (allocation.length === 0) return
-      for (const [idx, charId] of allocation.entries()) {
-        const subSlotCount = idx === 0 ? sourceSlotCount : 0
-        const routeSteps = resolveItemRoute(entry, action, destination, inventory, context, {
-          useTargetCharIdOverride: charId,
-          stackCountOverride: 1,
-          chainTierDirect,
-        })
-        applyRouteStepsToCharStates(routeSteps, entry, subSlotCount)
+      const unitsByChar = new Map<string, number>()
+      for (const charId of allocation) unitsByChar.set(charId, (unitsByChar.get(charId) ?? 0) + 1)
+      const routes: (readonly RouteStep[])[] = []
+      for (const [charId, units] of unitsByChar) {
+        routes.push(
+          resolveItemRoute(entry, action, destination, inventory, context, {
+            useTargetCharIdOverride: charId,
+            stackCountOverride: units,
+            chainTierDirect,
+          })
+        )
+      }
+      for (const [idx, routeSteps] of mergeCarrierHandoffs(routes).entries()) {
+        applyRouteStepsToCharStates(routeSteps, entry, idx === 0 ? sourceSlotCount : 0)
       }
       return
     }

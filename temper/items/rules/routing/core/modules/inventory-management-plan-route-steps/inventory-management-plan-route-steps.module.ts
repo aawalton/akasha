@@ -6,7 +6,17 @@ export const inventoryManagementPlanRouteSteps = {
   slug: "inventory-management-plan-route-steps",
   definition: "the steps for handing an item between characters or through shared storage",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The carrier's legs of the hand-offs of one stack out of one place are merged into one leg.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stackable step takes one backpack slot for each full stack it moves.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "An item passing between characters goes through storage each character reaches.",
@@ -30,5 +40,5 @@ export const inventoryManagementPlanRouteSteps = {
     },
   ],
   createdAt: "2026-09-02T08:51:47.593Z",
-  updatedAt: "2026-11-01T19:51:40.077Z",
+  updatedAt: "2026-11-01T20:35:31.611Z",
 } as const satisfies Module

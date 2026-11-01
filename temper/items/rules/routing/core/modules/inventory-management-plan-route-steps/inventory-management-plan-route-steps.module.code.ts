@@ -104,6 +104,49 @@ export function buildCarrierHandoffSteps(
   ]
 }
 
+export function backpackSlotsFor(item: PlanItem): number {
+  const most = item.maxStackSize ?? 1
+  if (most <= 1) return 1
+  return Math.max(1, Math.ceil(item.stackCount / most))
+}
+
+function carrierLeg(route: readonly RouteStep[]): readonly [RouteStep, RouteStep] | undefined {
+  const [taken, banked, handed] = route
+  if (taken === undefined || banked === undefined || handed === undefined) return undefined
+  if (taken.operation !== "retrieve" || banked.operation !== "deposit") return undefined
+  if (banked.venue !== "bank" || taken.characterId !== banked.characterId) return undefined
+  if (handed.characterId === taken.characterId) return undefined
+  return [taken, banked]
+}
+
+export function mergeCarrierHandoffs(
+  routes: readonly (readonly RouteStep[])[]
+): readonly (readonly RouteStep[])[] {
+  const kept: (readonly RouteStep[])[] = []
+  const legs = new Map<string, [RouteStep, RouteStep]>()
+  for (const route of routes) {
+    const leg = carrierLeg(route)
+    if (leg === undefined) {
+      kept.push(route)
+      continue
+    }
+    const [taken, banked] = leg
+    const key = `${taken.characterId}\0${taken.storageKey ?? ""}\0${taken.itemId}`
+    const held = legs.get(key)
+    if (held === undefined) {
+      legs.set(key, [taken, banked])
+    } else {
+      const units = held[0].item.stackCount + taken.item.stackCount
+      legs.set(key, [
+        { ...held[0], item: { ...held[0].item, stackCount: units } },
+        { ...held[1], item: { ...held[1].item, stackCount: units } },
+      ])
+    }
+    kept.push(route.slice(2))
+  }
+  return [...legs.values(), ...kept]
+}
+
 export function buildSharedStorageSteps(
   charId: string,
   retrievalVenue: VenueType | null,
