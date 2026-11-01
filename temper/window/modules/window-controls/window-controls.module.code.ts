@@ -99,7 +99,7 @@ export function buildButton(
   return button
 }
 
-export function setButtonText(button: ButtonControl, text: string): ButtonControl {
+function setButtonText(button: ButtonControl, text: string): ButtonControl {
   button.SetText(text)
   const shown = button.GetLabelControl()?.GetStringWidth(text) ?? 0
   const width = shown / GetUIGlobalScale() + BUTTON_PADDING_X * 2

@@ -20,22 +20,21 @@ import {
 import { applyGearTarget } from "akasha/temper/addon/pages/characters/modules/characters-build-gear/characters-build-gear.module.code.ts"
 import { applyPassiveTarget } from "akasha/temper/addon/pages/characters/modules/characters-build-passives/characters-build-passives.module.code.ts"
 import {
-  drawPanelBackground,
-  PANEL_GAP,
-} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+  HUD_COUNT_GAP,
+  HUD_ROW_HEIGHT,
+  hudColor,
+  hudIndent,
+  styleHudLine,
+} from "akasha/temper/addon/pages/characters/modules/characters-hud-line/characters-hud-line.module.code.ts"
+import { progressSuffix } from "akasha/temper/addon/pages/characters/modules/characters-progress-format/characters-progress-format.module.code.ts"
+import { PANEL_GAP } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import type { CharacterTarget } from "akasha/temper/player/character/build/modules/character-target-types/character-target-types.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import "akasha/temper/addon/type/temper-items-global/temper-items-global.type-declaration.d.ts"
 import {
   colorOf,
   colorText,
-  styleText,
-  textColorOf,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
-import {
-  buildButton,
-  setButtonText,
-} from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
 import { LINE_HEIGHT } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 
 const PANEL_NAME = "TemperCharactersTargetBuild"
@@ -48,11 +47,9 @@ const LINES_SHOWN = 40
 
 const PADDING = 16
 
-const INDENT = 16
+const HEADER_GAP = 8
 
-const SECTION_GAP = 8
-
-const HEADER_GAP = 12
+const SMALL_WORDS = new Set(["a", "an", "and", "for", "of", "on", "or", "the", "to"])
 
 const MIN_WIDTH = 250
 
@@ -83,23 +80,45 @@ function applyText(titles: readonly string[]): string {
   return named.length === 0 ? `Apply ${last}` : `Apply ${named.join(", ")} and ${last}`
 }
 
+function titleCase(title: string): string {
+  return title
+    .split(" ")
+    .map((word, at) =>
+      at > 0 && SMALL_WORDS.has(word) ? word : word.charAt(0).toUpperCase() + word.slice(1)
+    )
+    .join(" ")
+}
+
 interface TargetPanel {
   readonly window: TopLevelWindow
   readonly title: LabelControl
-  readonly choose: ButtonControl
-  readonly apply: ButtonControl
+  readonly choose: LabelControl
+  readonly apply: LabelControl
   readonly said: LabelControl
   readonly lines: readonly LabelControl[]
+  readonly counts: readonly LabelControl[]
 }
 
 let held: TargetPanel | undefined
 
 function lineLabel(window: Control): LabelControl {
   const label = WINDOW_MANAGER.CreateControl(undefined, window, CT_LABEL)
-  label.SetHeight(LINE_HEIGHT)
+  label.SetHeight(HUD_ROW_HEIGHT)
   label.SetVerticalAlignment(TEXT_ALIGN_CENTER)
   label.SetHidden(true)
   return label
+}
+
+function linkLabel(window: Control, onClick: (this: void) => undefined): LabelControl {
+  const link = lineLabel(window)
+  styleHudLine(link, hudColor("blue"))
+  link.SetMouseEnabled(true)
+  link.SetHandler("OnMouseEnter", () => colorText(link, colorOf("strong")))
+  link.SetHandler("OnMouseExit", () => colorText(link, hudColor("blue")))
+  link.SetHandler("OnMouseUp", (_link: Control, button: number, upInside: boolean) => {
+    if (upInside && button === MOUSE_BUTTON_INDEX_LEFT) onClick()
+  })
+  return link
 }
 
 export function applyCharacterTarget(target: CharacterTarget): string {
@@ -145,31 +164,36 @@ function chooseNextTarget(): undefined {
 function createTargetPanel(): TargetPanel {
   const window = WINDOW_MANAGER.CreateTopLevelWindow(PANEL_NAME)
   window.SetHidden(true)
-  drawPanelBackground(window)
 
   const title = WINDOW_MANAGER.CreateControl("$(parent)Title", window, CT_LABEL)
-  styleText(title, "heading")
+  title.SetVerticalAlignment(TEXT_ALIGN_CENTER)
+  styleHudLine(title, hudColor("plain"))
 
-  const choose = buildButton(window, undefined, "Switch build", "default")
-  choose.SetHandler("OnClicked", chooseNextTarget)
+  const choose = linkLabel(window, chooseNextTarget)
 
-  const apply = buildButton(window, undefined, "Apply", "default")
-  apply.SetHandler("OnClicked", applyTarget)
+  const apply = linkLabel(window, applyTarget)
 
   const said = WINDOW_MANAGER.CreateControl(undefined, window, CT_LABEL)
-  styleText(said, "muted")
+  styleHudLine(said, hudColor("plain"))
   said.SetWidth(SAID_WIDTH)
   said.SetHidden(true)
 
   const lines: LabelControl[] = []
   for (let at = 0; at < LINES_SHOWN; at++) lines.push(lineLabel(window))
 
-  return { window, title, choose, apply, said, lines }
+  const counts: LabelControl[] = []
+  for (let at = 0; at < LINES_SHOWN; at++) {
+    const count = lineLabel(window)
+    count.SetHorizontalAlignment(TEXT_ALIGN_RIGHT)
+    counts.push(count)
+  }
+
+  return { window, title, choose, apply, said, lines, counts }
 }
 
-function placeAt(control: Control, panel: TargetPanel, top: number, indent: number): number {
+function placeAt(control: Control, panel: TargetPanel, top: number): number {
   control.ClearAnchors()
-  control.SetAnchor(TOPLEFT, panel.window, TOPLEFT, PADDING + indent, top)
+  control.SetAnchor(TOPLEFT, panel.window, TOPLEFT, PADDING, top)
   control.SetHidden(false)
   return top + control.GetHeight()
 }
@@ -217,24 +241,31 @@ function placeBeside(window: TopLevelWindow): undefined {
   return undefined
 }
 
-function showHeading(label: LabelControl, title: string, met: number, total: number): undefined {
-  styleText(label, "label")
-  label.SetText(`${title}  ${met} of ${total}`)
-  if (met === total) colorText(label, textColorOf(INTERFACE_TEXT_COLOR_SUCCEEDED))
-  else colorText(label, colorOf("strong"))
-  return undefined
+function showHeading(
+  label: LabelControl,
+  count: LabelControl,
+  title: string,
+  met: number,
+  total: number
+): number {
+  const color = met === total ? hudColor("plain") : hudColor("gold")
+  styleHudLine(label, color)
+  label.SetText(titleCase(title))
+  styleHudLine(count, color)
+  count.SetText(progressSuffix(met, total))
+  return HUD_COUNT_GAP + count.GetTextWidth()
 }
 
 function showUnmet(label: LabelControl, text: string): undefined {
-  styleText(label, "body")
-  label.SetText(text)
-  colorText(label, textColorOf(INTERFACE_TEXT_COLOR_FAILED))
+  styleHudLine(label, hudColor("plain"))
+  label.SetText(hudIndent(1) + text)
   return undefined
 }
 
 interface ShownRow {
   readonly label: LabelControl
-  readonly indent: number
+  readonly count?: LabelControl
+  readonly trailing: number
 }
 
 function showRows(panel: TargetPanel, sections: readonly ChecklistSection[]): readonly ShownRow[] {
@@ -242,89 +273,88 @@ function showRows(panel: TargetPanel, sections: readonly ChecklistSection[]): re
   let used = 0
   for (const section of sections) {
     const label = panel.lines[used]
-    if (label === undefined) break
+    const count = panel.counts[used]
+    if (label === undefined || count === undefined) break
     used++
     const met = section.lines.filter((line) => line.met).length
-    showHeading(label, section.title, met, section.lines.length)
-    rows.push({ label, indent: 0 })
+    const trailing = showHeading(label, count, section.title, met, section.lines.length)
+    rows.push({ label, count, trailing })
     for (const line of section.lines) {
       if (line.met) continue
       const row = panel.lines[used]
       if (row === undefined) break
       used++
       showUnmet(row, line.text)
-      rows.push({ label: row, indent: INDENT })
+      rows.push({ label: row, trailing: 0 })
     }
   }
   return rows
 }
 
+function placeRow(row: ShownRow, panel: TargetPanel, top: number): number {
+  const bottom = placeAt(row.label, panel, top)
+  if (row.count === undefined) return bottom
+  row.count.ClearAnchors()
+  row.count.SetAnchor(TOPRIGHT, panel.window, TOPRIGHT, -PADDING, top)
+  row.count.SetHidden(false)
+  return bottom
+}
+
+function wrapTo(label: LabelControl, width: number): undefined {
+  label.SetWidth(width)
+  label.SetHeight(math.max(HUD_ROW_HEIGHT, label.GetTextHeight() + HUD_ROW_HEIGHT - LINE_HEIGHT))
+  return undefined
+}
+
 function refreshTargetPanel(this: void): undefined {
   if (held === undefined) return undefined
   const panel = held
-  for (const line of panel.lines) {
+  for (const line of [...panel.lines, panel.title, panel.choose, panel.apply]) {
     line.SetHidden(true)
     line.SetWidth(0)
-    line.SetHeight(LINE_HEIGHT)
+    line.SetHeight(HUD_ROW_HEIGHT)
   }
+  for (const count of panel.counts) count.SetHidden(true)
   const target = currentCharacterTarget()
   if (target === undefined) {
     panel.window.SetHidden(true)
     return undefined
   }
-  panel.title.SetWidth(0)
   panel.title.SetText(`Target Build — ${target.title}`)
   const next = nextTarget()
-  panel.choose.SetHidden(next === undefined)
-  if (next !== undefined) setButtonText(panel.choose, `Switch to ${next.title}`)
+  if (next !== undefined) panel.choose.SetText(`Switch to ${next.title}`)
   const sections = checklistOf(target)
   const applying = toApply(sections)
-  panel.apply.SetHidden(applying.length === 0)
-  if (applying.length > 0) setButtonText(panel.apply, applyText(applying))
+  if (applying.length > 0) panel.apply.SetText(applyText(applying))
   const rows = showRows(panel, sections)
 
-  let widest = math.max(MIN_WIDTH, panel.title.GetTextWidth())
-  if (next !== undefined) widest = math.max(widest, panel.choose.GetWidth())
-  if (applying.length > 0) widest = math.max(widest, panel.apply.GetWidth())
+  const tops = [panel.title]
+  if (next !== undefined) tops.push(panel.choose)
+  if (applying.length > 0) tops.push(panel.apply)
+  let widest = MIN_WIDTH
+  for (const line of tops) widest = math.max(widest, line.GetTextWidth())
   if (panel.said.GetText() !== "") widest = math.max(widest, SAID_WIDTH)
-  for (const row of rows) widest = math.max(widest, row.label.GetTextWidth() + row.indent)
+  for (const row of rows) widest = math.max(widest, row.label.GetTextWidth() + row.trailing)
 
   const room = besideRoom()
   let width = widest + PADDING * 2
   if (room !== undefined && width > room) {
     const inner = math.max(MIN_WIDTH, room - PADDING * 2)
-    panel.title.SetWidth(inner)
+    for (const line of tops) wrapTo(line, inner)
     panel.said.SetWidth(math.min(SAID_WIDTH, inner))
-    for (const row of rows) {
-      row.label.SetWidth(math.max(MIN_WIDTH, inner - row.indent))
-      row.label.SetHeight(math.max(LINE_HEIGHT, row.label.GetTextHeight()))
-    }
-    width = math.max(room, applying.length > 0 ? panel.apply.GetWidth() + PADDING * 2 : 0)
+    for (const row of rows) wrapTo(row.label, math.max(MIN_WIDTH, inner - row.trailing))
+    width = math.max(room, MIN_WIDTH + PADDING * 2)
   }
 
-  let top = placeAt(panel.title, panel, PADDING, 0) + HEADER_GAP
-  if (next !== undefined) top = placeAt(panel.choose, panel, top, 0) + HEADER_GAP
-  if (applying.length > 0) top = placeAt(panel.apply, panel, top, 0) + HEADER_GAP
+  let top = PADDING
+  for (const line of tops) top = placeAt(line, panel, top)
+  top += HEADER_GAP
   if (panel.said.GetText() !== "") {
-    placeAt(panel.said, panel, top, 0)
+    placeAt(panel.said, panel, top)
     top += math.max(panel.said.GetHeight(), panel.said.GetTextHeight()) + HEADER_GAP
   }
-  let at = 0
-  for (const section of sections) {
-    const heading = rows[at]
-    if (heading === undefined) break
-    at++
-    top = placeAt(heading.label, panel, top, heading.indent)
-    for (const line of section.lines) {
-      if (line.met) continue
-      const row = rows[at]
-      if (row === undefined) break
-      at++
-      top = placeAt(row.label, panel, top, row.indent)
-    }
-    top += SECTION_GAP
-  }
-  panel.window.SetDimensions(width, top - SECTION_GAP + PADDING)
+  for (const row of rows) top = placeRow(row, panel, top)
+  panel.window.SetDimensions(width, top + PADDING)
   placeBeside(panel.window)
   panel.window.SetHidden(!shownScene())
   return undefined
