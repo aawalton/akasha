@@ -42974,7 +42974,7 @@
       "name": "Spell Power Cure",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "White-Gold Tower",
-      "slotsUnlocked": 14,
+      "slotsUnlocked": 15,
       "totalSlots": 22,
       "reconstructionCost": 44,
       "pieces": [
@@ -43056,7 +43056,7 @@
         },
         {
           "name": "Spell Power Cure Ice Staff",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Spell Power Cure Lightning Staff",
@@ -67309,7 +67309,7 @@
       "name": "Turning Tide",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Shipwright's Regret",
-      "slotsUnlocked": 1,
+      "slotsUnlocked": 3,
       "totalSlots": 22,
       "reconstructionCost": 75,
       "pieces": [
@@ -67323,7 +67323,7 @@
         },
         {
           "name": "Cuirass of the Turning Tide",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Gauntlets of the Turning Tide",
@@ -67331,7 +67331,7 @@
         },
         {
           "name": "Girdle of the Turning Tide",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Greaves of the Turning Tide",
@@ -67407,7 +67407,7 @@
       "name": "Storm-Cursed's Revenge",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Shipwright's Regret",
-      "slotsUnlocked": 6,
+      "slotsUnlocked": 7,
       "totalSlots": 22,
       "reconstructionCost": 75,
       "pieces": [
@@ -67477,7 +67477,7 @@
         },
         {
           "name": "Storm-Cursed Bow",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Storm-Cursed Restoration Staff",
