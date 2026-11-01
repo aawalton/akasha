@@ -16,7 +16,7 @@ export const melodyOfMana = {
   author: "Wandering Agent",
   following: true,
   grade: "C",
-  publicationStatus: "completed",
+  publicationStatus: "ongoing",
   externalTags: [
     "Portal Fantasy / Isekai",
     "Female Lead",
@@ -29,5 +29,5 @@ export const melodyOfMana = {
   unit: "unit/words",
   prose: "txt",
   createdAt: "2026-09-03T04:18:50.403Z",
-  updatedAt: "2026-09-28T20:27:21.000Z",
+  updatedAt: "2026-11-01T12:22:38.550Z",
 } as const satisfies StoryRead

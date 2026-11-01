@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg0177177IntoTheLairOfThe = {
     },
   ],
   createdAt: "2026-10-28T16:29:36.261Z",
-  updatedAt: "2026-10-28T16:29:36.261Z",
+  updatedAt: "2026-11-01T12:22:38.550Z",
+  ownProgress: 4232,
+  progressedAt: "2026-11-01T12:22:38.550Z",
 } as const satisfies StoryChapterRead
