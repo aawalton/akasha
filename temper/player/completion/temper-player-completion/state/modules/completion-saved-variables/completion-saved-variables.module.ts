@@ -15,7 +15,11 @@ export const completionSavedVariables = {
       decisionKind: "decision-kind/departure",
       statement: "A saved choice names the target build it was chosen over.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A build changed in the game is saved as pending until the game reads it landed.",
+    },
   ],
   createdAt: "2026-09-02T13:34:15.695Z",
-  updatedAt: "2026-11-01T19:05:45.327Z",
+  updatedAt: "2026-11-01T20:32:56.237Z",
 } as const satisfies Module

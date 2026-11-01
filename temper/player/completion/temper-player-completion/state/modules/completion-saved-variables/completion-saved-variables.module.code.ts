@@ -1,6 +1,7 @@
 import { deleteRecordKey } from "akasha/code/type/narrowing/modules/delete-record-key/delete-record-key.module.code.ts"
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 import { requireSavedVariables } from "akasha/temper/addon/shared/narrow/modules/require-saved-variables/require-saved-variables.module.code.ts"
+import type { CharacterTarget } from "akasha/temper/player/character/build/modules/character-target-types/character-target-types.module.code.ts"
 import type {
   AccountCompletion,
   CharacterCompletion,
@@ -34,6 +35,19 @@ export type SavedCharacterEntry = CharacterCompletion & {
 export interface ChosenBuild {
   buildId: string
   over: string
+}
+
+export interface PendingBuildEdit {
+  characterId: string
+  order: number
+  after?: string
+  madeIn?: string
+  buildId?: string
+  basedOn?: string
+  title?: string
+  icon?: number
+  buildHash?: string
+  view?: CharacterTarget
 }
 
 export interface TaskData {
@@ -75,6 +89,7 @@ export interface SavedVariablesData {
   >
   characterPriority: string[]
   activeBuilds?: Record<string, ChosenBuild>
+  buildEdits?: Record<string, PendingBuildEdit>
   completionOverrides?: Record<string, CompletionOverride[]>
   taskPanelPosition: { x: number; y: number } | undefined
   guildSalesPostedDate?: string
