@@ -117,9 +117,8 @@ export function classifyPendingVenue(
   if (action === "refine") return { venue: "crafting-station", verb: "refine" }
   if (action === "fillet") return { venue: "crafting-station", verb: "fillet" }
   if (action === "research") return { venue: "crafting-station", verb: "research" }
-  if (action === "character-equip" || action === "companion-equip") {
-    return { venue: "companion-menu", verb: "equip" }
-  }
+  if (action === "character-equip") return { venue: "backpack", verb: "equip" }
+  if (action === "companion-equip") return { venue: "companion-menu", verb: "equip" }
   if (action === "move-to" || action === "stock") {
     const dest = destination ?? "bank"
     if (dest === "craft-bag" && !craftBagTakes()) return undefined

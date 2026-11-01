@@ -26,6 +26,14 @@ export const inventoryPlanVenue = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Gear a character equips is planned from the backpack.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Gear a companion equips is planned at the companion menu.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A listing the guild store would skip is held, with the reason it would skip it.",
     },
     {
@@ -51,5 +59,5 @@ export const inventoryPlanVenue = {
     },
   ],
   createdAt: "2026-10-10T14:06:10.424Z",
-  updatedAt: "2026-10-28T21:11:40.593Z",
+  updatedAt: "2026-11-01T14:25:15.907Z",
 } as const satisfies Module

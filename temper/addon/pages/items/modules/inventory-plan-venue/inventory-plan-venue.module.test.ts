@@ -115,6 +115,21 @@ describe("inventory-plan-venue", () => {
     })
   })
 
+  test("gear a character equips is planned from the backpack, and a companion's at the companion menu", () => {
+    expect(
+      classifyPendingVenue("character-equip", "character-worn:7", false, craftBagRefuses)
+    ).toEqual({
+      venue: "backpack",
+      verb: "equip",
+    })
+    expect(
+      classifyPendingVenue("companion-equip", "companion-worn:Ember", false, craftBagRefuses)
+    ).toEqual({
+      venue: "companion-menu",
+      verb: "equip",
+    })
+  })
+
   test("a fish to fillet is planned at a crafting station", () => {
     expect(classifyPendingVenue("fillet", undefined, false, craftBagRefuses)).toEqual({
       venue: "crafting-station",
