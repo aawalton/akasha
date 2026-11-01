@@ -90775,7 +90775,7 @@
             "name": "Ambush",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "abilityIndex": 3,
           "isUltimate": false,
           "atMorph": true
@@ -90793,7 +90793,7 @@
             "name": "Concealed Weapon",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 1,
           "abilityIndex": 2,
           "isUltimate": false,
           "atMorph": true
@@ -90811,7 +90811,7 @@
             "name": "Reaper's Mark",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 5,
           "isUltimate": false,
           "atMorph": true
@@ -90847,7 +90847,7 @@
             "name": "Soul Harvest",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 1,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
@@ -92155,7 +92155,7 @@
             "name": "Escalating Runeblades",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 2,
           "isUltimate": false,
           "atMorph": true
@@ -92209,7 +92209,7 @@
             "name": "Fulminating Rune",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 2,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -92227,7 +92227,7 @@
             "name": "Recuperative Treatise",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 2,
           "abilityIndex": 5,
           "isUltimate": false,
           "atMorph": true
@@ -92245,7 +92245,7 @@
             "name": "The Languid Eye",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 1,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
