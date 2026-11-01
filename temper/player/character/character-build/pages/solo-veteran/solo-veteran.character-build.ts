@@ -12,7 +12,7 @@ export const soloVeteran = {
   correlationId: "4d48eaea-b677-4916-8cfd-d5d1107c0611",
   characterName: "Erin Solstice",
   buildIcon: 3,
-  editId: "68e245e8-0c07-46d5-9ad2-8527726f5864",
+  editId: "4ab80446-c51e-4596-a03a-d8e84118f383",
   quickslots: [
     { slot: 1, kind: "collectible", id: 10618, name: "Zuqoth, Armory Advisor" },
     { slot: 2, kind: "item", id: 203613, name: "Mystery Utility Verse" },
@@ -24,5 +24,5 @@ export const soloVeteran = {
     { slot: 8, kind: "collectible", id: 10184, name: "Giladil the Ragpicker" },
   ],
   createdAt: "2026-11-01T20:56:40.388Z",
-  updatedAt: "2026-11-01T23:03:54.769Z",
+  updatedAt: "2026-11-01T23:40:36.358Z",
 } as const satisfies CharacterBuild
