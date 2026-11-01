@@ -27,6 +27,10 @@ export const watcherExportCharacterTargets = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A target holds what its build holds and what its build's interfaces hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The add-on is handed game ids and names, and never decodes a build hash.",
     },
     {
@@ -55,5 +59,5 @@ export const watcherExportCharacterTargets = {
     },
   ],
   createdAt: "2026-10-28T19:46:21.781Z",
-  updatedAt: "2026-11-01T19:01:52.055Z",
+  updatedAt: "2026-11-01T19:43:23.956Z",
 } as const satisfies Module

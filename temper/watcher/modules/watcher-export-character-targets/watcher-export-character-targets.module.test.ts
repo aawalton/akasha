@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
+import { buildInterface } from "akasha/temper/player/character/build-interface/build-interface.page-type.ts"
+import { foundations } from "akasha/temper/player/character/build-interface/pages/foundations/foundations.build-interface.ts"
 import { maxMaxStamina } from "akasha/temper/player/character/character-build/pages/max-max-stamina/max-max-stamina.character-build.ts"
 import { holdSetCatalogFromCheckout } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts"
 import { buildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
@@ -109,6 +111,30 @@ test("a character's targets list each target build that decodes, the one it is s
   )
   expect(targets["1001"]?.map((one) => one.buildId)).toEqual([maxMaxStamina.id])
   expect(targets["1002"]?.map((one) => one.buildId)).toEqual([maxMaxStamina.id])
+})
+
+test("a target holds the stars of the build interfaces its build includes", async () => {
+  const reader: PageReader = {
+    collect: async () => [{ esoCharacterId: "1001", targetBuildId: maxMaxStamina.id }],
+    get: async (args) =>
+      args.pageTypeSlug === buildInterface.slug
+        ? args.where[0]?.eq === foundations.slug
+          ? { ...foundations }
+          : null
+        : {
+            buildHash: maxMaxStamina.buildHash,
+            title: maxMaxStamina.title,
+            buildInterfaces: [`${buildInterface.slug}/${foundations.slug}`],
+          },
+  }
+  const targets = await compileCharacterTargets(ACCOUNT, reader, async () => undefined)
+  const craft = targets["1001"]?.[0]?.champion.find((one) => one.discipline === "craft")
+  expect(craft?.slotted.map((star) => star.name)).toEqual([
+    "Master Gatherer",
+    "Steed's Blessing",
+    "Gifted Rider",
+    "War Mount",
+  ])
 })
 
 test("no character with a target reads no catalog", async () => {

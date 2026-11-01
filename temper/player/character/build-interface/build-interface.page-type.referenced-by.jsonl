@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"build-interface.page-type.ts","path":"temper/watcher/modules/watcher-export-character-targets/watcher-export-character-targets.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-interface.page-type.ts","path":"temper/watcher/modules/watcher-export-character-targets/watcher-export-character-targets.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-interface.page-type.types.ts","path":"temper/player/character/build-interface/pages/foundations/foundations.build-interface.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/temper-character.domain.ts","id":"01a05fac-7581-7a09-a912-5277eaa7f144"}
 {"propertySlug":"target-page-type","path":"temper/player/character/character-build/properties/build-interfaces.multi-relation-property.ts","id":"01a1989e-af97-7ff6-896d-23361634b122"}

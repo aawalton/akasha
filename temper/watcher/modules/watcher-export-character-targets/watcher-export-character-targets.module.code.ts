@@ -1,12 +1,18 @@
 import { stringAt } from "akasha/code/type/narrowing/modules/string-at/string-at.module.code.ts"
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import { championPoints } from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
+import { slugOf } from "akasha/temper/catalog/gear/equipment/modules/held-gear-table/held-gear-table.module.code.ts"
 import {
   esoNumberOfTrait,
   traitTable,
 } from "akasha/temper/catalog/gear/equipment/modules/trait-reading/trait-reading.module.code.ts"
 import { targetBuildIdsOf } from "akasha/temper/items/rules/core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
+import {
+  type BuildInterfaceHeld,
+  buildInterfaceHeldOf,
+  withBuildInterfaces,
+} from "akasha/temper/player/character/build/modules/build-interface-expanding/build-interface-expanding.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import {
   type CharacterTarget,
@@ -17,6 +23,7 @@ import {
   type TargetGear,
   type TargetStar,
 } from "akasha/temper/player/character/build/modules/character-target-types/character-target-types.module.code.ts"
+import { buildInterface } from "akasha/temper/player/character/build-interface/build-interface.page-type.ts"
 import type {
   ArmorSlotItem,
   JewelrySlotItem,
@@ -193,12 +200,44 @@ async function targetOf(
   const build = await reader.get({
     pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
     where: [{ key: "id", eq: buildId }],
-    select: ["buildHash", "title"],
+    select: ["buildHash", "title", "buildInterfaces"],
   })
   const hash = build === null ? null : stringAt(build, "buildHash")
   if (build === null || hash === null) return null
   await readCatalogs()
   const decoded = decodeBuild(buildHash(hash))
   if (decoded === null) return null
-  return characterTargetOf(decoded, stringAt(build, "title") ?? "", buildId)
+  const held = await interfacesOf(stringsIn(build["buildInterfaces"]), reader)
+  return characterTargetOf(
+    withBuildInterfaces(decoded, held),
+    stringAt(build, "title") ?? "",
+    buildId
+  )
+}
+
+const INTERFACE_KEYS = [
+  "passiveLines",
+  "passiveLineCategories",
+  "leftOutPassives",
+  "interfacePassives",
+  "everyPassiveStar",
+  "slottedStars",
+]
+
+async function interfacesOf(
+  named: readonly string[],
+  reader: PageReader
+): Promise<readonly BuildInterfaceHeld[]> {
+  const held: BuildInterfaceHeld[] = []
+  for (const address of named) {
+    const page = await reader.get({
+      pageTypeSlug: buildInterface.slug,
+      where: [{ key: "slug", eq: slugOf(address) }],
+      select: INTERFACE_KEYS,
+    })
+    if (page === null)
+      throw new Error(`a build includes \`${address}\`, which is no build interface`)
+    held.push(buildInterfaceHeldOf(page))
+  }
+  return held
 }
