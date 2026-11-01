@@ -67406,7 +67406,7 @@
       "name": "Storm-Cursed's Revenge",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Shipwright's Regret",
-      "slotsUnlocked": 2,
+      "slotsUnlocked": 3,
       "totalSlots": 22,
       "reconstructionCost": 75,
       "pieces": [
@@ -67436,7 +67436,7 @@
         },
         {
           "name": "Storm-Cursed Shoes",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Storm-Cursed Amulet",
@@ -91314,7 +91314,7 @@
             "name": "Ambush",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 3,
           "isUltimate": false,
           "atMorph": true
@@ -91332,7 +91332,7 @@
             "name": "Concealed Weapon",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 2,
           "isUltimate": false,
           "atMorph": true
@@ -91368,7 +91368,7 @@
             "name": "Impale",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 4,
           "isUltimate": false,
           "atMorph": true
@@ -91386,7 +91386,7 @@
             "name": "Soul Harvest",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
@@ -91404,7 +91404,7 @@
             "name": "Merciless Resolve",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
