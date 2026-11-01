@@ -32,6 +32,13 @@ export interface TargetPassive {
   readonly rank: number
 }
 
+interface TargetQuickslot {
+  readonly slot: number
+  readonly kind: "item" | "collectible" | "emote" | "quick-chat"
+  readonly id: number
+  readonly name: string
+}
+
 export interface TargetAttributes {
   readonly health: number
   readonly magicka: number
@@ -53,4 +60,5 @@ export interface CharacterTarget {
   readonly food?: { readonly name: string; readonly abilityId: number; readonly itemId: number }
   readonly gear: readonly TargetGear[]
   readonly passives: readonly TargetPassive[]
+  readonly quickslots?: readonly TargetQuickslot[]
 }
