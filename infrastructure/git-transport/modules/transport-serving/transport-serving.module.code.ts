@@ -14,6 +14,8 @@ const GIT_ROUTE_CAPTURES = z.tuple([z.string(), z.string()])
 
 const NEVER_CLOSED_IDLE = 0
 
+export const SERVED_AT = import.meta.path
+
 function serving(): Bun.Server<undefined> {
   const server = Bun.serve({
     port: PORT,

@@ -1,3 +1,5 @@
+import { existsSync } from "node:fs"
+import { dirname, join, relative } from "node:path"
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
@@ -23,31 +25,28 @@ import {
   RESOURCE_LABELS,
   SELECTOR_LABELS,
 } from "akasha/infrastructure/git-transport/modules/transport-naming/transport-naming.module.code.ts"
+import { SERVED_AT } from "akasha/infrastructure/git-transport/modules/transport-serving/transport-serving.module.code.ts"
 import { gitTransport } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/git-transport/git-transport.service-cluster.ts"
-import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const GIT_ACCESS_TOKEN_REF = {
   secretName: "git-transport-secrets",
   secretKey: "GIT_ACCESS_TOKEN",
 } as const
 
-const MODULE = "module"
-
-const SERVING = "transport-serving"
-
-const CODE = "code"
-
-const TS = "ts"
+const CHECKOUT_MARKER = "bun.lock"
 
 function servingAt(): string {
-  const page = listedAt(akashaRoot(), MODULE, SERVING)[0]
-  const at = page === undefined ? null : besideAt(page.path, CODE, TS)
-  if (at === null) {
-    throw new Error(`no \`${MODULE}\` is slugged \`${SERVING}\`, so the workload would serve none`)
+  let dir = dirname(SERVED_AT)
+  for (;;) {
+    if (existsSync(join(dir, CHECKOUT_MARKER))) return relative(dir, SERVED_AT)
+    const parent = dirname(dir)
+    if (parent === dir) {
+      throw new Error(
+        `no \`${CHECKOUT_MARKER}\` is above ${SERVED_AT}, so the workload's path to it cannot be named`
+      )
+    }
+    dir = parent
   }
-  return at
 }
 
 export function deploymentYaml(): string {

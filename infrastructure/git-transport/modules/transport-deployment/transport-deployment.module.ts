@@ -41,9 +41,15 @@ export const transportDeployment = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Where that code sits in the cache is asked of the index rather than spelled.",
+      statement:
+        "Where that code sits in the cache is imported from that code rather than spelled.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A change to the code the server runs is a change to what the workload is built from.",
     },
   ],
   createdAt: "2026-09-03T16:24:39.441Z",
-  updatedAt: "2026-09-21T19:34:49.000Z",
+  updatedAt: "2026-11-01T16:02:12.597Z",
 } as const satisfies Module
