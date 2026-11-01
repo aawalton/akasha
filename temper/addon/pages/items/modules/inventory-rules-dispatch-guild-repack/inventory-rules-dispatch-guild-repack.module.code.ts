@@ -1,5 +1,6 @@
 import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
 import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
+import { carriesStorageHere } from "akasha/temper/addon/pages/items/modules/inventory-character-priority/inventory-character-priority.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
 import { moveItem } from "akasha/temper/addon/pages/items/modules/inventory-move-item/inventory-move-item.module.code.ts"
 import { showConfirmDialog } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.code.ts"
@@ -26,6 +27,11 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 let repackRunning = false
 
 export function repackGuildBank(): undefined {
+  if (!carriesStorageHere()) {
+    d(`[${ADDON_NAME}] Only the storage carrier repacks the guild bank`)
+    return
+  }
+
   if (!IsGuildBankOpen()) {
     d("[TemperItems] Guild bank must be open to repack")
     return
