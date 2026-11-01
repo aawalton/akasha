@@ -27,6 +27,11 @@ export const watcherExportCharacterTargets = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A target carries its build's icon, version and the last in-game change to reach the build.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A target holds what its build holds and what its build's interfaces hold.",
     },
     {
@@ -63,5 +68,5 @@ export const watcherExportCharacterTargets = {
     },
   ],
   createdAt: "2026-10-28T19:46:21.781Z",
-  updatedAt: "2026-11-01T20:00:48.906Z",
+  updatedAt: "2026-11-01T20:18:32.212Z",
 } as const satisfies Module

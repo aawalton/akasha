@@ -41,6 +41,11 @@ export interface TargetAttributes {
 export interface CharacterTarget {
   readonly buildId: string
   readonly title: string
+  readonly icon: number
+  readonly updatedAt: string
+  readonly editId?: string
+  readonly correlationId?: string
+  readonly curseName: string
   readonly attributes: TargetAttributes
   readonly champion: readonly TargetDiscipline[]
   readonly bars: { readonly primary: readonly TargetBarSlot[]; readonly backup: readonly TargetBarSlot[] }

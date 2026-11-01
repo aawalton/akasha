@@ -165,6 +165,32 @@ test("a build naming no interface still includes one every build includes", asyn
   expect(targets["1001"]?.[0]?.passives.map((one) => one.name)).toContain("Continuous Attack")
 })
 
+test("a target carries its build's icon, version and the last in-game change to reach it", async () => {
+  const reader: PageReader = {
+    collect: async (args) =>
+      args.pageTypeSlug === buildInterface.slug
+        ? []
+        : [{ esoCharacterId: "1001", targetBuildId: maxMaxStamina.id }],
+    get: async () => ({
+      buildHash: maxMaxStamina.buildHash,
+      title: maxMaxStamina.title,
+      buildIcon: 12,
+      updatedAt: "2026-11-01T20:00:00.000Z",
+      editId: "01a198c1-a5f5-7fa7-8d3d-bf20866e2262",
+    }),
+  }
+  const targets = await compileCharacterTargets(ACCOUNT, reader, async () => undefined)
+  const target = targets["1001"]?.[0]
+  expect(target?.icon).toBe(12)
+  expect(target?.updatedAt).toBe("2026-11-01T20:00:00.000Z")
+  expect(target?.editId).toBe("01a198c1-a5f5-7fa7-8d3d-bf20866e2262")
+  expect(target?.correlationId).toBeUndefined()
+})
+
+test("a build stating no icon shows the first icon", () => {
+  expect(TARGET.icon).toBe(1)
+})
+
 test("no character with a target reads no catalog", async () => {
   let read = 0
   await compileCharacterTargets(ACCOUNT, readerOf([{ esoCharacterId: "1" }]), async () => {

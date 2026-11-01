@@ -36,6 +36,7 @@ import { buildHash } from "akasha/temper/player/character/formula-framework/modu
 import { skills } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 import { scribedSkills } from "akasha/temper/player/character/skill/modules/scribed-skills/scribed-skills.module.code.ts"
 import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
+import { curses } from "akasha/temper/player/character/source/modules/curses/curses.module.code.ts"
 import {
   foodOrDrink,
   foodOrDrinkAt,
@@ -142,16 +143,35 @@ function foodOf(build: CharacterState): CharacterTarget["food"] {
   return { name: food.name, abilityId: food.abilityId, itemId: food.itemId }
 }
 
+export interface TargetPageValues {
+  readonly icon?: number
+  readonly updatedAt?: string
+  readonly editId?: string
+  readonly correlationId?: string
+}
+
+const FIRST_ICON = 1
+
+function curseNameOf(build: CharacterState): string {
+  return curses().data[build.character.curseState]?.name ?? ""
+}
+
 export function characterTargetOf(
   build: CharacterState,
   title: string,
-  buildId: string
+  buildId: string,
+  page: TargetPageValues = {}
 ): CharacterTarget {
   const mundusTarget = mundusOf(build)
   const foodTarget = foodOf(build)
   return {
     buildId,
     title,
+    icon: page.icon ?? FIRST_ICON,
+    updatedAt: page.updatedAt ?? "",
+    ...(page.editId === undefined ? {} : { editId: page.editId }),
+    ...(page.correlationId === undefined ? {} : { correlationId: page.correlationId }),
+    curseName: curseNameOf(build),
     attributes: { ...build.character.attributes },
     champion: TARGET_DISCIPLINES.map((discipline) => disciplineOf(build, discipline)),
     bars: {
@@ -225,7 +245,15 @@ async function targetOf(
   const build = await reader.get({
     pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
     where: [{ key: "id", eq: buildId }],
-    select: ["buildHash", "title", "buildInterfaces"],
+    select: [
+      "buildHash",
+      "title",
+      "buildInterfaces",
+      "buildIcon",
+      "updatedAt",
+      "editId",
+      "correlationId",
+    ],
   })
   const hash = build === null ? null : stringAt(build, "buildHash")
   if (build === null || hash === null) return null
@@ -236,8 +264,22 @@ async function targetOf(
   return characterTargetOf(
     withBuildInterfaces(decoded, held),
     stringAt(build, "title") ?? "",
-    buildId
+    buildId,
+    targetPageValuesOf(build)
   )
+}
+
+function targetPageValuesOf(build: PageValues): TargetPageValues {
+  const icon = build["buildIcon"]
+  const updatedAt = stringAt(build, "updatedAt")
+  const editId = stringAt(build, "editId")
+  const correlationId = stringAt(build, "correlationId")
+  return {
+    ...(typeof icon === "number" ? { icon } : {}),
+    ...(updatedAt === null ? {} : { updatedAt }),
+    ...(editId === null ? {} : { editId }),
+    ...(correlationId === null ? {} : { correlationId }),
+  }
 }
 
 const INTERFACE_KEYS = [
